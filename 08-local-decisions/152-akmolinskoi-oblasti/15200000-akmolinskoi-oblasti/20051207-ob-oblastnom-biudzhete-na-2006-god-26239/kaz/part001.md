@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/26239/kaz/29.11.2006
+source: https://zan.gov.kz/client/#!/doc/26239/kaz/08.12.2006
 ---
 
 ## 2006 жылға арналған облыстық бюджет
@@ -39,7 +39,7 @@ source: https://zan.gov.kz/client/#!/doc/26239/kaz/29.11.2006
 <td></td>
 <td></td>
 <td>1. Түсімдер</td>
-<td>31 424 457,6</td>
+<td>31 351 586,6</td>
 </tr>
 <tr>
 <td>01</td>
@@ -178,7 +178,7 @@ source: https://zan.gov.kz/client/#!/doc/26239/kaz/29.11.2006
 <td></td>
 <td></td>
 <td>Трансферттердің түсімдері</td>
-<td>27 709 245,6</td>
+<td>27636374,6</td>
 </tr>
 <tr>
 <td></td>
@@ -202,7 +202,7 @@ source: https://zan.gov.kz/client/#!/doc/26239/kaz/29.11.2006
 <td></td>
 <td></td>
 <td>Мемлекеттiк басқарудың жоғары тұрған органдарынан түсетiн трансферттер</td>
-<td>25 965 037,0</td>
+<td>25892166</td>
 </tr>
 <tr>
 <td></td>
@@ -210,7 +210,7 @@ source: https://zan.gov.kz/client/#!/doc/26239/kaz/29.11.2006
 <td>1</td>
 <td></td>
 <td>Республикалық бюджеттен түсетiн трансферттер</td>
-<td>25 965 037,0</td>
+<td>25892166</td>
 </tr>
 </table>
 
@@ -247,7 +247,7 @@ source: https://zan.gov.kz/client/#!/doc/26239/kaz/29.11.2006
 <td></td>
 <td></td>
 <td>II. Шығындар</td>
-<td>31 543 437,6</td>
+<td>31470566,6</td>
 </tr>
 <tr>
 <td>1</td>
@@ -535,7 +535,7 @@ source: https://zan.gov.kz/client/#!/doc/26239/kaz/29.11.2006
 <td></td>
 <td></td>
 <td>Бiлiм беру</td>
-<td>4 826 777,8</td>
+<td>4826238,8</td>
 </tr>
 <tr>
 <td></td>
@@ -783,7 +783,7 @@ source: https://zan.gov.kz/client/#!/doc/26239/kaz/29.11.2006
 <td></td>
 <td></td>
 <td>Бiлiм беру саласындағы өзге де қызметтер</td>
-<td>1 488 101,4</td>
+<td>1487562,4</td>
 </tr>
 <tr>
 <td></td>
@@ -839,7 +839,7 @@ source: https://zan.gov.kz/client/#!/doc/26239/kaz/29.11.2006
 <td>271</td>
 <td></td>
 <td>Облыстың құрылыс департаменті (басқармасы)</td>
-<td>459 055,0</td>
+<td>458516</td>
 </tr>
 <tr>
 <td></td>
@@ -847,7 +847,7 @@ source: https://zan.gov.kz/client/#!/doc/26239/kaz/29.11.2006
 <td></td>
 <td>4</td>
 <td>Білім беру объектілерін салуға және қайта жаңартуға аудандар (облыстық маңызы бар қалалар) бюджеттеріне берілетін нысаналы даму трансферттер</td>
-<td>420 510,0</td>
+<td>419 971</td>
 </tr>
 <tr>
 <td></td>
@@ -1676,7 +1676,7 @@ source: https://zan.gov.kz/client/#!/doc/26239/kaz/29.11.2006
 <td></td>
 <td></td>
 <td>Ауыл, су, орман, балық шаруашылығы, ерекше қорғалатын табиғи аумақтар, қоршаған ортаны және жануарлар дүниесін қорғау, жер қатынастары</td>
-<td>4 301 796,0</td>
+<td>4302047</td>
 </tr>
 <tr>
 <td></td>
@@ -1684,7 +1684,7 @@ source: https://zan.gov.kz/client/#!/doc/26239/kaz/29.11.2006
 <td></td>
 <td></td>
 <td>Ауыл шаруашылығы</td>
-<td>2 823 129,4</td>
+<td>2823380,4</td>
 </tr>
 <tr>
 <td></td>
@@ -1692,7 +1692,7 @@ source: https://zan.gov.kz/client/#!/doc/26239/kaz/29.11.2006
 <td>255</td>
 <td></td>
 <td>Облыстың ауыл шаруашылығы департаменті (басқармасы)</td>
-<td>2 823 129,4</td>
+<td>2823380,4</td>
 </tr>
 <tr>
 <td></td>
@@ -1708,7 +1708,7 @@ source: https://zan.gov.kz/client/#!/doc/26239/kaz/29.11.2006
 <td></td>
 <td>2</td>
 <td>Тұқым шаруашылығын дамытуды қолдау</td>
-<td>216 324,6</td>
+<td>216 575,6</td>
 </tr>
 <tr>
 <td></td>
@@ -2267,7 +2267,7 @@ source: https://zan.gov.kz/client/#!/doc/26239/kaz/29.11.2006
 <td></td>
 <td></td>
 <td>Трансферттер</td>
-<td>4 868 537,0</td>
+<td>4795954</td>
 </tr>
 <tr>
 <td></td>
@@ -2275,7 +2275,7 @@ source: https://zan.gov.kz/client/#!/doc/26239/kaz/29.11.2006
 <td></td>
 <td></td>
 <td>Трансферттер</td>
-<td>4 868 537,0</td>
+<td>4795954</td>
 </tr>
 <tr>
 <td></td>
@@ -2283,7 +2283,7 @@ source: https://zan.gov.kz/client/#!/doc/26239/kaz/29.11.2006
 <td>257</td>
 <td></td>
 <td>Облыстың қаржы департаменті (басқармасы)</td>
-<td>4 868 537,0</td>
+<td>4795954</td>
 </tr>
 <tr>
 <td></td>
@@ -2299,7 +2299,7 @@ source: https://zan.gov.kz/client/#!/doc/26239/kaz/29.11.2006
 <td></td>
 <td>11</td>
 <td>Нысаналы трансферттерді қайтару</td>
-<td>593 069,0</td>
+<td>520486</td>
 </tr>
 <tr>
 <td></td>
