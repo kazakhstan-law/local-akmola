@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/49809/kaz/12.12.2009
+source: https://zan.gov.kz/client/#!/doc/49809/kaz/16.01.2010
 ---
 
 ## 2010 жылға арналған аудандық бюджет
@@ -8,7 +8,7 @@ source: https://zan.gov.kz/client/#!/doc/49809/kaz/12.12.2009
 <table>
 <tr>
 <td colspan="5">Санаттар</td>
-<td rowspan="8">Сома</td>
+<td rowspan="9">Сома</td>
 </tr>
 <tr>
 <td colspan="5">Функционалдық топ</td>
@@ -49,7 +49,6 @@ source: https://zan.gov.kz/client/#!/doc/49809/kaz/12.12.2009
 <td></td>
 <td></td>
 <td>Атаулары</td>
-<td></td>
 </tr>
 <tr>
 <th>1</th>
@@ -65,7 +64,7 @@ source: https://zan.gov.kz/client/#!/doc/49809/kaz/12.12.2009
 <td></td>
 <td></td>
 <td>I.Кіріс</td>
-<td>1858391</td>
+<td>1931739</td>
 </tr>
 <tr>
 <td>1</td>
@@ -281,7 +280,23 @@ source: https://zan.gov.kz/client/#!/doc/49809/kaz/12.12.2009
 <td></td>
 <td></td>
 <td>Негізгі капиталды сатудан түсетін түсімдер</td>
-<td>25000</td>
+<td>98348</td>
+</tr>
+<tr>
+<td></td>
+<td>1</td>
+<td></td>
+<td></td>
+<td>Мемлекеттік мекемелерге бекітілген мемлекеттік мүлікті сату</td>
+<td>71211</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>01</td>
+<td></td>
+<td>Мемлекеттік мекемелерге бекітілген мемлекеттік мүлікті сату</td>
+<td>71211</td>
 </tr>
 <tr>
 <td></td>
@@ -289,7 +304,7 @@ source: https://zan.gov.kz/client/#!/doc/49809/kaz/12.12.2009
 <td></td>
 <td></td>
 <td>Жердi және материалдық емес активтердi сату</td>
-<td>25000</td>
+<td>27137</td>
 </tr>
 <tr>
 <td></td>
@@ -297,7 +312,7 @@ source: https://zan.gov.kz/client/#!/doc/49809/kaz/12.12.2009
 <td>01</td>
 <td></td>
 <td>Жерді сату</td>
-<td>25000</td>
+<td>27137</td>
 </tr>
 <tr>
 <td>4</td>
@@ -329,7 +344,7 @@ source: https://zan.gov.kz/client/#!/doc/49809/kaz/12.12.2009
 <td></td>
 <td></td>
 <td>II. Шығындар</td>
-<td>1858391</td>
+<td>1860528</td>
 </tr>
 <tr>
 <td>01</td>
@@ -1148,6 +1163,30 @@ source: https://zan.gov.kz/client/#!/doc/49809/kaz/12.12.2009
 <td>3151</td>
 </tr>
 <tr>
+<td>14</td>
+<td></td>
+<td></td>
+<td></td>
+<td>Борышқа қызмет көрсету</td>
+<td>2137</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>452</td>
+<td></td>
+<td>Ауданның (облыстық маңызы бар қаланың) қаржы бөлімі</td>
+<td>2137</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>005</td>
+<td>Жергiлiктi атқарушы органдардың борышына қызмет көрсету</td>
+<td>2137</td>
+</tr>
+<tr>
 <td>15</td>
 <td></td>
 <td></td>
@@ -1212,6 +1251,30 @@ source: https://zan.gov.kz/client/#!/doc/49809/kaz/12.12.2009
 <td>5342</td>
 </tr>
 <tr>
+<td>5</td>
+<td></td>
+<td></td>
+<td></td>
+<td>Бюджеттік кредиттерді өтеу</td>
+<td>0</td>
+</tr>
+<tr>
+<td></td>
+<td>01</td>
+<td></td>
+<td></td>
+<td>Бюджеттік кредиттерді өтеу</td>
+<td>0</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>1</td>
+<td></td>
+<td>Мемлекеттік бюджеттен берілген бюжеттік кредиттерді өтеу</td>
+<td>0</td>
+</tr>
+<tr>
 <td></td>
 <td></td>
 <td></td>
@@ -1232,8 +1295,16 @@ source: https://zan.gov.kz/client/#!/doc/49809/kaz/12.12.2009
 <td></td>
 <td></td>
 <td></td>
+<td>Мемлекеттік қаржы активтерін сатудан түсетін түсімдер</td>
+<td>0</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td>V. Бюджет тапшылығы</td>
-<td>-5342</td>
+<td>65869</td>
 </tr>
 <tr>
 <td></td>
@@ -1241,7 +1312,7 @@ source: https://zan.gov.kz/client/#!/doc/49809/kaz/12.12.2009
 <td></td>
 <td></td>
 <td>VI. Бюджет тапшылығын қаржыландыру</td>
-<td>5342,0</td>
+<td>-65869</td>
 </tr>
 <tr>
 <td></td>
@@ -1284,11 +1355,59 @@ source: https://zan.gov.kz/client/#!/doc/49809/kaz/12.12.2009
 <td>5342</td>
 </tr>
 <tr>
+<td>16</td>
 <td></td>
+<td></td>
+<td></td>
+<td>Қарыздарды өтеу</td>
+<td>71211</td>
+</tr>
+<tr>
+<td></td>
+<td>1</td>
+<td></td>
+<td></td>
+<td>Қарыздарды өтеу</td>
+<td>71211</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>452</td>
+<td></td>
+<td>Ауданның (облыстық маңызы бар қаланың) қаржы бөлімі</td>
+<td>71211</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>009</td>
+<td>Жергiлiктi атқарушы органдардың борышын өтеу</td>
+<td>71211</td>
+</tr>
+<tr>
+<td>8</td>
 <td></td>
 <td></td>
 <td></td>
 <td>Бюджет қаражаттарының пайдаланылатын қалдықтары</td>
+<td>0</td>
+</tr>
+<tr>
+<td></td>
+<td>01</td>
+<td></td>
+<td></td>
+<td>Бюджет қаражаты қалдықтарының</td>
+<td>0</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>1</td>
+<td></td>
+<td>Бюджет қаражатының бос қалдықтары</td>
 <td>0</td>
 </tr>
 </table>
