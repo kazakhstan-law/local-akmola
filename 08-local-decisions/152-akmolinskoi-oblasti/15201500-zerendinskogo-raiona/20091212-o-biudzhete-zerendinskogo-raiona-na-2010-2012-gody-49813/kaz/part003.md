@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/49813/kaz/12.12.2009
+source: https://zan.gov.kz/client/#!/doc/49813/kaz/04.03.2010
 ---
 
 ## 2012 жылғы аудандық бюджет
@@ -3161,7 +3161,7 @@ source: https://zan.gov.kz/client/#!/doc/49813/kaz/12.12.2009
 <td>238</td>
 </tr>
 <tr>
-<td colspan="6">Ортақ селоық округі әкімінің аппараты</td>
+<td colspan="6">Ортақ селолық округі әкімінің аппараты</td>
 <td>6043</td>
 </tr>
 <tr>
@@ -4506,7 +4506,7 @@ source: https://zan.gov.kz/client/#!/doc/49813/kaz/12.12.2009
 <td>324</td>
 </tr>
 <tr>
-<td colspan="6">Шағалалалы селолық округінің аппараты</td>
+<td colspan="6">Шағалалы селолық округінің аппараты</td>
 <td>7104</td>
 </tr>
 <tr>
