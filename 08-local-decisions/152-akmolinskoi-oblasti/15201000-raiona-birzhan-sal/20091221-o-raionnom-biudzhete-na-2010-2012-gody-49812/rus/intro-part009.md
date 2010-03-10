@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/49812/rus/21.12.2009
+source: https://zan.gov.kz/client/#!/doc/49812/rus/10.03.2010
 ---
 
 > *Приложение 4 к решению районного маслихата*  
