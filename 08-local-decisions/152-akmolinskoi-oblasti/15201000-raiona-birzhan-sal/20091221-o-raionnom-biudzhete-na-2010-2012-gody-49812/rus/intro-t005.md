@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/49812/rus/12.04.2010
+source: https://zan.gov.kz/client/#!/doc/49812/rus/02.07.2010
 ---
 
 > *Приложение 3 к решению районного маслихата*  

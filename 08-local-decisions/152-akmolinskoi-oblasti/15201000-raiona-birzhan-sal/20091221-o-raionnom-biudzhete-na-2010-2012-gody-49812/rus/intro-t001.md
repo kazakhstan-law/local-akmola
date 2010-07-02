@@ -1,14 +1,14 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/49812/rus/12.04.2010
+source: https://zan.gov.kz/client/#!/doc/49812/rus/02.07.2010
 ---
 
 <table>
 <tr>
 <td colspan="5">категория</td>
 <td rowspan="4">
-Утверж-
-денный
+Утвер-
+жденный
 бюджет
 на 2010
 год
@@ -16,9 +16,8 @@ source: https://zan.gov.kz/client/#!/doc/49812/rus/12.04.2010
 <td rowspan="4">
 Уточ-
 ненный
-бюджет
-на 2010
-год
+бюджет на
+2010 год
 </td>
 <td rowspan="4">
 Уточ-
@@ -27,9 +26,8 @@ source: https://zan.gov.kz/client/#!/doc/49812/rus/12.04.2010
 <td rowspan="4">
 Уточ-
 ненный
-бюджет
-на 2010
-год
+бюджет на
+2010 год
 </td>
 </tr>
 <tr>
@@ -76,9 +74,9 @@ source: https://zan.gov.kz/client/#!/doc/49812/rus/12.04.2010
 <td></td>
 <td>1. Доходы</td>
 <td>1470834</td>
-<td>1490834</td>
-<td>4166,3</td>
 <td>1495000,3</td>
+<td>40000</td>
+<td>1535000,3</td>
 </tr>
 <tr>
 <td></td>
@@ -88,8 +86,8 @@ source: https://zan.gov.kz/client/#!/doc/49812/rus/12.04.2010
 <td>Доходы</td>
 <td>316370</td>
 <td>336370</td>
-<td>0</td>
-<td>336370</td>
+<td>40000</td>
+<td>376370</td>
 </tr>
 <tr>
 <td>1</td>
@@ -99,8 +97,8 @@ source: https://zan.gov.kz/client/#!/doc/49812/rus/12.04.2010
 <td>Налоговые поступления</td>
 <td>304832</td>
 <td>324832</td>
-<td>0</td>
-<td>324832</td>
+<td>40000</td>
+<td>364832</td>
 </tr>
 <tr>
 <td></td>
@@ -187,8 +185,8 @@ source: https://zan.gov.kz/client/#!/doc/49812/rus/12.04.2010
 <td>Налоги на собственность</td>
 <td>102954</td>
 <td>122954</td>
-<td>0</td>
-<td>122954</td>
+<td>40000</td>
+<td>162954</td>
 </tr>
 <tr>
 <td></td>
@@ -198,8 +196,8 @@ source: https://zan.gov.kz/client/#!/doc/49812/rus/12.04.2010
 <td>Налоги на имущество</td>
 <td>72250</td>
 <td>92250</td>
-<td>0</td>
-<td>92250</td>
+<td>40000</td>
+<td>132250</td>
 </tr>
 <tr>
 <td></td>
@@ -209,8 +207,8 @@ source: https://zan.gov.kz/client/#!/doc/49812/rus/12.04.2010
 <td>Налог на имущество юридических лиц и индивидуальных предпринимателей</td>
 <td>71910</td>
 <td>91910</td>
-<td>0</td>
-<td>91910</td>
+<td>40000</td>
+<td>131910</td>
 </tr>
 <tr>
 <td></td>
@@ -772,8 +770,8 @@ source: https://zan.gov.kz/client/#!/doc/49812/rus/12.04.2010
 <td></td>
 <td>Поступления трансфертов</td>
 <td>1154464</td>
-<td>1154464</td>
-<td>4166,3</td>
+<td>1158630,3</td>
+<td>0</td>
 <td>1158630,3</td>
 </tr>
 <tr>
@@ -783,8 +781,8 @@ source: https://zan.gov.kz/client/#!/doc/49812/rus/12.04.2010
 <td></td>
 <td>Трансферты из вышестоящих органов государственного управления</td>
 <td>1154464</td>
-<td>1154464</td>
-<td>4166,3</td>
+<td>1158630,3</td>
+<td>0</td>
 <td>1158630,3</td>
 </tr>
 <tr>
@@ -794,8 +792,8 @@ source: https://zan.gov.kz/client/#!/doc/49812/rus/12.04.2010
 <td></td>
 <td>Трансферты из областного бюджета</td>
 <td>1154464</td>
-<td>1154464</td>
-<td>4166,3</td>
+<td>1158630,3</td>
+<td>0</td>
 <td>1158630,3</td>
 </tr>
 <tr>
@@ -805,8 +803,8 @@ source: https://zan.gov.kz/client/#!/doc/49812/rus/12.04.2010
 <td>1</td>
 <td>Целевые текущие трансферты</td>
 <td>77612</td>
-<td>77612</td>
-<td>4166,3</td>
+<td>81778,3</td>
+<td>0</td>
 <td>81778,3</td>
 </tr>
 <tr>
