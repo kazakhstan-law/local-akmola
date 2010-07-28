@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/50121/kaz/08.07.2010
+source: https://zan.gov.kz/client/#!/doc/50121/kaz/28.07.2010
 ---
 
 > *Аудандық Мәслихаттың*  
