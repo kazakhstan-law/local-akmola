@@ -1,16 +1,12 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/50020/kaz/26.07.2010
+source: https://zan.gov.kz/client/#!/doc/50020/kaz/15.10.2010
 ---
 
 <table>
 <tr>
 <td colspan="5">Функционалдық топ</td>
-<td rowspan="5">
-сома
-мың
-теңге
-</td>
+<td rowspan="4">сома мың теңге</td>
 </tr>
 <tr>
 <td></td>
@@ -32,7 +28,16 @@ source: https://zan.gov.kz/client/#!/doc/50020/kaz/26.07.2010
 <td></td>
 <td></td>
 <td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td>Атаулар</td>
+<td></td>
 </tr>
 <tr>
 <th>1</th>
@@ -40,7 +45,7 @@ source: https://zan.gov.kz/client/#!/doc/50020/kaz/26.07.2010
 <th>3</th>
 <th>4</th>
 <th>5</th>
-<th></th>
+<th>6</th>
 </tr>
 <tr>
 <td></td>
@@ -48,7 +53,7 @@ source: https://zan.gov.kz/client/#!/doc/50020/kaz/26.07.2010
 <td></td>
 <td></td>
 <td>II. Шығындар</td>
-<td>2048381,3</td>
+<td>2049874,3</td>
 </tr>
 <tr>
 <td>01</td>
@@ -592,7 +597,7 @@ source: https://zan.gov.kz/client/#!/doc/50020/kaz/26.07.2010
 <td></td>
 <td></td>
 <td>Тұрғын үй-коммуналдық шаруашылық</td>
-<td>51113,4</td>
+<td>52606,4</td>
 </tr>
 <tr>
 <td></td>
@@ -600,7 +605,7 @@ source: https://zan.gov.kz/client/#!/doc/50020/kaz/26.07.2010
 <td></td>
 <td></td>
 <td>Тұрғын үй шаруашылығы</td>
-<td>27876,9</td>
+<td>29369,9</td>
 </tr>
 <tr>
 <td></td>
@@ -624,7 +629,7 @@ source: https://zan.gov.kz/client/#!/doc/50020/kaz/26.07.2010
 <td>467</td>
 <td></td>
 <td>Ауданның (облыстық маңызы бар қаланың) құрылыс бөлімі</td>
-<td>27378,9</td>
+<td>28871,9</td>
 </tr>
 <tr>
 <td></td>
@@ -632,7 +637,7 @@ source: https://zan.gov.kz/client/#!/doc/50020/kaz/26.07.2010
 <td></td>
 <td>003</td>
 <td>Мемлекеттік коммуналдық тұрғын үй қорының тұрғын үй құрылысы және (немесе) сатып алу</td>
-<td>19662,9</td>
+<td>21155,9</td>
 </tr>
 <tr>
 <td></td>
@@ -1387,14 +1392,17 @@ source: https://zan.gov.kz/client/#!/doc/50020/kaz/26.07.2010
 <td>12713,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
+<td></td>
 <td>452</td>
 <td></td>
 <td>Ауданның (облыстық маңызы бар қаланың) қаржы бөлімі</td>
 <td>12713,0</td>
 </tr>
 <tr>
-<td colspan="3"></td>
+<td></td>
+<td></td>
+<td></td>
 <td>014</td>
 <td>Заңды тұлғалардың жарғылық капиталын қалыптастыру немесе ұлғайту</td>
 <td>12713,0</td>
@@ -1405,34 +1413,31 @@ source: https://zan.gov.kz/client/#!/doc/50020/kaz/26.07.2010
 <td></td>
 <td></td>
 <td></td>
-<td>0,0</td>
+<td></td>
 </tr>
 <tr>
-<td colspan="6">Санаты</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="5">Сыныбы</td>
-</tr>
-<tr>
+<td colspan="4">Санаты</td>
 <td></td>
 <td></td>
-<td colspan="4">Ішкі сыныбы</td>
 </tr>
 <tr>
 <td></td>
+<td colspan="3">Сыныбы</td>
 <td></td>
 <td></td>
+</tr>
+<tr>
 <td></td>
-<td>V. Бюджет тапшылығы (профициті)</td>
+<td></td>
+<td colspan="3">Ішкі сыныбы</td>
+<td></td>
+</tr>
+<tr>
+<td colspan="5">V. Бюджет тапшылығы (профициті)</td>
 <td>-18281,7</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>VI. Бюджет тапшылығын (профицитін пайдалану қаржыландыру)</td>
+<td colspan="5">VI. Бюджет тапшылығын (профицитін пайдалану) қаржыландыру</td>
 <td>18281,7</td>
 </tr>
 <tr>
@@ -1473,6 +1478,14 @@ source: https://zan.gov.kz/client/#!/doc/50020/kaz/26.07.2010
 <td></td>
 <td></td>
 <td>Бюджет қаражаты қалдықтары</td>
+<td>517,7</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>1</td>
+<td></td>
+<td>Бюджет қаражатының бос қалдықтары</td>
 <td>517,7</td>
 </tr>
 </table>

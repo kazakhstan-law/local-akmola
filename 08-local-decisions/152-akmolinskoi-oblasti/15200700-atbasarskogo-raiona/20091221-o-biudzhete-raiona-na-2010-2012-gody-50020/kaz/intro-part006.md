@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/50020/kaz/26.07.2010
+source: https://zan.gov.kz/client/#!/doc/50020/kaz/15.10.2010
 ---
 
 > *Атбасар аудандық мәслихатының*  

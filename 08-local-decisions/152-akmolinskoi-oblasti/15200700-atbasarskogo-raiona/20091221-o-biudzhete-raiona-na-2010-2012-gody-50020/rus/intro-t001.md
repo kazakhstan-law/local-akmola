@@ -1,16 +1,12 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/50020/rus/26.07.2010
+source: https://zan.gov.kz/client/#!/doc/50020/rus/15.10.2010
 ---
 
 <table>
 <tr>
 <td colspan="5">Функциональная группа</td>
-<td rowspan="5">
-сумма
-тысячи
-тенге
-</td>
+<td rowspan="6">сумма тысячи тенге</td>
 </tr>
 <tr>
 <td></td>
@@ -28,6 +24,9 @@ source: https://zan.gov.kz/client/#!/doc/50020/rus/26.07.2010
 <td colspan="2">Программа</td>
 </tr>
 <tr>
+<td colspan="5"></td>
+</tr>
+<tr>
 <td></td>
 <td></td>
 <td></td>
@@ -35,12 +34,12 @@ source: https://zan.gov.kz/client/#!/doc/50020/rus/26.07.2010
 <td>Наименование</td>
 </tr>
 <tr>
-<th>1</th>
-<th>2</th>
-<th>3</th>
-<th>4</th>
-<th>5</th>
-<th>6</th>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>6</td>
+<td>7</td>
 </tr>
 <tr>
 <td></td>
@@ -48,7 +47,7 @@ source: https://zan.gov.kz/client/#!/doc/50020/rus/26.07.2010
 <td></td>
 <td></td>
 <td>II. Затраты</td>
-<td>2048381,3</td>
+<td>2049874,3</td>
 </tr>
 <tr>
 <td>01</td>
@@ -103,7 +102,10 @@ source: https://zan.gov.kz/client/#!/doc/50020/rus/26.07.2010
 <td></td>
 <td></td>
 <td>001</td>
-<td>Услуги по обеспечению деятельности акима района ( города областного значения)</td>
+<td>
+Услуги по обеспечению деятельности акима района
+(города областного значения)
+</td>
 <td>50331,0</td>
 </tr>
 <tr>
@@ -584,7 +586,7 @@ source: https://zan.gov.kz/client/#!/doc/50020/rus/26.07.2010
 <td></td>
 <td>022</td>
 <td>Материально-техническое оснащение государственных органов</td>
-<td>330,0</td>
+<td></td>
 </tr>
 <tr>
 <td>07</td>
@@ -592,7 +594,7 @@ source: https://zan.gov.kz/client/#!/doc/50020/rus/26.07.2010
 <td></td>
 <td></td>
 <td>Жилищно-коммунальное хозяйство</td>
-<td>51113,4</td>
+<td>52606,4</td>
 </tr>
 <tr>
 <td></td>
@@ -600,7 +602,7 @@ source: https://zan.gov.kz/client/#!/doc/50020/rus/26.07.2010
 <td></td>
 <td></td>
 <td>Жилищное хозяйство</td>
-<td>27876,9</td>
+<td>29369,9</td>
 </tr>
 <tr>
 <td></td>
@@ -624,7 +626,7 @@ source: https://zan.gov.kz/client/#!/doc/50020/rus/26.07.2010
 <td>467</td>
 <td></td>
 <td>Отдел строительства района (города областного значения)</td>
-<td>27378,9</td>
+<td>28871,9</td>
 </tr>
 <tr>
 <td></td>
@@ -632,7 +634,7 @@ source: https://zan.gov.kz/client/#!/doc/50020/rus/26.07.2010
 <td></td>
 <td>003</td>
 <td>Строительство и (или) приобретение жилья государственного коммунального жилищного фонда</td>
-<td>19662,9</td>
+<td>21155,9</td>
 </tr>
 <tr>
 <td></td>
@@ -1387,14 +1389,17 @@ source: https://zan.gov.kz/client/#!/doc/50020/rus/26.07.2010
 <td>12713,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
+<td></td>
 <td>452</td>
 <td></td>
 <td>Отдел финансов района (города областного значения)</td>
 <td>12713,0</td>
 </tr>
 <tr>
-<td colspan="3"></td>
+<td></td>
+<td></td>
+<td></td>
 <td>014</td>
 <td>Формирование или увеличение уставного капитала юридических лиц</td>
 <td>12713,0</td>
@@ -1408,31 +1413,26 @@ source: https://zan.gov.kz/client/#!/doc/50020/rus/26.07.2010
 <td>0,0</td>
 </tr>
 <tr>
-<td colspan="6">Категория</td>
+<td colspan="4">Категория</td>
+<td></td>
+<td rowspan="3"></td>
 </tr>
 <tr>
 <td></td>
-<td colspan="5">Класс</td>
+<td colspan="3">Класс</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td colspan="4">Подкласс</td>
+<td colspan="3">Подкласс</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>V. Дефицит (профицит) бюджета</td>
+<td colspan="5">V.Дефицит (профицит) бюджета</td>
 <td>-18281,7</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>VI. Финансирование дефицита (использование профицита) бюджета</td>
+<td colspan="5">VI.Финансирование дефицита (использование профицита) бюджета</td>
 <td>18281,7</td>
 </tr>
 <tr>
@@ -1473,6 +1473,14 @@ source: https://zan.gov.kz/client/#!/doc/50020/rus/26.07.2010
 <td></td>
 <td></td>
 <td>Остатки бюджетных средств</td>
+<td>517,7</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>1</td>
+<td></td>
+<td>Свободные остатки бюджетных средств</td>
 <td>517,7</td>
 </tr>
 </table>
