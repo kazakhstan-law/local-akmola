@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/49902/rus/04.11.2010
+source: https://zan.gov.kz/client/#!/doc/49902/rus/21.12.2010
 ---
 
 ## Программы по аульным, сельским округам и поселка Аршалы на 2010 год

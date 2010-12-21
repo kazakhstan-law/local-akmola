@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/49902/kaz/04.11.2010
+source: https://zan.gov.kz/client/#!/doc/49902/kaz/21.12.2010
 ---
 
 ## 2010 жылға ауылдық, селолық округтарының және Аршалы кентінің бағдарламасы
