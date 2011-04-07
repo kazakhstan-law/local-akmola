@@ -1,19 +1,44 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/56691/rus/15.03.2011
+source: https://zan.gov.kz/client/#!/doc/56691/rus/07.04.2011
 ---
 
 ## Программы по аульным, сельским округам и поселка Аршалы на 2011 год
 
 <table>
 <tr>
-<td>Функциональная группа</td>
-<td>Функциональная подгруппа</td>
-<td>Администратор бюджетных программ</td>
-<td>Программа</td>
-<td>Подпрограмма</td>
-<td>НАИМЕНОВАНИЕ</td>
+<td colspan="6">Функциональная группа</td>
+<td rowspan="6">Сумма</td>
+</tr>
+<tr>
 <td></td>
+<td colspan="5">Функциональная подгруппа</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td colspan="4">Администратор бюджетных программ</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="3">Программа</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2">Подпрограмма</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>НАИМЕНОВАНИЕ</td>
 </tr>
 <tr>
 <td></td>
@@ -154,13 +179,38 @@ source: https://zan.gov.kz/client/#!/doc/56691/rus/15.03.2011
 
 <table>
 <tr>
-<td>Функциональная группа</td>
-<td>Функциональная подгруппа</td>
-<td>Администратор бюджетных программ</td>
-<td>Программа</td>
-<td>Подпрограмма</td>
-<td>НАИМЕНОВАНИЕ</td>
+<td colspan="6">Функциональная группа</td>
+<td rowspan="6">Сумма</td>
+</tr>
+<tr>
 <td></td>
+<td colspan="5">Функциональная подгруппа</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td colspan="4">Администратор бюджетных программ</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="3">Программа</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2">Подпрограмма</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>НАИМЕНОВАНИЕ</td>
 </tr>
 <tr>
 <td></td>
@@ -292,13 +342,38 @@ source: https://zan.gov.kz/client/#!/doc/56691/rus/15.03.2011
 
 <table>
 <tr>
-<td>Функциональная группа</td>
-<td>Функциональная подгруппа</td>
-<td>Администратор бюджетных программ</td>
-<td>Программа</td>
-<td>Подпрограмма</td>
-<td>НАИМЕНОВАНИЕ</td>
+<td colspan="6">Функциональная группа</td>
+<td rowspan="6">Сумма</td>
+</tr>
+<tr>
 <td></td>
+<td colspan="5">Функциональная подгруппа</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td colspan="4">Администратор бюджетных программ</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="3">Программа</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2">Подпрограмма</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>НАИМЕНОВАНИЕ</td>
 </tr>
 <tr>
 <td></td>
@@ -430,12 +505,30 @@ source: https://zan.gov.kz/client/#!/doc/56691/rus/15.03.2011
 
 <table>
 <tr>
-<td>Функциональная группа</td>
-<td>Функциональная подгруппа</td>
-<td>Администратор бюджетных программ</td>
-<td>Программа</td>
-<td>НАИМЕНОВАНИЕ</td>
+<td colspan="5">Функциональная группа</td>
+<td rowspan="5">Сумма</td>
+</tr>
+<tr>
 <td></td>
+<td colspan="4">Функциональная подгруппа</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td colspan="3">Администратор бюджетных программ</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2">Программа</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>НАИМЕНОВАНИЕ</td>
 </tr>
 <tr>
 <td></td>
@@ -561,13 +654,38 @@ source: https://zan.gov.kz/client/#!/doc/56691/rus/15.03.2011
 
 <table>
 <tr>
-<td>Функциональная группа</td>
-<td>Функциональная подгруппа</td>
-<td>Администратор бюджетных программ</td>
-<td>Программа</td>
-<td>Подпрограмма</td>
-<td>НАИМЕНОВАНИЕ</td>
+<td colspan="6">Функциональная группа</td>
+<td rowspan="6">Сумма</td>
+</tr>
+<tr>
 <td></td>
+<td colspan="5">Функциональная подгруппа</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td colspan="4">Администратор бюджетных программ</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="3">Программа</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2">Подпрограмма</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>НАИМЕНОВАНИЕ</td>
 </tr>
 <tr>
 <td></td>
@@ -708,12 +826,30 @@ source: https://zan.gov.kz/client/#!/doc/56691/rus/15.03.2011
 
 <table>
 <tr>
-<td>Функциональная группа</td>
-<td>Функциональная подгруппа</td>
-<td>Администратор бюджетных программ</td>
-<td>Программа</td>
-<td>НАИМЕНОВАНИЕ</td>
+<td colspan="5">Функциональная группа</td>
+<td rowspan="5">Сумма</td>
+</tr>
+<tr>
 <td></td>
+<td colspan="4">Функциональная подгруппа</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td colspan="3">Администратор бюджетных программ</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2">Программа</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>НАИМЕНОВАНИЕ</td>
 </tr>
 <tr>
 <td></td>
@@ -839,13 +975,38 @@ source: https://zan.gov.kz/client/#!/doc/56691/rus/15.03.2011
 
 <table>
 <tr>
-<td>Функциональная группа</td>
-<td>Функциональная подгруппа</td>
-<td>Администратор бюджетных программ</td>
-<td>Программа</td>
-<td>Подпрограмма</td>
-<td>НАИМЕНОВАНИЕ</td>
+<td colspan="6">Функциональная группа</td>
+<td rowspan="6">Сумма</td>
+</tr>
+<tr>
 <td></td>
+<td colspan="5">Функциональная подгруппа</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td colspan="4">Администратор бюджетных программ</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="3">Программа</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2">Подпрограмма</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>НАИМЕНОВАНИЕ</td>
 </tr>
 <tr>
 <td></td>
@@ -1004,13 +1165,38 @@ source: https://zan.gov.kz/client/#!/doc/56691/rus/15.03.2011
 
 <table>
 <tr>
-<td>Функциональная группа</td>
-<td>Функциональная подгруппа</td>
-<td>Администратор бюджетных программ</td>
-<td>Программа</td>
-<td>Подпрограмма</td>
-<td>НАИМЕНОВАНИЕ</td>
+<td colspan="6">Функциональная группа</td>
+<td rowspan="6">Сумма</td>
+</tr>
+<tr>
 <td></td>
+<td colspan="5">Функциональная подгруппа</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td colspan="4">Администратор бюджетных программ</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="3">Программа</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2">Подпрограмма</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>НАИМЕНОВАНИЕ</td>
 </tr>
 <tr>
 <td></td>
@@ -1124,13 +1310,38 @@ source: https://zan.gov.kz/client/#!/doc/56691/rus/15.03.2011
 
 <table>
 <tr>
-<td>Функциональная подгруппа</td>
-<td>Функциональная подгруппа</td>
-<td>Администратор бюджетных программ</td>
-<td>Программа</td>
-<td>Подпрограмма</td>
-<td>НАИМЕНОВАНИЕ</td>
+<td colspan="6">Функциональная подгруппа</td>
+<td rowspan="6">Сумма</td>
+</tr>
+<tr>
 <td></td>
+<td colspan="5">Функциональная подгруппа</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td colspan="4">Администратор бюджетных программ</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="3">Программа</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2">Подпрограмма</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>НАИМЕНОВАНИЕ</td>
 </tr>
 <tr>
 <td></td>
@@ -1271,13 +1482,39 @@ source: https://zan.gov.kz/client/#!/doc/56691/rus/15.03.2011
 
 <table>
 <tr>
-<td>Функциональная группа</td>
-<td>Функциональная подгруппа</td>
-<td>Администратор бюджетных программ</td>
-<td>Программа</td>
-<td>Подпрограмма</td>
-<td>НАИМЕНОВАНИЕ</td>
+<td colspan="6">Функциональная группа</td>
+<td rowspan="6">Сумма</td>
+</tr>
+<tr>
 <td></td>
+<td colspan="5">Функциональная подгруппа</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td colspan="4">Администратор бюджетных программ</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="3">Программа</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Подпрограмма</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>НАИМЕНОВАНИЕ</td>
 </tr>
 <tr>
 <td></td>
@@ -1427,13 +1664,38 @@ source: https://zan.gov.kz/client/#!/doc/56691/rus/15.03.2011
 
 <table>
 <tr>
-<td>Функциональная группа</td>
-<td>Функциональная подгруппа</td>
-<td>Администратор бюджетных программ</td>
-<td>Программа</td>
-<td>Подпрограмма</td>
-<td>НАИМЕНОВАНИЕ</td>
+<td colspan="6">Функциональная группа</td>
+<td rowspan="6">Сумма</td>
+</tr>
+<tr>
 <td></td>
+<td colspan="5">Функциональная подгруппа</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td colspan="4">Администратор бюджетных программ</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="3">Программа</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2">Подпрограмма</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>НАИМЕНОВАНИЕ</td>
 </tr>
 <tr>
 <td></td>
@@ -1574,13 +1836,38 @@ source: https://zan.gov.kz/client/#!/doc/56691/rus/15.03.2011
 
 <table>
 <tr>
-<td>Функциональная группа</td>
-<td>Функциональная подгруппа</td>
-<td>Администратор бюджетных программ</td>
-<td>Программа</td>
-<td>Подпрограмма</td>
-<td>НАИМЕНОВАНИЕ</td>
+<td colspan="6">Функциональная группа</td>
+<td rowspan="6">Сумма</td>
+</tr>
+<tr>
 <td></td>
+<td colspan="5">Функциональная подгруппа</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td colspan="4">Администратор бюджетных программ</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="3">Программа</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2">Подпрограмма</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>НАИМЕНОВАНИЕ</td>
 </tr>
 <tr>
 <td></td>
@@ -1730,13 +2017,38 @@ source: https://zan.gov.kz/client/#!/doc/56691/rus/15.03.2011
 
 <table>
 <tr>
-<td>Функциональная группа</td>
-<td>Функциональная подгруппа</td>
-<td>Администратор бюджетных программ</td>
-<td>Программа</td>
-<td>Подпрограмма</td>
-<td>НАИМЕНОВАНИЕ</td>
+<td colspan="6">Функциональная группа</td>
+<td rowspan="6">Сумма</td>
+</tr>
+<tr>
 <td></td>
+<td colspan="5">Функциональная подгруппа</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td colspan="4">Администратор бюджетных программ</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="3">Программа</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2">Подпрограмма</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>НАИМЕНОВАНИЕ</td>
 </tr>
 <tr>
 <td></td>

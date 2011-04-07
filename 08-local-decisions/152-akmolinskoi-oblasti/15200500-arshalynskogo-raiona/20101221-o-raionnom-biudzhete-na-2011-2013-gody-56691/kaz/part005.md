@@ -1,19 +1,44 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/56691/kaz/15.03.2011
+source: https://zan.gov.kz/client/#!/doc/56691/kaz/07.04.2011
 ---
 
 ## 2011 жылға ауылдық, селолық округтарының және Аршалы кентінің бағдарламасы
 
 <table>
 <tr>
-<td>Функционалдық топ</td>
-<td>Функционалдық шағын топ</td>
-<td>Бюджеттік бағдарламалардың әкімшісі</td>
-<td>Бағдарлама</td>
-<td>Кіші бағдарлама</td>
-<td>АТАУЛАР</td>
+<td colspan="6">Функционалдық топ</td>
+<td rowspan="6">Сома</td>
+</tr>
+<tr>
 <td></td>
+<td colspan="5">Функционалдық шағын топ</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td colspan="4">Бюджеттік бағдарламалардың әкімшісі</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="3">Бағдарлама</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2">Кіші бағдарлама</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>АТАУЛАР</td>
 </tr>
 <tr>
 <td></td>
@@ -154,13 +179,38 @@ source: https://zan.gov.kz/client/#!/doc/56691/kaz/15.03.2011
 
 <table>
 <tr>
-<td>Функционалдық топ</td>
-<td>Функционалдық шағын топ</td>
-<td>Бюджеттік бағдарламалардың әкімшісі</td>
-<td>Бағдарлама</td>
-<td>Кіші бағдарлама</td>
-<td>АТАУЛАР</td>
+<td colspan="6">Функционалдық топ</td>
+<td rowspan="6">Сома</td>
+</tr>
+<tr>
 <td></td>
+<td colspan="5">Функционалдық шағын топ</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td colspan="4">Бюджеттік бағдарламалардың әкімшісі</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="3">Бағдарлама</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2">Кіші бағдарлама</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>АТАУЛАР</td>
 </tr>
 <tr>
 <td></td>
@@ -292,13 +342,38 @@ source: https://zan.gov.kz/client/#!/doc/56691/kaz/15.03.2011
 
 <table>
 <tr>
-<td>Функционалдық топ</td>
-<td>Функционалдық шағын топ</td>
-<td>Бюджеттік бағдарламалардың әкімшісі</td>
-<td>Бағдарлама</td>
-<td>Кіші бағдарлама</td>
-<td>АТАУЛАР</td>
+<td colspan="6">Функционалдық топ</td>
+<td rowspan="6">Сома</td>
+</tr>
+<tr>
 <td></td>
+<td colspan="5">Функционалдық шағын топ</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td colspan="4">Бюджеттік бағдарламалардың әкімшісі</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="3">Бағдарлама</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2">Кіші бағдарлама</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>АТАУЛАР</td>
 </tr>
 <tr>
 <td></td>
@@ -430,12 +505,30 @@ source: https://zan.gov.kz/client/#!/doc/56691/kaz/15.03.2011
 
 <table>
 <tr>
-<td>Функционалдық топ</td>
-<td>Функционалдық шағын топ</td>
-<td>Бюджеттік бағдарламалардың әкімшісі</td>
-<td>Бағдарлама</td>
-<td>АТАУЛАР</td>
+<td colspan="5">Функционалдық топ</td>
+<td rowspan="5">Сома</td>
+</tr>
+<tr>
 <td></td>
+<td colspan="4">Функционалдық шағын топ</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td colspan="3">Бюджеттік бағдарламалардың әкімшісі</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2">Бағдарлама</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>АТАУЛАР</td>
 </tr>
 <tr>
 <td></td>
@@ -569,13 +662,38 @@ source: https://zan.gov.kz/client/#!/doc/56691/kaz/15.03.2011
 
 <table>
 <tr>
-<td>Функционалдық топ</td>
-<td>Функционалдық шағын топ</td>
-<td>Бюджеттік бағдарламалардың әкімшісі</td>
-<td>Бағдарлама</td>
-<td>Кіші бағдарлама</td>
-<td>АТАУЛАР</td>
+<td colspan="6">Функционалдық топ</td>
+<td rowspan="6">Сома</td>
+</tr>
+<tr>
 <td></td>
+<td colspan="5">Функционалдық шағын топ</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td colspan="4">Бюджеттік бағдарламалардың әкімшісі</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="3">Бағдарлама</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2">Кіші бағдарлама</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>АТАУЛАР</td>
 </tr>
 <tr>
 <td></td>
@@ -716,12 +834,30 @@ source: https://zan.gov.kz/client/#!/doc/56691/kaz/15.03.2011
 
 <table>
 <tr>
-<td>Функционалдық топ</td>
-<td>Функционалдық шағын топ</td>
-<td>Бюджеттік бағдарламалардың әкімшісі</td>
-<td>Бағдарлама</td>
-<td>АТАУЛАР</td>
+<td colspan="5">Функционалдық топ</td>
+<td rowspan="5">Сома</td>
+</tr>
+<tr>
 <td></td>
+<td colspan="4">Функционалдық шағын топ</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td colspan="3">Бюджеттік бағдарламалардың әкімшісі</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2">Бағдарлама</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>АТАУЛАР</td>
 </tr>
 <tr>
 <td></td>
@@ -847,13 +983,38 @@ source: https://zan.gov.kz/client/#!/doc/56691/kaz/15.03.2011
 
 <table>
 <tr>
-<td>Функционалдық топ</td>
-<td>Функционалдық шағын топ</td>
-<td>Бюджеттік бағдарламалардың әкімшісі</td>
-<td>Бағдарлама</td>
-<td>Кіші бағдарлама</td>
-<td>АТАУЛАР</td>
+<td colspan="6">Функционалдық топ</td>
+<td rowspan="6">Сома</td>
+</tr>
+<tr>
 <td></td>
+<td colspan="5">Функционалдық шағын топ</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td colspan="4">Бюджеттік бағдарламалардың әкімшісі</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="3">Бағдарлама</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2">Кіші бағдарлама</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>АТАУЛАР</td>
 </tr>
 <tr>
 <td></td>
@@ -1012,13 +1173,38 @@ source: https://zan.gov.kz/client/#!/doc/56691/kaz/15.03.2011
 
 <table>
 <tr>
-<td>Функционалдық топ</td>
-<td>Функционалдық шағын топ</td>
-<td>Бюджеттік бағдарламалардың әкімшісі</td>
-<td>Бағдарлама</td>
-<td>Кіші бағдарлама</td>
-<td>АТАУЛАР</td>
+<td colspan="6">Функционалдық топ</td>
+<td rowspan="6">Сома</td>
+</tr>
+<tr>
 <td></td>
+<td colspan="5">Функционалдық шағын топ</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td colspan="4">Бюджеттік бағдарламалардың әкімшісі</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="3">Бағдарлама</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2">Кіші бағдарлама</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>АТАУЛАР</td>
 </tr>
 <tr>
 <td></td>
@@ -1132,13 +1318,38 @@ source: https://zan.gov.kz/client/#!/doc/56691/kaz/15.03.2011
 
 <table>
 <tr>
-<td>Кіші функция</td>
-<td>Функционалдық шағын топ</td>
-<td>Бюджеттік бағдарламалардың әкімшісі</td>
-<td>Бағдарлама</td>
-<td>Кіші бағдарлама</td>
-<td>АТАУЛАР</td>
+<td colspan="6">Кіші функция</td>
+<td rowspan="6">Сома</td>
+</tr>
+<tr>
 <td></td>
+<td colspan="5">Функционалдық шағын топ</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td colspan="4">Бюджеттік бағдарламалардың әкімшісі</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="3">Бағдарлама</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2">Кіші бағдарлама</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>АТАУЛАР</td>
 </tr>
 <tr>
 <td></td>
@@ -1279,13 +1490,38 @@ source: https://zan.gov.kz/client/#!/doc/56691/kaz/15.03.2011
 
 <table>
 <tr>
-<td>Функционалдық топ</td>
-<td>Функционалдық шағын топ</td>
-<td>Бюджеттік бағдарламалардың әкімшісі</td>
-<td>Бағдарлама</td>
-<td>Кіші бағдарлама</td>
-<td>АТАУЛАР</td>
+<td colspan="6">Функционалдық топ</td>
+<td rowspan="6">Сома</td>
+</tr>
+<tr>
 <td></td>
+<td colspan="5">Функционалдық шағын топ</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td colspan="4">Бюджеттік бағдарламалардың әкімшісі</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="3">Бағдарлама</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2">Кіші бағдарлама</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>АТАУЛАР</td>
 </tr>
 <tr>
 <td></td>
@@ -1426,13 +1662,38 @@ source: https://zan.gov.kz/client/#!/doc/56691/kaz/15.03.2011
 
 <table>
 <tr>
-<td>Функционалдық топ</td>
-<td>Функционалдық шағын топ</td>
-<td>Бюджеттік бағдарламалардың әкімшісі</td>
-<td>Бағдарлама</td>
-<td>Кіші бағдарлама</td>
-<td>АТАУЛАР</td>
+<td colspan="6">Функционалдық топ</td>
+<td rowspan="6">Сома</td>
+</tr>
+<tr>
 <td></td>
+<td colspan="5">Функционалдық шағын топ</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td colspan="4">Бюджеттік бағдарламалардың әкімшісі</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="3">Бағдарлама</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2">Кіші бағдарлама</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>АТАУЛАР</td>
 </tr>
 <tr>
 <td></td>
@@ -1573,13 +1834,38 @@ source: https://zan.gov.kz/client/#!/doc/56691/kaz/15.03.2011
 
 <table>
 <tr>
-<td>Функционалдық топ</td>
-<td>Функционалдық шағын топ</td>
-<td>Бюджеттік бағдарламалардың әкімшісі</td>
-<td>Бағдарлама</td>
-<td>Кіші бағдарлама</td>
-<td>АТАУЛАР</td>
+<td colspan="6">Функционалдық топ</td>
+<td rowspan="6">Сома</td>
+</tr>
+<tr>
 <td></td>
+<td colspan="5">Функционалдық шағын топ</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td colspan="4">Бюджеттік бағдарламалардың әкімшісі</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="3">Бағдарлама</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2">Кіші бағдарлама</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>АТАУЛАР</td>
 </tr>
 <tr>
 <td></td>
@@ -1729,13 +2015,38 @@ source: https://zan.gov.kz/client/#!/doc/56691/kaz/15.03.2011
 
 <table>
 <tr>
-<td>Функционалдық топ</td>
-<td>Функционалдық шағын топ</td>
-<td>Бюджеттік бағдарламалардың әкімшісі</td>
-<td>Бағдарлама</td>
-<td>Кіші бағдарлама</td>
-<td>АТАУЛАР</td>
+<td colspan="6">Функционалдық топ</td>
+<td rowspan="6">Сома</td>
+</tr>
+<tr>
 <td></td>
+<td colspan="5">Функционалдық шағын топ</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td colspan="4">Бюджеттік бағдарламалардың әкімшісі</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="3">Бағдарлама</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2">Кіші бағдарлама</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>АТАУЛАР</td>
 </tr>
 <tr>
 <td></td>
