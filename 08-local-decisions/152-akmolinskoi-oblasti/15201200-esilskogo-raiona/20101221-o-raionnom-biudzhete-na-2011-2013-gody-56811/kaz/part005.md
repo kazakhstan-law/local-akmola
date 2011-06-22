@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/56811/kaz/29.03.2011
+source: https://zan.gov.kz/client/#!/doc/56811/kaz/22.06.2011
 ---
 
 > *Есіл аудандық мәслихатының*  
@@ -14,12 +14,12 @@ source: https://zan.gov.kz/client/#!/doc/56811/kaz/29.03.2011
 </tr>
 <tr>
 <td></td>
-<td colspan="3">сыныптар</td>
+<td colspan="3">Сыныптар</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td colspan="2">сыныпша</td>
+<td colspan="2">Сыныпша</td>
 </tr>
 <tr>
 <td></td>

@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/56811/rus/29.03.2011
+source: https://zan.gov.kz/client/#!/doc/56811/rus/22.06.2011
 ---
 
 > *Приложение № 3*  
@@ -18,12 +18,12 @@ source: https://zan.gov.kz/client/#!/doc/56811/rus/29.03.2011
 </tr>
 <tr>
 <td></td>
-<td colspan="3">класс</td>
+<td colspan="3">Класс</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td colspan="2">подкласс</td>
+<td colspan="2">Подкласс</td>
 </tr>
 <tr>
 <td></td>
