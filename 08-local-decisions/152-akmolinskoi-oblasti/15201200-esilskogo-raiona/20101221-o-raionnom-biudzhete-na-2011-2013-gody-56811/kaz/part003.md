@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/56811/kaz/22.06.2011
+source: https://zan.gov.kz/client/#!/doc/56811/kaz/22.08.2011
 ---
 
 > *Есіл аудандық мәслихатының*  
@@ -10,10 +10,7 @@ source: https://zan.gov.kz/client/#!/doc/56811/kaz/22.06.2011
 <table>
 <tr>
 <td colspan="4">Санаттар</td>
-<td rowspan="4">
-Бекітіл
-ген бюджет
-</td>
+<td rowspan="4">Бекітілген бюджет</td>
 </tr>
 <tr>
 <td></td>
