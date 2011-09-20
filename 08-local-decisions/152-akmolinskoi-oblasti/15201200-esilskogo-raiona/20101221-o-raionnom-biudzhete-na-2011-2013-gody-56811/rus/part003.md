@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/56811/rus/22.08.2011
+source: https://zan.gov.kz/client/#!/doc/56811/rus/20.09.2011
 ---
 
 > *Приложение № 2 к решению*  
@@ -11,10 +11,7 @@ source: https://zan.gov.kz/client/#!/doc/56811/rus/22.08.2011
 <table>
 <tr>
 <td colspan="4">Категория</td>
-<td rowspan="4">
-Утвержден
-ный бюджет
-</td>
+<td rowspan="4">Утвержденный бюджет</td>
 </tr>
 <tr>
 <td></td>
