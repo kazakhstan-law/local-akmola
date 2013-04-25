@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/69726/rus/21.02.2013
+source: https://zan.gov.kz/client/#!/doc/69726/rus/25.04.2013
 ---
 
 ## Бюджетные программы города районного значения, аульного и сельских округов на 2014 год
