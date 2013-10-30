@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/69829/kaz/02.10.2013
+source: https://zan.gov.kz/client/#!/doc/69829/kaz/30.10.2013
 ---
 
 # 2013-2015 жылдарға арналған Жақсы ауданының бюджеті туралы
