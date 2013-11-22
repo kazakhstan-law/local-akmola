@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/69726/rus/30.09.2013
+source: https://zan.gov.kz/client/#!/doc/69726/rus/22.11.2013
 ---
 
 ## Бюджетные программы города районного значения, аульного и сельских округов на 2014 год
@@ -8,7 +8,7 @@ source: https://zan.gov.kz/client/#!/doc/69726/rus/30.09.2013
 <table>
 <tr>
 <td colspan="4">Функциональная группа</td>
-<td rowspan="4">сумма, тысячи тенге</td>
+<td rowspan="4">Cумма, тысяч тенге</td>
 </tr>
 <tr>
 <td></td>
@@ -603,7 +603,7 @@ source: https://zan.gov.kz/client/#!/doc/69726/rus/30.09.2013
 <table>
 <tr>
 <td colspan="4">Функциональная группа</td>
-<td rowspan="4">сумма, тысячи тенге</td>
+<td rowspan="4">Сумма, тысяч тенге</td>
 </tr>
 <tr>
 <td></td>
@@ -1374,7 +1374,7 @@ source: https://zan.gov.kz/client/#!/doc/69726/rus/30.09.2013
 <table>
 <tr>
 <td>Наименование</td>
-<td>Сумма, тысячи тенге</td>
+<td>Сумма, тысяч тенге</td>
 </tr>
 <tr>
 <td>Целевые трансферты на развитие</td>
@@ -1453,7 +1453,7 @@ source: https://zan.gov.kz/client/#!/doc/69726/rus/30.09.2013
 <table>
 <tr>
 <td>Наименование</td>
-<td>Сумма, тысячи тенге</td>
+<td>Сумма, тысяч тенге</td>
 </tr>
 <tr>
 <td>Целевые трансферты на развитие</td>
