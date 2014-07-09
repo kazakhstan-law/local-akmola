@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/76699/kaz/25.04.2014
+source: https://zan.gov.kz/client/#!/doc/76699/kaz/09.07.2014
 ---
 
 ## 2015 жылға арналған аудан бюджетінің қаладағы ауданның, аудандық маңызы бар қаланың, кенттің, ауылдың, ауылдық округтің бюджеттік бағдарламалары
@@ -9,7 +9,7 @@ source: https://zan.gov.kz/client/#!/doc/76699/kaz/25.04.2014
 <tr>
 <td colspan="5">Функционалдық топ</td>
 <td rowspan="5">Сома</td>
-<td rowspan="5">
+<td rowspan="2">
 Шортанды кенті әкімінің аппараты
 Сома
 </td>
@@ -21,18 +21,21 @@ source: https://zan.gov.kz/client/#!/doc/76699/kaz/25.04.2014
 <tr>
 <td></td>
 <td colspan="3">Бюджеттік бағдарламалардың әкiмшiсi</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td colspan="2">Бағдарлама</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td colspan="2">Атаулары</td>
+<td></td>
 </tr>
 <tr>
 <th>1</th>
@@ -767,7 +770,7 @@ source: https://zan.gov.kz/client/#!/doc/76699/kaz/25.04.2014
 <tr>
 <td colspan="5">Функционалдық топ</td>
 <td rowspan="5">Сома</td>
-<td rowspan="5">
+<td rowspan="2">
 Шортанды кенті әкімінің аппараты
 Сома
 </td>
@@ -780,18 +783,21 @@ source: https://zan.gov.kz/client/#!/doc/76699/kaz/25.04.2014
 <td></td>
 <td></td>
 <td colspan="3">Бюджеттік бағдарламалардың әкiмшiсi</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td colspan="2">Бағдарлама</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td colspan="2">Атаулары</td>
+<td></td>
 </tr>
 <tr>
 <th>1</th>

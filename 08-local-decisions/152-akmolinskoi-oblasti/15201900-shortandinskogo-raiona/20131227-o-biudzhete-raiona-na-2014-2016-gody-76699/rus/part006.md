@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/76699/rus/25.04.2014
+source: https://zan.gov.kz/client/#!/doc/76699/rus/09.07.2014
 ---
 
 ## Бюджетные программы бюджета района на 2015 год в городе, города районного значения, поселка, села, сельского округа
@@ -8,8 +8,8 @@ source: https://zan.gov.kz/client/#!/doc/76699/rus/25.04.2014
 <table>
 <tr>
 <td colspan="5">Функциональная группа</td>
-<td rowspan="5">Сумма</td>
-<td rowspan="5">
+<td>Сумма</td>
+<td rowspan="2">
 Аппарат акима поселка Шортанды
 Сумма
 </td>
@@ -17,17 +17,22 @@ source: https://zan.gov.kz/client/#!/doc/76699/rus/25.04.2014
 <tr>
 <td></td>
 <td colspan="4">Функциональная подгруппа</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td colspan="3">Администратор бюджетных программ</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td colspan="2">Программа</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td></td>
@@ -35,6 +40,8 @@ source: https://zan.gov.kz/client/#!/doc/76699/rus/25.04.2014
 <td></td>
 <td></td>
 <td>Наименование</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <th>1</th>
@@ -768,8 +775,8 @@ source: https://zan.gov.kz/client/#!/doc/76699/rus/25.04.2014
 <table>
 <tr>
 <td colspan="5">Функциональная группа</td>
-<td rowspan="5">Сумма</td>
-<td rowspan="5">
+<td>Сумма</td>
+<td rowspan="2">
 Аппарат акима поселка Шортанды
 Сумма
 </td>
@@ -777,17 +784,22 @@ source: https://zan.gov.kz/client/#!/doc/76699/rus/25.04.2014
 <tr>
 <td></td>
 <td colspan="4">Функциональная подгруппа</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td colspan="3">Администратор бюджетных программ</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td colspan="2">Программа</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td></td>
@@ -795,6 +807,8 @@ source: https://zan.gov.kz/client/#!/doc/76699/rus/25.04.2014
 <td></td>
 <td></td>
 <td>Наименование</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <th>1</th>
