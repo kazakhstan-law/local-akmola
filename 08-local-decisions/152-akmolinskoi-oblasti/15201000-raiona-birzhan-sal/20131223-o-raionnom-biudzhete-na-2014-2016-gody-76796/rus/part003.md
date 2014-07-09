@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/76796/rus/27.06.2014
+source: https://zan.gov.kz/client/#!/doc/76796/rus/09.07.2014
 ---
 
 ## Районный бюджет на 2016 год
@@ -2389,7 +2389,7 @@ source: https://zan.gov.kz/client/#!/doc/76796/rus/27.06.2014
 
 ## Затраты по программам аппарата акима района в городе, города районного значения, поселка, села, сельского округа
 
-> *Сноска. Приложение 7 в редакции решения Енбекшильдерского районного маслихата Акмолинской области от 25.04.2014 № С-29/4 (вводится в действие с 01.01.2014).*
+> *Сноска. Приложение 7 в редакции решения Енбекшильдерского районного маслихата Акмолинской области от 09.07.2014 № С-31/3 (вводится в действие с 01.01.2014).*
 
 <table>
 <tr>
@@ -2424,7 +2424,7 @@ source: https://zan.gov.kz/client/#!/doc/76796/rus/27.06.2014
 <td></td>
 <td></td>
 <td>Затраты</td>
-<td>179301</td>
+<td>176153</td>
 </tr>
 <tr>
 <td>1</td>
@@ -2432,7 +2432,7 @@ source: https://zan.gov.kz/client/#!/doc/76796/rus/27.06.2014
 <td></td>
 <td></td>
 <td>Государственные услуги общего характера</td>
-<td>147035</td>
+<td>143921</td>
 </tr>
 <tr>
 <td></td>
@@ -2440,7 +2440,7 @@ source: https://zan.gov.kz/client/#!/doc/76796/rus/27.06.2014
 <td></td>
 <td></td>
 <td>Представительные, исполнительные и другие органы, выполняющие общие функции государственного управления</td>
-<td>147035</td>
+<td>143921</td>
 </tr>
 <tr>
 <td></td>
@@ -2448,7 +2448,7 @@ source: https://zan.gov.kz/client/#!/doc/76796/rus/27.06.2014
 <td>123</td>
 <td></td>
 <td>Аппарат акима района в городе, города районного значения, поселка, села, сельского округа</td>
-<td>147035</td>
+<td>143921</td>
 </tr>
 <tr>
 <td></td>
@@ -2456,7 +2456,7 @@ source: https://zan.gov.kz/client/#!/doc/76796/rus/27.06.2014
 <td></td>
 <td>001</td>
 <td>Услуги по обеспечению деятельности акима района в городе, города районного значения, поселка, села, сельского округа</td>
-<td>147035</td>
+<td>143921</td>
 </tr>
 <tr>
 <td>7</td>
@@ -2464,7 +2464,7 @@ source: https://zan.gov.kz/client/#!/doc/76796/rus/27.06.2014
 <td></td>
 <td></td>
 <td>Жилищно-коммунальное хозяйство</td>
-<td>19889</td>
+<td>19855</td>
 </tr>
 <tr>
 <td></td>
@@ -2472,7 +2472,7 @@ source: https://zan.gov.kz/client/#!/doc/76796/rus/27.06.2014
 <td></td>
 <td></td>
 <td>Коммунальное хозяйство</td>
-<td>359</td>
+<td>638</td>
 </tr>
 <tr>
 <td></td>
@@ -2480,7 +2480,7 @@ source: https://zan.gov.kz/client/#!/doc/76796/rus/27.06.2014
 <td>123</td>
 <td></td>
 <td>Аппарат акима района в городе, города районного значения, поселка, села, сельского округа</td>
-<td>359</td>
+<td>638</td>
 </tr>
 <tr>
 <td></td>
@@ -2488,7 +2488,7 @@ source: https://zan.gov.kz/client/#!/doc/76796/rus/27.06.2014
 <td></td>
 <td>014</td>
 <td>Организация водоснабжения населенных пунктов</td>
-<td>359</td>
+<td>638</td>
 </tr>
 <tr>
 <td></td>
@@ -2496,7 +2496,7 @@ source: https://zan.gov.kz/client/#!/doc/76796/rus/27.06.2014
 <td></td>
 <td></td>
 <td>Благоустройство населенных пунктов</td>
-<td>19530</td>
+<td>19217</td>
 </tr>
 <tr>
 <td></td>
@@ -2504,7 +2504,7 @@ source: https://zan.gov.kz/client/#!/doc/76796/rus/27.06.2014
 <td>123</td>
 <td></td>
 <td>Аппарат акима района в городе, города районного значения, поселка, села, сельского округа</td>
-<td>19530</td>
+<td>19217</td>
 </tr>
 <tr>
 <td></td>
@@ -2512,7 +2512,7 @@ source: https://zan.gov.kz/client/#!/doc/76796/rus/27.06.2014
 <td></td>
 <td>008</td>
 <td>Освещение улиц населенных пунктов</td>
-<td>9248</td>
+<td>9144</td>
 </tr>
 <tr>
 <td></td>
@@ -2536,7 +2536,7 @@ source: https://zan.gov.kz/client/#!/doc/76796/rus/27.06.2014
 <td></td>
 <td>011</td>
 <td>Благоустройство и озеленение населенных пунктов</td>
-<td>6818</td>
+<td>6609</td>
 </tr>
 <tr>
 <td>12</td>
@@ -2604,11 +2604,9 @@ source: https://zan.gov.kz/client/#!/doc/76796/rus/27.06.2014
 </tr>
 </table>
 
-продолжение таблицы
-
 <table>
 <tr>
-<td colspan="6">в том числе по сельским округам</td>
+<td colspan="5">в том числе по сельским округам</td>
 </tr>
 <tr>
 <td>город Степняк</td>
@@ -2616,47 +2614,41 @@ source: https://zan.gov.kz/client/#!/doc/76796/rus/27.06.2014
 <td>Валихановский сельский округ</td>
 <td>Енбекшильдерский сельский округ</td>
 <td>Краснофлотский сельский округ</td>
-<td>Бирсуатский сельский округ</td>
 </tr>
 <tr>
 <td>25281</td>
 <td>10437</td>
 <td>10335</td>
-<td>11895</td>
-<td>10344</td>
-<td>11456</td>
+<td>11205</td>
+<td>9825</td>
 </tr>
 <tr>
 <td>15984</td>
-<td>9786</td>
+<td>9890</td>
 <td>9602</td>
-<td>9305</td>
-<td>9627</td>
-<td>10307</td>
+<td>8545</td>
+<td>9108</td>
 </tr>
 <tr>
 <td>15984</td>
-<td>9786</td>
+<td>9890</td>
 <td>9602</td>
-<td>9305</td>
-<td>9627</td>
-<td>10307</td>
+<td>8545</td>
+<td>9108</td>
 </tr>
 <tr>
 <td>15984</td>
-<td>9786</td>
+<td>9890</td>
 <td>9602</td>
-<td>9305</td>
-<td>9627</td>
-<td>10307</td>
+<td>8545</td>
+<td>9108</td>
 </tr>
 <tr>
 <td>15984</td>
-<td>9786</td>
+<td>9890</td>
 <td>9602</td>
-<td>9305</td>
-<td>9627</td>
-<td>10307</td>
+<td>8545</td>
+<td>9108</td>
 </tr>
 <tr>
 <td>0</td>
@@ -2664,10 +2656,8 @@ source: https://zan.gov.kz/client/#!/doc/76796/rus/27.06.2014
 <td>0</td>
 <td>0</td>
 <td>0</td>
-<td>0</td>
 </tr>
 <tr>
-<td>0</td>
 <td>0</td>
 <td>0</td>
 <td>0</td>
@@ -2676,59 +2666,52 @@ source: https://zan.gov.kz/client/#!/doc/76796/rus/27.06.2014
 </tr>
 <tr>
 <td>9297</td>
-<td>328</td>
+<td>224</td>
 <td>396</td>
-<td>1632</td>
+<td>1702</td>
 <td>423</td>
-<td>352</td>
 </tr>
 <tr>
 <td>0</td>
 <td>0</td>
 <td>0</td>
-<td>0</td>
-<td>0</td>
-<td>0</td>
-</tr>
-<tr>
-<td>0</td>
-<td>0</td>
-<td>0</td>
-<td>0</td>
-<td>0</td>
+<td>70</td>
 <td>0</td>
 </tr>
 <tr>
 <td>0</td>
 <td>0</td>
 <td>0</td>
+<td>70</td>
+<td>0</td>
+</tr>
+<tr>
 <td>0</td>
 <td>0</td>
+<td>0</td>
+<td>70</td>
 <td>0</td>
 </tr>
 <tr>
 <td>9297</td>
-<td>328</td>
+<td>224</td>
 <td>396</td>
 <td>1632</td>
 <td>423</td>
-<td>352</td>
 </tr>
 <tr>
 <td>9297</td>
-<td>328</td>
+<td>224</td>
 <td>396</td>
 <td>1632</td>
 <td>423</td>
-<td>352</td>
 </tr>
 <tr>
 <td>3763</td>
-<td>158</td>
+<td>54</td>
 <td>100</td>
 <td>1207</td>
 <td>154</td>
-<td>0</td>
 </tr>
 <tr>
 <td>1214</td>
@@ -2736,11 +2719,9 @@ source: https://zan.gov.kz/client/#!/doc/76796/rus/27.06.2014
 <td>100</td>
 <td>194</td>
 <td>86</td>
-<td>140</td>
 </tr>
 <tr>
 <td>190</td>
-<td>0</td>
 <td>0</td>
 <td>0</td>
 <td>0</td>
@@ -2752,18 +2733,8 @@ source: https://zan.gov.kz/client/#!/doc/76796/rus/27.06.2014
 <td>196</td>
 <td>231</td>
 <td>183</td>
-<td>212</td>
 </tr>
 <tr>
-<td>0</td>
-<td>0</td>
-<td>0</td>
-<td>0</td>
-<td>0</td>
-<td>0</td>
-</tr>
-<tr>
-<td>0</td>
 <td>0</td>
 <td>0</td>
 <td>0</td>
@@ -2776,10 +2747,15 @@ source: https://zan.gov.kz/client/#!/doc/76796/rus/27.06.2014
 <td>0</td>
 <td>0</td>
 <td>0</td>
-<td>0</td>
 </tr>
 <tr>
 <td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+</tr>
+<tr>
 <td>0</td>
 <td>0</td>
 <td>0</td>
@@ -2792,7 +2768,6 @@ source: https://zan.gov.kz/client/#!/doc/76796/rus/27.06.2014
 <td>337</td>
 <td>958</td>
 <td>294</td>
-<td>797</td>
 </tr>
 <tr>
 <td>0</td>
@@ -2800,7 +2775,6 @@ source: https://zan.gov.kz/client/#!/doc/76796/rus/27.06.2014
 <td>337</td>
 <td>958</td>
 <td>294</td>
-<td>797</td>
 </tr>
 <tr>
 <td>0</td>
@@ -2808,7 +2782,6 @@ source: https://zan.gov.kz/client/#!/doc/76796/rus/27.06.2014
 <td>337</td>
 <td>958</td>
 <td>294</td>
-<td>797</td>
 </tr>
 <tr>
 <td>0</td>
@@ -2816,7 +2789,6 @@ source: https://zan.gov.kz/client/#!/doc/76796/rus/27.06.2014
 <td>337</td>
 <td>958</td>
 <td>294</td>
-<td>797</td>
 </tr>
 </table>
 
@@ -2834,38 +2806,38 @@ source: https://zan.gov.kz/client/#!/doc/76796/rus/27.06.2014
 <td>Баймырзинский сельский округ</td>
 </tr>
 <tr>
-<td>10581</td>
+<td>10172</td>
 <td>14407</td>
 <td>7754</td>
-<td>12301</td>
+<td>11681</td>
 <td>11605</td>
 </tr>
 <tr>
-<td>8907</td>
+<td>8498</td>
 <td>11330</td>
 <td>7052</td>
-<td>10893</td>
+<td>10273</td>
 <td>9640</td>
 </tr>
 <tr>
-<td>8907</td>
+<td>8498</td>
 <td>11330</td>
 <td>7052</td>
-<td>10893</td>
+<td>10273</td>
 <td>9640</td>
 </tr>
 <tr>
-<td>8907</td>
+<td>8498</td>
 <td>11330</td>
 <td>7052</td>
-<td>10893</td>
+<td>10273</td>
 <td>9640</td>
 </tr>
 <tr>
-<td>8907</td>
+<td>8498</td>
 <td>11330</td>
 <td>7052</td>
-<td>10893</td>
+<td>10273</td>
 <td>9640</td>
 </tr>
 <tr>
@@ -2893,35 +2865,35 @@ source: https://zan.gov.kz/client/#!/doc/76796/rus/27.06.2014
 <td>0</td>
 <td>0</td>
 <td>0</td>
-<td>0</td>
+<td>209</td>
 <td>100</td>
 </tr>
 <tr>
 <td>0</td>
 <td>0</td>
 <td>0</td>
-<td>0</td>
+<td>209</td>
 <td>100</td>
 </tr>
 <tr>
 <td>0</td>
 <td>0</td>
 <td>0</td>
-<td>0</td>
+<td>209</td>
 <td>100</td>
 </tr>
 <tr>
 <td>389</td>
 <td>1490</td>
 <td>378</td>
-<td>597</td>
+<td>388</td>
 <td>1202</td>
 </tr>
 <tr>
 <td>389</td>
 <td>1490</td>
 <td>378</td>
-<td>597</td>
+<td>388</td>
 <td>1202</td>
 </tr>
 <tr>
@@ -2949,7 +2921,7 @@ source: https://zan.gov.kz/client/#!/doc/76796/rus/27.06.2014
 <td>229</td>
 <td>0</td>
 <td>227</td>
-<td>209</td>
+<td>0</td>
 <td>300</td>
 </tr>
 <tr>
@@ -3027,36 +2999,36 @@ source: https://zan.gov.kz/client/#!/doc/76796/rus/27.06.2014
 <td>7692</td>
 <td>8210</td>
 <td>9603</td>
-<td>17400</td>
-<td>11456</td>
+<td>17057</td>
+<td>10889</td>
 </tr>
 <tr>
 <td>6632</td>
 <td>7266</td>
 <td>8074</td>
-<td>12630</td>
-<td>10307</td>
+<td>12287</td>
+<td>9740</td>
 </tr>
 <tr>
 <td>6632</td>
 <td>7266</td>
 <td>8074</td>
-<td>12630</td>
-<td>10307</td>
+<td>12287</td>
+<td>9740</td>
 </tr>
 <tr>
 <td>6632</td>
 <td>7266</td>
 <td>8074</td>
-<td>12630</td>
-<td>10307</td>
+<td>12287</td>
+<td>9740</td>
 </tr>
 <tr>
 <td>6632</td>
 <td>7266</td>
 <td>8074</td>
-<td>12630</td>
-<td>10307</td>
+<td>12287</td>
+<td>9740</td>
 </tr>
 <tr>
 <td>0</td>

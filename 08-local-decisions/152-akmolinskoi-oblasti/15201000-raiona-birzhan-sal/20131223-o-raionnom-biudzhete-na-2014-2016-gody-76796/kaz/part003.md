@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/76796/kaz/27.06.2014
+source: https://zan.gov.kz/client/#!/doc/76796/kaz/09.07.2014
 ---
 
 ## 2016 жылға арналған аудандық бюджет
@@ -2373,7 +2373,7 @@ source: https://zan.gov.kz/client/#!/doc/76796/kaz/27.06.2014
 
 ## Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл, ауылдық округ әкімінің аппараты бағдарламалары бойынша шығындар
 
-> *Ескерту. 7-қосымша жаңа редакцияда - Ақмола облысы Еңбекшілдер аудандық мәслихатының 25.04.2014 № С-29/4 (01.01.2014 бастап қолданысқа енгізіледі) шешімімен.*
+> *Ескерту. 7-қосымша жаңа редакцияда - Ақмола облысы Еңбекшілдер аудандық мәслихатының 09.07.2014 № С-31/3 (01.01.2014 бастап қолданысқа енгізіледі) шешімімен.*
 
 <table>
 <tr>
@@ -2408,7 +2408,7 @@ source: https://zan.gov.kz/client/#!/doc/76796/kaz/27.06.2014
 <td></td>
 <td></td>
 <td>Шығындар</td>
-<td>179301</td>
+<td>176153</td>
 </tr>
 <tr>
 <td>1</td>
@@ -2416,7 +2416,7 @@ source: https://zan.gov.kz/client/#!/doc/76796/kaz/27.06.2014
 <td></td>
 <td></td>
 <td>Жалпы сипаттағы мемлекеттiк қызметтер</td>
-<td>147035</td>
+<td>143921</td>
 </tr>
 <tr>
 <td></td>
@@ -2424,7 +2424,7 @@ source: https://zan.gov.kz/client/#!/doc/76796/kaz/27.06.2014
 <td></td>
 <td></td>
 <td>Мемлекеттiк басқарудың жалпы функцияларын орындайтын өкiлдi, атқарушы және басқа органдар</td>
-<td>147035</td>
+<td>143921</td>
 </tr>
 <tr>
 <td></td>
@@ -2432,7 +2432,7 @@ source: https://zan.gov.kz/client/#!/doc/76796/kaz/27.06.2014
 <td>123</td>
 <td></td>
 <td>Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл, ауылдық округ әкімінің аппараты</td>
-<td>147035</td>
+<td>143921</td>
 </tr>
 <tr>
 <td></td>
@@ -2440,7 +2440,7 @@ source: https://zan.gov.kz/client/#!/doc/76796/kaz/27.06.2014
 <td></td>
 <td>001</td>
 <td>Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл, ауылдық округ әкімінің қызметін қамтамасыз ету жөніндегі қызметтер</td>
-<td>147035</td>
+<td>143921</td>
 </tr>
 <tr>
 <td>7</td>
@@ -2448,7 +2448,7 @@ source: https://zan.gov.kz/client/#!/doc/76796/kaz/27.06.2014
 <td></td>
 <td></td>
 <td>Тұрғын үй-коммуналдық шаруашылық</td>
-<td>19889</td>
+<td>19855</td>
 </tr>
 <tr>
 <td></td>
@@ -2456,7 +2456,7 @@ source: https://zan.gov.kz/client/#!/doc/76796/kaz/27.06.2014
 <td></td>
 <td></td>
 <td>Коммуналдық шаруашылық</td>
-<td>359</td>
+<td>638</td>
 </tr>
 <tr>
 <td></td>
@@ -2464,7 +2464,7 @@ source: https://zan.gov.kz/client/#!/doc/76796/kaz/27.06.2014
 <td>123</td>
 <td></td>
 <td>Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл, ауылдық округ әкімінің аппараты</td>
-<td>359</td>
+<td>638</td>
 </tr>
 <tr>
 <td></td>
@@ -2472,7 +2472,7 @@ source: https://zan.gov.kz/client/#!/doc/76796/kaz/27.06.2014
 <td></td>
 <td>014</td>
 <td>Елді мекендерді сумен жабдықтауды ұйымдастыру</td>
-<td>359</td>
+<td>638</td>
 </tr>
 <tr>
 <td></td>
@@ -2480,7 +2480,7 @@ source: https://zan.gov.kz/client/#!/doc/76796/kaz/27.06.2014
 <td></td>
 <td></td>
 <td>Елді-мекендерді көркейту</td>
-<td>19530</td>
+<td>19217</td>
 </tr>
 <tr>
 <td></td>
@@ -2488,7 +2488,7 @@ source: https://zan.gov.kz/client/#!/doc/76796/kaz/27.06.2014
 <td>123</td>
 <td></td>
 <td>Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл, ауылдық округ әкімінің аппараты</td>
-<td>19530</td>
+<td>19217</td>
 </tr>
 <tr>
 <td></td>
@@ -2496,7 +2496,7 @@ source: https://zan.gov.kz/client/#!/doc/76796/kaz/27.06.2014
 <td></td>
 <td>008</td>
 <td>Елді мекендерде көшелерді жарықтандыру</td>
-<td>9248</td>
+<td>9144</td>
 </tr>
 <tr>
 <td></td>
@@ -2520,7 +2520,7 @@ source: https://zan.gov.kz/client/#!/doc/76796/kaz/27.06.2014
 <td></td>
 <td>011</td>
 <td>Елді мекендерді абаттандыру мен көгалдандыру</td>
-<td>6818</td>
+<td>6609</td>
 </tr>
 <tr>
 <td>12</td>
@@ -2559,7 +2559,7 @@ source: https://zan.gov.kz/client/#!/doc/76796/kaz/27.06.2014
 <td></td>
 <td></td>
 <td></td>
-<td>Өзгелер</td>
+<td>Басқалар</td>
 <td>11481</td>
 </tr>
 <tr>
@@ -2567,7 +2567,7 @@ source: https://zan.gov.kz/client/#!/doc/76796/kaz/27.06.2014
 <td>9</td>
 <td></td>
 <td></td>
-<td>Өзгелер</td>
+<td>Басқалар</td>
 <td>11481</td>
 </tr>
 <tr>
@@ -2583,16 +2583,14 @@ source: https://zan.gov.kz/client/#!/doc/76796/kaz/27.06.2014
 <td></td>
 <td></td>
 <td>040</td>
-<td>&quot;Өңірлерді дамыту&quot; бағдарламасы шеңберінде өңірлерді экономикалық дамытуға жәрдемдесу бойынша шараларды іске асыру</td>
+<td>&quot;Өңірлерді дамыту&quot; Бағдарламасы шеңберінде өңірлерді экономикалық дамытуға жәрдемдесу бойынша шараларды іске асыру</td>
 <td>11481</td>
 </tr>
 </table>
 
-кестенің жалғасы
-
 <table>
 <tr>
-<td colspan="6">соның ішінде ауылдық округтер бойынша</td>
+<td colspan="5">соның ішінде ауылдық округтер бойынша</td>
 </tr>
 <tr>
 <td>Степняк қаласы</td>
@@ -2600,47 +2598,41 @@ source: https://zan.gov.kz/client/#!/doc/76796/kaz/27.06.2014
 <td>Уәлихан ауылдық округі</td>
 <td>Еңбекшілдер ауылдық округі</td>
 <td>Краснофлот ауылдық округі</td>
-<td>Бірсуат ауылдық округі</td>
 </tr>
 <tr>
 <td>25281</td>
 <td>10437</td>
 <td>10335</td>
-<td>11895</td>
-<td>10344</td>
-<td>11456</td>
+<td>11205</td>
+<td>9825</td>
 </tr>
 <tr>
 <td>15984</td>
-<td>9786</td>
+<td>9890</td>
 <td>9602</td>
-<td>9305</td>
-<td>9627</td>
-<td>10307</td>
+<td>8545</td>
+<td>9108</td>
 </tr>
 <tr>
 <td>15984</td>
-<td>9786</td>
+<td>9890</td>
 <td>9602</td>
-<td>9305</td>
-<td>9627</td>
-<td>10307</td>
+<td>8545</td>
+<td>9108</td>
 </tr>
 <tr>
 <td>15984</td>
-<td>9786</td>
+<td>9890</td>
 <td>9602</td>
-<td>9305</td>
-<td>9627</td>
-<td>10307</td>
+<td>8545</td>
+<td>9108</td>
 </tr>
 <tr>
 <td>15984</td>
-<td>9786</td>
+<td>9890</td>
 <td>9602</td>
-<td>9305</td>
-<td>9627</td>
-<td>10307</td>
+<td>8545</td>
+<td>9108</td>
 </tr>
 <tr>
 <td>0</td>
@@ -2648,10 +2640,8 @@ source: https://zan.gov.kz/client/#!/doc/76796/kaz/27.06.2014
 <td>0</td>
 <td>0</td>
 <td>0</td>
-<td>0</td>
 </tr>
 <tr>
-<td>0</td>
 <td>0</td>
 <td>0</td>
 <td>0</td>
@@ -2660,59 +2650,52 @@ source: https://zan.gov.kz/client/#!/doc/76796/kaz/27.06.2014
 </tr>
 <tr>
 <td>9297</td>
-<td>328</td>
+<td>224</td>
 <td>396</td>
-<td>1632</td>
+<td>1702</td>
 <td>423</td>
-<td>352</td>
 </tr>
 <tr>
 <td>0</td>
 <td>0</td>
 <td>0</td>
-<td>0</td>
-<td>0</td>
-<td>0</td>
-</tr>
-<tr>
-<td>0</td>
-<td>0</td>
-<td>0</td>
-<td>0</td>
-<td>0</td>
+<td>70</td>
 <td>0</td>
 </tr>
 <tr>
 <td>0</td>
 <td>0</td>
 <td>0</td>
+<td>70</td>
+<td>0</td>
+</tr>
+<tr>
 <td>0</td>
 <td>0</td>
+<td>0</td>
+<td>70</td>
 <td>0</td>
 </tr>
 <tr>
 <td>9297</td>
-<td>328</td>
+<td>224</td>
 <td>396</td>
 <td>1632</td>
 <td>423</td>
-<td>352</td>
 </tr>
 <tr>
 <td>9297</td>
-<td>328</td>
+<td>224</td>
 <td>396</td>
 <td>1632</td>
 <td>423</td>
-<td>352</td>
 </tr>
 <tr>
 <td>3763</td>
-<td>158</td>
+<td>54</td>
 <td>100</td>
 <td>1207</td>
 <td>154</td>
-<td>0</td>
 </tr>
 <tr>
 <td>1214</td>
@@ -2720,11 +2703,9 @@ source: https://zan.gov.kz/client/#!/doc/76796/kaz/27.06.2014
 <td>100</td>
 <td>194</td>
 <td>86</td>
-<td>140</td>
 </tr>
 <tr>
 <td>190</td>
-<td>0</td>
 <td>0</td>
 <td>0</td>
 <td>0</td>
@@ -2736,18 +2717,8 @@ source: https://zan.gov.kz/client/#!/doc/76796/kaz/27.06.2014
 <td>196</td>
 <td>231</td>
 <td>183</td>
-<td>212</td>
 </tr>
 <tr>
-<td>0</td>
-<td>0</td>
-<td>0</td>
-<td>0</td>
-<td>0</td>
-<td>0</td>
-</tr>
-<tr>
-<td>0</td>
 <td>0</td>
 <td>0</td>
 <td>0</td>
@@ -2760,10 +2731,15 @@ source: https://zan.gov.kz/client/#!/doc/76796/kaz/27.06.2014
 <td>0</td>
 <td>0</td>
 <td>0</td>
-<td>0</td>
 </tr>
 <tr>
 <td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+</tr>
+<tr>
 <td>0</td>
 <td>0</td>
 <td>0</td>
@@ -2776,7 +2752,6 @@ source: https://zan.gov.kz/client/#!/doc/76796/kaz/27.06.2014
 <td>337</td>
 <td>958</td>
 <td>294</td>
-<td>797</td>
 </tr>
 <tr>
 <td>0</td>
@@ -2784,7 +2759,6 @@ source: https://zan.gov.kz/client/#!/doc/76796/kaz/27.06.2014
 <td>337</td>
 <td>958</td>
 <td>294</td>
-<td>797</td>
 </tr>
 <tr>
 <td>0</td>
@@ -2792,7 +2766,6 @@ source: https://zan.gov.kz/client/#!/doc/76796/kaz/27.06.2014
 <td>337</td>
 <td>958</td>
 <td>294</td>
-<td>797</td>
 </tr>
 <tr>
 <td>0</td>
@@ -2800,7 +2773,6 @@ source: https://zan.gov.kz/client/#!/doc/76796/kaz/27.06.2014
 <td>337</td>
 <td>958</td>
 <td>294</td>
-<td>797</td>
 </tr>
 </table>
 
@@ -2818,38 +2790,38 @@ source: https://zan.gov.kz/client/#!/doc/76796/kaz/27.06.2014
 <td>Баймырза ауылдық округі</td>
 </tr>
 <tr>
-<td>10581</td>
+<td>10172</td>
 <td>14407</td>
 <td>7754</td>
-<td>12301</td>
+<td>11681</td>
 <td>11605</td>
 </tr>
 <tr>
-<td>8907</td>
+<td>8498</td>
 <td>11330</td>
 <td>7052</td>
-<td>10893</td>
+<td>10273</td>
 <td>9640</td>
 </tr>
 <tr>
-<td>8907</td>
+<td>8498</td>
 <td>11330</td>
 <td>7052</td>
-<td>10893</td>
+<td>10273</td>
 <td>9640</td>
 </tr>
 <tr>
-<td>8907</td>
+<td>8498</td>
 <td>11330</td>
 <td>7052</td>
-<td>10893</td>
+<td>10273</td>
 <td>9640</td>
 </tr>
 <tr>
-<td>8907</td>
+<td>8498</td>
 <td>11330</td>
 <td>7052</td>
-<td>10893</td>
+<td>10273</td>
 <td>9640</td>
 </tr>
 <tr>
@@ -2877,35 +2849,35 @@ source: https://zan.gov.kz/client/#!/doc/76796/kaz/27.06.2014
 <td>0</td>
 <td>0</td>
 <td>0</td>
-<td>0</td>
+<td>209</td>
 <td>100</td>
 </tr>
 <tr>
 <td>0</td>
 <td>0</td>
 <td>0</td>
-<td>0</td>
+<td>209</td>
 <td>100</td>
 </tr>
 <tr>
 <td>0</td>
 <td>0</td>
 <td>0</td>
-<td>0</td>
+<td>209</td>
 <td>100</td>
 </tr>
 <tr>
 <td>389</td>
 <td>1490</td>
 <td>378</td>
-<td>597</td>
+<td>388</td>
 <td>1202</td>
 </tr>
 <tr>
 <td>389</td>
 <td>1490</td>
 <td>378</td>
-<td>597</td>
+<td>388</td>
 <td>1202</td>
 </tr>
 <tr>
@@ -2933,7 +2905,7 @@ source: https://zan.gov.kz/client/#!/doc/76796/kaz/27.06.2014
 <td>229</td>
 <td>0</td>
 <td>227</td>
-<td>209</td>
+<td>0</td>
 <td>300</td>
 </tr>
 <tr>
@@ -3011,36 +2983,36 @@ source: https://zan.gov.kz/client/#!/doc/76796/kaz/27.06.2014
 <td>7692</td>
 <td>8210</td>
 <td>9603</td>
-<td>17400</td>
-<td>11456</td>
+<td>17057</td>
+<td>10889</td>
 </tr>
 <tr>
 <td>6632</td>
 <td>7266</td>
 <td>8074</td>
-<td>12630</td>
-<td>10307</td>
+<td>12287</td>
+<td>9740</td>
 </tr>
 <tr>
 <td>6632</td>
 <td>7266</td>
 <td>8074</td>
-<td>12630</td>
-<td>10307</td>
+<td>12287</td>
+<td>9740</td>
 </tr>
 <tr>
 <td>6632</td>
 <td>7266</td>
 <td>8074</td>
-<td>12630</td>
-<td>10307</td>
+<td>12287</td>
+<td>9740</td>
 </tr>
 <tr>
 <td>6632</td>
 <td>7266</td>
 <td>8074</td>
-<td>12630</td>
-<td>10307</td>
+<td>12287</td>
+<td>9740</td>
 </tr>
 <tr>
 <td>0</td>
