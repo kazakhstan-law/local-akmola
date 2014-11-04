@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/69761/rus/09.12.2013
+source: https://zan.gov.kz/client/#!/doc/69761/rus/04.11.2014
 ---
 
 # О бюджете района на 2013-2015 годы
