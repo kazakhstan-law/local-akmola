@@ -1,5 +1,5 @@
 ---
-version_id: '69761_191413'
+version_id: AI69761_15
 act_code: '69761'
 language: rus
 title: О бюджете района на 2013-2015 годы
@@ -10,13 +10,9 @@ type_codes:
 approved_by:
 - '152011000002'
 approval_date: 2012-12-21
-version_date: 2013-12-09
+version_date: 2014-11-04
 registry_number: '69761'
-caused_by:
-  code: '75953'
-  title: О внесении изменений в решение Ерейментауского районного маслихата от 21 декабря 2012 года № 5С-10/3-12 "О бюджете района на 2013-2015 годы"
-  link: https://zan.gov.kz/client/#!/doc/75953/rus
-source: https://zan.gov.kz/client/#!/doc/69761/rus/09.12.2013
+source: https://zan.gov.kz/client/#!/doc/69761/rus
 ---
 
 # О бюджете района на 2013-2015 годы

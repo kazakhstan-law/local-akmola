@@ -1,5 +1,5 @@
 ---
-version_id: '69761_191412'
+version_id: AI69761_14
 act_code: '69761'
 language: kaz
 title: 2013-2015 жылдарға арналған аудан бюджеті туралы
@@ -10,13 +10,9 @@ type_codes:
 approved_by:
 - '152011000002'
 approval_date: 2012-12-21
-version_date: 2013-12-09
+version_date: 2014-11-04
 registry_number: '69761'
-caused_by:
-  code: '75953'
-  title: Ерейментау аудандық мәслихатының 2012 жылғы 21 желтоқсандағы № 5С-10/3-12 "2013-2015 жылдарға арналған аудан бюджеті туралы" шешіміне өзгерістер енгізу туралы
-  link: https://zan.gov.kz/client/#!/doc/75953/kaz
-source: https://zan.gov.kz/client/#!/doc/69761/kaz/09.12.2013
+source: https://zan.gov.kz/client/#!/doc/69761/kaz
 ---
 
 # 2013-2015 жылдарға арналған аудан бюджеті туралы
