@@ -1,5 +1,5 @@
 ---
-version_id: '69762_190292'
+version_id: AI69762_19
 act_code: '69762'
 language: rus
 title: О районном бюджете на 2013-2015 годы
@@ -10,13 +10,9 @@ type_codes:
 approved_by:
 - '152006000002'
 approval_date: 2012-12-21
-version_date: 2013-12-10
+version_date: 2014-11-05
 registry_number: '69762'
-caused_by:
-  code: '75871'
-  title: О внесении изменений в решение Астраханского районного маслихата от 21 декабря 2012 года № 5С-12-2 "О районном бюджете на 2013-2015 годы"
-  link: https://zan.gov.kz/client/#!/doc/75871/rus
-source: https://zan.gov.kz/client/#!/doc/69762/rus/10.12.2013
+source: https://zan.gov.kz/client/#!/doc/69762/rus
 ---
 
 # О районном бюджете на 2013-2015 годы

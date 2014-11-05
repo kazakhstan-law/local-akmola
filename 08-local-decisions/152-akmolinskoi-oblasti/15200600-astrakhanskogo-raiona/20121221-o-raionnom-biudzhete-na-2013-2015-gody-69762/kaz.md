@@ -1,5 +1,5 @@
 ---
-version_id: '69762_190291'
+version_id: AI69762_18
 act_code: '69762'
 language: kaz
 title: 2013-2015 жылдарға арналған аудандық бюджет туралы
@@ -10,13 +10,9 @@ type_codes:
 approved_by:
 - '152006000002'
 approval_date: 2012-12-21
-version_date: 2013-12-10
+version_date: 2014-11-05
 registry_number: '69762'
-caused_by:
-  code: '75871'
-  title: Астрахан аудандық мәслихатының 2012 жылғы 21 желтоқсандағы № 5С-12-2 "2013-2015 жылдарға арналған аудандық бюджет туралы" шешіміне өзгерістер енгізу туралы
-  link: https://zan.gov.kz/client/#!/doc/75871/kaz
-source: https://zan.gov.kz/client/#!/doc/69762/kaz/10.12.2013
+source: https://zan.gov.kz/client/#!/doc/69762/kaz
 ---
 
 # 2013-2015 жылдарға арналған аудандық бюджет туралы
