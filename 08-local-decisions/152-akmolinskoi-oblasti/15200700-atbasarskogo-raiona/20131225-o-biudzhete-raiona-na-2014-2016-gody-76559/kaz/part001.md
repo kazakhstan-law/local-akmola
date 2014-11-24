@@ -1,19 +1,21 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/76559/kaz/27.10.2014
+source: https://zan.gov.kz/client/#!/doc/76559/kaz/24.11.2014
 ---
 
-## 2014 жылға арналған аудан бюджеті
+> *Атбасар аудандық мәслихатының*  
+> *2013 жылғы 25 желтоқсандағы*  
+> *№ 5С 21/3 шешіміне*  
+> *1 қосымша*
 
-> *Ескерту. 1-қосымша жаңа редакцияда - Ақмола облысы Атбасар аудандық мәслихатының 27.10.2014 № 5С 28/2 (01.01.2014 бастап қолданысқа енгізіледі) шешімімен.*
+# 2014 жылға арналған аудан бюджеті
+
+> *Ескерту. 1-қосымша жаңа редакцияда - Ақмола облысы Атбасар аудандық мәслихатының 24.11.2014 № 5С 29/2 (01.01.2014 бастап қолданысқа енгізіледі) шешімімен.*
 
 <table>
 <tr>
 <td colspan="4">Санаты</td>
-<td rowspan="4">
-Сома,
-мың теңге
-</td>
+<td rowspan="4">Сома, мың теңге</td>
 </tr>
 <tr>
 <td></td>
@@ -42,7 +44,7 @@ source: https://zan.gov.kz/client/#!/doc/76559/kaz/27.10.2014
 <td></td>
 <td></td>
 <td>I. КІРІСТЕР</td>
-<td>3 207 160,6</td>
+<td>3 219 081,9</td>
 </tr>
 <tr>
 <td>1</td>
@@ -182,14 +184,14 @@ source: https://zan.gov.kz/client/#!/doc/76559/kaz/27.10.2014
 <td></td>
 <td></td>
 <td>САЛЫҚТЫҚ ЕМЕС ТҮСІМДЕР</td>
-<td>12 986,0</td>
+<td>12 985,4</td>
 </tr>
 <tr>
 <td></td>
 <td>01</td>
 <td></td>
 <td>Мемлекеттік меншіктен түсетін кірістер</td>
-<td>3 803,0</td>
+<td>3 802,4</td>
 </tr>
 <tr>
 <td></td>
@@ -217,7 +219,7 @@ source: https://zan.gov.kz/client/#!/doc/76559/kaz/27.10.2014
 <td></td>
 <td>7</td>
 <td>Мемлекеттік бюджеттен берілген кредиттер бойынша сыйақылар</td>
-<td>35,0</td>
+<td>34,4</td>
 </tr>
 <tr>
 <td></td>
@@ -287,31 +289,28 @@ source: https://zan.gov.kz/client/#!/doc/76559/kaz/27.10.2014
 <td></td>
 <td></td>
 <td>ТРАНСФЕРТТЕР ТҮСІМІ</td>
-<td>2 058 009,6</td>
+<td>2 069 931,5</td>
 </tr>
 <tr>
 <td></td>
 <td>02</td>
 <td></td>
 <td>Мемлекеттiк басқарудың жоғары тұрған органдарынан түсетiн трансферттер</td>
-<td>2 058 009,6</td>
+<td>2 069 931,5</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>2</td>
 <td>Облыстық бюджеттен түсетін трансферттер</td>
-<td>2 058 009,6</td>
+<td>2 069 931,5</td>
 </tr>
 </table>
 
 <table>
 <tr>
 <td colspan="4">Функционалдық топ</td>
-<td rowspan="4">
-Сома,
-мың теңге
-</td>
+<td rowspan="4">Сома, мың теңге</td>
 </tr>
 <tr>
 <td></td>
@@ -340,14 +339,14 @@ source: https://zan.gov.kz/client/#!/doc/76559/kaz/27.10.2014
 <td></td>
 <td></td>
 <td>II. Шығындар</td>
-<td>3 222 443,0</td>
+<td>3 220 905,0</td>
 </tr>
 <tr>
 <td rowspan="15">01</td>
 <td></td>
 <td></td>
 <td>Жалпы сипаттағы мемлекеттiк қызметтер</td>
-<td>236 060,1</td>
+<td>238 045,1</td>
 </tr>
 <tr>
 <td rowspan="2">112</td>
@@ -380,7 +379,7 @@ source: https://zan.gov.kz/client/#!/doc/76559/kaz/27.10.2014
 <td rowspan="3">123</td>
 <td></td>
 <td>Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл, ауылдық округ әкімінің аппараты</td>
-<td>116 070,1</td>
+<td>118 055,1</td>
 </tr>
 <tr>
 <td>001</td>
@@ -390,7 +389,7 @@ source: https://zan.gov.kz/client/#!/doc/76559/kaz/27.10.2014
 <tr>
 <td>022</td>
 <td>Мемлекеттік органның күрделі шығыстары</td>
-<td>2 250,0</td>
+<td>4 235,0</td>
 </tr>
 <tr>
 <td rowspan="6">459</td>
@@ -474,13 +473,13 @@ source: https://zan.gov.kz/client/#!/doc/76559/kaz/27.10.2014
 <td></td>
 <td></td>
 <td>Бiлiм беру</td>
-<td>2 097 510,7</td>
+<td>2 093 988,2</td>
 </tr>
 <tr>
 <td rowspan="10">464</td>
 <td></td>
 <td>Ауданның (облыстық маңызы бар қаланың) білім бөлімі</td>
-<td>2 087 890,4</td>
+<td>2 084 368,0</td>
 </tr>
 <tr>
 <td>001</td>
@@ -490,7 +489,7 @@ source: https://zan.gov.kz/client/#!/doc/76559/kaz/27.10.2014
 <tr>
 <td>003</td>
 <td>Жалпы білім беру</td>
-<td>1 595 724,6</td>
+<td>1 604 202,2</td>
 </tr>
 <tr>
 <td>004</td>
@@ -520,7 +519,7 @@ source: https://zan.gov.kz/client/#!/doc/76559/kaz/27.10.2014
 <tr>
 <td>040</td>
 <td>Мектепке дейінгі білім беру ұйымдарында мемлекеттік білім беру тапсырысын іске асыруға</td>
-<td>204 908,0</td>
+<td>192 908,0</td>
 </tr>
 <tr>
 <td>067</td>
@@ -531,12 +530,12 @@ source: https://zan.gov.kz/client/#!/doc/76559/kaz/27.10.2014
 <td rowspan="2">467</td>
 <td></td>
 <td>Ауданның (облыстық маңызы бар қаланың) құрылыс бөлімі</td>
-<td>9 620,3</td>
+<td>9 620,2</td>
 </tr>
 <tr>
 <td>037</td>
 <td>Білім беру объектілерін салу және реконструкциялау</td>
-<td>9 620,3</td>
+<td>9 620,2</td>
 </tr>
 <tr>
 <td rowspan="15">06</td>
@@ -1025,36 +1024,36 @@ source: https://zan.gov.kz/client/#!/doc/76559/kaz/27.10.2014
 <td></td>
 <td></td>
 <td>Борышқа қызмет көрсету</td>
-<td>35,0</td>
+<td>34,4</td>
 </tr>
 <tr>
 <td rowspan="2">459</td>
 <td></td>
 <td>Ауданның (облыстық маңызы бар қаланың) экономика және қаржы бөлімі</td>
-<td>35,0</td>
+<td>34,4</td>
 </tr>
 <tr>
 <td>021</td>
 <td>Жергілікті атқарушы органдардың облыстық бюджеттен қарыздар бойынша сыйақылар мен өзге де төлемдерді төлеу бойынша борышына қызмет көрсету</td>
-<td>35,0</td>
+<td>34,4</td>
 </tr>
 <tr>
 <td rowspan="4">15</td>
 <td></td>
 <td></td>
 <td>Трансферттер</td>
-<td>16 478,2</td>
+<td>16 478,3</td>
 </tr>
 <tr>
 <td rowspan="3">459</td>
 <td></td>
 <td>Ауданның (облыстық маңызы бар қаланың) экономика және қаржы бөлімі</td>
-<td>16 478,2</td>
+<td>16 478,3</td>
 </tr>
 <tr>
 <td>006</td>
 <td>Пайдаланылмаған (толық пайдаланылмаған) нысаналы трансферттерді қайтару</td>
-<td>9 935,7</td>
+<td>9 935,8</td>
 </tr>
 <tr>
 <td>016</td>
@@ -1063,10 +1062,7 @@ source: https://zan.gov.kz/client/#!/doc/76559/kaz/27.10.2014
 </tr>
 <tr>
 <td colspan="4">Функционалдық топ</td>
-<td rowspan="4">
-Сома,
-мың теңге
-</td>
+<td rowspan="4">Сома, мың теңге</td>
 </tr>
 <tr>
 <td></td>
@@ -1121,10 +1117,7 @@ source: https://zan.gov.kz/client/#!/doc/76559/kaz/27.10.2014
 </tr>
 <tr>
 <td colspan="4">Санаты</td>
-<td rowspan="4">
-Сома,
-мың теңге
-</td>
+<td rowspan="4">Сома, мың теңге</td>
 </tr>
 <tr>
 <td></td>
@@ -1175,10 +1168,7 @@ source: https://zan.gov.kz/client/#!/doc/76559/kaz/27.10.2014
 </tr>
 <tr>
 <td colspan="4">Функционалдық топ</td>
-<td rowspan="4">
-Сома,
-мың теңге
-</td>
+<td rowspan="4">Сома, мың теңге</td>
 </tr>
 <tr>
 <td></td>
@@ -1207,39 +1197,36 @@ source: https://zan.gov.kz/client/#!/doc/76559/kaz/27.10.2014
 <td></td>
 <td></td>
 <td>IV. Қаржы активтерімен операциялар бойынша сальдо</td>
-<td>36 902,3</td>
+<td>50 361,6</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td>Қаржы активтерiн сатып алу</td>
-<td>36 902,3</td>
+<td>50 361,6</td>
 </tr>
 <tr>
 <td rowspan="3">13</td>
 <td></td>
 <td></td>
 <td>Басқалар</td>
-<td>36 902,3</td>
+<td>50 361,6</td>
 </tr>
 <tr>
 <td rowspan="2">458</td>
 <td></td>
 <td>Ауданның (облыстық маңызы бар қаланың) тұрғын үй-коммуналдық шаруашылығы, жолаушылар көлігі және автомобиль жолдары бөлімі</td>
-<td>36 902,3</td>
+<td>50 361,6</td>
 </tr>
 <tr>
 <td>065</td>
 <td>Заңды тұлғалардың жарғылық капиталын қалыптастыру немесе ұлғайту</td>
-<td>36 902,3</td>
+<td>50 361,6</td>
 </tr>
 <tr>
 <td colspan="4">Санаты</td>
-<td rowspan="4">
-Сома,
-мың теңге
-</td>
+<td rowspan="4">Сома, мың теңге</td>
 </tr>
 <tr>
 <td></td>
@@ -1286,10 +1273,7 @@ source: https://zan.gov.kz/client/#!/doc/76559/kaz/27.10.2014
 </tr>
 <tr>
 <td colspan="4">Санаты</td>
-<td rowspan="4">
-Сома,
-мың теңге
-</td>
+<td rowspan="4">Сома, мың теңге</td>
 </tr>
 <tr>
 <td></td>
@@ -1314,13 +1298,16 @@ source: https://zan.gov.kz/client/#!/doc/76559/kaz/27.10.2014
 <th>5</th>
 </tr>
 <tr>
-<td colspan="3"></td>
+<td></td>
+<td></td>
+<td></td>
 <td>Қарыздар түсімі</td>
 <td>6 596,0</td>
 </tr>
 <tr>
 <td rowspan="3">7</td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
 <td>Қарыздар түсімі</td>
 <td>6 596,0</td>
 </tr>
@@ -1337,10 +1324,7 @@ source: https://zan.gov.kz/client/#!/doc/76559/kaz/27.10.2014
 </tr>
 <tr>
 <td colspan="4">Функционалдық топ</td>
-<td rowspan="4">
-Сома,
-мың теңге
-</td>
+<td rowspan="4">Сома, мың теңге</td>
 </tr>
 <tr>
 <td></td>
@@ -1393,10 +1377,7 @@ source: https://zan.gov.kz/client/#!/doc/76559/kaz/27.10.2014
 </tr>
 <tr>
 <td colspan="4">Санаты</td>
-<td rowspan="4">
-Сома,
-мың теңге
-</td>
+<td rowspan="4">Сома, мың теңге</td>
 </tr>
 <tr>
 <td></td>
@@ -1452,7 +1433,7 @@ source: https://zan.gov.kz/client/#!/doc/76559/kaz/27.10.2014
 > *№ 5С 21/3 шешіміне*  
 > *2 қосымша*
 
-## 2015 жылға арналған аудан бюджеті
+# 2015 жылға арналған аудан бюджеті
 
 <table>
 <tr>
@@ -1712,7 +1693,7 @@ source: https://zan.gov.kz/client/#!/doc/76559/kaz/27.10.2014
 
 <table>
 <tr>
-<td colspan="5">Функционалдық топ</td>
+<td colspan="4">Функционалдық топ</td>
 <td rowspan="4">
 Сома,
 мың теңге
@@ -1720,29 +1701,29 @@ source: https://zan.gov.kz/client/#!/doc/76559/kaz/27.10.2014
 </tr>
 <tr>
 <td></td>
-<td colspan="4">Бюджеттік бағдарламалардың әкiмшiсi</td>
+<td colspan="3">Бюджеттік бағдарламалардың әкiмшiсi</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2">Бағдарлама</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>Атауы</td>
 </tr>
 <tr>
 <th>1</th>
-<th colspan="2">2</th>
+<th>2</th>
 <th>3</th>
 <th>4</th>
 <th>5</th>
 </tr>
 <tr>
 <td></td>
-<td colspan="2" rowspan="2"></td>
+<td rowspan="2"></td>
 <td rowspan="2"></td>
 <td>II. Шығындар</td>
 <td>2 500 204,0</td>
@@ -1753,7 +1734,7 @@ source: https://zan.gov.kz/client/#!/doc/76559/kaz/27.10.2014
 <td>227 948,0</td>
 </tr>
 <tr>
-<td colspan="2" rowspan="2">112</td>
+<td rowspan="2">112</td>
 <td></td>
 <td>Аудан (облыстық маңызы бар қала) мәслихатының аппараты</td>
 <td>14 343,0</td>
@@ -1764,7 +1745,7 @@ source: https://zan.gov.kz/client/#!/doc/76559/kaz/27.10.2014
 <td>14 343,0</td>
 </tr>
 <tr>
-<td colspan="2" rowspan="2">122</td>
+<td rowspan="2">122</td>
 <td></td>
 <td>Аудан (облыстық маңызы бар қала) әкімінің аппараты</td>
 <td>73 804,0</td>
@@ -1775,7 +1756,7 @@ source: https://zan.gov.kz/client/#!/doc/76559/kaz/27.10.2014
 <td>73 804,0</td>
 </tr>
 <tr>
-<td colspan="2" rowspan="2">123</td>
+<td rowspan="2">123</td>
 <td></td>
 <td>Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл, ауылдық округ әкімінің аппараты</td>
 <td>117 114,0</td>
@@ -1786,7 +1767,7 @@ source: https://zan.gov.kz/client/#!/doc/76559/kaz/27.10.2014
 <td>117 114,0</td>
 </tr>
 <tr>
-<td colspan="2" rowspan="4">459</td>
+<td rowspan="4">459</td>
 <td></td>
 <td>Ауданның (облыстық маңызы бар қаланың) экономика және қаржы бөлімі</td>
 <td>22 687,0</td>
@@ -1808,13 +1789,13 @@ source: https://zan.gov.kz/client/#!/doc/76559/kaz/27.10.2014
 </tr>
 <tr>
 <td rowspan="5">02</td>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>Қорғаныс</td>
 <td>6 838,0</td>
 </tr>
 <tr>
-<td colspan="2" rowspan="4">122</td>
+<td rowspan="4">122</td>
 <td></td>
 <td>Аудан (облыстық маңызы бар қала) әкімінің аппараты</td>
 <td>6 838,0</td>
@@ -1836,13 +1817,13 @@ source: https://zan.gov.kz/client/#!/doc/76559/kaz/27.10.2014
 </tr>
 <tr>
 <td rowspan="3">03</td>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>Қоғамдық тәртіп, қауіпсіздік, құқықтық, сот, қылмыстық-атқару қызметі</td>
 <td>987,0</td>
 </tr>
 <tr>
-<td colspan="2" rowspan="2">458</td>
+<td rowspan="2">458</td>
 <td></td>
 <td>Ауданның (облыстық маңызы бар қаланың) тұрғын үй-коммуналдық шаруашылығы, жолаушылар көлігі және автомобиль жолдары бөлімі</td>
 <td>987,0</td>
@@ -1854,13 +1835,13 @@ source: https://zan.gov.kz/client/#!/doc/76559/kaz/27.10.2014
 </tr>
 <tr>
 <td rowspan="11">04</td>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>Бiлiм беру</td>
 <td>1 715 824,0</td>
 </tr>
 <tr>
-<td colspan="2" rowspan="10">464</td>
+<td rowspan="10">464</td>
 <td></td>
 <td>Ауданның (облыстық маңызы бар қаланың) білім бөлімі</td>
 <td>1 715 824,0</td>
@@ -1912,13 +1893,13 @@ source: https://zan.gov.kz/client/#!/doc/76559/kaz/27.10.2014
 </tr>
 <tr>
 <td rowspan="14">06</td>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>Әлеуметтiк көмек және әлеуметтiк қамтамасыз ету</td>
 <td>120 948,0</td>
 </tr>
 <tr>
-<td colspan="2" rowspan="13">451</td>
+<td rowspan="13">451</td>
 <td></td>
 <td>Ауданның (облыстық маңызы бар қаланың) жұмыспен қамту және әлеуметтік бағдарламалар бөлімі</td>
 <td>120 948,0</td>
@@ -1985,13 +1966,13 @@ source: https://zan.gov.kz/client/#!/doc/76559/kaz/27.10.2014
 </tr>
 <tr>
 <td rowspan="9">07</td>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>Тұрғын үй-коммуналдық шаруашылық</td>
 <td>82 595,0</td>
 </tr>
 <tr>
-<td colspan="2" rowspan="5">123</td>
+<td rowspan="5">123</td>
 <td></td>
 <td>Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл, ауылдық округ әкімінің аппараты</td>
 <td>56 595,0</td>
@@ -2017,7 +1998,7 @@ source: https://zan.gov.kz/client/#!/doc/76559/kaz/27.10.2014
 <td>40 750,0</td>
 </tr>
 <tr>
-<td colspan="2" rowspan="3">458</td>
+<td rowspan="3">458</td>
 <td></td>
 <td>Ауданның (облыстық маңызы бар қаланың) тұрғын үй-коммуналдық шаруашылығы, жолаушылар көлігі және автомобиль жолдары бөлімі</td>
 <td>26 000,0</td>
@@ -2034,13 +2015,13 @@ source: https://zan.gov.kz/client/#!/doc/76559/kaz/27.10.2014
 </tr>
 <tr>
 <td rowspan="15">08</td>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>Мәдениет, спорт, туризм және ақпараттық кеңістiк</td>
 <td>147 236,0</td>
 </tr>
 <tr>
-<td colspan="2" rowspan="5">455</td>
+<td rowspan="5">455</td>
 <td></td>
 <td>Ауданның (облыстық маңызы бар қаланың) мәдениет және тілдерді дамыту бөлімі</td>
 <td>115 292,0</td>
@@ -2066,7 +2047,7 @@ source: https://zan.gov.kz/client/#!/doc/76559/kaz/27.10.2014
 <td>4 192,0</td>
 </tr>
 <tr>
-<td colspan="2" rowspan="5">456</td>
+<td rowspan="5">456</td>
 <td></td>
 <td>Ауданның (облыстық маңызы бар қаланың) ішкі саясат бөлімі</td>
 <td>16 154,0</td>
@@ -2092,7 +2073,7 @@ source: https://zan.gov.kz/client/#!/doc/76559/kaz/27.10.2014
 <td>2 770,0</td>
 </tr>
 <tr>
-<td colspan="2" rowspan="4">465</td>
+<td rowspan="4">465</td>
 <td></td>
 <td>Ауданның (облыстық маңызы бар қаланың) дене шынықтыру және спорт бөлімі</td>
 <td>15 790,0</td>
@@ -2114,13 +2095,13 @@ source: https://zan.gov.kz/client/#!/doc/76559/kaz/27.10.2014
 </tr>
 <tr>
 <td rowspan="10">10</td>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>Ауыл, су, орман, балық шаруашылығы, ерекше қорғалатын табиғи аумақтар, қоршаған ортаны және жануарлар дүниесін қорғау, жер қатынастары</td>
 <td>27 164,0</td>
 </tr>
 <tr>
-<td colspan="2" rowspan="2">459</td>
+<td rowspan="2">459</td>
 <td></td>
 <td>Ауданның (облыстық маңызы бар қаланың) экономика және қаржы бөлімі</td>
 <td>4 135,0</td>
@@ -2131,7 +2112,7 @@ source: https://zan.gov.kz/client/#!/doc/76559/kaz/27.10.2014
 <td>4 135,0</td>
 </tr>
 <tr>
-<td colspan="2" rowspan="2">462</td>
+<td rowspan="2">462</td>
 <td></td>
 <td>Ауданның (облыстық маңызы бар қаланың) ауыл шаруашылығы бөлімі</td>
 <td>9 691,0</td>
@@ -2142,7 +2123,7 @@ source: https://zan.gov.kz/client/#!/doc/76559/kaz/27.10.2014
 <td>9 691,0</td>
 </tr>
 <tr>
-<td colspan="2" rowspan="2">463</td>
+<td rowspan="2">463</td>
 <td></td>
 <td>Ауданның (облыстық маңызы бар қаланың) жер қатынастары бөлімі</td>
 <td>6 627,0</td>
@@ -2153,7 +2134,7 @@ source: https://zan.gov.kz/client/#!/doc/76559/kaz/27.10.2014
 <td>6 627,0</td>
 </tr>
 <tr>
-<td colspan="2" rowspan="3">473</td>
+<td rowspan="3">473</td>
 <td></td>
 <td>Ауданның (облыстық маңызы бар қаланың) ветеринария бөлімі</td>
 <td>6 711,0</td>
@@ -2170,13 +2151,13 @@ source: https://zan.gov.kz/client/#!/doc/76559/kaz/27.10.2014
 </tr>
 <tr>
 <td rowspan="6">11</td>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>Өнеркәсіп, сәулет, қала құрылысы және құрылыс қызметі</td>
 <td>21 586,0</td>
 </tr>
 <tr>
-<td colspan="2" rowspan="2">467</td>
+<td rowspan="2">467</td>
 <td></td>
 <td>Ауданның (облыстық маңызы бар қаланың) құрылыс бөлімі</td>
 <td>6 814,0</td>
@@ -2187,7 +2168,7 @@ source: https://zan.gov.kz/client/#!/doc/76559/kaz/27.10.2014
 <td>6 814,0</td>
 </tr>
 <tr>
-<td colspan="2" rowspan="3">468</td>
+<td rowspan="3">468</td>
 <td></td>
 <td>Ауданның (облыстық маңызы бар қаланың) сәулет және қала құрылысы бөлімі</td>
 <td>14 772,0</td>
@@ -2204,13 +2185,13 @@ source: https://zan.gov.kz/client/#!/doc/76559/kaz/27.10.2014
 </tr>
 <tr>
 <td rowspan="5">12</td>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>Көлiк және коммуникация</td>
 <td>91 984,0</td>
 </tr>
 <tr>
-<td colspan="2" rowspan="2">123</td>
+<td rowspan="2">123</td>
 <td></td>
 <td>Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл, ауылдық округ әкімінің аппараты</td>
 <td>7 700,0</td>
@@ -2221,7 +2202,7 @@ source: https://zan.gov.kz/client/#!/doc/76559/kaz/27.10.2014
 <td>7 700,0</td>
 </tr>
 <tr>
-<td colspan="2" rowspan="2">458</td>
+<td rowspan="2">458</td>
 <td></td>
 <td>Ауданның (облыстық маңызы бар қаланың) тұрғын үй-коммуналдық шаруашылығы, жолаушылар көлігі және автомобиль жолдары бөлімі</td>
 <td>84 284,0</td>
@@ -2233,13 +2214,13 @@ source: https://zan.gov.kz/client/#!/doc/76559/kaz/27.10.2014
 </tr>
 <tr>
 <td rowspan="10">13</td>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>Басқалар</td>
 <td>57 094,0</td>
 </tr>
 <tr>
-<td colspan="2" rowspan="2">123</td>
+<td rowspan="2">123</td>
 <td></td>
 <td>Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл, ауылдық округ әкімінің аппараты</td>
 <td>18 469,0</td>
@@ -2250,7 +2231,7 @@ source: https://zan.gov.kz/client/#!/doc/76559/kaz/27.10.2014
 <td>18 469,0</td>
 </tr>
 <tr>
-<td colspan="2" rowspan="2">458</td>
+<td rowspan="2">458</td>
 <td></td>
 <td>Ауданның (облыстық маңызы бар қаланың) тұрғын үй-коммуналдық шаруашылығы, жолаушылар көлігі және автомобиль жолдары бөлімі</td>
 <td>6 571,0</td>
@@ -2261,7 +2242,7 @@ source: https://zan.gov.kz/client/#!/doc/76559/kaz/27.10.2014
 <td>6 571,0</td>
 </tr>
 <tr>
-<td colspan="2" rowspan="2">459</td>
+<td rowspan="2">459</td>
 <td></td>
 <td>Ауданның (облыстық маңызы бар қаланың) экономика және қаржы бөлімі</td>
 <td>26 000,0</td>
@@ -2272,7 +2253,7 @@ source: https://zan.gov.kz/client/#!/doc/76559/kaz/27.10.2014
 <td>26 000,0</td>
 </tr>
 <tr>
-<td colspan="2" rowspan="3">469</td>
+<td rowspan="3">469</td>
 <td></td>
 <td>Ауданның (облыстық маңызы бар қаланың) кәсіпкерлік бөлімі</td>
 <td>6 054,0</td>
@@ -2288,11 +2269,11 @@ source: https://zan.gov.kz/client/#!/doc/76559/kaz/27.10.2014
 <td>599,0</td>
 </tr>
 <tr>
-<td colspan="5"></td>
+<td colspan="4"></td>
 <td></td>
 </tr>
 <tr>
-<td colspan="5">Функционалдық топ</td>
+<td colspan="4">Функционалдық топ</td>
 <td rowspan="4">
 Сома,
 мың теңге
@@ -2300,29 +2281,29 @@ source: https://zan.gov.kz/client/#!/doc/76559/kaz/27.10.2014
 </tr>
 <tr>
 <td></td>
-<td colspan="4">Бюджеттік бағдарламалардың әкiмшiсi</td>
+<td colspan="3">Бюджеттік бағдарламалардың әкiмшiсi</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2">Бағдарлама</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>Атауы</td>
 </tr>
 <tr>
 <th>1</th>
-<th colspan="2">2</th>
+<th>2</th>
 <th>3</th>
 <th>4</th>
 <th>5</th>
 </tr>
 <tr>
 <td rowspan="2"></td>
-<td colspan="2" rowspan="2"></td>
+<td rowspan="2"></td>
 <td rowspan="2"></td>
 <td>III. Таза бюджеттік кредиттеу</td>
 <td>0</td>
@@ -2332,11 +2313,11 @@ source: https://zan.gov.kz/client/#!/doc/76559/kaz/27.10.2014
 <td>0</td>
 </tr>
 <tr>
-<td colspan="5"></td>
+<td colspan="4"></td>
 <td></td>
 </tr>
 <tr>
-<td colspan="5">Санаты</td>
+<td colspan="4">Санаты</td>
 <td rowspan="4">
 Сома,
 мың теңге
@@ -2344,86 +2325,86 @@ source: https://zan.gov.kz/client/#!/doc/76559/kaz/27.10.2014
 </tr>
 <tr>
 <td></td>
-<td colspan="4">Сыныбы</td>
+<td colspan="3">Сыныбы</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td colspan="3">Ішкі сыныбы</td>
+<td colspan="2">Ішкі сыныбы</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td colspan="2"></td>
+<td></td>
 <td>Атауы</td>
 </tr>
 <tr>
 <th>1</th>
 <th>2</th>
-<th colspan="2">3</th>
-<th>4</th>
-<th>5</th>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-<td>Бюджеттiк кредиттердi өтеу</td>
-<td>0</td>
-</tr>
-<tr>
-<td colspan="5"></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="5">Функционалдық топ</td>
-<td rowspan="4">
-Сома,
-мың теңге
-</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="4">Бюджеттік бағдарламалардың әкiмшiсi</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2">Бағдарлама</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td>Атауы</td>
-</tr>
-<tr>
-<th>1</th>
-<th colspan="2">2</th>
 <th>3</th>
 <th>4</th>
 <th>5</th>
 </tr>
 <tr>
 <td></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td>Бюджеттiк кредиттердi өтеу</td>
+<td>0</td>
+</tr>
+<tr>
+<td colspan="4"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="4">Функционалдық топ</td>
+<td rowspan="4">
+Сома,
+мың теңге
+</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="3">Бюджеттік бағдарламалардың әкiмшiсi</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td colspan="2">Бағдарлама</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>Атауы</td>
+</tr>
+<tr>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
+</tr>
+<tr>
+<td></td>
+<td></td>
 <td></td>
 <td>IV. Қаржы активтерімен операциялар бойынша сальдо</td>
 <td>0</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>Қаржы активтерiн сатып алу</td>
 <td>0</td>
 </tr>
 <tr>
-<td colspan="5"></td>
+<td colspan="4"></td>
 <td></td>
 </tr>
 <tr>
-<td colspan="5">Санаты</td>
+<td colspan="4">Санаты</td>
 <td rowspan="4">
 Сома,
 мың теңге
@@ -2431,53 +2412,53 @@ source: https://zan.gov.kz/client/#!/doc/76559/kaz/27.10.2014
 </tr>
 <tr>
 <td></td>
-<td colspan="4">Сыныбы</td>
+<td colspan="3">Сыныбы</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td colspan="3">Ішкі сыныбы</td>
+<td colspan="2">Ішкі сыныбы</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td colspan="2"></td>
+<td></td>
 <td>Атауы</td>
 </tr>
 <tr>
 <th>1</th>
 <th>2</th>
-<th colspan="2">3</th>
+<th>3</th>
 <th>4</th>
 <th>5</th>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td colspan="2"></td>
+<td></td>
 <td>Мемлекеттің қаржы активтерiн сатудан түсетiн түсiмдер</td>
 <td>0</td>
 </tr>
 <tr>
-<td colspan="5"></td>
+<td colspan="4"></td>
 <td></td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td colspan="2"></td>
+<td></td>
 <td>V. Бюджет тапшылығы (профициті)</td>
 <td>0</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td colspan="2"></td>
+<td></td>
 <td>VI. Бюджет тапшылығын қаржыландыру (профицитін пайдалану)</td>
 <td>0</td>
 </tr>
 <tr>
-<td colspan="5">Санаты</td>
+<td colspan="4">Санаты</td>
 <td rowspan="4">
 Сома,
 мың теңге
@@ -2485,67 +2466,33 @@ source: https://zan.gov.kz/client/#!/doc/76559/kaz/27.10.2014
 </tr>
 <tr>
 <td></td>
-<td colspan="4">Сыныбы</td>
+<td colspan="3">Сыныбы</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td colspan="3">Ішкі сыныбы</td>
+<td colspan="2">Ішкі сыныбы</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td colspan="2"></td>
+<td></td>
 <td>Атауы</td>
 </tr>
 <tr>
 <th>1</th>
 <th>2</th>
-<th colspan="2">3</th>
-<th>4</th>
-<th>5</th>
-</tr>
-<tr>
-<td colspan="4"></td>
-<td>Қарыздар түсімі</td>
-<td>0</td>
-</tr>
-<tr>
-<td colspan="5">Функционалдық топ</td>
-<td rowspan="4">
-Сома,
-мың теңге
-</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="4">Бюджеттік бағдарламалардың әкiмшiсi</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2">Бағдарлама</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td>Атауы</td>
-</tr>
-<tr>
-<th>1</th>
-<th colspan="2">2</th>
 <th>3</th>
 <th>4</th>
 <th>5</th>
 </tr>
 <tr>
-<td colspan="4"></td>
-<td>Қарыздарды өтеу</td>
+<td colspan="3"></td>
+<td>Қарыздар түсімі</td>
 <td>0</td>
 </tr>
 <tr>
-<td colspan="5">Санаты</td>
+<td colspan="4">Функционалдық топ</td>
 <td rowspan="4">
 Сома,
 мың теңге
@@ -2553,30 +2500,64 @@ source: https://zan.gov.kz/client/#!/doc/76559/kaz/27.10.2014
 </tr>
 <tr>
 <td></td>
-<td colspan="4">Сыныбы</td>
+<td colspan="3">Бюджеттік бағдарламалардың әкiмшiсi</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td colspan="3">Ішкі сыныбы</td>
+<td colspan="2">Бағдарлама</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td colspan="2"></td>
+<td></td>
 <td>Атауы</td>
 </tr>
 <tr>
 <th>1</th>
 <th>2</th>
-<th colspan="2">3</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td>Қарыздарды өтеу</td>
+<td>0</td>
+</tr>
+<tr>
+<td colspan="4">Санаты</td>
+<td rowspan="4">
+Сома,
+мың теңге
+</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="3">Сыныбы</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td colspan="2">Ішкі сыныбы</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>Атауы</td>
+</tr>
+<tr>
+<th>1</th>
+<th>2</th>
+<th>3</th>
 <th>4</th>
 <th>5</th>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td colspan="2"></td>
+<td></td>
 <td>Бюджет қаражатының пайдаланылатын қалдықтары</td>
 <td>0</td>
 </tr>
@@ -2587,7 +2568,7 @@ source: https://zan.gov.kz/client/#!/doc/76559/kaz/27.10.2014
 > *№ 5С 21/3 шешіміне*  
 > *3 қосымша*
 
-## 2016 жылға арналған аудан бюджеті
+# 2016 жылға арналған аудан бюджеті
 
 <table>
 <tr>
@@ -3710,8 +3691,3 @@ source: https://zan.gov.kz/client/#!/doc/76559/kaz/27.10.2014
 <td>0</td>
 </tr>
 </table>
-
-> *Атбасар аудандық мәслихатының*  
-> *2013 жылғы 25 желтоқсандағы*  
-> *№ 5С 21/3 шешіміне*  
-> *4 қосымша*
