@@ -1,5 +1,5 @@
 ---
-version_id: '64916_170232'
+version_id: AI64916_2
 act_code: '64916'
 language: kaz
 title: 2012 жылға Ақмола облысы бойынша қоршаған ортаға эмиссия үшін төлемақы ставкаларын бекіту туралы
@@ -10,9 +10,9 @@ type_codes:
 approved_by:
 - '152000000002'
 approval_date: 2012-03-29
-version_date: 2012-03-29
+version_date: 2014-12-25
 registry_number: '64916'
-source: https://zan.gov.kz/client/#!/doc/64916/kaz/29.03.2012
+source: https://zan.gov.kz/client/#!/doc/64916/kaz
 ---
 
 # 2012 жылға Ақмола облысы бойынша қоршаған ортаға эмиссия үшін төлемақы ставкаларын бекіту туралы

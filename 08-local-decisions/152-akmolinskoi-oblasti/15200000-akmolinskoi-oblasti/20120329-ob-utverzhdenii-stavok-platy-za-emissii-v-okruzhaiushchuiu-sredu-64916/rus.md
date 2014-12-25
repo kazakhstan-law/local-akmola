@@ -1,5 +1,5 @@
 ---
-version_id: '64916_170233'
+version_id: AI64916_3
 act_code: '64916'
 language: rus
 title: Об утверждении ставок платы за эмиссии в окружающую среду по Акмолинской области на 2012 год
@@ -10,9 +10,9 @@ type_codes:
 approved_by:
 - '152000000002'
 approval_date: 2012-03-29
-version_date: 2012-03-29
+version_date: 2014-12-25
 registry_number: '64916'
-source: https://zan.gov.kz/client/#!/doc/64916/rus/29.03.2012
+source: https://zan.gov.kz/client/#!/doc/64916/rus
 ---
 
 # Об утверждении ставок платы за эмиссии в окружающую среду по Акмолинской области на 2012 год
