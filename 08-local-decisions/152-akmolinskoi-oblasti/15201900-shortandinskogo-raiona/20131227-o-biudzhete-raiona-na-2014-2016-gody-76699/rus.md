@@ -1,5 +1,5 @@
 ---
-version_id: '76699_188351'
+version_id: AI76699_15
 act_code: '76699'
 language: rus
 title: О бюджете района на 2014-2016 годы
@@ -10,13 +10,9 @@ type_codes:
 approved_by:
 - '152019000002'
 approval_date: 2013-12-27
-version_date: 2014-11-07
+version_date: 2015-01-08
 registry_number: '76699'
-caused_by:
-  code: '84389'
-  title: О внесении изменений и дополнений в решение Шортандинского районного маслихата от 27 декабря 2013 года № С-23/2 "О бюджете района на 2014-2016 годы"
-  link: https://zan.gov.kz/client/#!/doc/84389/rus
-source: https://zan.gov.kz/client/#!/doc/76699/rus/07.11.2014
+source: https://zan.gov.kz/client/#!/doc/76699/rus
 ---
 
 # О бюджете района на 2014-2016 годы

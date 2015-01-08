@@ -1,5 +1,5 @@
 ---
-version_id: '76699_188350'
+version_id: AI76699_14
 act_code: '76699'
 language: kaz
 title: 2014-2016 жылдарға арналған аудан бюджеті туралы
@@ -10,13 +10,9 @@ type_codes:
 approved_by:
 - '152019000002'
 approval_date: 2013-12-27
-version_date: 2014-11-07
+version_date: 2015-01-08
 registry_number: '76699'
-caused_by:
-  code: '84389'
-  title: Шортанды аудандық мәслихатының 2013 жылғы 27 желтоқсандағы № С-23/2 "2014-2016 жылдарға арналған аудан бюджеті туралы" шешіміне өзгерістер мен толықтырулар енгізу туралы
-  link: https://zan.gov.kz/client/#!/doc/84389/kaz
-source: https://zan.gov.kz/client/#!/doc/76699/kaz/07.11.2014
+source: https://zan.gov.kz/client/#!/doc/76699/kaz
 ---
 
 # 2014-2016 жылдарға арналған аудан бюджеті туралы

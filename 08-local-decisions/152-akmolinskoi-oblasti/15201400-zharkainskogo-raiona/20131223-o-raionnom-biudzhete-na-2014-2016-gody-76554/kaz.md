@@ -1,5 +1,5 @@
 ---
-version_id: '76554_187520'
+version_id: AI76554_12
 act_code: '76554'
 language: kaz
 title: 2014-2016 жылдарға арналған аудандық бюджет туралы
@@ -10,13 +10,9 @@ type_codes:
 approved_by:
 - '152014000002'
 approval_date: 2013-12-23
-version_date: 2014-11-21
+version_date: 2015-01-08
 registry_number: '76554'
-caused_by:
-  code: '84798'
-  title: Жарқайың аудандық мәслихаттың 2013 жылғы 23 желтоқсандағы № 5С-30/2 "2014-2016 жылдарға арналған аудандық бюджет туралы" шешіміне өзгерістер мен толықтыру енгізу туралы
-  link: https://zan.gov.kz/client/#!/doc/84798/kaz
-source: https://zan.gov.kz/client/#!/doc/76554/kaz/21.11.2014
+source: https://zan.gov.kz/client/#!/doc/76554/kaz
 ---
 
 # 2014-2016 жылдарға арналған аудандық бюджет туралы

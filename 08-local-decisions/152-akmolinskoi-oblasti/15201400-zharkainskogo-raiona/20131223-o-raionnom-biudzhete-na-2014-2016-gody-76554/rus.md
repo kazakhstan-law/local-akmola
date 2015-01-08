@@ -1,5 +1,5 @@
 ---
-version_id: '76554_187521'
+version_id: AI76554_13
 act_code: '76554'
 language: rus
 title: О районном бюджете на 2014-2016 годы
@@ -10,13 +10,9 @@ type_codes:
 approved_by:
 - '152014000002'
 approval_date: 2013-12-23
-version_date: 2014-11-21
+version_date: 2015-01-08
 registry_number: '76554'
-caused_by:
-  code: '84798'
-  title: О внесении изменений и дополнения в решение Жаркаинского районного маслихата от 23 декабря 2013 года № 5С-30/2 "О районном бюджете на 2014-2016 годы"
-  link: https://zan.gov.kz/client/#!/doc/84798/rus
-source: https://zan.gov.kz/client/#!/doc/76554/rus/21.11.2014
+source: https://zan.gov.kz/client/#!/doc/76554/rus
 ---
 
 # О районном бюджете на 2014-2016 годы
