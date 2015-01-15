@@ -1,5 +1,5 @@
 ---
-version_id: '76553_188403'
+version_id: AI76553_17
 act_code: '76553'
 language: rus
 title: О районном бюджете на 2014-2016 годы
@@ -10,13 +10,9 @@ type_codes:
 approved_by:
 - '152018000002'
 approval_date: 2013-12-25
-version_date: 2014-11-25
+version_date: 2015-01-15
 registry_number: '76553'
-caused_by:
-  code: '84776'
-  title: О внесении изменений в решение Целиноградского районного маслихата от 25 декабря 2013 года № 172/24-5 "О районном бюджете на 2014-2016 годы"
-  link: https://zan.gov.kz/client/#!/doc/84776/rus
-source: https://zan.gov.kz/client/#!/doc/76553/rus/25.11.2014
+source: https://zan.gov.kz/client/#!/doc/76553/rus
 ---
 
 # О районном бюджете на 2014-2016 годы

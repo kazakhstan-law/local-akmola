@@ -1,5 +1,5 @@
 ---
-version_id: '76553_188402'
+version_id: AI76553_16
 act_code: '76553'
 language: kaz
 title: 2014-2016 жылдарға арналған аудандық бюджет туралы
@@ -10,13 +10,9 @@ type_codes:
 approved_by:
 - '152018000002'
 approval_date: 2013-12-25
-version_date: 2014-11-25
+version_date: 2015-01-15
 registry_number: '76553'
-caused_by:
-  code: '84776'
-  title: Целиноград аудандық мәслихатының 2013 жылғы 25 желтоқсандағы № 172/24-5 "2014-2016 жылдарға арналған аудандық бюджет туралы" шешіміне өзгерістер енгізу туралы
-  link: https://zan.gov.kz/client/#!/doc/84776/kaz
-source: https://zan.gov.kz/client/#!/doc/76553/kaz/25.11.2014
+source: https://zan.gov.kz/client/#!/doc/76553/kaz
 ---
 
 # 2014-2016 жылдарға арналған аудандық бюджет туралы
