@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/76553/kaz/25.11.2014
+source: https://zan.gov.kz/client/#!/doc/76553/kaz/15.01.2015
 ---
 
 > *Целиноград аудандық мәслихатының*  
