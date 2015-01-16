@@ -1,5 +1,5 @@
 ---
-version_id: '76798_184931'
+version_id: AI76798_12
 act_code: '76798'
 language: kaz
 title: 2014-2016 жылдарға арналған аудандық бюджет туралы
@@ -10,13 +10,9 @@ type_codes:
 approved_by:
 - '152005000002'
 approval_date: 2013-12-26
-version_date: 2014-11-18
+version_date: 2015-01-16
 registry_number: '76798'
-caused_by:
-  code: '84510'
-  title: Аршалы аудандық мәслихатының 2013 жылғы 26 желтоқсандағы № 23/1 "2014-2016 жылдарға арналған аудандық бюджет туралы" шешіміне өзгерістер енгізу туралы
-  link: https://zan.gov.kz/client/#!/doc/84510/kaz
-source: https://zan.gov.kz/client/#!/doc/76798/kaz/18.11.2014
+source: https://zan.gov.kz/client/#!/doc/76798/kaz
 ---
 
 # 2014-2016 жылдарға арналған аудандық бюджет туралы

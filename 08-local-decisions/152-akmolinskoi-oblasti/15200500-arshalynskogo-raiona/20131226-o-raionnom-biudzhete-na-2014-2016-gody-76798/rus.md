@@ -1,5 +1,5 @@
 ---
-version_id: '76798_184932'
+version_id: AI76798_13
 act_code: '76798'
 language: rus
 title: О районном бюджете на 2014-2016 годы
@@ -10,13 +10,9 @@ type_codes:
 approved_by:
 - '152005000002'
 approval_date: 2013-12-26
-version_date: 2014-11-18
+version_date: 2015-01-16
 registry_number: '76798'
-caused_by:
-  code: '84510'
-  title: О внесении изменений в решение Аршалынского районного маслихата от 26 декабря 2013 года № 23/1 "О районном бюджете на 2014-2016 годы"
-  link: https://zan.gov.kz/client/#!/doc/84510/rus
-source: https://zan.gov.kz/client/#!/doc/76798/rus/18.11.2014
+source: https://zan.gov.kz/client/#!/doc/76798/rus
 ---
 
 # О районном бюджете на 2014-2016 годы
