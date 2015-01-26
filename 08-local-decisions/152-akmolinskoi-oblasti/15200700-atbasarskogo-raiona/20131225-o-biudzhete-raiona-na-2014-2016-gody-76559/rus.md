@@ -1,5 +1,5 @@
 ---
-version_id: '76559_185406'
+version_id: AI76559_13
 act_code: '76559'
 language: rus
 title: О бюджете района на 2014-2016 годы
@@ -10,13 +10,9 @@ type_codes:
 approved_by:
 - '152007000002'
 approval_date: 2013-12-25
-version_date: 2014-11-24
+version_date: 2015-01-26
 registry_number: '76559'
-caused_by:
-  code: '84799'
-  title: О внесении изменений в решение Атбасарского районного маслихата от 25 декабря 2013 года № 5С 21/3 "О бюджете района на 2014-2016 годы"
-  link: https://zan.gov.kz/client/#!/doc/84799/rus
-source: https://zan.gov.kz/client/#!/doc/76559/rus/24.11.2014
+source: https://zan.gov.kz/client/#!/doc/76559/rus
 ---
 
 # О бюджете района на 2014-2016 годы

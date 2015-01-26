@@ -1,5 +1,5 @@
 ---
-version_id: '76559_185405'
+version_id: AI76559_12
 act_code: '76559'
 language: kaz
 title: 2014-2016 жылдарға арналған аудан бюджеті туралы
@@ -10,13 +10,9 @@ type_codes:
 approved_by:
 - '152007000002'
 approval_date: 2013-12-25
-version_date: 2014-11-24
+version_date: 2015-01-26
 registry_number: '76559'
-caused_by:
-  code: '84799'
-  title: Атбасар аудандық мәслихатының 2013 жылғы 25 желтоқсандағы № 5С 21/3 "2014-2016 жылдарға арналған аудан бюджеті туралы" шешіміне өзгерістер енгізу туралы
-  link: https://zan.gov.kz/client/#!/doc/84799/kaz
-source: https://zan.gov.kz/client/#!/doc/76559/kaz/24.11.2014
+source: https://zan.gov.kz/client/#!/doc/76559/kaz
 ---
 
 # 2014-2016 жылдарға арналған аудан бюджеті туралы
