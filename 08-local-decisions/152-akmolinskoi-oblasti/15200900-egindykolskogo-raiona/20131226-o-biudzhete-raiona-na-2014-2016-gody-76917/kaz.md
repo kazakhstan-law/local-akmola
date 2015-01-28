@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/76917/kaz/10.11.2014
+source: https://zan.gov.kz/client/#!/doc/76917/kaz/28.01.2015
 ---
 
 # Ауданның 2014-2016 жылдарға арналған бюджеті туралы
