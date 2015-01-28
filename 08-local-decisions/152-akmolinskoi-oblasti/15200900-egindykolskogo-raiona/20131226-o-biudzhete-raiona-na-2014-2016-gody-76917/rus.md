@@ -1,5 +1,5 @@
 ---
-version_id: '76917_185826'
+version_id: AI76917_11
 act_code: '76917'
 language: rus
 title: О бюджете района на 2014-2016 годы
@@ -10,13 +10,9 @@ type_codes:
 approved_by:
 - '152009000002'
 approval_date: 2013-12-26
-version_date: 2014-11-10
+version_date: 2015-01-28
 registry_number: '76917'
-caused_by:
-  code: '84487'
-  title: О внесении изменений в решение Егиндыкольского районного маслихата от 26 декабря 2013 года № 5С23-1 "О бюджете района на 2014-2016 годы"
-  link: https://zan.gov.kz/client/#!/doc/84487/rus
-source: https://zan.gov.kz/client/#!/doc/76917/rus/10.11.2014
+source: https://zan.gov.kz/client/#!/doc/76917/rus
 ---
 
 # О бюджете района на 2014-2016 годы

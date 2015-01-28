@@ -1,5 +1,5 @@
 ---
-version_id: '76917_185825'
+version_id: AI76917_10
 act_code: '76917'
 language: kaz
 title: Ауданның 2014-2016 жылдарға арналған бюджеті туралы
@@ -10,13 +10,9 @@ type_codes:
 approved_by:
 - '152009000002'
 approval_date: 2013-12-26
-version_date: 2014-11-10
+version_date: 2015-01-28
 registry_number: '76917'
-caused_by:
-  code: '84487'
-  title: Егіндікөл аудандық мәслихаттың 2013 жылғы 26 желтоқсандағы № 5С23-1 "Ауданның 2014-2016 жылдарға арналған бюджеті туралы" шешіміне өзгерістер енгізу туралы
-  link: https://zan.gov.kz/client/#!/doc/84487/kaz
-source: https://zan.gov.kz/client/#!/doc/76917/kaz/10.11.2014
+source: https://zan.gov.kz/client/#!/doc/76917/kaz
 ---
 
 # Ауданның 2014-2016 жылдарға арналған бюджеті туралы
