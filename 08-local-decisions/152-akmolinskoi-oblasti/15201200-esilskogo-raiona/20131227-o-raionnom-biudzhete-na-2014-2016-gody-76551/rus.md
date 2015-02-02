@@ -1,5 +1,5 @@
 ---
-version_id: '76551_187339'
+version_id: AI76551_11
 act_code: '76551'
 language: rus
 title: О районном бюджете на 2014-2016 годы
@@ -10,13 +10,9 @@ type_codes:
 approved_by:
 - '152012000002'
 approval_date: 2013-12-27
-version_date: 2014-11-12
+version_date: 2015-02-02
 registry_number: '76551'
-caused_by:
-  code: '84475'
-  title: О внесении изменений в решение Есильского районного маслихата от 27 декабря 2013 года № 27/2 "О районном бюджете на 2014-2016 годы"
-  link: https://zan.gov.kz/client/#!/doc/84475/rus
-source: https://zan.gov.kz/client/#!/doc/76551/rus/12.11.2014
+source: https://zan.gov.kz/client/#!/doc/76551/rus
 ---
 
 # О районном бюджете на 2014-2016 годы

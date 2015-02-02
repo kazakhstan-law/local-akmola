@@ -1,5 +1,5 @@
 ---
-version_id: '76551_187338'
+version_id: AI76551_10
 act_code: '76551'
 language: kaz
 title: 2014-2016 жылдарға арналған аудандық бюджет туралы
@@ -10,13 +10,9 @@ type_codes:
 approved_by:
 - '152012000002'
 approval_date: 2013-12-27
-version_date: 2014-11-12
+version_date: 2015-02-02
 registry_number: '76551'
-caused_by:
-  code: '84475'
-  title: Есіл аудандық мәслихатының 2013 жылғы 27 желтоқсандағы № 27/2 "2014-2016 жылдарға арналған аудандық бюджет туралы" шешіміне өзгерістер енгізу туралы
-  link: https://zan.gov.kz/client/#!/doc/84475/kaz
-source: https://zan.gov.kz/client/#!/doc/76551/kaz/12.11.2014
+source: https://zan.gov.kz/client/#!/doc/76551/kaz
 ---
 
 # 2014-2016 жылдарға арналған аудандық бюджет туралы
