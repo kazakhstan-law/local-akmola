@@ -1,5 +1,5 @@
 ---
-version_id: '76557_188043'
+version_id: AI76557_12
 act_code: '76557'
 language: kaz
 title: Зеренді ауданының 2014-2016 жылдарға арналған бюджеті туралы
@@ -10,13 +10,9 @@ type_codes:
 approved_by:
 - '152015000002'
 approval_date: 2013-12-24
-version_date: 2014-11-20
+version_date: 2015-02-03
 registry_number: '76557'
-caused_by:
-  code: '84574'
-  title: Зеренді аудандық мәслихаттың 2013 жылғы 24 желтоқсандағы № 22-177 "Зеренді ауданының 2014-2016 жылдарға арналған бюджеті туралы" шешіміне өзгерістер енгізу туралы
-  link: https://zan.gov.kz/client/#!/doc/84574/kaz
-source: https://zan.gov.kz/client/#!/doc/76557/kaz/20.11.2014
+source: https://zan.gov.kz/client/#!/doc/76557/kaz
 ---
 
 # Зеренді ауданының 2014-2016 жылдарға арналған бюджеті туралы

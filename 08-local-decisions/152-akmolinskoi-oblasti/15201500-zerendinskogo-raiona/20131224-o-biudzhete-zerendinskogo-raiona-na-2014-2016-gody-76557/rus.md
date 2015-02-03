@@ -1,5 +1,5 @@
 ---
-version_id: '76557_188044'
+version_id: AI76557_13
 act_code: '76557'
 language: rus
 title: О бюджете Зерендинского района на 2014-2016 годы
@@ -10,13 +10,9 @@ type_codes:
 approved_by:
 - '152015000002'
 approval_date: 2013-12-24
-version_date: 2014-11-20
+version_date: 2015-02-03
 registry_number: '76557'
-caused_by:
-  code: '84574'
-  title: О внесении изменений в решение Зерендинского районного маслихата от 24 декабря 2013 года № 22-177 "О бюджете Зерендинского района на 2014-2016 годы"
-  link: https://zan.gov.kz/client/#!/doc/84574/rus
-source: https://zan.gov.kz/client/#!/doc/76557/rus/20.11.2014
+source: https://zan.gov.kz/client/#!/doc/76557/rus
 ---
 
 # О бюджете Зерендинского района на 2014-2016 годы
