@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/76557/rus/20.11.2014
+source: https://zan.gov.kz/client/#!/doc/76557/rus/03.02.2015
 ---
 
 # О бюджете Зерендинского района на 2014-2016 годы
