@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/86035/kaz/24.12.2014
+source: https://zan.gov.kz/client/#!/doc/86035/kaz/09.02.2015
 ---
 
 > *Атбасар аудандық мәслихатының 2014 жылғы*  
