@@ -1,5 +1,5 @@
 ---
-version_id: '78374_4866'
+version_id: '78374_4870'
 act_code: '78374'
 language: kaz
 title: Атбасар ауданында сайлау учаскелерін құру туралы
@@ -10,9 +10,13 @@ type_codes:
 approved_by:
 - '152007000001'
 approval_date: 2014-03-03
-version_date: 2014-03-03
+version_date: 2015-02-23
 registry_number: '78374'
-source: https://zan.gov.kz/client/#!/doc/78374/kaz/03.03.2014
+caused_by:
+  code: '87535'
+  title: Атбасар ауданы әкімінің 2014 жылғы 3 наурыздағы № 3 «Атбасар ауданында сайлау учаскелерін құру туралы» шешіміне толықтырулар енгізу туралы
+  link: https://zan.gov.kz/client/#!/doc/87535/kaz
+source: https://zan.gov.kz/client/#!/doc/78374/kaz/23.02.2015
 ---
 
 # Атбасар ауданында сайлау учаскелерін құру туралы
@@ -124,7 +128,7 @@ source: https://zan.gov.kz/client/#!/doc/78374/kaz/03.03.2014
 </tr>
 <tr>
 <td>18.</td>
-<td>№ 228 сайлау учаскесі. Шекарасы: Калиновка ауылы.</td>
+<td>№ 228 сайлау учаскесі. Шекарасы: Калиновка ауылы, Родионовка ауылы.</td>
 </tr>
 <tr>
 <td>19.</td>
