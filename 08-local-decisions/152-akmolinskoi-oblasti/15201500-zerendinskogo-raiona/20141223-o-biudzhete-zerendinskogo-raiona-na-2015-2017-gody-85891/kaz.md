@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/85891/kaz/12.11.2015
+source: https://zan.gov.kz/client/#!/doc/85891/kaz/30.11.2015
 ---
 
 # Зеренді ауданының 2015-2017 жылдарға арналған бюджеті туралы
