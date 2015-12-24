@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/86418/rus/09.11.2015
+source: https://zan.gov.kz/client/#!/doc/86418/rus/24.12.2015
 ---
 
 > *Приложение 1 к решению*  
@@ -9,7 +9,7 @@ source: https://zan.gov.kz/client/#!/doc/86418/rus/09.11.2015
 
 # Бюджет района на 2015 год
 
-> *Сноска. Приложение 1 - в редакции решения Шортандинского районного маслихата Акмолинской области от 09.11.2015 № С-42/2 (вводится в действие с 01.01.2015).*
+> *Сноска. Приложение 1 - в редакции решения Шортандинского районного маслихата Акмолинской области от 24.12.2015 № С-44/5 (вводится в действие с 01.01.2015).*
 
 <table>
 <tr>
@@ -50,7 +50,7 @@ source: https://zan.gov.kz/client/#!/doc/86418/rus/09.11.2015
 <td></td>
 <td></td>
 <td colspan="5">I. Доходы</td>
-<td>2980738,0</td>
+<td>2971304,2</td>
 </tr>
 <tr>
 <td>1</td>
@@ -298,7 +298,7 @@ source: https://zan.gov.kz/client/#!/doc/86418/rus/09.11.2015
 <td></td>
 <td></td>
 <td colspan="5">Поступления трансфертов</td>
-<td>2237242,8</td>
+<td>2227809</td>
 </tr>
 <tr>
 <td></td>
@@ -306,7 +306,7 @@ source: https://zan.gov.kz/client/#!/doc/86418/rus/09.11.2015
 <td></td>
 <td></td>
 <td colspan="5">Трансферты из вышестоящих органов государственного управления</td>
-<td>2237242,8</td>
+<td>2227809</td>
 </tr>
 <tr>
 <td></td>
@@ -314,7 +314,7 @@ source: https://zan.gov.kz/client/#!/doc/86418/rus/09.11.2015
 <td>2</td>
 <td></td>
 <td colspan="5">Трансферты из областного бюджета</td>
-<td>2237242,8</td>
+<td>2227809</td>
 </tr>
 <tr>
 <td></td>
@@ -322,7 +322,7 @@ source: https://zan.gov.kz/client/#!/doc/86418/rus/09.11.2015
 <td></td>
 <td></td>
 <td colspan="5">II. Затраты</td>
-<td>3007636,3</td>
+<td>2998202,5</td>
 </tr>
 <tr>
 <td>01</td>
@@ -549,7 +549,7 @@ source: https://zan.gov.kz/client/#!/doc/86418/rus/09.11.2015
 <td></td>
 <td></td>
 <td colspan="5">Образование</td>
-<td>1599241,6</td>
+<td>1594259,6</td>
 </tr>
 <tr>
 <td></td>
@@ -589,7 +589,7 @@ source: https://zan.gov.kz/client/#!/doc/86418/rus/09.11.2015
 <td></td>
 <td></td>
 <td colspan="5">Начальное, основное среднее и общее среднее образование</td>
-<td>1297587,8</td>
+<td>1292605,8</td>
 </tr>
 <tr>
 <td></td>
@@ -613,7 +613,7 @@ source: https://zan.gov.kz/client/#!/doc/86418/rus/09.11.2015
 <td>464</td>
 <td></td>
 <td colspan="5">Отдел образования района (города областного значения)</td>
-<td>1284424,6</td>
+<td>1279442,6</td>
 </tr>
 <tr>
 <td></td>
@@ -621,7 +621,7 @@ source: https://zan.gov.kz/client/#!/doc/86418/rus/09.11.2015
 <td></td>
 <td>003</td>
 <td colspan="5">Общеобразовательное обучение</td>
-<td>1250577,6</td>
+<td>1245595,6</td>
 </tr>
 <tr>
 <td></td>

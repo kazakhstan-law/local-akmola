@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/86418/kaz/09.11.2015
+source: https://zan.gov.kz/client/#!/doc/86418/kaz/24.12.2015
 ---
 
 > *Шортанды аудандық мәслихатының*  
@@ -9,7 +9,7 @@ source: https://zan.gov.kz/client/#!/doc/86418/kaz/09.11.2015
 
 # 2015 жылға арналған аудан бюджеті
 
-> *Ескерту. 1-қосымша жаңа редакцияда - Ақмола облысы Шортанды аудандық мәслихатының 09.11.2015 № С-42/2 шешімімен (01.01.2015 бастап қолданысқа енгізіледі).*
+> *Ескерту. 1-қосымша жаңа редакцияда - Ақмола облысы Шортанды аудандық мәслихатының 24.12.2015 № С-44/5 шешімімен (01.01.2015 бастап қолданысқа енгізіледі).*
 
 <table>
 <tr>
@@ -50,7 +50,7 @@ source: https://zan.gov.kz/client/#!/doc/86418/kaz/09.11.2015
 <td colspan="2"></td>
 <td></td>
 <td colspan="5">I. Кiрiстер</td>
-<td>2980738,0</td>
+<td>2971304,2</td>
 </tr>
 <tr>
 <td>1</td>
@@ -298,7 +298,7 @@ source: https://zan.gov.kz/client/#!/doc/86418/kaz/09.11.2015
 <td colspan="2"></td>
 <td></td>
 <td colspan="5">Трансферттердің түсімдері</td>
-<td>2237242,8</td>
+<td>2227809</td>
 </tr>
 <tr>
 <td></td>
@@ -306,7 +306,7 @@ source: https://zan.gov.kz/client/#!/doc/86418/kaz/09.11.2015
 <td colspan="2"></td>
 <td></td>
 <td colspan="5">Мемлекеттiк басқарудың жоғары тұрған органдарынан түсетiн трансферттер</td>
-<td>2237242,8</td>
+<td>2227809</td>
 </tr>
 <tr>
 <td></td>
@@ -314,7 +314,7 @@ source: https://zan.gov.kz/client/#!/doc/86418/kaz/09.11.2015
 <td colspan="2">2</td>
 <td></td>
 <td colspan="5">Облыстық бюджеттен түсетiн трансферттер</td>
-<td>2237242,8</td>
+<td>2227809</td>
 </tr>
 <tr>
 <td></td>
@@ -322,7 +322,7 @@ source: https://zan.gov.kz/client/#!/doc/86418/kaz/09.11.2015
 <td colspan="2"></td>
 <td></td>
 <td colspan="5">II. Шығындар</td>
-<td>3007636,3</td>
+<td>2998202,5</td>
 </tr>
 <tr>
 <td>01</td>
@@ -546,7 +546,7 @@ source: https://zan.gov.kz/client/#!/doc/86418/kaz/09.11.2015
 <td colspan="2"></td>
 <td></td>
 <td colspan="5">Бiлiм беру</td>
-<td>1599241,6</td>
+<td>1594259,6</td>
 </tr>
 <tr>
 <td></td>
@@ -586,7 +586,7 @@ source: https://zan.gov.kz/client/#!/doc/86418/kaz/09.11.2015
 <td colspan="2"></td>
 <td></td>
 <td colspan="5">Бастауыш, негізгі орта және жалпы орта білім беру</td>
-<td>1297587,8</td>
+<td>1292605,8</td>
 </tr>
 <tr>
 <td></td>
@@ -610,7 +610,7 @@ source: https://zan.gov.kz/client/#!/doc/86418/kaz/09.11.2015
 <td colspan="2">464</td>
 <td></td>
 <td colspan="5">Ауданның (облыстық маңызы бар қаланың) білім беру бөлімі</td>
-<td>1284424,6</td>
+<td>1279442,6</td>
 </tr>
 <tr>
 <td></td>
@@ -618,7 +618,7 @@ source: https://zan.gov.kz/client/#!/doc/86418/kaz/09.11.2015
 <td colspan="2"></td>
 <td>003</td>
 <td colspan="5">Жалпы білім беру</td>
-<td>1250577,6</td>
+<td>1245595,6</td>
 </tr>
 <tr>
 <td></td>
