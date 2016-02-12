@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/97613/kaz/23.12.2015
+source: https://zan.gov.kz/client/#!/doc/97613/kaz/12.02.2016
 ---
 
 > *2015 жылғы 23 желтоқсандағы № 5С 35/2*  
