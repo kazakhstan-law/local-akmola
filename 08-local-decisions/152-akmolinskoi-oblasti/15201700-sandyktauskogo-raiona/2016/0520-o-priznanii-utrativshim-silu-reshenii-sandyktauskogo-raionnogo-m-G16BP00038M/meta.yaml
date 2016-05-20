@@ -1,0 +1,25 @@
+key: G16BP00038M
+akn: /akn/kz/act/2016-05-20/G16BP00038M
+act_code: '107335'
+requisite: Решение Сандыктауского районного маслихата Акмолинской области от 20 мая 2016 года № 3/8
+title:
+  rus: О признании утратившим силу решений Сандыктауского районного маслихата
+  kaz: Сандықтау аудандық мәслихат сессиясының шешімдерінің күшінің жойылуы туралы
+form: РЕШ
+type_codes:
+- РЕШ
+approved_on: 2016-05-20
+in_force_from: 2016-05-20
+approved_by:
+- '152017000002'
+versions:
+- date: 2016-05-20
+  languages:
+  - kaz
+  - rus
+version_date:
+  kaz: 2016-05-20
+  rus: 2016-05-20
+source:
+  kaz: https://zan.gov.kz/client/#!/doc/107335/kaz/20.05.2016
+  rus: https://zan.gov.kz/client/#!/doc/107335/rus/20.05.2016
