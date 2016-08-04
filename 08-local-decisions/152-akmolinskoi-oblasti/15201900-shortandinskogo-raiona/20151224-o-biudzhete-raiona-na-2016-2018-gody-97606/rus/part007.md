@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/97606/rus/14.06.2016
+source: https://zan.gov.kz/client/#!/doc/97606/rus/04.08.2016
 ---
 
 > *Приложение 7*  
@@ -712,11 +712,13 @@ source: https://zan.gov.kz/client/#!/doc/97606/rus/14.06.2016
 </tr>
 </table>
 
-> *Приложение 8*  
-> *решению Шортандинского районного маслихата*  
+> *Приложение 8 к решению*  
+> *Шортандинского районного маслихата*  
 > *№ С-44/2 от 24 декабря 2015 года*
 
 # Трансферты органам местного самоуправления на 2016 год
+
+> *Сноска. Приложение 8 - в редакции решения Шортандинского районного маслихата Акмолинской области от 04.08.2016 № С-6/2 (вводится в действие с 01.01.2016).*
 
 <table>
 <tr>
@@ -759,12 +761,12 @@ source: https://zan.gov.kz/client/#!/doc/97606/rus/14.06.2016
 <td colspan="2">Наименование</td>
 </tr>
 <tr>
-<th>1</th>
-<th>2</th>
-<th>3</th>
-<th>4</th>
-<th>5</th>
-<th>6</th>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
+<td>6</td>
 </tr>
 <tr>
 <td>15</td>
@@ -772,7 +774,7 @@ source: https://zan.gov.kz/client/#!/doc/97606/rus/14.06.2016
 <td></td>
 <td></td>
 <td>Трансферты</td>
-<td>13558</td>
+<td>13600</td>
 </tr>
 <tr>
 <td></td>
@@ -780,7 +782,7 @@ source: https://zan.gov.kz/client/#!/doc/97606/rus/14.06.2016
 <td></td>
 <td></td>
 <td>Трансферты</td>
-<td>13558</td>
+<td>13600</td>
 </tr>
 <tr>
 <td></td>
@@ -788,7 +790,7 @@ source: https://zan.gov.kz/client/#!/doc/97606/rus/14.06.2016
 <td>459</td>
 <td></td>
 <td>Отдел экономики и финансов района (города областного значения)</td>
-<td>13558</td>
+<td>13600</td>
 </tr>
 <tr>
 <td></td>
@@ -796,11 +798,11 @@ source: https://zan.gov.kz/client/#!/doc/97606/rus/14.06.2016
 <td></td>
 <td>051</td>
 <td>Трансферты органам местного самоуправления</td>
-<td>13558</td>
+<td>13600</td>
 </tr>
 </table>
 
-продолжение таблицы
+продолжение таблицы:
 
 <table>
 <tr>
@@ -820,11 +822,11 @@ source: https://zan.gov.kz/client/#!/doc/97606/rus/14.06.2016
 Аппарат акима Андреевского сельского округа
 Сумма
 </td>
-<td rowspan="8">
+<td colspan="2" rowspan="8">
 Аппарат акима Новокубанского сельского округа
 Сумма
 </td>
-<td rowspan="8">
+<td colspan="2" rowspan="8">
 Аппарат акима Новоселовского сельского округа
 Сумма
 </td>
@@ -844,48 +846,48 @@ source: https://zan.gov.kz/client/#!/doc/97606/rus/14.06.2016
 <tr>
 </tr>
 <tr>
-<th>7</th>
-<th>8</th>
-<th>9</th>
-<th>10</th>
-<th>11</th>
-<th>12</th>
+<td>7</td>
+<td>8</td>
+<td>9</td>
+<td>10</td>
+<td colspan="2">11</td>
+<td colspan="2">12</td>
 </tr>
 <tr>
 <td>8926</td>
 <td>1170</td>
 <td>200</td>
-<td>300</td>
-<td>200</td>
-<td>200</td>
+<td>342</td>
+<td colspan="2">200</td>
+<td colspan="2">200</td>
 </tr>
 <tr>
 <td>8926</td>
 <td>1170</td>
 <td>200</td>
-<td>300</td>
-<td>200</td>
-<td>200</td>
+<td>342</td>
+<td colspan="2">200</td>
+<td colspan="2">200</td>
 </tr>
 <tr>
 <td>8926</td>
 <td>1170</td>
 <td>200</td>
-<td>300</td>
-<td>200</td>
-<td>200</td>
+<td>342</td>
+<td colspan="2">200</td>
+<td colspan="2">200</td>
 </tr>
 <tr>
 <td>8926</td>
 <td>1170</td>
 <td>200</td>
-<td>300</td>
-<td>200</td>
-<td>200</td>
+<td>342</td>
+<td colspan="2">200</td>
+<td colspan="2">200</td>
 </tr>
 </table>
 
-продолжение таблицы
+продолжение таблицы:
 
 <table>
 <tr>
@@ -893,19 +895,19 @@ source: https://zan.gov.kz/client/#!/doc/97606/rus/14.06.2016
 Аппарат акима Раевского сельского округа
 Сумма
 </td>
-<td rowspan="8">
+<td colspan="2" rowspan="8">
 Аппарат акима Дамсинского сельского округа
 Сумма
 </td>
-<td rowspan="8">
+<td colspan="2" rowspan="8">
 Аппарат акима сельского округа Бектау
 Сумма
 </td>
-<td rowspan="8">
+<td colspan="2" rowspan="8">
 Аппарат акима Пригородного сельского округа
 Сумма
 </td>
-<td rowspan="8">
+<td colspan="2" rowspan="8">
 Аппарат акима сельского округа Бозайгыр
 Сумма
 </td>
@@ -925,38 +927,38 @@ source: https://zan.gov.kz/client/#!/doc/97606/rus/14.06.2016
 <tr>
 </tr>
 <tr>
-<th>13</th>
-<th>14</th>
-<th>15</th>
-<th>16</th>
-<th>17</th>
+<td>13</td>
+<td colspan="2">14</td>
+<td colspan="2">15</td>
+<td colspan="2">16</td>
+<td colspan="2">17</td>
 </tr>
 <tr>
 <td>200</td>
-<td>1552</td>
-<td>200</td>
-<td>300</td>
-<td>310</td>
+<td colspan="2">1552</td>
+<td colspan="2">200</td>
+<td colspan="2">300</td>
+<td colspan="2">310</td>
 </tr>
 <tr>
 <td>200</td>
-<td>1552</td>
-<td>200</td>
-<td>300</td>
-<td>310</td>
+<td colspan="2">1552</td>
+<td colspan="2">200</td>
+<td colspan="2">300</td>
+<td colspan="2">310</td>
 </tr>
 <tr>
 <td>200</td>
-<td>1552</td>
-<td>200</td>
-<td>300</td>
-<td>310</td>
+<td colspan="2">1552</td>
+<td colspan="2">200</td>
+<td colspan="2">300</td>
+<td colspan="2">310</td>
 </tr>
 <tr>
 <td>200</td>
-<td>1552</td>
-<td>200</td>
-<td>300</td>
-<td>310</td>
+<td colspan="2">1552</td>
+<td colspan="2">200</td>
+<td colspan="2">300</td>
+<td colspan="2">310</td>
 </tr>
 </table>
