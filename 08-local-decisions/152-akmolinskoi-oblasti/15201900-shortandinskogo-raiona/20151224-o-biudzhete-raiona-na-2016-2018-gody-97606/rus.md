@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/97606/rus/04.08.2016
+source: https://zan.gov.kz/client/#!/doc/97606/rus/06.09.2016
 ---
 
 # О бюджете района на 2016-2018 годы
