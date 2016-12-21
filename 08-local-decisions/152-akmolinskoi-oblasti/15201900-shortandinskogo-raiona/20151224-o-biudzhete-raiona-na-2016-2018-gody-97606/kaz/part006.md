@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/97606/kaz/24.11.2016
+source: https://zan.gov.kz/client/#!/doc/97606/kaz/21.12.2016
 ---
 
 > *Шортанды аудандық мәслихатының*  
