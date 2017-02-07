@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/108924/kaz/23.12.2016
+source: https://zan.gov.kz/client/#!/doc/108924/kaz/07.02.2017
 ---
 
 > *Жарқайың аудандық мәслихатының*  
@@ -9,6 +9,8 @@ source: https://zan.gov.kz/client/#!/doc/108924/kaz/23.12.2016
 > *1 қосымша*
 
 # 2017 жылға арналған аудандық бюджет
+
+> *Ескерту. 1-қосымша жаңа редакцияда - Ақмола облысы Жарқайың аудандық мәслихатының 07.02.2017 № 6С-8/2 шешімімен (01.01.2017 бастап қолданысқа енгізіледі).*
 
 <table>
 <tr>
@@ -21,18 +23,18 @@ source: https://zan.gov.kz/client/#!/doc/108924/kaz/23.12.2016
 <tr>
 </tr>
 <tr>
-<th colspan="2">1</th>
-<th>2</th>
-<th colspan="2">3</th>
-<th colspan="3">4</th>
-<th colspan="2">5</th>
+<td colspan="2">1</td>
+<td>2</td>
+<td colspan="2">3</td>
+<td colspan="3">4</td>
+<td colspan="2">5</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td></td>
 <td colspan="2"></td>
 <td colspan="3">I.Кірістер</td>
-<td colspan="2">2632308,0</td>
+<td colspan="2">2639834,6</td>
 </tr>
 <tr>
 <td colspan="2">1</td>
@@ -147,11 +149,18 @@ source: https://zan.gov.kz/client/#!/doc/108924/kaz/23.12.2016
 <td colspan="2">2518,0</td>
 </tr>
 <tr>
+<td colspan="2">1</td>
+<td>2</td>
+<td colspan="2">3</td>
+<td colspan="3">4</td>
+<td colspan="2">5</td>
+</tr>
+<tr>
 <td colspan="2">2</td>
 <td></td>
 <td colspan="2"></td>
 <td colspan="3">Салықтық емес түсiмдер</td>
-<td colspan="2">8901,0</td>
+<td colspan="2">16427,6</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -168,13 +177,6 @@ source: https://zan.gov.kz/client/#!/doc/108924/kaz/23.12.2016
 <td colspan="2">4580,0</td>
 </tr>
 <tr>
-<th colspan="2">1</th>
-<th>2</th>
-<th colspan="2">3</th>
-<th colspan="3">4</th>
-<th colspan="2">5</th>
-</tr>
-<tr>
 <td colspan="2"></td>
 <td></td>
 <td colspan="2">7</td>
@@ -186,14 +188,14 @@ source: https://zan.gov.kz/client/#!/doc/108924/kaz/23.12.2016
 <td>06</td>
 <td colspan="2"></td>
 <td colspan="3">Басқа да салықтық емес түсiмдер</td>
-<td colspan="2">4318,0</td>
+<td colspan="2">11844,6</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td></td>
 <td colspan="2">1</td>
 <td colspan="3">Басқа да салықтық емес түсiмдер</td>
-<td colspan="2">4318,0</td>
+<td colspan="2">11844,6</td>
 </tr>
 <tr>
 <td colspan="2">3</td>
@@ -248,18 +250,18 @@ source: https://zan.gov.kz/client/#!/doc/108924/kaz/23.12.2016
 <td colspan="2">Сома мың теңге</td>
 </tr>
 <tr>
-<th>1</th>
-<th colspan="3">2</th>
-<th colspan="2">3</th>
-<th>4</th>
-<th colspan="2">5</th>
+<td>1</td>
+<td colspan="3">2</td>
+<td colspan="2">3</td>
+<td>4</td>
+<td colspan="2">5</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td>II. Шығындар</td>
-<td colspan="2">2621595,0</td>
+<td colspan="2">2629121,6</td>
 </tr>
 <tr>
 <td>01</td>
@@ -304,18 +306,18 @@ source: https://zan.gov.kz/client/#!/doc/108924/kaz/23.12.2016
 <td colspan="2">4556,0</td>
 </tr>
 <tr>
+<td>1</td>
+<td colspan="3">2</td>
+<td colspan="2">3</td>
+<td>4</td>
+<td colspan="2">5</td>
+</tr>
+<tr>
 <td></td>
 <td colspan="3">123</td>
 <td colspan="2"></td>
 <td>Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл, ауылдық округ әкімінің аппараты</td>
 <td colspan="2">163245,0</td>
-</tr>
-<tr>
-<th>1</th>
-<th colspan="3">2</th>
-<th colspan="2">3</th>
-<th>4</th>
-<th colspan="2">5</th>
 </tr>
 <tr>
 <td></td>
@@ -409,18 +411,18 @@ source: https://zan.gov.kz/client/#!/doc/108924/kaz/23.12.2016
 <td colspan="2">3560,0</td>
 </tr>
 <tr>
+<td>1</td>
+<td colspan="3">2</td>
+<td colspan="2">3</td>
+<td>4</td>
+<td colspan="2">5</td>
+</tr>
+<tr>
 <td></td>
 <td colspan="3"></td>
 <td colspan="2">006</td>
 <td>Аудан (облыстық маңызы бар қала) ауқымындағы төтенше жағдайлардың алдын алу және оларды жою</td>
 <td colspan="2">1516,0</td>
-</tr>
-<tr>
-<th>1</th>
-<th colspan="3">2</th>
-<th colspan="2">3</th>
-<th>4</th>
-<th colspan="2">5</th>
 </tr>
 <tr>
 <td></td>
@@ -476,7 +478,7 @@ source: https://zan.gov.kz/client/#!/doc/108924/kaz/23.12.2016
 <td colspan="3"></td>
 <td colspan="2">003</td>
 <td>Жалпы білім беру</td>
-<td colspan="2">1157487,0</td>
+<td colspan="2">1152712,7</td>
 </tr>
 <tr>
 <td></td>
@@ -514,6 +516,13 @@ source: https://zan.gov.kz/client/#!/doc/108924/kaz/23.12.2016
 <td colspan="2">11919,0</td>
 </tr>
 <tr>
+<td>1</td>
+<td colspan="3">2</td>
+<td colspan="2">3</td>
+<td>4</td>
+<td colspan="2">5</td>
+</tr>
+<tr>
 <td></td>
 <td colspan="3"></td>
 <td colspan="2">022</td>
@@ -521,25 +530,18 @@ source: https://zan.gov.kz/client/#!/doc/108924/kaz/23.12.2016
 <td colspan="2">342,0</td>
 </tr>
 <tr>
-<th>1</th>
-<th colspan="3">2</th>
-<th colspan="2">3</th>
-<th>4</th>
-<th colspan="2">5</th>
-</tr>
-<tr>
 <td></td>
 <td colspan="3"></td>
 <td colspan="2">040</td>
 <td>Мектепке дейінгі білім беру ұйымдарында мемлекеттік білім беру тапсырысын іске асыруға</td>
-<td colspan="2">49242,0</td>
+<td colspan="2">48955,9</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="3"></td>
 <td colspan="2">067</td>
 <td>Ведомстволық бағыныстағы мемлекеттік мекемелерінің және ұйымдарының күрделі шығыстары</td>
-<td colspan="2">51132,0</td>
+<td colspan="2">56192,4</td>
 </tr>
 <tr>
 <td></td>
@@ -633,18 +635,18 @@ source: https://zan.gov.kz/client/#!/doc/108924/kaz/23.12.2016
 <td colspan="2">5389,0</td>
 </tr>
 <tr>
+<td>1</td>
+<td colspan="3">2</td>
+<td colspan="2">3</td>
+<td>4</td>
+<td colspan="2">5</td>
+</tr>
+<tr>
 <td></td>
 <td colspan="3"></td>
 <td colspan="2">017</td>
 <td>Мүгедектерді оңалту жеке бағдарламасына сәйкес, мұқтаж мүгедектерді міндетті гигиеналық құралдармен және ымдау тілі мамандарының қызмет көрсетуін, жеке көмекшілермен қамтамасыз ету</td>
 <td colspan="2">4157,0</td>
-</tr>
-<tr>
-<th>1</th>
-<th colspan="3">2</th>
-<th colspan="2">3</th>
-<th>4</th>
-<th colspan="2">5</th>
 </tr>
 <tr>
 <td></td>
@@ -731,6 +733,13 @@ source: https://zan.gov.kz/client/#!/doc/108924/kaz/23.12.2016
 <td colspan="2">8000,0</td>
 </tr>
 <tr>
+<td>1</td>
+<td colspan="3">2</td>
+<td colspan="2">3</td>
+<td>4</td>
+<td colspan="2">5</td>
+</tr>
+<tr>
 <td></td>
 <td colspan="3">492</td>
 <td colspan="2"></td>
@@ -750,13 +759,6 @@ source: https://zan.gov.kz/client/#!/doc/108924/kaz/23.12.2016
 <td colspan="2">011</td>
 <td>Шағын қалаларды жылумен жабдықтауды үздіксіз қамтамасыз ету</td>
 <td colspan="2">26000,0</td>
-</tr>
-<tr>
-<th>1</th>
-<th colspan="3">2</th>
-<th colspan="2">3</th>
-<th>4</th>
-<th colspan="2">5</th>
 </tr>
 <tr>
 <td></td>
@@ -857,6 +859,13 @@ source: https://zan.gov.kz/client/#!/doc/108924/kaz/23.12.2016
 <td colspan="2">10256,0</td>
 </tr>
 <tr>
+<td>1</td>
+<td colspan="3">2</td>
+<td colspan="2">3</td>
+<td>4</td>
+<td colspan="2">5</td>
+</tr>
+<tr>
 <td></td>
 <td colspan="3"></td>
 <td colspan="2">002</td>
@@ -876,13 +885,6 @@ source: https://zan.gov.kz/client/#!/doc/108924/kaz/23.12.2016
 <td colspan="2"></td>
 <td>Ауданның (облыстық маңызы бар қаланың) дене шынықтыру және спорт бөлімі</td>
 <td colspan="2">160281,0</td>
-</tr>
-<tr>
-<th>1</th>
-<th colspan="3">2</th>
-<th colspan="2">3</th>
-<th>4</th>
-<th colspan="2">5</th>
 </tr>
 <tr>
 <td></td>
@@ -976,6 +978,13 @@ source: https://zan.gov.kz/client/#!/doc/108924/kaz/23.12.2016
 <td colspan="2">52426,0</td>
 </tr>
 <tr>
+<td>1</td>
+<td colspan="3">2</td>
+<td colspan="2">3</td>
+<td>4</td>
+<td colspan="2">5</td>
+</tr>
+<tr>
 <td></td>
 <td colspan="3"></td>
 <td colspan="2">001</td>
@@ -988,13 +997,6 @@ source: https://zan.gov.kz/client/#!/doc/108924/kaz/23.12.2016
 <td colspan="2">005</td>
 <td>Мал көмінділерінің (биотермиялық шұңқырлардың) жұмыс істеуін қамтамасыз ету</td>
 <td colspan="2">880,0</td>
-</tr>
-<tr>
-<th>1</th>
-<th colspan="3">2</th>
-<th colspan="2">3</th>
-<th>4</th>
-<th colspan="2">5</th>
 </tr>
 <tr>
 <td></td>
@@ -1095,6 +1097,13 @@ source: https://zan.gov.kz/client/#!/doc/108924/kaz/23.12.2016
 <td colspan="2">30000,0</td>
 </tr>
 <tr>
+<td>1</td>
+<td colspan="3">2</td>
+<td colspan="2">3</td>
+<td>4</td>
+<td colspan="2">5</td>
+</tr>
+<tr>
 <td></td>
 <td colspan="3"></td>
 <td colspan="2">037</td>
@@ -1107,13 +1116,6 @@ source: https://zan.gov.kz/client/#!/doc/108924/kaz/23.12.2016
 <td colspan="2"></td>
 <td>Басқалар</td>
 <td colspan="2">17491,0</td>
-</tr>
-<tr>
-<th>1</th>
-<th colspan="3">2</th>
-<th colspan="2">3</th>
-<th>4</th>
-<th colspan="2">5</th>
 </tr>
 <tr>
 <td></td>
@@ -1183,14 +1185,21 @@ source: https://zan.gov.kz/client/#!/doc/108924/kaz/23.12.2016
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td>Трансферттер</td>
-<td colspan="2">58000,0</td>
+<td colspan="2">65526,0</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="3">459</td>
 <td colspan="2"></td>
 <td>Ауданның (облыстық маңызы бар қаланың) экономика және қаржы бөлімі</td>
-<td colspan="2">58000,0</td>
+<td colspan="2">65526,0</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="3"></td>
+<td colspan="2">006</td>
+<td>Нысаналы пайдаланылмаған (толық пайдаланылмаған) трансферттерді қайтару</td>
+<td colspan="2">7526,0</td>
 </tr>
 <tr>
 <td></td>
@@ -1228,6 +1237,13 @@ source: https://zan.gov.kz/client/#!/doc/108924/kaz/23.12.2016
 <td colspan="2">1200000,0</td>
 </tr>
 <tr>
+<td>1</td>
+<td colspan="3">2</td>
+<td colspan="2">3</td>
+<td>4</td>
+<td colspan="2">5</td>
+</tr>
+<tr>
 <td></td>
 <td colspan="3"></td>
 <td colspan="2">053</td>
@@ -1240,13 +1256,6 @@ source: https://zan.gov.kz/client/#!/doc/108924/kaz/23.12.2016
 <td colspan="2"></td>
 <td>Ауыл, су, орман, балық шаруашылығы, ерекше қорғалатын табиғи аумақтар, қоршаған ортаны және жануарлар дүниесін қорғау, жер қатынастары</td>
 <td colspan="2">6807,0</td>
-</tr>
-<tr>
-<th>1</th>
-<th colspan="3">2</th>
-<th colspan="2">3</th>
-<th>4</th>
-<th colspan="2">5</th>
 </tr>
 <tr>
 <td></td>
@@ -3886,176 +3895,5 @@ source: https://zan.gov.kz/client/#!/doc/108924/kaz/23.12.2016
 </tr>
 <tr>
 <td>Жалпы білім беру</td>
-</tr>
-</table>
-
-> *Жарқайың аудандық мәслихатының*  
-> *2016 жылғы 23 желтоқсандағы*  
-> *№ 6С-7/3 шешіміне*  
-> *7 қосымша*
-
-# 2017 жылға арналған аудандық маңызы бар қала, кент, ауыл, ауылдық округтерінің бюджеттік бағдарламалары
-
-<table>
-<tr>
-<td>Функционалдық топ</td>
-<td>Бюджеттік бағдарламалардың әкімшісі</td>
-<td>Бағдарлама</td>
-<td>Атауы</td>
-<td>Сома мың теңге</td>
-</tr>
-<tr>
-<th>1</th>
-<th>2</th>
-<th>3</th>
-<th>4</th>
-<th>5</th>
-</tr>
-<tr>
-<td>01</td>
-<td></td>
-<td></td>
-<td>Жалпы сипаттағы мемлекеттiк қызметтер</td>
-<td>163245,0</td>
-</tr>
-<tr>
-<td></td>
-<td>123</td>
-<td></td>
-<td>Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл, ауылдық округ әкімінің аппараты</td>
-<td>163245,0</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>001</td>
-<td>Қаладағы аудан, аудандық маңызы бар қаланың, кент, ауыл, ауылдық округ әкімінің қызметін қамтамасыз ету жөніндегі қызметтер</td>
-<td>163245,0</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td>Державин қаласы әкімінің аппараты</td>
-<td>22206,0</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td>Жарқайың ауданы Уәлихан ауылдық округі әкімінің аппараты</td>
-<td>10202,0</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td>Жарқайың ауданы Костычево ауылдық округі әкімінің аппараты</td>
-<td>9909,0</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td>Жарқайың ауданы Нахимов ауылдық округі әкімінің аппараты</td>
-<td>9186,0</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td>Жарқайың ауданы Отрадный ауылдық округі әкімінің аппараты</td>
-<td>8351,0</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td>Жарқайың ауданы Жаңадала ауылдық округі әкімінің аппараты</td>
-<td>14518,0</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td>Жарқайың ауданының Бірсуат ауылы әкімінің аппараты</td>
-<td>7986,0</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td>Жарқайың ауданының Гастелло ауылы әкімінің аппараты</td>
-<td>8077,0</td>
-</tr>
-<tr>
-<th>1</th>
-<th>2</th>
-<th>3</th>
-<th>4</th>
-<th>5</th>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td>Жарқайың ауданының Далабай ауылы әкімінің аппараты</td>
-<td>7894,0</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td>Жарқайың ауданының Құмсуат ауылы әкімінің аппараты</td>
-<td>7972,0</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td>Жарқайың ауданының Львов ауылы әкімінің аппараты</td>
-<td>7575,0</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td>Жарқайың ауданының Пригород ауылы әкімінің аппараты</td>
-<td>8986,0</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td>Жарқайың ауданының Пятигор ауылы әкімінің аппараты</td>
-<td>8946,0</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td>Жарқайың ауданының Тасөткел ауылы әкімінің аппараты</td>
-<td>8417,0</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td>Жарқайың ауданының Тассуат ауылы әкімінің аппараты</td>
-<td>7427,0</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td>Жарқайың ауданының Үшқарасу ауылы әкімінің аппараты</td>
-<td>7376,0</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td>Жарқайың ауданының Шойындыкөл ауылы әкімінің аппараты</td>
-<td>8217,0</td>
 </tr>
 </table>
