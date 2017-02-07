@@ -4,17 +4,17 @@
 
 1. 2017-2019 жылдарға арналған аудандық бюджеттің тиісінше 1, 2 және 3 қосымшаларына сәйкес, оның ішінде 2017 жылға келесі көлемдерде бекітілсін:
 
-   1) кірістер - 2632308,0 мың теңге, оның ішінде:
+   1) кірістер - 2639834,6 мың теңге, оның ішінде:
 
       салықтық түсімдер - 431814,0 мың теңге;
 
-      салықтық емес түсімдер - 8901,0 мың теңге;
+      салықтық емес түсімдер - 16427,6 мың теңге;
 
       негізгі капиталды сатудан түсетін түсімдер - 24139,0 мың теңге;
 
       трансферттер түсімі - 2167454,0 мың теңге;
 
-   2) шығындар - 2621595,0 мың теңге;
+   2) шығындар - 2629121,6 мың теңге;
 
    3) таза бюджеттік кредиттеу - 1204831,0 мың теңге, оның ішінде:
 
@@ -29,6 +29,8 @@
    5) бюджет тапшылығы (профициті) - -1204831,0 мың теңге;
 
    6) бюджет тапшылығын қаржыландыру (профицитін пайдалану) - 1204831,0 мың теңге.
+
+> *Ескерту. 1-тармақ жаңа редакцияда - Ақмола облысы Жарқайың аудандық мәслихатының 07.02.2017 № 6С-8/2 шешімімен (01.01.2017 бастап қолданысқа енгізіледі).*
 
 2. 2017 жылға арналған аудандық бюджетте облыстық бюджеттен трансферттер қарастырылғаны ескерілсін, оның ішінде субвенциялар 1904243,0 мың теңге.
 
@@ -72,6 +74,8 @@
 
 # 2017 жылға арналған аудандық бюджет
 
+> *Ескерту. 1-қосымша жаңа редакцияда - Ақмола облысы Жарқайың аудандық мәслихатының 07.02.2017 № 6С-8/2 шешімімен (01.01.2017 бастап қолданысқа енгізіледі).*
+
 <table>
 <tr>
 <td colspan="2" rowspan="2">Санаты</td>
@@ -83,18 +87,18 @@
 <tr>
 </tr>
 <tr>
-<th colspan="2">1</th>
-<th>2</th>
-<th colspan="2">3</th>
-<th colspan="3">4</th>
-<th colspan="2">5</th>
+<td colspan="2">1</td>
+<td>2</td>
+<td colspan="2">3</td>
+<td colspan="3">4</td>
+<td colspan="2">5</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td></td>
 <td colspan="2"></td>
 <td colspan="3">I.Кірістер</td>
-<td colspan="2">2632308,0</td>
+<td colspan="2">2639834,6</td>
 </tr>
 <tr>
 <td colspan="2">1</td>
@@ -209,11 +213,18 @@
 <td colspan="2">2518,0</td>
 </tr>
 <tr>
+<td colspan="2">1</td>
+<td>2</td>
+<td colspan="2">3</td>
+<td colspan="3">4</td>
+<td colspan="2">5</td>
+</tr>
+<tr>
 <td colspan="2">2</td>
 <td></td>
 <td colspan="2"></td>
 <td colspan="3">Салықтық емес түсiмдер</td>
-<td colspan="2">8901,0</td>
+<td colspan="2">16427,6</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -230,13 +241,6 @@
 <td colspan="2">4580,0</td>
 </tr>
 <tr>
-<th colspan="2">1</th>
-<th>2</th>
-<th colspan="2">3</th>
-<th colspan="3">4</th>
-<th colspan="2">5</th>
-</tr>
-<tr>
 <td colspan="2"></td>
 <td></td>
 <td colspan="2">7</td>
@@ -248,14 +252,14 @@
 <td>06</td>
 <td colspan="2"></td>
 <td colspan="3">Басқа да салықтық емес түсiмдер</td>
-<td colspan="2">4318,0</td>
+<td colspan="2">11844,6</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td></td>
 <td colspan="2">1</td>
 <td colspan="3">Басқа да салықтық емес түсiмдер</td>
-<td colspan="2">4318,0</td>
+<td colspan="2">11844,6</td>
 </tr>
 <tr>
 <td colspan="2">3</td>
@@ -310,18 +314,18 @@
 <td colspan="2">Сома мың теңге</td>
 </tr>
 <tr>
-<th>1</th>
-<th colspan="3">2</th>
-<th colspan="2">3</th>
-<th>4</th>
-<th colspan="2">5</th>
+<td>1</td>
+<td colspan="3">2</td>
+<td colspan="2">3</td>
+<td>4</td>
+<td colspan="2">5</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td>II. Шығындар</td>
-<td colspan="2">2621595,0</td>
+<td colspan="2">2629121,6</td>
 </tr>
 <tr>
 <td>01</td>
@@ -366,18 +370,18 @@
 <td colspan="2">4556,0</td>
 </tr>
 <tr>
+<td>1</td>
+<td colspan="3">2</td>
+<td colspan="2">3</td>
+<td>4</td>
+<td colspan="2">5</td>
+</tr>
+<tr>
 <td></td>
 <td colspan="3">123</td>
 <td colspan="2"></td>
 <td>Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл, ауылдық округ әкімінің аппараты</td>
 <td colspan="2">163245,0</td>
-</tr>
-<tr>
-<th>1</th>
-<th colspan="3">2</th>
-<th colspan="2">3</th>
-<th>4</th>
-<th colspan="2">5</th>
 </tr>
 <tr>
 <td></td>
@@ -471,18 +475,18 @@
 <td colspan="2">3560,0</td>
 </tr>
 <tr>
+<td>1</td>
+<td colspan="3">2</td>
+<td colspan="2">3</td>
+<td>4</td>
+<td colspan="2">5</td>
+</tr>
+<tr>
 <td></td>
 <td colspan="3"></td>
 <td colspan="2">006</td>
 <td>Аудан (облыстық маңызы бар қала) ауқымындағы төтенше жағдайлардың алдын алу және оларды жою</td>
 <td colspan="2">1516,0</td>
-</tr>
-<tr>
-<th>1</th>
-<th colspan="3">2</th>
-<th colspan="2">3</th>
-<th>4</th>
-<th colspan="2">5</th>
 </tr>
 <tr>
 <td></td>
@@ -538,7 +542,7 @@
 <td colspan="3"></td>
 <td colspan="2">003</td>
 <td>Жалпы білім беру</td>
-<td colspan="2">1157487,0</td>
+<td colspan="2">1152712,7</td>
 </tr>
 <tr>
 <td></td>
@@ -576,6 +580,13 @@
 <td colspan="2">11919,0</td>
 </tr>
 <tr>
+<td>1</td>
+<td colspan="3">2</td>
+<td colspan="2">3</td>
+<td>4</td>
+<td colspan="2">5</td>
+</tr>
+<tr>
 <td></td>
 <td colspan="3"></td>
 <td colspan="2">022</td>
@@ -583,25 +594,18 @@
 <td colspan="2">342,0</td>
 </tr>
 <tr>
-<th>1</th>
-<th colspan="3">2</th>
-<th colspan="2">3</th>
-<th>4</th>
-<th colspan="2">5</th>
-</tr>
-<tr>
 <td></td>
 <td colspan="3"></td>
 <td colspan="2">040</td>
 <td>Мектепке дейінгі білім беру ұйымдарында мемлекеттік білім беру тапсырысын іске асыруға</td>
-<td colspan="2">49242,0</td>
+<td colspan="2">48955,9</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="3"></td>
 <td colspan="2">067</td>
 <td>Ведомстволық бағыныстағы мемлекеттік мекемелерінің және ұйымдарының күрделі шығыстары</td>
-<td colspan="2">51132,0</td>
+<td colspan="2">56192,4</td>
 </tr>
 <tr>
 <td></td>
@@ -695,18 +699,18 @@
 <td colspan="2">5389,0</td>
 </tr>
 <tr>
+<td>1</td>
+<td colspan="3">2</td>
+<td colspan="2">3</td>
+<td>4</td>
+<td colspan="2">5</td>
+</tr>
+<tr>
 <td></td>
 <td colspan="3"></td>
 <td colspan="2">017</td>
 <td>Мүгедектерді оңалту жеке бағдарламасына сәйкес, мұқтаж мүгедектерді міндетті гигиеналық құралдармен және ымдау тілі мамандарының қызмет көрсетуін, жеке көмекшілермен қамтамасыз ету</td>
 <td colspan="2">4157,0</td>
-</tr>
-<tr>
-<th>1</th>
-<th colspan="3">2</th>
-<th colspan="2">3</th>
-<th>4</th>
-<th colspan="2">5</th>
 </tr>
 <tr>
 <td></td>
@@ -793,6 +797,13 @@
 <td colspan="2">8000,0</td>
 </tr>
 <tr>
+<td>1</td>
+<td colspan="3">2</td>
+<td colspan="2">3</td>
+<td>4</td>
+<td colspan="2">5</td>
+</tr>
+<tr>
 <td></td>
 <td colspan="3">492</td>
 <td colspan="2"></td>
@@ -812,13 +823,6 @@
 <td colspan="2">011</td>
 <td>Шағын қалаларды жылумен жабдықтауды үздіксіз қамтамасыз ету</td>
 <td colspan="2">26000,0</td>
-</tr>
-<tr>
-<th>1</th>
-<th colspan="3">2</th>
-<th colspan="2">3</th>
-<th>4</th>
-<th colspan="2">5</th>
 </tr>
 <tr>
 <td></td>
@@ -919,6 +923,13 @@
 <td colspan="2">10256,0</td>
 </tr>
 <tr>
+<td>1</td>
+<td colspan="3">2</td>
+<td colspan="2">3</td>
+<td>4</td>
+<td colspan="2">5</td>
+</tr>
+<tr>
 <td></td>
 <td colspan="3"></td>
 <td colspan="2">002</td>
@@ -938,13 +949,6 @@
 <td colspan="2"></td>
 <td>Ауданның (облыстық маңызы бар қаланың) дене шынықтыру және спорт бөлімі</td>
 <td colspan="2">160281,0</td>
-</tr>
-<tr>
-<th>1</th>
-<th colspan="3">2</th>
-<th colspan="2">3</th>
-<th>4</th>
-<th colspan="2">5</th>
 </tr>
 <tr>
 <td></td>
@@ -1038,6 +1042,13 @@
 <td colspan="2">52426,0</td>
 </tr>
 <tr>
+<td>1</td>
+<td colspan="3">2</td>
+<td colspan="2">3</td>
+<td>4</td>
+<td colspan="2">5</td>
+</tr>
+<tr>
 <td></td>
 <td colspan="3"></td>
 <td colspan="2">001</td>
@@ -1050,13 +1061,6 @@
 <td colspan="2">005</td>
 <td>Мал көмінділерінің (биотермиялық шұңқырлардың) жұмыс істеуін қамтамасыз ету</td>
 <td colspan="2">880,0</td>
-</tr>
-<tr>
-<th>1</th>
-<th colspan="3">2</th>
-<th colspan="2">3</th>
-<th>4</th>
-<th colspan="2">5</th>
 </tr>
 <tr>
 <td></td>
@@ -1157,6 +1161,13 @@
 <td colspan="2">30000,0</td>
 </tr>
 <tr>
+<td>1</td>
+<td colspan="3">2</td>
+<td colspan="2">3</td>
+<td>4</td>
+<td colspan="2">5</td>
+</tr>
+<tr>
 <td></td>
 <td colspan="3"></td>
 <td colspan="2">037</td>
@@ -1169,13 +1180,6 @@
 <td colspan="2"></td>
 <td>Басқалар</td>
 <td colspan="2">17491,0</td>
-</tr>
-<tr>
-<th>1</th>
-<th colspan="3">2</th>
-<th colspan="2">3</th>
-<th>4</th>
-<th colspan="2">5</th>
 </tr>
 <tr>
 <td></td>
@@ -1245,14 +1249,21 @@
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td>Трансферттер</td>
-<td colspan="2">58000,0</td>
+<td colspan="2">65526,0</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="3">459</td>
 <td colspan="2"></td>
 <td>Ауданның (облыстық маңызы бар қаланың) экономика және қаржы бөлімі</td>
-<td colspan="2">58000,0</td>
+<td colspan="2">65526,0</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="3"></td>
+<td colspan="2">006</td>
+<td>Нысаналы пайдаланылмаған (толық пайдаланылмаған) трансферттерді қайтару</td>
+<td colspan="2">7526,0</td>
 </tr>
 <tr>
 <td></td>
@@ -1290,6 +1301,13 @@
 <td colspan="2">1200000,0</td>
 </tr>
 <tr>
+<td>1</td>
+<td colspan="3">2</td>
+<td colspan="2">3</td>
+<td>4</td>
+<td colspan="2">5</td>
+</tr>
+<tr>
 <td></td>
 <td colspan="3"></td>
 <td colspan="2">053</td>
@@ -1302,13 +1320,6 @@
 <td colspan="2"></td>
 <td>Ауыл, су, орман, балық шаруашылығы, ерекше қорғалатын табиғи аумақтар, қоршаған ортаны және жануарлар дүниесін қорғау, жер қатынастары</td>
 <td colspan="2">6807,0</td>
-</tr>
-<tr>
-<th>1</th>
-<th colspan="3">2</th>
-<th colspan="2">3</th>
-<th>4</th>
-<th colspan="2">5</th>
 </tr>
 <tr>
 <td></td>
