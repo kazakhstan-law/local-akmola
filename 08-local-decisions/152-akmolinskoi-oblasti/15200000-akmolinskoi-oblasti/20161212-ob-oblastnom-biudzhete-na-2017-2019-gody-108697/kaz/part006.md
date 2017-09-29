@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/108697/kaz/29.05.2017
+source: https://zan.gov.kz/client/#!/doc/108697/kaz/29.09.2017
 ---
 
 > *Ақмола облыстық мәслихатының*  
