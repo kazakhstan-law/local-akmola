@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/109221/kaz/14.07.2017
+source: https://zan.gov.kz/client/#!/doc/109221/kaz/17.10.2017
 ---
 
 > *Есіл аудандық мәслихатының*  
