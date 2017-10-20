@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/109397/kaz/18.08.2017
+source: https://zan.gov.kz/client/#!/doc/109397/kaz/20.10.2017
 ---
 
 > *Бұланды аудандық мәслихатының*  
