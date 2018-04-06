@@ -1,40 +1,41 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/117570/kaz/22.12.2017
+source: https://zan.gov.kz/client/#!/doc/117570/kaz/06.04.2018
 ---
 
 > *Жарқайың аудандық мәслихатының*  
-> *2017 жылғы 22 желтоқсандағы № 6С-17/2 шешіміне*  
+> *2017 жылғы 22 желтоқсандағы*  
+> *№ 6С-17/2 шешіміне*  
 > *1 қосымша*
 
 # 2018 жылға арналған аудандық бюджет
 
+> *Ескерту. 1-қосымша жаңа редакцияда - Ақмола облысы Жарқайың аудандық мәслихатының 06.04.2018 № 6С-21/2 (01.01.2018 бастап қолданысқа енгізіледі) шешімімен.*
+
 <table>
 <tr>
-<td colspan="2" rowspan="2">Санаты</td>
-<td rowspan="2">Сыныбы</td>
-<td colspan="2" rowspan="2">Кіші сыныбы</td>
-<td colspan="3" rowspan="2">Атауы</td>
-<td colspan="2" rowspan="2">
+<td colspan="2">Санаты</td>
+<td>Сыныбы</td>
+<td colspan="2">Кіші сыныбы</td>
+<td colspan="3">Атауы</td>
+<td colspan="2">
 Сома
 мың теңге
 </td>
 </tr>
 <tr>
-</tr>
-<tr>
-<th colspan="2">1</th>
-<th>2</th>
-<th colspan="2">3</th>
-<th colspan="3">4</th>
-<th colspan="2">5</th>
+<td colspan="2">1</td>
+<td>2</td>
+<td colspan="2">3</td>
+<td colspan="3">4</td>
+<td colspan="2">5</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td></td>
 <td colspan="2"></td>
 <td colspan="3">I.Кірістер</td>
-<td colspan="2">2575458,0</td>
+<td colspan="2">2578358,0</td>
 </tr>
 <tr>
 <td colspan="2">1</td>
@@ -156,6 +157,13 @@ source: https://zan.gov.kz/client/#!/doc/117570/kaz/22.12.2017
 <td colspan="2">11218,0</td>
 </tr>
 <tr>
+<td colspan="2">1</td>
+<td>2</td>
+<td colspan="2">3</td>
+<td colspan="3">4</td>
+<td colspan="2">5</td>
+</tr>
+<tr>
 <td colspan="2"></td>
 <td>01</td>
 <td colspan="2"></td>
@@ -168,13 +176,6 @@ source: https://zan.gov.kz/client/#!/doc/117570/kaz/22.12.2017
 <td colspan="2">5</td>
 <td colspan="3">Мемлекет меншігіндегі мүлікті жалға беруден түсетін кірістер</td>
 <td colspan="2">4809,0</td>
-</tr>
-<tr>
-<th colspan="2">1</th>
-<th>2</th>
-<th colspan="2">3</th>
-<th colspan="3">4</th>
-<th colspan="2">5</th>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -265,21 +266,21 @@ source: https://zan.gov.kz/client/#!/doc/117570/kaz/22.12.2017
 <td></td>
 <td colspan="2"></td>
 <td colspan="3">Трансферттер түсімі</td>
-<td colspan="2">2136045,0</td>
+<td colspan="2">2138945,0</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td>02</td>
 <td colspan="2"></td>
 <td colspan="3">Мемлекеттiк басқарудың жоғары тұрған органдарынан түсетiн трансферттер</td>
-<td colspan="2">2136045,0</td>
+<td colspan="2">2138945,0</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td></td>
 <td colspan="2">2</td>
 <td colspan="3">Облыстық бюджеттен түсетін трансферттер</td>
-<td colspan="2">2136045,0</td>
+<td colspan="2">2138945,0</td>
 </tr>
 </table>
 
@@ -292,18 +293,18 @@ source: https://zan.gov.kz/client/#!/doc/117570/kaz/22.12.2017
 <td colspan="2">Сома мың теңге</td>
 </tr>
 <tr>
-<th>1</th>
-<th colspan="3">2</th>
-<th colspan="2">3</th>
-<th>4</th>
-<th colspan="2">5</th>
+<td>1</td>
+<td colspan="3">2</td>
+<td colspan="2">3</td>
+<td>4</td>
+<td colspan="2">5</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td>II. Шығындар</td>
-<td colspan="2">2575458,0</td>
+<td colspan="2">2579949,5</td>
 </tr>
 <tr>
 <td>01</td>
@@ -390,18 +391,18 @@ source: https://zan.gov.kz/client/#!/doc/117570/kaz/22.12.2017
 <td colspan="2">600,0</td>
 </tr>
 <tr>
+<td>1</td>
+<td colspan="3">2</td>
+<td colspan="2">3</td>
+<td>4</td>
+<td colspan="2">5</td>
+</tr>
+<tr>
 <td></td>
 <td colspan="3"></td>
 <td colspan="2">010</td>
 <td>Жекешелендіру, коммуналдық меншікті басқару, жекешелендіруден кейінгі қызмет және осыған байланысты дауларды реттеу</td>
 <td colspan="2">500,0</td>
-</tr>
-<tr>
-<th>1</th>
-<th colspan="3">2</th>
-<th colspan="2">3</th>
-<th>4</th>
-<th colspan="2">5</th>
 </tr>
 <tr>
 <td></td>
@@ -502,11 +503,11 @@ source: https://zan.gov.kz/client/#!/doc/117570/kaz/22.12.2017
 <td colspan="2">1535837,0</td>
 </tr>
 <tr>
-<th>1</th>
-<th colspan="3">2</th>
-<th colspan="2">3</th>
-<th>4</th>
-<th colspan="2">5</th>
+<td>1</td>
+<td colspan="3">2</td>
+<td colspan="2">3</td>
+<td>4</td>
+<td colspan="2">5</td>
 </tr>
 <tr>
 <td></td>
@@ -607,11 +608,11 @@ source: https://zan.gov.kz/client/#!/doc/117570/kaz/22.12.2017
 <td colspan="2">24817,0</td>
 </tr>
 <tr>
-<th>1</th>
-<th colspan="3">2</th>
-<th colspan="2">3</th>
-<th>4</th>
-<th colspan="2">5</th>
+<td>1</td>
+<td colspan="3">2</td>
+<td colspan="2">3</td>
+<td>4</td>
+<td colspan="2">5</td>
 </tr>
 <tr>
 <td></td>
@@ -712,11 +713,11 @@ source: https://zan.gov.kz/client/#!/doc/117570/kaz/22.12.2017
 <td colspan="2">48,0</td>
 </tr>
 <tr>
-<th>1</th>
-<th colspan="3">2</th>
-<th colspan="2">3</th>
-<th>4</th>
-<th colspan="2">5</th>
+<td>1</td>
+<td colspan="3">2</td>
+<td colspan="2">3</td>
+<td>4</td>
+<td colspan="2">5</td>
 </tr>
 <tr>
 <td></td>
@@ -730,7 +731,7 @@ source: https://zan.gov.kz/client/#!/doc/117570/kaz/22.12.2017
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td>Тұрғын үй-коммуналдық шаруашылық</td>
-<td colspan="2">68715,0</td>
+<td colspan="2">71615,0</td>
 </tr>
 <tr>
 <td></td>
@@ -765,7 +766,7 @@ source: https://zan.gov.kz/client/#!/doc/117570/kaz/22.12.2017
 <td colspan="3">492</td>
 <td colspan="2"></td>
 <td>Ауданның (облыстық маңызы бар қаланың) тұрғын үй-коммуналдық шаруашылығы, жолаушылар көлігі, автомобиль жолдары және тұрғын үй инспекциясы бөлімі</td>
-<td colspan="2">51915,0</td>
+<td colspan="2">54815,0</td>
 </tr>
 <tr>
 <td></td>
@@ -779,7 +780,7 @@ source: https://zan.gov.kz/client/#!/doc/117570/kaz/22.12.2017
 <td colspan="3"></td>
 <td colspan="2">011</td>
 <td>Шағын қалаларды жылумен жабдықтауды үздіксіз қамтамасыз ету</td>
-<td colspan="2">21000,0</td>
+<td colspan="2">23900,0</td>
 </tr>
 <tr>
 <td></td>
@@ -838,11 +839,11 @@ source: https://zan.gov.kz/client/#!/doc/117570/kaz/22.12.2017
 <td colspan="2">7780,0</td>
 </tr>
 <tr>
-<th>1</th>
-<th colspan="3">2</th>
-<th colspan="2">3</th>
-<th>4</th>
-<th colspan="2">5</th>
+<td>1</td>
+<td colspan="3">2</td>
+<td colspan="2">3</td>
+<td>4</td>
+<td colspan="2">5</td>
 </tr>
 <tr>
 <td></td>
@@ -950,11 +951,11 @@ source: https://zan.gov.kz/client/#!/doc/117570/kaz/22.12.2017
 <td colspan="2">19017,0</td>
 </tr>
 <tr>
-<th>1</th>
-<th colspan="3">2</th>
-<th colspan="2">3</th>
-<th>4</th>
-<th colspan="2">5</th>
+<td>1</td>
+<td colspan="3">2</td>
+<td colspan="2">3</td>
+<td>4</td>
+<td colspan="2">5</td>
 </tr>
 <tr>
 <td></td>
@@ -1069,11 +1070,11 @@ source: https://zan.gov.kz/client/#!/doc/117570/kaz/22.12.2017
 <td colspan="2">22285,0</td>
 </tr>
 <tr>
-<th>1</th>
-<th colspan="3">2</th>
-<th colspan="2">3</th>
-<th>4</th>
-<th colspan="2">5</th>
+<td>1</td>
+<td colspan="3">2</td>
+<td colspan="2">3</td>
+<td>4</td>
+<td colspan="2">5</td>
 </tr>
 <tr>
 <td></td>
@@ -1192,21 +1193,28 @@ source: https://zan.gov.kz/client/#!/doc/117570/kaz/22.12.2017
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td>Трансферттер</td>
-<td colspan="2">144021,0</td>
+<td colspan="2">145612,5</td>
 </tr>
 <tr>
-<th>1</th>
-<th colspan="3">2</th>
-<th colspan="2">3</th>
-<th>4</th>
-<th colspan="2">5</th>
+<td>1</td>
+<td colspan="3">2</td>
+<td colspan="2">3</td>
+<td>4</td>
+<td colspan="2">5</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="3">459</td>
 <td colspan="2"></td>
 <td>Ауданның (облыстық маңызы бар қаланың) экономика және қаржы бөлімі</td>
-<td colspan="2">144021,0</td>
+<td colspan="2">145612,5</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="3"></td>
+<td colspan="2">006</td>
+<td>Нысаналы пайдаланылмаған (толық пайдаланылмаған) трансферттерді қайтару</td>
+<td colspan="2">1591,5</td>
 </tr>
 <tr>
 <td></td>
@@ -1234,7 +1242,7 @@ source: https://zan.gov.kz/client/#!/doc/117570/kaz/22.12.2017
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td>III. Таза бюджеттiк кредиттеу</td>
-<td colspan="2">1110978,0</td>
+<td colspan="2">1111205,4</td>
 </tr>
 <tr>
 <td></td>
@@ -1290,28 +1298,28 @@ source: https://zan.gov.kz/client/#!/doc/117570/kaz/22.12.2017
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td>Бюджеттік кредиттерді өтеу</td>
-<td colspan="2">2429,0</td>
+<td colspan="2">2201,6</td>
 </tr>
 <tr>
 <td>5</td>
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td>Бюджеттік кредиттерді өтеу</td>
-<td colspan="2">2429,0</td>
+<td colspan="2">2201,6</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="3">01</td>
 <td colspan="2"></td>
 <td>Бюджеттік кредиттерді өтеу</td>
-<td colspan="2">2429,0</td>
+<td colspan="2">2201,6</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="3"></td>
 <td colspan="2">1</td>
 <td>Мемлекеттік бюджеттен берілген бюджеттік кредиттерді өтеу</td>
-<td colspan="2">2429,0</td>
+<td colspan="2">2201,6</td>
 </tr>
 <tr>
 <td></td>
@@ -1325,14 +1333,14 @@ source: https://zan.gov.kz/client/#!/doc/117570/kaz/22.12.2017
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td>V. Бюджет тапшылығы (профициті)</td>
-<td colspan="2">-1110978,0</td>
+<td colspan="2">-1112796,9</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td>VI. Бюджет тапшылығын қаржыландыру (профицитін пайдалану)</td>
-<td colspan="2">1110978,0</td>
+<td colspan="2">1112796,9</td>
 </tr>
 <tr>
 <td>7</td>
@@ -1340,6 +1348,13 @@ source: https://zan.gov.kz/client/#!/doc/117570/kaz/22.12.2017
 <td colspan="2"></td>
 <td>Қарыздар түсімі</td>
 <td colspan="2">1113407,0</td>
+</tr>
+<tr>
+<td>1</td>
+<td colspan="3">2</td>
+<td colspan="2">3</td>
+<td>4</td>
+<td colspan="2">5</td>
 </tr>
 <tr>
 <td></td>
@@ -1356,32 +1371,46 @@ source: https://zan.gov.kz/client/#!/doc/117570/kaz/22.12.2017
 <td colspan="2">1113407,0</td>
 </tr>
 <tr>
-<th>1</th>
-<th colspan="3">2</th>
-<th colspan="2">3</th>
-<th>4</th>
-<th colspan="2">5</th>
-</tr>
-<tr>
 <td>16</td>
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td>Қарыздарды өтеу</td>
-<td colspan="2">2429,0</td>
+<td colspan="2">2201,6</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="3">459</td>
 <td colspan="2"></td>
 <td>Ауданның (облыстық маңызы бар қаланың) экономика және қаржы бөлімі</td>
-<td colspan="2">2429,0</td>
+<td colspan="2">2201,6</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="3"></td>
 <td colspan="2">005</td>
 <td>Жергілікті атқарушы органның жоғары тұрған бюджет алдындағы борышын өтеу</td>
-<td colspan="2">2429,0</td>
+<td colspan="2">2201,6</td>
+</tr>
+<tr>
+<td>8</td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td>Бюджет қаражаттарының пайдаланылатын қалдықтары</td>
+<td colspan="2">1591,5</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="3">01</td>
+<td colspan="2"></td>
+<td>Бюджет қаражатының қалдықтары</td>
+<td colspan="2">1591,5</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="3"></td>
+<td colspan="2">1</td>
+<td>Бюджет қаражатының бос қалдықтары</td>
+<td colspan="2">1591,5</td>
 </tr>
 </table>
 
@@ -3744,10 +3773,13 @@ source: https://zan.gov.kz/client/#!/doc/117570/kaz/22.12.2017
 </table>
 
 > *Жарқайың аудандық мәслихатының*  
-> *2017 жылғы 22 желтоқсандағы № 6С-17/2 шешіміне*  
+> *2017 жылғы 22 желтоқсандағы*  
+> *№ 6С-17/2 шешіміне*  
 > *5 қосымша*
 
 # 2018 жылға арналған облыстық бюджеттен нысаналы трансферттер
+
+> *Ескерту. 5-қосымша жаңа редакцияда - Ақмола облысы Жарқайың аудандық мәслихатының 06.04.2018 № 6С-21/2 (01.01.2018 бастап қолданысқа енгізіледі) шешімімен.*
 
 <table>
 <tr>
@@ -3760,11 +3792,11 @@ source: https://zan.gov.kz/client/#!/doc/117570/kaz/22.12.2017
 </tr>
 <tr>
 <td>Барлығы</td>
-<td>81024,0</td>
+<td>83924,0</td>
 </tr>
 <tr>
 <td>Ағымдағы нысаналы трансферттер</td>
-<td>77824,0</td>
+<td>80724,0</td>
 </tr>
 <tr>
 <td>оның iшiнде:</td>
@@ -3803,11 +3835,15 @@ source: https://zan.gov.kz/client/#!/doc/117570/kaz/22.12.2017
 </tr>
 <tr>
 <td>Аудандық тұрғын үй-коммуналдық шаруашылығы, жолаушылар көлігі, автомобиль жолдары және тұрғын үй инспекциясы бөлімі</td>
-<td>20000,0</td>
+<td>22900,0</td>
 </tr>
 <tr>
 <td>автомобиль жолдарын жөндеуге</td>
 <td>20000,0</td>
+</tr>
+<tr>
+<td>тұрғын үй – коммуналдық шаруашылығын дамытуға</td>
+<td>2900,0</td>
 </tr>
 <tr>
 <td>Нысаналы даму трансферттерi</td>

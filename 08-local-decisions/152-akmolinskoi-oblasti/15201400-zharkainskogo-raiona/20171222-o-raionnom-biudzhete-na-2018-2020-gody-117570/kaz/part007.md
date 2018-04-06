@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/117570/kaz/22.12.2017
+source: https://zan.gov.kz/client/#!/doc/117570/kaz/06.04.2018
 ---
 
 > *Жарқайың аудандық мәслихатының*  
