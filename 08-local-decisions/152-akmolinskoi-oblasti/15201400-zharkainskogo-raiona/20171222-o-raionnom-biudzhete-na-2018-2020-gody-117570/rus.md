@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/117570/rus/06.04.2018
+source: https://zan.gov.kz/client/#!/doc/117570/rus/16.05.2018
 ---
 
 # О районном бюджете на 2018-2020 годы
