@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/117428/kaz/13.06.2018
+source: https://zan.gov.kz/client/#!/doc/117428/kaz/20.07.2018
 ---
 
 > *2017 жылғы 22 желтоқсандағы № 6С 15/2*  
