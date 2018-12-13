@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/118221/rus/26.06.2018
+source: https://zan.gov.kz/client/#!/doc/118221/rus/13.12.2018
 ---
 
 # О бюджетах города Макинск, сельских округов Буландынского района на 2018-2020 годы
@@ -89,284 +89,280 @@ source: https://zan.gov.kz/client/#!/doc/118221/rus/26.06.2018
 > *25 декабря 2017 года*
 
 > *Приложение 1 к решению*  
-> *Буландынского районного*  
-> *маслихата от 25 декабря*  
-> *2017 года № 6С-18/1*
+> *Буландынского районного маслихата*  
+> *от 25 декабря 2017 года № 6С-18/1*
 
 # Бюджет на 2018 год города Макинск Буландынского района
 
-> *Сноска. Приложение 1 в редакции решения Буландынского районного маслихата Акмолинской области от 26.06.2018 № 6С-25/1 (вводится в действие с 01.01.2018).*
+> *Сноска. Приложение 1 в редакции решения Буландынского районного маслихата Акмолинской области от 13.12.2018 № 6С-32/1 (вводится в действие с 01.01.2018).*
 
 <table>
 <tr>
-<td colspan="7">Категория</td>
-<td colspan="2" rowspan="3">Наименование</td>
-<td colspan="2" rowspan="3">Сумма тысяч тенге</td>
+<td colspan="6">Категория</td>
+<td rowspan="3">Наименование</td>
+<td rowspan="3">Сумма тысяч тенге</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="5">Класс</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2"></td>
 <td colspan="3">Подкласс</td>
 </tr>
 <tr>
-<td colspan="2">1</td>
-<td colspan="2">2</td>
-<td colspan="3">3</td>
-<td colspan="2">4</td>
-<td colspan="2">5</td>
+<th>1</th>
+<th colspan="2">2</th>
+<th colspan="3">3</th>
+<th>4</th>
+<th>5</th>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2"></td>
 <td colspan="3"></td>
-<td colspan="2">I. Доходы</td>
-<td colspan="2">89424,0</td>
+<td>I. Доходы</td>
+<td>89424,0</td>
 </tr>
 <tr>
-<td colspan="2">1</td>
+<td>1</td>
 <td colspan="2"></td>
 <td colspan="3"></td>
-<td colspan="2">Налоговые поступления</td>
-<td colspan="2">89424,0</td>
+<td>Налоговые поступления</td>
+<td>89424,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2">01</td>
 <td colspan="3"></td>
-<td colspan="2">Подоходный налог</td>
-<td colspan="2">38696,0</td>
+<td>Подоходный налог</td>
+<td>38696,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2"></td>
 <td colspan="3">2</td>
-<td colspan="2">Индивидуальный подоходный налог</td>
-<td colspan="2">38696,0</td>
+<td>Индивидуальный подоходный налог</td>
+<td>38696,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2">04</td>
 <td colspan="3"></td>
-<td colspan="2">Hалоги на собственность</td>
-<td colspan="2">50728,0</td>
+<td>Hалоги на собственность</td>
+<td>50728,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2"></td>
 <td colspan="3">1</td>
-<td colspan="2">Hалоги на имущество</td>
-<td colspan="2">451,0</td>
+<td>Hалоги на имущество</td>
+<td>963,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2"></td>
 <td colspan="3">3</td>
-<td colspan="2">Земельный налог</td>
-<td colspan="2">15926,0</td>
+<td>Земельный налог</td>
+<td>8171,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2"></td>
 <td colspan="3">4</td>
-<td colspan="2">Hалог на транспортные средства</td>
-<td colspan="2">34351,0</td>
+<td>Hалог на транспортные средства</td>
+<td>41594,0</td>
 </tr>
 </table>
 
 <table>
 <tr>
-<td colspan="8">Функциональная группа</td>
-<td colspan="3">Сумма</td>
+<td colspan="7">Функциональная группа</td>
+<td colspan="2" rowspan="4">Сумма</td>
 </tr>
 <tr>
-<td colspan="3"></td>
+<td colspan="2"></td>
 <td colspan="5">Администратор бюджетных программ</td>
-<td colspan="3"></td>
 </tr>
 <tr>
-<td colspan="3"></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="3">Программа</td>
-<td colspan="3"></td>
 </tr>
 <tr>
-<td colspan="3"></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td></td>
 <td colspan="2">Наименование</td>
-<td colspan="3"></td>
 </tr>
 <tr>
-<td colspan="3">1</td>
-<td colspan="2">2</td>
-<td>3</td>
-<td colspan="2">4</td>
-<td colspan="3">5</td>
+<th colspan="2">1</th>
+<th colspan="2">2</th>
+<th>3</th>
+<th colspan="2">4</th>
+<th colspan="2">5</th>
 </tr>
 <tr>
-<td colspan="3"></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td></td>
 <td colspan="2">II. Затраты</td>
-<td colspan="3">89424,0</td>
+<td colspan="2">89424,0</td>
 </tr>
 <tr>
-<td colspan="3">01</td>
+<td colspan="2">01</td>
 <td colspan="2"></td>
 <td></td>
 <td colspan="2">Государственные услуги общего характера</td>
-<td colspan="3">31456,0</td>
+<td colspan="2">31422,7</td>
 </tr>
 <tr>
-<td colspan="3"></td>
+<td colspan="2"></td>
 <td colspan="2">124</td>
 <td></td>
 <td colspan="2">Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td colspan="3">31456,0</td>
+<td colspan="2">31422,7</td>
 </tr>
 <tr>
-<td colspan="3"></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td>001</td>
 <td colspan="2">Услуги по обеспечению деятельности акима города районного значения, села, поселка, сельского округа</td>
-<td colspan="3">30591,0</td>
+<td colspan="2">30591,0</td>
 </tr>
 <tr>
-<td colspan="3"></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td>022</td>
 <td colspan="2">Капитальные расходы государственного органа</td>
-<td colspan="3">865,0</td>
+<td colspan="2">831,7</td>
 </tr>
 <tr>
-<td colspan="3">06</td>
+<td colspan="2">06</td>
 <td colspan="2"></td>
 <td></td>
 <td colspan="2">Социальная помощь и социальное обеспечение</td>
-<td colspan="3">11908,0</td>
+<td colspan="2">11908,0</td>
 </tr>
 <tr>
-<td colspan="3"></td>
+<td colspan="2"></td>
 <td colspan="2">124</td>
 <td></td>
 <td colspan="2">Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td colspan="3">11908,0</td>
+<td colspan="2">11908,0</td>
 </tr>
 <tr>
-<td colspan="3"></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td>003</td>
 <td colspan="2">Оказание социальной помощи нуждающимся гражданам на дому</td>
-<td colspan="3">11908,0</td>
+<td colspan="2">11908,0</td>
 </tr>
 <tr>
-<td colspan="3">07</td>
+<td colspan="2">07</td>
 <td colspan="2"></td>
 <td></td>
 <td colspan="2">Жилищно-коммунальное хозяйство</td>
-<td colspan="3">25735,0</td>
+<td colspan="2">28709,3</td>
 </tr>
 <tr>
-<td colspan="3"></td>
+<td colspan="2"></td>
 <td colspan="2">124</td>
 <td></td>
 <td colspan="2">Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td colspan="3">25735,0</td>
+<td colspan="2">28709,3</td>
 </tr>
 <tr>
-<td colspan="3"></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td>008</td>
 <td colspan="2">Освещение улиц в населенных пунктах</td>
-<td colspan="3">11161,0</td>
+<td colspan="2">11160,3</td>
 </tr>
 <tr>
-<td colspan="3"></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td>009</td>
 <td colspan="2">Обеспечение санитарии населенных пунктов</td>
-<td colspan="3">5339,0</td>
+<td colspan="2">5217,0</td>
 </tr>
 <tr>
-<td colspan="3"></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td>010</td>
 <td colspan="2">Содержание мест захоронений и погребение безродных</td>
-<td colspan="3">377,0</td>
+<td colspan="2">377,0</td>
 </tr>
 <tr>
-<td colspan="3"></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td>011</td>
 <td colspan="2">Благоустройство и озеленение населенных пунктов</td>
-<td colspan="3">8858,0</td>
+<td colspan="2">11955,0</td>
 </tr>
 <tr>
-<td colspan="3">12</td>
+<td colspan="2">12</td>
 <td colspan="2"></td>
 <td></td>
 <td colspan="2">Транспорт и коммуникации</td>
-<td colspan="3">7891,0</td>
+<td colspan="2">4950,0</td>
 </tr>
 <tr>
-<td colspan="3"></td>
+<td colspan="2"></td>
 <td colspan="2">124</td>
 <td></td>
 <td colspan="2">Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td colspan="3">7891,0</td>
+<td colspan="2">4950,0</td>
 </tr>
 <tr>
-<td colspan="3"></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td>013</td>
 <td colspan="2">Обеспечение функционирования автомобильных дорог в городах районного значения,селах,поселках, сельских округах</td>
-<td colspan="3">7891,0</td>
+<td colspan="2">4950,0</td>
 </tr>
 <tr>
-<td colspan="3">15</td>
+<td colspan="2">15</td>
 <td colspan="2"></td>
 <td></td>
 <td colspan="2">Трансферты</td>
-<td colspan="3">12434,0</td>
+<td colspan="2">12434,0</td>
 </tr>
 <tr>
-<td colspan="3"></td>
+<td colspan="2"></td>
 <td colspan="2">124</td>
 <td></td>
 <td colspan="2">Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td colspan="3">12434,0</td>
+<td colspan="2">12434,0</td>
 </tr>
 <tr>
-<td colspan="3"></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td>043</td>
 <td colspan="2">Бюджетные изъятия</td>
-<td colspan="3">12434,0</td>
+<td colspan="2">12434,0</td>
 </tr>
 <tr>
-<td colspan="3"></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td></td>
 <td colspan="2">III. Сальдо по операциям с финансовыми активами</td>
-<td colspan="3">0,0</td>
+<td colspan="2">0,0</td>
 </tr>
 <tr>
-<td colspan="3"></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td></td>
 <td colspan="2">IV. Дефицит (профицит) бюджета</td>
-<td colspan="3">0,0</td>
+<td colspan="2">0,0</td>
 </tr>
 <tr>
-<td colspan="3"></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td></td>
 <td colspan="2">V. Финансирование дефицита (использование профицита) бюджета</td>
-<td colspan="3">0,0</td>
+<td colspan="2">0,0</td>
 </tr>
 </table>
 
@@ -931,108 +927,109 @@ source: https://zan.gov.kz/client/#!/doc/118221/rus/26.06.2018
 </table>
 
 > *Приложение 4 к решению*  
-> *Буландынского районного*  
-> *маслихата от 25 декабря*  
-> *2017 года № 6С-18/1*
+> *Буландынского районного маслихата*  
+> *от 25 декабря 2017 года № 6С-18/1*
 
 # Бюджет на 2018 год Вознесенского сельского округа Буландынского района
 
+> *Сноска. Приложение 4 в редакции решения Буландынского районного маслихата Акмолинской области от 13.12.2018 № 6С-32/1 (вводится в действие с 01.01.2018).*
+
 <table>
 <tr>
-<td colspan="3">Категория</td>
+<td colspan="6">Категория</td>
 <td rowspan="3">Наименование</td>
 <td rowspan="3">Сумма тысяч тенге</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2">Класс</td>
+<td colspan="5">Класс</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td>Подкласс</td>
+<td colspan="2"></td>
+<td colspan="3">Подкласс</td>
 </tr>
 <tr>
 <th>1</th>
-<th>2</th>
-<th>3</th>
+<th colspan="2">2</th>
+<th colspan="3">3</th>
 <th>4</th>
 <th>5</th>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
 <td>I. Доходы</td>
 <td>14469,0</td>
 </tr>
 <tr>
 <td>1</td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
 <td>Налоговые поступления</td>
 <td>1857,0</td>
 </tr>
 <tr>
 <td></td>
-<td>01</td>
-<td></td>
+<td colspan="2">01</td>
+<td colspan="3"></td>
 <td>Подоходный налог</td>
-<td>522,0</td>
+<td>389,0</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td>2</td>
+<td colspan="2"></td>
+<td colspan="3">2</td>
 <td>Индивидуальный подоходный налог</td>
-<td>522,0</td>
+<td>389,0</td>
 </tr>
 <tr>
 <td></td>
-<td>04</td>
-<td></td>
+<td colspan="2">04</td>
+<td colspan="3"></td>
 <td>Hалоги на собственность</td>
-<td>1335,0</td>
+<td>1468,0</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td>1</td>
+<td colspan="2"></td>
+<td colspan="3">1</td>
 <td>Hалоги на имущество</td>
-<td>350,0</td>
+<td>170,0</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td>3</td>
+<td colspan="2"></td>
+<td colspan="3">3</td>
 <td>Земельный налог</td>
-<td>102,0</td>
+<td>242,0</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td>4</td>
+<td colspan="2"></td>
+<td colspan="3">4</td>
 <td>Hалог на транспортные средства</td>
-<td>883,0</td>
+<td>1056,0</td>
 </tr>
 <tr>
 <td>4</td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
 <td>Поступления трансфертов</td>
 <td>12612,0</td>
 </tr>
 <tr>
 <td></td>
-<td>02</td>
-<td></td>
+<td colspan="2">02</td>
+<td colspan="3"></td>
 <td>Трансферты из вышестоящих органов государственного управления</td>
 <td>12612,0</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td>3</td>
+<td colspan="2"></td>
+<td colspan="3">3</td>
 <td>Трансферты из районного (города областного значения) бюджета</td>
 <td>12612,0</td>
 </tr>
@@ -1040,138 +1037,135 @@ source: https://zan.gov.kz/client/#!/doc/118221/rus/26.06.2018
 
 <table>
 <tr>
-<td colspan="4">Функциональная группа</td>
-<td>Сумма</td>
+<td colspan="7">Функциональная группа</td>
+<td colspan="2" rowspan="4">Сумма</td>
 </tr>
 <tr>
-<td></td>
-<td colspan="3">Администратор бюджетных программ</td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="5">Администратор бюджетных программ</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td colspan="2">Программа</td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3">Программа</td>
 </tr>
 <tr>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td>Наименование</td>
-<td></td>
+<td colspan="2">Наименование</td>
 </tr>
 <tr>
-<th>1</th>
-<th>2</th>
+<th colspan="2">1</th>
+<th colspan="2">2</th>
 <th>3</th>
-<th>4</th>
-<th>5</th>
+<th colspan="2">4</th>
+<th colspan="2">5</th>
 </tr>
 <tr>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td>II. Затраты</td>
-<td>14469,0</td>
+<td colspan="2">II. Затраты</td>
+<td colspan="2">14469,0</td>
 </tr>
 <tr>
-<td>01</td>
+<td colspan="2">01</td>
+<td colspan="2"></td>
 <td></td>
-<td></td>
-<td>Государственные услуги общего характера</td>
-<td>11969,0</td>
+<td colspan="2">Государственные услуги общего характера</td>
+<td colspan="2">12061,1</td>
 </tr>
 <tr>
+<td colspan="2"></td>
+<td colspan="2">124</td>
 <td></td>
-<td>124</td>
-<td></td>
-<td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>11969,0</td>
+<td colspan="2">Аппарат акима города районного значения, села, поселка, сельского округа</td>
+<td colspan="2">12061,1</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td>001</td>
-<td>Услуги по обеспечению деятельности акима города районного значения, села, поселка, сельского округа</td>
-<td>11969,0</td>
+<td colspan="2">Услуги по обеспечению деятельности акима города районного значения, села, поселка, сельского округа</td>
+<td colspan="2">12061,1</td>
 </tr>
 <tr>
-<td>06</td>
+<td colspan="2">06</td>
+<td colspan="2"></td>
 <td></td>
-<td></td>
-<td>Социальная помощь и социальное обеспечение</td>
-<td>982,0</td>
+<td colspan="2">Социальная помощь и социальное обеспечение</td>
+<td colspan="2">979,7</td>
 </tr>
 <tr>
+<td colspan="2"></td>
+<td colspan="2">124</td>
 <td></td>
-<td>124</td>
-<td></td>
-<td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>982,0</td>
+<td colspan="2">Аппарат акима города районного значения, села, поселка, сельского округа</td>
+<td colspan="2">979,7</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td>003</td>
-<td>Оказание социальной помощи нуждающимся гражданам на дому</td>
-<td>982,0</td>
+<td colspan="2">Оказание социальной помощи нуждающимся гражданам на дому</td>
+<td colspan="2">979,7</td>
 </tr>
 <tr>
-<td>07</td>
+<td colspan="2">07</td>
+<td colspan="2"></td>
 <td></td>
-<td></td>
-<td>Жилищно-коммунальное хозяйство</td>
-<td>1518,0</td>
+<td colspan="2">Жилищно-коммунальное хозяйство</td>
+<td colspan="2">1428,2</td>
 </tr>
 <tr>
+<td colspan="2"></td>
+<td colspan="2">124</td>
 <td></td>
-<td>124</td>
-<td></td>
-<td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>1518,0</td>
+<td colspan="2">Аппарат акима города районного значения, села, поселка, сельского округа</td>
+<td colspan="2">1428,2</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td>008</td>
-<td>Освещение улиц в населенных пунктах</td>
-<td>892,0</td>
+<td colspan="2">Освещение улиц в населенных пунктах</td>
+<td colspan="2">814,0</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td>011</td>
-<td>Благоустройство и озеленение населенных пунктов</td>
-<td>163,0</td>
+<td colspan="2">Благоустройство и озеленение населенных пунктов</td>
+<td colspan="2">163,0</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td>014</td>
-<td>Организация водоснабжения населенных пунктов</td>
-<td>463,0</td>
+<td colspan="2">Организация водоснабжения населенных пунктов</td>
+<td colspan="2">451,2</td>
 </tr>
 <tr>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td>III. Сальдо по операциям с финансовыми активами</td>
-<td>0,0</td>
+<td colspan="2">III. Сальдо по операциям с финансовыми активами</td>
+<td colspan="2">0,0</td>
 </tr>
 <tr>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td>IV. Дефицит (профицит) бюджета</td>
-<td>0,0</td>
+<td colspan="2">IV. Дефицит (профицит) бюджета</td>
+<td colspan="2">0,0</td>
 </tr>
 <tr>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td>V. Финансирование дефицита (использование профицита) бюджета</td>
-<td>0,0</td>
+<td colspan="2">V. Финансирование дефицита (использование профицита) бюджета</td>
+<td colspan="2">0,0</td>
 </tr>
 </table>
 
@@ -1666,108 +1660,109 @@ source: https://zan.gov.kz/client/#!/doc/118221/rus/26.06.2018
 </table>
 
 > *Приложение 7 к решению*  
-> *Буландынского районного*  
-> *маслихата от 25 декабря*  
-> *2017 года № 6С-18/1*
+> *Буландынского районного маслихата*  
+> *от 25 декабря 2017 года № 6С-18/1*
 
 # Бюджет на 2018 год Караозекского сельского округа Буландынского района
 
+> *Сноска. Приложение 7 в редакции решения Буландынского районного маслихата Акмолинской области от 13.12.2018 № 6С-32/1 (вводится в действие с 01.01.2018).*
+
 <table>
 <tr>
-<td colspan="3">Категория</td>
+<td colspan="6">Категория</td>
 <td rowspan="3">Наименование</td>
 <td rowspan="3">Сумма тысяч тенге</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2">Класс</td>
+<td colspan="5">Класс</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td>Подкласс</td>
+<td colspan="2"></td>
+<td colspan="3">Подкласс</td>
 </tr>
 <tr>
 <th>1</th>
-<th>2</th>
-<th>3</th>
+<th colspan="2">2</th>
+<th colspan="3">3</th>
 <th>4</th>
 <th>5</th>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
 <td>I. Доходы</td>
 <td>11891,0</td>
 </tr>
 <tr>
 <td>1</td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
 <td>Налоговые поступления</td>
 <td>1860,0</td>
 </tr>
 <tr>
 <td></td>
-<td>01</td>
-<td></td>
+<td colspan="2">01</td>
+<td colspan="3"></td>
 <td>Подоходный налог</td>
-<td>181,0</td>
+<td>164,0</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td>2</td>
+<td colspan="2"></td>
+<td colspan="3">2</td>
 <td>Индивидуальный подоходный налог</td>
-<td>181,0</td>
+<td>164,0</td>
 </tr>
 <tr>
 <td></td>
-<td>04</td>
-<td></td>
+<td colspan="2">04</td>
+<td colspan="3"></td>
 <td>Hалоги на собственность</td>
-<td>1679,0</td>
+<td>1696,0</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td>1</td>
+<td colspan="2"></td>
+<td colspan="3">1</td>
 <td>Hалоги на имущество</td>
-<td>111,0</td>
+<td>54,0</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td>3</td>
+<td colspan="2"></td>
+<td colspan="3">3</td>
 <td>Земельный налог</td>
-<td>70,0</td>
+<td>254,0</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td>4</td>
+<td colspan="2"></td>
+<td colspan="3">4</td>
 <td>Hалог на транспортные средства</td>
-<td>1498,0</td>
+<td>1388,0</td>
 </tr>
 <tr>
 <td>4</td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
 <td>Поступления трансфертов</td>
 <td>10031,0</td>
 </tr>
 <tr>
 <td></td>
-<td>02</td>
-<td></td>
+<td colspan="2">02</td>
+<td colspan="3"></td>
 <td>Трансферты из вышестоящих органов государственного управления</td>
 <td>10031,0</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td>3</td>
+<td colspan="2"></td>
+<td colspan="3">3</td>
 <td>Трансферты из районного (города областного значения) бюджета</td>
 <td>10031,0</td>
 </tr>
@@ -1775,131 +1770,128 @@ source: https://zan.gov.kz/client/#!/doc/118221/rus/26.06.2018
 
 <table>
 <tr>
-<td colspan="4">Функциональная группа</td>
-<td>Сумма</td>
+<td colspan="7">Функциональная группа</td>
+<td colspan="2" rowspan="4">Сумма</td>
 </tr>
 <tr>
-<td></td>
-<td colspan="3">Администратор бюджетных программ</td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="5">Администратор бюджетных программ</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td colspan="2">Программа</td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3">Программа</td>
 </tr>
 <tr>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td>Наименование</td>
-<td></td>
+<td colspan="2">Наименование</td>
 </tr>
 <tr>
-<th>1</th>
-<th>2</th>
+<th colspan="2">1</th>
+<th colspan="2">2</th>
 <th>3</th>
-<th>4</th>
-<th>5</th>
+<th colspan="2">4</th>
+<th colspan="2">5</th>
 </tr>
 <tr>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td>II. Затраты</td>
-<td>11891,0</td>
+<td colspan="2">II. Затраты</td>
+<td colspan="2">11891,0</td>
 </tr>
 <tr>
-<td>01</td>
+<td colspan="2">01</td>
+<td colspan="2"></td>
 <td></td>
-<td></td>
-<td>Государственные услуги общего характера</td>
-<td>10177,0</td>
+<td colspan="2">Государственные услуги общего характера</td>
+<td colspan="2">10542,0</td>
 </tr>
 <tr>
+<td colspan="2"></td>
+<td colspan="2">124</td>
 <td></td>
-<td>124</td>
-<td></td>
-<td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>10177,0</td>
+<td colspan="2">Аппарат акима города районного значения, села, поселка, сельского округа</td>
+<td colspan="2">10542,0</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td>001</td>
-<td>Услуги по обеспечению деятельности акима города районного значения, села, поселка, сельского округа</td>
-<td>10177,0</td>
+<td colspan="2">Услуги по обеспечению деятельности акима города районного значения, села, поселка, сельского округа</td>
+<td colspan="2">10542,0</td>
 </tr>
 <tr>
-<td>07</td>
+<td colspan="2">07</td>
+<td colspan="2"></td>
 <td></td>
-<td></td>
-<td>Жилищно-коммунальное хозяйство</td>
-<td>1196,0</td>
+<td colspan="2">Жилищно-коммунальное хозяйство</td>
+<td colspan="2">1071,0</td>
 </tr>
 <tr>
+<td colspan="2"></td>
+<td colspan="2">124</td>
 <td></td>
-<td>124</td>
-<td></td>
-<td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>1196,0</td>
+<td colspan="2">Аппарат акима города районного значения, села, поселка, сельского округа</td>
+<td colspan="2">1071,0</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td>008</td>
-<td>Освещение улиц в населенных пунктах</td>
-<td>696,0</td>
+<td colspan="2">Освещение улиц в населенных пунктах</td>
+<td colspan="2">696,0</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td>011</td>
-<td>Благоустройство и озеленение населенных пунктов</td>
-<td>500,0</td>
+<td colspan="2">Благоустройство и озеленение населенных пунктов</td>
+<td colspan="2">375,0</td>
 </tr>
 <tr>
-<td>12</td>
+<td colspan="2">12</td>
+<td colspan="2"></td>
 <td></td>
-<td></td>
-<td>Транспорт и коммуникации</td>
-<td>518,0</td>
+<td colspan="2">Транспорт и коммуникации</td>
+<td colspan="2">278,0</td>
 </tr>
 <tr>
+<td colspan="2"></td>
+<td colspan="2">124</td>
 <td></td>
-<td>124</td>
-<td></td>
-<td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>518,0</td>
+<td colspan="2">Аппарат акима города районного значения, села, поселка, сельского округа</td>
+<td colspan="2">278,0</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td>013</td>
-<td>Обеспечение функционирования автомобильных дорог в городах районного значения,селах,поселках, сельских округах</td>
-<td>518,0</td>
+<td colspan="2">Обеспечение функционирования автомобильных дорог в городах районного значения,селах,поселках, сельских округах</td>
+<td colspan="2">278,0</td>
 </tr>
 <tr>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td>III. Сальдо по операциям с финансовыми активами</td>
-<td>0,0</td>
+<td colspan="2">III. Сальдо по операциям с финансовыми активами</td>
+<td colspan="2">0,0</td>
 </tr>
 <tr>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td>IV. Дефицит (профицит) бюджета</td>
-<td>0,0</td>
+<td colspan="2">IV. Дефицит (профицит) бюджета</td>
+<td colspan="2">0,0</td>
 </tr>
 <tr>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td>V. Финансирование дефицита (использование профицита) бюджета</td>
-<td>0,0</td>
+<td colspan="2">V. Финансирование дефицита (использование профицита) бюджета</td>
+<td colspan="2">0,0</td>
 </tr>
 </table>
 
