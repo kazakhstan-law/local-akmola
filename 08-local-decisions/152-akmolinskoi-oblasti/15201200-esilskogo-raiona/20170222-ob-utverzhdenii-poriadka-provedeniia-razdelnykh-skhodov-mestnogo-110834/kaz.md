@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/110834/kaz/22.02.2017
+source: https://zan.gov.kz/client/#!/doc/110834/kaz/25.12.2018
 ---
 
 # Есіл ауданының елді мекендері аумағындағы бөлек жергілікті қоғамдастық жиындарын өткізу және жергілікті қоғамдастық жиынына қатысу үшін ауыл, көше, көппәтерлі тұрғын үй тұрғындары өкілдерінің санын айқындау тәртібін бекіту туралы
@@ -71,6 +71,8 @@ source: https://zan.gov.kz/client/#!/doc/110834/kaz/22.02.2017
 
 # Есіл ауданының елді мекендері аумағындағы жергілікті қоғамдастық жиынына қатысу үшін ауыл, көше, көппәтерлі тұрғын үй тұрғындары өкілдерінің санын айқындау
 
+> *Ескерту. Айқындау жаңа редакцияда - Ақмола облысы Есіл аудандық мәслихатының 25.12.2018 № 42/3 (ресми жарияланған күнінен бастап қолданысқа енгізіледі) шешімімен.*
+
 <table>
 <tr>
 <td>р/с №</td>
@@ -78,67 +80,67 @@ source: https://zan.gov.kz/client/#!/doc/110834/kaz/22.02.2017
 <td>Есіл ауданының елді мекендері аумағындағы жергілікті қоғамдастық жиынына қатысу үшін ауыл, көше, көппәтерлі тұрғын үй тұрғындары өкілдерінің саны (адам)</td>
 </tr>
 <tr>
-<td colspan="2">1</td>
-<td>Есіл қаласы</td>
+<td>1</td>
+<td colspan="2">Есіл қаласы</td>
+<td>85</td>
+</tr>
+<tr>
+<td>2</td>
+<td colspan="2">Ақсай ауылы</td>
+<td>89</td>
+</tr>
+<tr>
+<td>3</td>
+<td colspan="2">Знаменка ауылы</td>
+<td>98</td>
+</tr>
+<tr>
+<td>4</td>
+<td colspan="2">Курское ауылы</td>
+<td>87</td>
+</tr>
+<tr>
+<td>5</td>
+<td colspan="2">Московское ауылы</td>
+<td>60</td>
+</tr>
+<tr>
+<td>6</td>
+<td colspan="2">Орловка ауылы</td>
+<td>35</td>
+</tr>
+<tr>
+<td>7</td>
+<td colspan="2">Раздольное ауылы</td>
 <td>17</td>
 </tr>
 <tr>
-<td colspan="2">2</td>
-<td>Ақсай ауылы</td>
+<td>8</td>
+<td colspan="2">Свободное ауылы</td>
+<td>94</td>
+</tr>
+<tr>
 <td>9</td>
-</tr>
-<tr>
-<td colspan="2">3</td>
-<td>Знаменка ауылы</td>
-<td>10</td>
-</tr>
-<tr>
-<td colspan="2">4</td>
-<td>Курское ауылы</td>
-<td>7</td>
-</tr>
-<tr>
-<td colspan="2">5</td>
-<td>Московское ауылы</td>
-<td>5</td>
-</tr>
-<tr>
-<td colspan="2">6</td>
-<td>Орловка ауылы</td>
-<td>7</td>
-</tr>
-<tr>
-<td colspan="2">7</td>
-<td>Раздольное ауылы</td>
-<td>7</td>
-</tr>
-<tr>
-<td colspan="2">8</td>
-<td>Свободное ауылы</td>
-<td>9</td>
-</tr>
-<tr>
-<td colspan="2">9</td>
-<td>Ярославка ауылы</td>
-<td>5</td>
+<td colspan="2">Ярославка ауылы</td>
+<td>23</td>
 </tr>
 <tr>
 <td colspan="4">Красногорский кенті</td>
 </tr>
 <tr>
-<td colspan="2">10</td>
-<td>Красногорский кенті</td>
+<td>10</td>
+<td colspan="2">Красногорский кенті</td>
 <td>3</td>
 </tr>
 <tr>
-<td colspan="2">11</td>
-<td>Калачи ауылы</td>
-<td>7</td>
+<td>11</td>
+<td colspan="2">Калачи ауылы</td>
+<td>20</td>
 </tr>
 <tr>
-<td colspan="2">12</td>
-<td>Игілік ауылы</td>
-<td>7</td>
+<td>12</td>
+<td colspan="2">Игілік ауылы</td>
+<td>20</td>
 </tr>
 <tr>
 <td colspan="4">Бұзылық ауылдық округі</td>
@@ -146,12 +148,12 @@ source: https://zan.gov.kz/client/#!/doc/110834/kaz/22.02.2017
 <tr>
 <td colspan="2">13</td>
 <td>Бұзылық ауылы</td>
-<td>9</td>
+<td>31</td>
 </tr>
 <tr>
 <td colspan="2">14</td>
 <td>Сұрған ауылы</td>
-<td>8</td>
+<td>28</td>
 </tr>
 <tr>
 <td colspan="4">Двуречный ауылдық округі</td>
@@ -159,12 +161,12 @@ source: https://zan.gov.kz/client/#!/doc/110834/kaz/22.02.2017
 <tr>
 <td colspan="2">15</td>
 <td>Приишимка ауылы</td>
-<td>2</td>
+<td>15</td>
 </tr>
 <tr>
 <td colspan="2">16</td>
 <td>Двуречное ауылы</td>
-<td>6</td>
+<td>55</td>
 </tr>
 <tr>
 <td colspan="4">Жаныспай ауылдық округі</td>
@@ -172,12 +174,12 @@ source: https://zan.gov.kz/client/#!/doc/110834/kaz/22.02.2017
 <tr>
 <td colspan="2">17</td>
 <td>Жаныспай ауылы</td>
-<td>4</td>
+<td>30</td>
 </tr>
 <tr>
 <td colspan="2">18</td>
 <td>Ковыльное ауылы</td>
-<td>5</td>
+<td>38</td>
 </tr>
 <tr>
 <td colspan="4">Заречный ауылдық округі</td>
@@ -185,12 +187,12 @@ source: https://zan.gov.kz/client/#!/doc/110834/kaz/22.02.2017
 <tr>
 <td colspan="2">19</td>
 <td>Заречное ауылы</td>
-<td>9</td>
+<td>107</td>
 </tr>
 <tr>
 <td colspan="2">20</td>
 <td>Дальнее ауылы</td>
-<td>3</td>
+<td>14</td>
 </tr>
 <tr>
 <td colspan="4">Интернациональный ауылдық округі</td>
@@ -198,17 +200,17 @@ source: https://zan.gov.kz/client/#!/doc/110834/kaz/22.02.2017
 <tr>
 <td colspan="2">21</td>
 <td>Интернациональное ауылы</td>
-<td>4</td>
+<td>18</td>
 </tr>
 <tr>
 <td colspan="2">22</td>
 <td>Алматинское ауылы</td>
-<td>2</td>
+<td>9</td>
 </tr>
 <tr>
 <td colspan="2">23</td>
 <td>Біртал ауылы</td>
-<td>2</td>
+<td>12</td>
 </tr>
 <tr>
 <td colspan="4">Қаракөл ауылдық округі</td>
@@ -216,12 +218,12 @@ source: https://zan.gov.kz/client/#!/doc/110834/kaz/22.02.2017
 <tr>
 <td colspan="2">24</td>
 <td>Қаракөл ауылы</td>
-<td>7</td>
+<td>43</td>
 </tr>
 <tr>
 <td colspan="2">25</td>
 <td>Речное ауылы</td>
-<td>3</td>
+<td>22</td>
 </tr>
 <tr>
 <td colspan="4">Красивинский ауылдық округі</td>
@@ -229,22 +231,22 @@ source: https://zan.gov.kz/client/#!/doc/110834/kaz/22.02.2017
 <tr>
 <td colspan="2">26</td>
 <td>Красивое ауылы</td>
-<td>6</td>
+<td>51</td>
 </tr>
 <tr>
 <td colspan="2">27</td>
-<td>Красивая станциясы</td>
-<td>2</td>
+<td>Красивое станциясы</td>
+<td>24</td>
 </tr>
 <tr>
 <td colspan="2">28</td>
 <td>Құмай ауылы</td>
-<td>2</td>
+<td>8</td>
 </tr>
 <tr>
 <td colspan="2">29</td>
 <td>Ленинское ауылы</td>
-<td>2</td>
+<td>14</td>
 </tr>
 <tr>
 <td colspan="4">Юбилейный ауылдық округі</td>
@@ -252,11 +254,11 @@ source: https://zan.gov.kz/client/#!/doc/110834/kaz/22.02.2017
 <tr>
 <td colspan="2">30</td>
 <td>Юбилейное ауылы</td>
-<td>5</td>
+<td>54</td>
 </tr>
 <tr>
 <td colspan="2">31</td>
 <td>Ейское ауылы</td>
-<td>2</td>
+<td>13</td>
 </tr>
 </table>

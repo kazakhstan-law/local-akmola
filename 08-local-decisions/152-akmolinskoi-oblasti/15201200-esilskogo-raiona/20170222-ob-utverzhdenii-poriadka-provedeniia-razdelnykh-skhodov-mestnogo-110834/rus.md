@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/110834/rus/22.02.2017
+source: https://zan.gov.kz/client/#!/doc/110834/rus/25.12.2018
 ---
 
 # Об утверждении порядка проведения раздельных сходов местного сообщества и определения количества представителей жителей села, улицы, многоквартирного жилого дома для участия в сходе местного сообщества на территории населенных пунктов Есильского района
@@ -73,6 +73,8 @@ source: https://zan.gov.kz/client/#!/doc/110834/rus/22.02.2017
 
 # Определение количества представителей жителей села, улицы, многоквартирного жилого дома для участия в сходе местного сообщества на территории населенных пунктов Есильского района
 
+> *Сноска. Определение в редакции решения Есильского районного маслихата Акмолинской области от 25.12.2018 № 42/3 (вводится в действие со дня официального опубликования).*
+
 <table>
 <tr>
 <td>№ п/п</td>
@@ -82,47 +84,47 @@ source: https://zan.gov.kz/client/#!/doc/110834/rus/22.02.2017
 <tr>
 <td>1</td>
 <td colspan="2">город Есиль</td>
-<td>17</td>
+<td>85</td>
 </tr>
 <tr>
 <td>2</td>
 <td colspan="2">село Аксай</td>
-<td>9</td>
+<td>89</td>
 </tr>
 <tr>
 <td>3</td>
 <td colspan="2">село Знаменка</td>
-<td>10</td>
+<td>98</td>
 </tr>
 <tr>
 <td>4</td>
 <td colspan="2">село Курское</td>
-<td>7</td>
+<td>87</td>
 </tr>
 <tr>
 <td>5</td>
 <td colspan="2">село Московское</td>
-<td>5</td>
+<td>60</td>
 </tr>
 <tr>
 <td>6</td>
 <td colspan="2">село Орловка</td>
-<td>7</td>
+<td>35</td>
 </tr>
 <tr>
 <td>7</td>
 <td colspan="2">село Раздольное</td>
-<td>7</td>
+<td>17</td>
 </tr>
 <tr>
 <td>8</td>
 <td colspan="2">село Свободное</td>
-<td>9</td>
+<td>94</td>
 </tr>
 <tr>
 <td>9</td>
 <td colspan="2">село Ярославка</td>
-<td>5</td>
+<td>23</td>
 </tr>
 <tr>
 <td></td>
@@ -136,12 +138,12 @@ source: https://zan.gov.kz/client/#!/doc/110834/rus/22.02.2017
 <tr>
 <td>11</td>
 <td colspan="2">село Калачи</td>
-<td>7</td>
+<td>20</td>
 </tr>
 <tr>
 <td>12</td>
 <td colspan="2">село Иглик</td>
-<td>7</td>
+<td>20</td>
 </tr>
 <tr>
 <td colspan="4">Бузулукский сельский округ</td>
@@ -149,12 +151,12 @@ source: https://zan.gov.kz/client/#!/doc/110834/rus/22.02.2017
 <tr>
 <td>13</td>
 <td>село Бузулук</td>
-<td colspan="2">9</td>
+<td colspan="2">31</td>
 </tr>
 <tr>
 <td>14</td>
 <td>село Сурган</td>
-<td colspan="2">8</td>
+<td colspan="2">28</td>
 </tr>
 <tr>
 <td colspan="4">Двуреченский сельский округ</td>
@@ -162,12 +164,12 @@ source: https://zan.gov.kz/client/#!/doc/110834/rus/22.02.2017
 <tr>
 <td>15</td>
 <td>село Приишимка</td>
-<td colspan="2">2</td>
+<td colspan="2">15</td>
 </tr>
 <tr>
 <td>16</td>
 <td>село Двуречное</td>
-<td colspan="2">6</td>
+<td colspan="2">55</td>
 </tr>
 <tr>
 <td colspan="4">Жаныспайский сельский округ</td>
@@ -175,12 +177,12 @@ source: https://zan.gov.kz/client/#!/doc/110834/rus/22.02.2017
 <tr>
 <td>17</td>
 <td>село Жаныспай</td>
-<td colspan="2">4</td>
+<td colspan="2">30</td>
 </tr>
 <tr>
 <td>18</td>
 <td>село Ковыльное</td>
-<td colspan="2">5</td>
+<td colspan="2">38</td>
 </tr>
 <tr>
 <td colspan="4">Зареченский сельский округ</td>
@@ -188,12 +190,12 @@ source: https://zan.gov.kz/client/#!/doc/110834/rus/22.02.2017
 <tr>
 <td>19</td>
 <td>село Заречное</td>
-<td colspan="2">9</td>
+<td colspan="2">107</td>
 </tr>
 <tr>
 <td>20</td>
 <td>село Дальнее</td>
-<td colspan="2">3</td>
+<td colspan="2">14</td>
 </tr>
 <tr>
 <td colspan="4">Интернациональный сельский округ</td>
@@ -201,17 +203,17 @@ source: https://zan.gov.kz/client/#!/doc/110834/rus/22.02.2017
 <tr>
 <td>21</td>
 <td>село Интернациональное</td>
-<td colspan="2">4</td>
+<td colspan="2">18</td>
 </tr>
 <tr>
 <td>22</td>
 <td>село Алматинское</td>
-<td colspan="2">2</td>
+<td colspan="2">9</td>
 </tr>
 <tr>
 <td>23</td>
 <td>село Биртал</td>
-<td colspan="2">2</td>
+<td colspan="2">12</td>
 </tr>
 <tr>
 <td colspan="4">Каракольский сельский округ</td>
@@ -219,12 +221,12 @@ source: https://zan.gov.kz/client/#!/doc/110834/rus/22.02.2017
 <tr>
 <td>24</td>
 <td>село Караколь</td>
-<td colspan="2">7</td>
+<td colspan="2">43</td>
 </tr>
 <tr>
 <td>25</td>
 <td>село Речное</td>
-<td colspan="2">3</td>
+<td colspan="2">22</td>
 </tr>
 <tr>
 <td colspan="4">Красивинский сельский округ</td>
@@ -232,22 +234,22 @@ source: https://zan.gov.kz/client/#!/doc/110834/rus/22.02.2017
 <tr>
 <td>26</td>
 <td>село Красивое</td>
-<td colspan="2">6</td>
+<td colspan="2">51</td>
 </tr>
 <tr>
 <td>27</td>
 <td>станция Красивое</td>
-<td colspan="2">2</td>
+<td colspan="2">24</td>
 </tr>
 <tr>
 <td>28</td>
 <td>село Кумай</td>
-<td colspan="2">2</td>
+<td colspan="2">8</td>
 </tr>
 <tr>
 <td>29</td>
 <td>село Ленинское</td>
-<td colspan="2">2</td>
+<td colspan="2">14</td>
 </tr>
 <tr>
 <td colspan="4">Юбилейный сельский округ</td>
@@ -255,11 +257,11 @@ source: https://zan.gov.kz/client/#!/doc/110834/rus/22.02.2017
 <tr>
 <td>30</td>
 <td>село Юбилейное</td>
-<td colspan="2">5</td>
+<td colspan="2">54</td>
 </tr>
 <tr>
 <td>31</td>
 <td>село Ейское</td>
-<td colspan="2">2</td>
+<td colspan="2">13</td>
 </tr>
 </table>
