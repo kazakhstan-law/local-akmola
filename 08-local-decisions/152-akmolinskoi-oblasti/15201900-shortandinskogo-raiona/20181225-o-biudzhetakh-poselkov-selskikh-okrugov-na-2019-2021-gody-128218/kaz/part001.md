@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/128218/kaz/25.12.2018
+source: https://zan.gov.kz/client/#!/doc/128218/kaz/27.03.2019
 ---
 
 > *Шортанды аудандық мәслихатының*  
@@ -4713,15 +4713,18 @@ source: https://zan.gov.kz/client/#!/doc/128218/kaz/25.12.2018
 
 ## 2019 жылға арналған Бектау ауылдық округінің бюджеті
 
+> *Ескерту. 16-қосымша жаңа редакцияда - Ақмола облысы Шортанды аудандық мәслихатының 27.03.2019 № С-40/5 (01.01.2019 бастап қолданысқа енгізіледі) шешімімен.*
+
 <table>
 <tr>
 <td colspan="10">Функционалдық топ</td>
 <td rowspan="7">Сома, мың теңге</td>
 </tr>
 <tr>
-<td colspan="7">Санаты</td>
+<td colspan="6">Санаты</td>
 <td></td>
 <td colspan="2"></td>
+<td></td>
 </tr>
 <tr>
 <td colspan="10">Функционалдық кіші топ</td>
@@ -4839,7 +4842,7 @@ source: https://zan.gov.kz/client/#!/doc/128218/kaz/25.12.2018
 <td></td>
 <td colspan="2"></td>
 <td colspan="5">II. Шығындар</td>
-<td>13939</td>
+<td>14530</td>
 </tr>
 <tr>
 <td>01</td>
@@ -4847,7 +4850,7 @@ source: https://zan.gov.kz/client/#!/doc/128218/kaz/25.12.2018
 <td></td>
 <td colspan="2"></td>
 <td colspan="5">Жалпы сипаттағы мемлекеттiк қызметтер</td>
-<td>10823</td>
+<td>11414</td>
 </tr>
 <tr>
 <td></td>
@@ -4855,7 +4858,7 @@ source: https://zan.gov.kz/client/#!/doc/128218/kaz/25.12.2018
 <td></td>
 <td colspan="2"></td>
 <td colspan="5">Мемлекеттiк басқарудың жалпы функцияларын орындайтын өкiлдiк, атқарушы және басқа органдар</td>
-<td>10823</td>
+<td>11414</td>
 </tr>
 <tr>
 <td></td>
@@ -4863,7 +4866,7 @@ source: https://zan.gov.kz/client/#!/doc/128218/kaz/25.12.2018
 <td>124</td>
 <td colspan="2"></td>
 <td colspan="5">Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>10823</td>
+<td>11414</td>
 </tr>
 <tr>
 <td></td>
@@ -4871,7 +4874,7 @@ source: https://zan.gov.kz/client/#!/doc/128218/kaz/25.12.2018
 <td></td>
 <td colspan="2">001</td>
 <td colspan="5">Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің қызметін қамтамасыз ету жөніндегі қызметтер</td>
-<td>10823</td>
+<td>11414</td>
 </tr>
 <tr>
 <td>06</td>
@@ -4999,7 +5002,7 @@ source: https://zan.gov.kz/client/#!/doc/128218/kaz/25.12.2018
 <td></td>
 <td colspan="2"></td>
 <td colspan="5">V. Бюджет тапшылығы (профициті)</td>
-<td>0</td>
+<td>-591</td>
 </tr>
 <tr>
 <td></td>
@@ -5007,7 +5010,7 @@ source: https://zan.gov.kz/client/#!/doc/128218/kaz/25.12.2018
 <td></td>
 <td colspan="2"></td>
 <td colspan="5">VI. Бюджет тапшылығын қаржыландыру (профицитін пайдалану)</td>
-<td>0</td>
+<td>591</td>
 </tr>
 </table>
 
