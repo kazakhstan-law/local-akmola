@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/128218/kaz/27.03.2019
+source: https://zan.gov.kz/client/#!/doc/128218/kaz/12.04.2019
 ---
 
 > *Шортанды аудандық мәслихатының*  
@@ -10,15 +10,18 @@ source: https://zan.gov.kz/client/#!/doc/128218/kaz/27.03.2019
 
 ## 2019 жылға арналған Шортанды кентінің бюджеті
 
+> *Ескерту. 1-қосымша жаңа редакцияда - Ақмола облысы Шортанды аудандық мәслихатының 12.04.2019 № С-41/2 (01.01.2019 бастап қолданысқа енгізіледі) шешімімен.*
+
 <table>
 <tr>
 <td colspan="10">Функционалдық топ</td>
 <td rowspan="7">Сома, мың теңге</td>
 </tr>
 <tr>
-<td colspan="7">Санаты</td>
+<td colspan="6">Санаты</td>
 <td></td>
 <td colspan="2"></td>
+<td></td>
 </tr>
 <tr>
 <td colspan="10">Функционалдық кіші топ</td>
@@ -48,7 +51,7 @@ source: https://zan.gov.kz/client/#!/doc/128218/kaz/27.03.2019
 <td></td>
 <td colspan="2"></td>
 <td colspan="5">I. Кiрiстер</td>
-<td>47000</td>
+<td>48391,9</td>
 </tr>
 <tr>
 <td>1</td>
@@ -112,7 +115,7 @@ source: https://zan.gov.kz/client/#!/doc/128218/kaz/27.03.2019
 <td></td>
 <td colspan="2"></td>
 <td colspan="5">Трансферттер түсімі</td>
-<td>7000</td>
+<td>8391,9</td>
 </tr>
 <tr>
 <td></td>
@@ -120,7 +123,7 @@ source: https://zan.gov.kz/client/#!/doc/128218/kaz/27.03.2019
 <td></td>
 <td colspan="2"></td>
 <td colspan="5">Мемлекеттiк басқарудың жоғары тұрған органдарынан түсетiн трансферттер</td>
-<td>7000</td>
+<td>8391,9</td>
 </tr>
 <tr>
 <td></td>
@@ -128,7 +131,7 @@ source: https://zan.gov.kz/client/#!/doc/128218/kaz/27.03.2019
 <td>3</td>
 <td colspan="2"></td>
 <td colspan="5">Аудандық (облыстық маңызы бар қала) бюджеттен түсетiн трансферттер</td>
-<td>7000</td>
+<td>8391,9</td>
 </tr>
 <tr>
 <td></td>
@@ -136,7 +139,7 @@ source: https://zan.gov.kz/client/#!/doc/128218/kaz/27.03.2019
 <td></td>
 <td colspan="2"></td>
 <td colspan="5">II. Шығындар</td>
-<td>47000</td>
+<td>48391,9</td>
 </tr>
 <tr>
 <td>01</td>
@@ -144,7 +147,7 @@ source: https://zan.gov.kz/client/#!/doc/128218/kaz/27.03.2019
 <td></td>
 <td colspan="2"></td>
 <td colspan="5">Жалпы сипаттағы мемлекеттiк қызметтер</td>
-<td>17446</td>
+<td>18792</td>
 </tr>
 <tr>
 <td></td>
@@ -152,7 +155,7 @@ source: https://zan.gov.kz/client/#!/doc/128218/kaz/27.03.2019
 <td></td>
 <td colspan="2"></td>
 <td colspan="5">Мемлекеттiк басқарудың жалпы функцияларын орындайтын өкiлдiк, атқарушы және басқа органдар</td>
-<td>17446</td>
+<td>18792</td>
 </tr>
 <tr>
 <td></td>
@@ -160,7 +163,7 @@ source: https://zan.gov.kz/client/#!/doc/128218/kaz/27.03.2019
 <td>124</td>
 <td colspan="2"></td>
 <td colspan="5">Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>17446</td>
+<td>18792</td>
 </tr>
 <tr>
 <td></td>
@@ -168,7 +171,7 @@ source: https://zan.gov.kz/client/#!/doc/128218/kaz/27.03.2019
 <td></td>
 <td colspan="2">001</td>
 <td colspan="5">Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің қызметін қамтамасыз ету жөніндегі қызметтер</td>
-<td>17446</td>
+<td>18792</td>
 </tr>
 <tr>
 <td>06</td>
@@ -176,7 +179,7 @@ source: https://zan.gov.kz/client/#!/doc/128218/kaz/27.03.2019
 <td></td>
 <td colspan="2"></td>
 <td colspan="5">Әлеуметтiк көмек және әлеуметтiк қамтамасыз ету</td>
-<td>1793</td>
+<td>1838,9</td>
 </tr>
 <tr>
 <td></td>
@@ -184,7 +187,7 @@ source: https://zan.gov.kz/client/#!/doc/128218/kaz/27.03.2019
 <td></td>
 <td colspan="2"></td>
 <td colspan="5">Әлеуметтiк көмек</td>
-<td>1793</td>
+<td>1838,9</td>
 </tr>
 <tr>
 <td></td>
@@ -192,7 +195,7 @@ source: https://zan.gov.kz/client/#!/doc/128218/kaz/27.03.2019
 <td>124</td>
 <td colspan="2"></td>
 <td colspan="5">Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>1793</td>
+<td>1838,9</td>
 </tr>
 <tr>
 <td></td>
@@ -200,7 +203,7 @@ source: https://zan.gov.kz/client/#!/doc/128218/kaz/27.03.2019
 <td></td>
 <td colspan="2">003</td>
 <td colspan="5">Мұқтаж азаматтарға үйінде әлеуметтік көмек көрсету</td>
-<td>1793</td>
+<td>1838,9</td>
 </tr>
 <tr>
 <td>07</td>
@@ -973,15 +976,18 @@ source: https://zan.gov.kz/client/#!/doc/128218/kaz/27.03.2019
 
 ## 2019 жылға арналған Жолымбет кентінің бюджеті
 
+> *Ескерту. 4-қосымша жаңа редакцияда - Ақмола облысы Шортанды аудандық мәслихатының 12.04.2019 № С-41/2 (01.01.2019 бастап қолданысқа енгізіледі) шешімімен.*
+
 <table>
 <tr>
 <td colspan="10">Функционалдық топ</td>
 <td rowspan="7">Сома, мың теңге</td>
 </tr>
 <tr>
-<td colspan="7">Санаты</td>
+<td colspan="6">Санаты</td>
 <td></td>
 <td colspan="2"></td>
+<td></td>
 </tr>
 <tr>
 <td colspan="10">Функционалдық кіші топ</td>
@@ -1011,7 +1017,7 @@ source: https://zan.gov.kz/client/#!/doc/128218/kaz/27.03.2019
 <td></td>
 <td colspan="2"></td>
 <td colspan="5">I. Кiрiстер</td>
-<td>20813</td>
+<td>21814</td>
 </tr>
 <tr>
 <td>1</td>
@@ -1075,7 +1081,7 @@ source: https://zan.gov.kz/client/#!/doc/128218/kaz/27.03.2019
 <td></td>
 <td colspan="2"></td>
 <td colspan="5">Трансферттер түсімі</td>
-<td>5777</td>
+<td>6778</td>
 </tr>
 <tr>
 <td></td>
@@ -1083,7 +1089,7 @@ source: https://zan.gov.kz/client/#!/doc/128218/kaz/27.03.2019
 <td></td>
 <td colspan="2"></td>
 <td colspan="5">Мемлекеттiк басқарудың жоғары тұрған органдарынан түсетiн трансферттер</td>
-<td>5777</td>
+<td>6778</td>
 </tr>
 <tr>
 <td></td>
@@ -1091,7 +1097,7 @@ source: https://zan.gov.kz/client/#!/doc/128218/kaz/27.03.2019
 <td>3</td>
 <td colspan="2"></td>
 <td colspan="5">Аудандық (облыстық маңызы бар қала) бюджеттен түсетiн трансферттер</td>
-<td>5777</td>
+<td>6778</td>
 </tr>
 <tr>
 <td></td>
@@ -1099,7 +1105,7 @@ source: https://zan.gov.kz/client/#!/doc/128218/kaz/27.03.2019
 <td></td>
 <td colspan="2"></td>
 <td colspan="5">II. Шығындар</td>
-<td>20813</td>
+<td>21814</td>
 </tr>
 <tr>
 <td>01</td>
@@ -1107,7 +1113,7 @@ source: https://zan.gov.kz/client/#!/doc/128218/kaz/27.03.2019
 <td></td>
 <td colspan="2"></td>
 <td colspan="5">Жалпы сипаттағы мемлекеттiк қызметтер</td>
-<td>13200</td>
+<td>13969</td>
 </tr>
 <tr>
 <td></td>
@@ -1115,7 +1121,7 @@ source: https://zan.gov.kz/client/#!/doc/128218/kaz/27.03.2019
 <td></td>
 <td colspan="2"></td>
 <td colspan="5">Мемлекеттiк басқарудың жалпы функцияларын орындайтын өкiлдiк, атқарушы және басқа органдар</td>
-<td>13200</td>
+<td>13969</td>
 </tr>
 <tr>
 <td></td>
@@ -1123,7 +1129,7 @@ source: https://zan.gov.kz/client/#!/doc/128218/kaz/27.03.2019
 <td>124</td>
 <td colspan="2"></td>
 <td colspan="5">Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>13200</td>
+<td>13969</td>
 </tr>
 <tr>
 <td></td>
@@ -1131,7 +1137,7 @@ source: https://zan.gov.kz/client/#!/doc/128218/kaz/27.03.2019
 <td></td>
 <td colspan="2">001</td>
 <td colspan="5">Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің қызметін қамтамасыз ету жөніндегі қызметтер</td>
-<td>13200</td>
+<td>13969</td>
 </tr>
 <tr>
 <td>06</td>
@@ -1139,7 +1145,7 @@ source: https://zan.gov.kz/client/#!/doc/128218/kaz/27.03.2019
 <td></td>
 <td colspan="2"></td>
 <td colspan="5">Әлеуметтiк көмек және әлеуметтiк қамтамасыз ету</td>
-<td>1710</td>
+<td>1942</td>
 </tr>
 <tr>
 <td></td>
@@ -1147,7 +1153,7 @@ source: https://zan.gov.kz/client/#!/doc/128218/kaz/27.03.2019
 <td></td>
 <td colspan="2"></td>
 <td colspan="5">Әлеуметтiк көмек</td>
-<td>1710</td>
+<td>1942</td>
 </tr>
 <tr>
 <td></td>
@@ -1155,7 +1161,7 @@ source: https://zan.gov.kz/client/#!/doc/128218/kaz/27.03.2019
 <td>124</td>
 <td colspan="2"></td>
 <td colspan="5">Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>1710</td>
+<td>1942</td>
 </tr>
 <tr>
 <td></td>
@@ -1163,7 +1169,7 @@ source: https://zan.gov.kz/client/#!/doc/128218/kaz/27.03.2019
 <td></td>
 <td colspan="2">003</td>
 <td colspan="5">Мұқтаж азаматтарға үйінде әлеуметтік көмек көрсету</td>
-<td>1710</td>
+<td>1942</td>
 </tr>
 <tr>
 <td>07</td>
@@ -1912,15 +1918,18 @@ source: https://zan.gov.kz/client/#!/doc/128218/kaz/27.03.2019
 
 ## 2019 жылға арналған Дамса ауылдық округінің бюджеті
 
+> *Ескерту. 7-қосымша жаңа редакцияда - Ақмола облысы Шортанды аудандық мәслихатының 12.04.2019 № С-41/2 (01.01.2019 бастап қолданысқа енгізіледі) шешімімен.*
+
 <table>
 <tr>
 <td colspan="10">Функционалдық топ</td>
 <td rowspan="7">Сома, мың теңге</td>
 </tr>
 <tr>
-<td colspan="7">Санаты</td>
+<td colspan="6">Санаты</td>
 <td></td>
 <td colspan="2"></td>
+<td></td>
 </tr>
 <tr>
 <td colspan="10">Функционалдық кіші топ</td>
@@ -1950,7 +1959,7 @@ source: https://zan.gov.kz/client/#!/doc/128218/kaz/27.03.2019
 <td></td>
 <td colspan="2"></td>
 <td colspan="5">I. Кiрiстер</td>
-<td>24439</td>
+<td>25371,2</td>
 </tr>
 <tr>
 <td>1</td>
@@ -2014,7 +2023,7 @@ source: https://zan.gov.kz/client/#!/doc/128218/kaz/27.03.2019
 <td></td>
 <td colspan="2"></td>
 <td colspan="5">Трансферттер түсімі</td>
-<td>9439</td>
+<td>10371,2</td>
 </tr>
 <tr>
 <td></td>
@@ -2022,7 +2031,7 @@ source: https://zan.gov.kz/client/#!/doc/128218/kaz/27.03.2019
 <td></td>
 <td colspan="2"></td>
 <td colspan="5">Мемлекеттiк басқарудың жоғары тұрған органдарынан түсетiн трансферттер</td>
-<td>9439</td>
+<td>10371,2</td>
 </tr>
 <tr>
 <td></td>
@@ -2030,7 +2039,7 @@ source: https://zan.gov.kz/client/#!/doc/128218/kaz/27.03.2019
 <td>3</td>
 <td colspan="2"></td>
 <td colspan="5">Аудандық (облыстық маңызы бар қала) бюджеттен түсетiн трансферттер</td>
-<td>9439</td>
+<td>10371,2</td>
 </tr>
 <tr>
 <td></td>
@@ -2038,7 +2047,7 @@ source: https://zan.gov.kz/client/#!/doc/128218/kaz/27.03.2019
 <td></td>
 <td colspan="2"></td>
 <td colspan="5">II. Шығындар</td>
-<td>24439</td>
+<td>25371,2</td>
 </tr>
 <tr>
 <td>01</td>
@@ -2046,7 +2055,7 @@ source: https://zan.gov.kz/client/#!/doc/128218/kaz/27.03.2019
 <td></td>
 <td colspan="2"></td>
 <td colspan="5">Жалпы сипаттағы мемлекеттiк қызметтер</td>
-<td>15829</td>
+<td>16725</td>
 </tr>
 <tr>
 <td></td>
@@ -2054,7 +2063,7 @@ source: https://zan.gov.kz/client/#!/doc/128218/kaz/27.03.2019
 <td></td>
 <td colspan="2"></td>
 <td colspan="5">Мемлекеттiк басқарудың жалпы функцияларын орындайтын өкiлдiк, атқарушы және басқа органдар</td>
-<td>15829</td>
+<td>16725</td>
 </tr>
 <tr>
 <td></td>
@@ -2062,7 +2071,7 @@ source: https://zan.gov.kz/client/#!/doc/128218/kaz/27.03.2019
 <td>124</td>
 <td colspan="2"></td>
 <td colspan="5">Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>15829</td>
+<td>16725</td>
 </tr>
 <tr>
 <td></td>
@@ -2070,7 +2079,7 @@ source: https://zan.gov.kz/client/#!/doc/128218/kaz/27.03.2019
 <td></td>
 <td colspan="2">001</td>
 <td colspan="5">Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің қызметін қамтамасыз ету жөніндегі қызметтер</td>
-<td>15829</td>
+<td>16725</td>
 </tr>
 <tr>
 <td>06</td>
@@ -2078,7 +2087,7 @@ source: https://zan.gov.kz/client/#!/doc/128218/kaz/27.03.2019
 <td></td>
 <td colspan="2"></td>
 <td colspan="5">Әлеуметтiк көмек және әлеуметтiк қамтамасыз ету</td>
-<td>455</td>
+<td>491,2</td>
 </tr>
 <tr>
 <td></td>
@@ -2086,7 +2095,7 @@ source: https://zan.gov.kz/client/#!/doc/128218/kaz/27.03.2019
 <td></td>
 <td colspan="2"></td>
 <td colspan="5">Әлеуметтiк көмек</td>
-<td>455</td>
+<td>491,2</td>
 </tr>
 <tr>
 <td></td>
@@ -2094,7 +2103,7 @@ source: https://zan.gov.kz/client/#!/doc/128218/kaz/27.03.2019
 <td>124</td>
 <td colspan="2"></td>
 <td colspan="5">Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>455</td>
+<td>491,2</td>
 </tr>
 <tr>
 <td></td>
@@ -2102,7 +2111,7 @@ source: https://zan.gov.kz/client/#!/doc/128218/kaz/27.03.2019
 <td></td>
 <td colspan="2">003</td>
 <td colspan="5">Мұқтаж азаматтарға үйінде әлеуметтік көмек көрсету</td>
-<td>455</td>
+<td>491,2</td>
 </tr>
 <tr>
 <td>07</td>
@@ -2875,15 +2884,18 @@ source: https://zan.gov.kz/client/#!/doc/128218/kaz/27.03.2019
 
 ## 2019 жылға арналған Новокубанка ауылдық округінің бюджеті
 
+> *Ескерту. 10-қосымша жаңа редакцияда - Ақмола облысы Шортанды аудандық мәслихатының 12.04.2019 № С-41/2 (01.01.2019 бастап қолданысқа енгізіледі) шешімімен.*
+
 <table>
 <tr>
 <td colspan="10">Функционалдық топ</td>
 <td rowspan="7">Сома, мың теңге</td>
 </tr>
 <tr>
-<td colspan="7">Санаты</td>
+<td colspan="6">Санаты</td>
 <td></td>
 <td colspan="2"></td>
+<td></td>
 </tr>
 <tr>
 <td colspan="10">Функционалдық кіші топ</td>
@@ -2913,7 +2925,7 @@ source: https://zan.gov.kz/client/#!/doc/128218/kaz/27.03.2019
 <td></td>
 <td colspan="2"></td>
 <td colspan="5">I. Кiрiстер</td>
-<td>13981</td>
+<td>14600</td>
 </tr>
 <tr>
 <td>1</td>
@@ -2977,7 +2989,7 @@ source: https://zan.gov.kz/client/#!/doc/128218/kaz/27.03.2019
 <td></td>
 <td colspan="2"></td>
 <td colspan="5">Трансферттер түсімі</td>
-<td>8975</td>
+<td>9594</td>
 </tr>
 <tr>
 <td></td>
@@ -2985,7 +2997,7 @@ source: https://zan.gov.kz/client/#!/doc/128218/kaz/27.03.2019
 <td></td>
 <td colspan="2"></td>
 <td colspan="5">Мемлекеттiк басқарудың жоғары тұрған органдарынан түсетiн трансферттер</td>
-<td>8975</td>
+<td>9594</td>
 </tr>
 <tr>
 <td></td>
@@ -2993,7 +3005,7 @@ source: https://zan.gov.kz/client/#!/doc/128218/kaz/27.03.2019
 <td>3</td>
 <td colspan="2"></td>
 <td colspan="5">Аудандық (облыстық маңызы бар қала) бюджеттен түсетiн трансферттер</td>
-<td>8975</td>
+<td>9594</td>
 </tr>
 <tr>
 <td></td>
@@ -3001,7 +3013,7 @@ source: https://zan.gov.kz/client/#!/doc/128218/kaz/27.03.2019
 <td></td>
 <td colspan="2"></td>
 <td colspan="5">II. Шығындар</td>
-<td>13981</td>
+<td>14600</td>
 </tr>
 <tr>
 <td>01</td>
@@ -3009,7 +3021,7 @@ source: https://zan.gov.kz/client/#!/doc/128218/kaz/27.03.2019
 <td></td>
 <td colspan="2"></td>
 <td colspan="5">Жалпы сипаттағы мемлекеттiк қызметтер</td>
-<td>11045</td>
+<td>11556</td>
 </tr>
 <tr>
 <td></td>
@@ -3017,7 +3029,7 @@ source: https://zan.gov.kz/client/#!/doc/128218/kaz/27.03.2019
 <td></td>
 <td colspan="2"></td>
 <td colspan="5">Мемлекеттiк басқарудың жалпы функцияларын орындайтын өкiлдiк, атқарушы және басқа органдар</td>
-<td>11045</td>
+<td>11556</td>
 </tr>
 <tr>
 <td></td>
@@ -3025,7 +3037,7 @@ source: https://zan.gov.kz/client/#!/doc/128218/kaz/27.03.2019
 <td>124</td>
 <td colspan="2"></td>
 <td colspan="5">Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>11045</td>
+<td>11556</td>
 </tr>
 <tr>
 <td></td>
@@ -3033,7 +3045,7 @@ source: https://zan.gov.kz/client/#!/doc/128218/kaz/27.03.2019
 <td></td>
 <td colspan="2">001</td>
 <td colspan="5">Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің қызметін қамтамасыз ету жөніндегі қызметтер</td>
-<td>11045</td>
+<td>11556</td>
 </tr>
 <tr>
 <td>06</td>
@@ -3041,7 +3053,7 @@ source: https://zan.gov.kz/client/#!/doc/128218/kaz/27.03.2019
 <td></td>
 <td colspan="2"></td>
 <td colspan="5">Әлеуметтiк көмек және әлеуметтiк қамтамасыз ету</td>
-<td>398</td>
+<td>506</td>
 </tr>
 <tr>
 <td></td>
@@ -3049,7 +3061,7 @@ source: https://zan.gov.kz/client/#!/doc/128218/kaz/27.03.2019
 <td></td>
 <td colspan="2"></td>
 <td colspan="5">Әлеуметтiк көмек</td>
-<td>398</td>
+<td>506</td>
 </tr>
 <tr>
 <td></td>
@@ -3057,7 +3069,7 @@ source: https://zan.gov.kz/client/#!/doc/128218/kaz/27.03.2019
 <td>124</td>
 <td colspan="2"></td>
 <td colspan="5">Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>398</td>
+<td>506</td>
 </tr>
 <tr>
 <td></td>
@@ -3065,7 +3077,7 @@ source: https://zan.gov.kz/client/#!/doc/128218/kaz/27.03.2019
 <td></td>
 <td colspan="2">003</td>
 <td colspan="5">Мұқтаж азаматтарға үйінде әлеуметтік көмек көрсету</td>
-<td>398</td>
+<td>506</td>
 </tr>
 <tr>
 <td>07</td>
@@ -3774,15 +3786,18 @@ source: https://zan.gov.kz/client/#!/doc/128218/kaz/27.03.2019
 
 ## 2019 жылға арналған Бозайғыр ауылдық округінің бюджеті
 
+> *Ескерту. 13-қосымша жаңа редакцияда - Ақмола облысы Шортанды аудандық мәслихатының 12.04.2019 № С-41/2 (01.01.2019 бастап қолданысқа енгізіледі) шешімімен.*
+
 <table>
 <tr>
 <td colspan="10">Функционалдық топ</td>
 <td rowspan="7">Сома, мың теңге</td>
 </tr>
 <tr>
-<td colspan="7">Санаты</td>
+<td colspan="6">Санаты</td>
 <td></td>
 <td colspan="2"></td>
+<td></td>
 </tr>
 <tr>
 <td colspan="10">Функционалдық кіші топ</td>
@@ -3812,7 +3827,7 @@ source: https://zan.gov.kz/client/#!/doc/128218/kaz/27.03.2019
 <td></td>
 <td colspan="2"></td>
 <td colspan="5">I. Кiрiстер</td>
-<td>19802</td>
+<td>20297</td>
 </tr>
 <tr>
 <td>1</td>
@@ -3876,7 +3891,7 @@ source: https://zan.gov.kz/client/#!/doc/128218/kaz/27.03.2019
 <td></td>
 <td colspan="2"></td>
 <td colspan="5">Трансферттер түсімі</td>
-<td>9802</td>
+<td>10297</td>
 </tr>
 <tr>
 <td></td>
@@ -3884,7 +3899,7 @@ source: https://zan.gov.kz/client/#!/doc/128218/kaz/27.03.2019
 <td></td>
 <td colspan="2"></td>
 <td colspan="5">Мемлекеттiк басқарудың жоғары тұрған органдарынан түсетiн трансферттер</td>
-<td>9802</td>
+<td>10297</td>
 </tr>
 <tr>
 <td></td>
@@ -3892,7 +3907,7 @@ source: https://zan.gov.kz/client/#!/doc/128218/kaz/27.03.2019
 <td>3</td>
 <td colspan="2"></td>
 <td colspan="5">Аудандық (облыстық маңызы бар қала) бюджеттен түсетiн трансферттер</td>
-<td>9802</td>
+<td>10297</td>
 </tr>
 <tr>
 <td></td>
@@ -3900,7 +3915,7 @@ source: https://zan.gov.kz/client/#!/doc/128218/kaz/27.03.2019
 <td></td>
 <td colspan="2"></td>
 <td colspan="5">II. Шығындар</td>
-<td>19802</td>
+<td>20297</td>
 </tr>
 <tr>
 <td>01</td>
@@ -3908,7 +3923,7 @@ source: https://zan.gov.kz/client/#!/doc/128218/kaz/27.03.2019
 <td></td>
 <td colspan="2"></td>
 <td colspan="5">Жалпы сипаттағы мемлекеттiк қызметтер</td>
-<td>12241</td>
+<td>12630</td>
 </tr>
 <tr>
 <td></td>
@@ -3916,7 +3931,7 @@ source: https://zan.gov.kz/client/#!/doc/128218/kaz/27.03.2019
 <td></td>
 <td colspan="2"></td>
 <td colspan="5">Мемлекеттiк басқарудың жалпы функцияларын орындайтын өкiлдiк, атқарушы және басқа органдар</td>
-<td>12241</td>
+<td>12630</td>
 </tr>
 <tr>
 <td></td>
@@ -3924,7 +3939,7 @@ source: https://zan.gov.kz/client/#!/doc/128218/kaz/27.03.2019
 <td>124</td>
 <td colspan="2"></td>
 <td colspan="5">Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>12241</td>
+<td>12630</td>
 </tr>
 <tr>
 <td></td>
@@ -3932,7 +3947,7 @@ source: https://zan.gov.kz/client/#!/doc/128218/kaz/27.03.2019
 <td></td>
 <td colspan="2">001</td>
 <td colspan="5">Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің қызметін қамтамасыз ету жөніндегі қызметтер</td>
-<td>12241</td>
+<td>12630</td>
 </tr>
 <tr>
 <td>06</td>
@@ -3940,7 +3955,7 @@ source: https://zan.gov.kz/client/#!/doc/128218/kaz/27.03.2019
 <td></td>
 <td colspan="2"></td>
 <td colspan="5">Әлеуметтiк көмек және әлеуметтiк қамтамасыз ету</td>
-<td>1061</td>
+<td>1167</td>
 </tr>
 <tr>
 <td></td>
@@ -3948,7 +3963,7 @@ source: https://zan.gov.kz/client/#!/doc/128218/kaz/27.03.2019
 <td></td>
 <td colspan="2"></td>
 <td colspan="5">Әлеуметтiк көмек</td>
-<td>1061</td>
+<td>1167</td>
 </tr>
 <tr>
 <td></td>
@@ -3956,7 +3971,7 @@ source: https://zan.gov.kz/client/#!/doc/128218/kaz/27.03.2019
 <td>124</td>
 <td colspan="2"></td>
 <td colspan="5">Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>1061</td>
+<td>1167</td>
 </tr>
 <tr>
 <td></td>
@@ -3964,7 +3979,7 @@ source: https://zan.gov.kz/client/#!/doc/128218/kaz/27.03.2019
 <td></td>
 <td colspan="2">003</td>
 <td colspan="5">Мұқтаж азаматтарға үйінде әлеуметтік көмек көрсету</td>
-<td>1061</td>
+<td>1167</td>
 </tr>
 <tr>
 <td>07</td>
@@ -4713,7 +4728,7 @@ source: https://zan.gov.kz/client/#!/doc/128218/kaz/27.03.2019
 
 ## 2019 жылға арналған Бектау ауылдық округінің бюджеті
 
-> *Ескерту. 16-қосымша жаңа редакцияда - Ақмола облысы Шортанды аудандық мәслихатының 27.03.2019 № С-40/5 (01.01.2019 бастап қолданысқа енгізіледі) шешімімен.*
+> *Ескерту. 16-қосымша жаңа редакцияда - Ақмола облысы Шортанды аудандық мәслихатының 12.04.2019 № С-41/2 (01.01.2019 бастап қолданысқа енгізіледі) шешімімен.*
 
 <table>
 <tr>
@@ -4754,7 +4769,7 @@ source: https://zan.gov.kz/client/#!/doc/128218/kaz/27.03.2019
 <td></td>
 <td colspan="2"></td>
 <td colspan="5">I. Кiрiстер</td>
-<td>13939</td>
+<td>14154</td>
 </tr>
 <tr>
 <td>1</td>
@@ -4818,7 +4833,7 @@ source: https://zan.gov.kz/client/#!/doc/128218/kaz/27.03.2019
 <td></td>
 <td colspan="2"></td>
 <td colspan="5">Трансферттер түсімі</td>
-<td>10389</td>
+<td>10604</td>
 </tr>
 <tr>
 <td></td>
@@ -4826,7 +4841,7 @@ source: https://zan.gov.kz/client/#!/doc/128218/kaz/27.03.2019
 <td></td>
 <td colspan="2"></td>
 <td colspan="5">Мемлекеттiк басқарудың жоғары тұрған органдарынан түсетiн трансферттер</td>
-<td>10389</td>
+<td>10604</td>
 </tr>
 <tr>
 <td></td>
@@ -4834,7 +4849,7 @@ source: https://zan.gov.kz/client/#!/doc/128218/kaz/27.03.2019
 <td>3</td>
 <td colspan="2"></td>
 <td colspan="5">Аудандық (облыстық маңызы бар қала) бюджеттен түсетiн трансферттер</td>
-<td>10389</td>
+<td>10604</td>
 </tr>
 <tr>
 <td></td>
@@ -4842,7 +4857,7 @@ source: https://zan.gov.kz/client/#!/doc/128218/kaz/27.03.2019
 <td></td>
 <td colspan="2"></td>
 <td colspan="5">II. Шығындар</td>
-<td>14530</td>
+<td>14745</td>
 </tr>
 <tr>
 <td>01</td>
@@ -4850,7 +4865,7 @@ source: https://zan.gov.kz/client/#!/doc/128218/kaz/27.03.2019
 <td></td>
 <td colspan="2"></td>
 <td colspan="5">Жалпы сипаттағы мемлекеттiк қызметтер</td>
-<td>11414</td>
+<td>11610,4</td>
 </tr>
 <tr>
 <td></td>
@@ -4858,7 +4873,7 @@ source: https://zan.gov.kz/client/#!/doc/128218/kaz/27.03.2019
 <td></td>
 <td colspan="2"></td>
 <td colspan="5">Мемлекеттiк басқарудың жалпы функцияларын орындайтын өкiлдiк, атқарушы және басқа органдар</td>
-<td>11414</td>
+<td>11610,4</td>
 </tr>
 <tr>
 <td></td>
@@ -4866,7 +4881,7 @@ source: https://zan.gov.kz/client/#!/doc/128218/kaz/27.03.2019
 <td>124</td>
 <td colspan="2"></td>
 <td colspan="5">Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>11414</td>
+<td>11610,4</td>
 </tr>
 <tr>
 <td></td>
@@ -4874,7 +4889,7 @@ source: https://zan.gov.kz/client/#!/doc/128218/kaz/27.03.2019
 <td></td>
 <td colspan="2">001</td>
 <td colspan="5">Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің қызметін қамтамасыз ету жөніндегі қызметтер</td>
-<td>11414</td>
+<td>11610,4</td>
 </tr>
 <tr>
 <td>06</td>
@@ -4882,7 +4897,7 @@ source: https://zan.gov.kz/client/#!/doc/128218/kaz/27.03.2019
 <td></td>
 <td colspan="2"></td>
 <td colspan="5">Әлеуметтiк көмек және әлеуметтiк қамтамасыз ету</td>
-<td>852</td>
+<td>870,6</td>
 </tr>
 <tr>
 <td></td>
@@ -4890,7 +4905,7 @@ source: https://zan.gov.kz/client/#!/doc/128218/kaz/27.03.2019
 <td></td>
 <td colspan="2"></td>
 <td colspan="5">Әлеуметтiк көмек</td>
-<td>852</td>
+<td>870,6</td>
 </tr>
 <tr>
 <td></td>
@@ -4898,7 +4913,7 @@ source: https://zan.gov.kz/client/#!/doc/128218/kaz/27.03.2019
 <td>124</td>
 <td colspan="2"></td>
 <td colspan="5">Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>852</td>
+<td>870,6</td>
 </tr>
 <tr>
 <td></td>
@@ -4906,7 +4921,7 @@ source: https://zan.gov.kz/client/#!/doc/128218/kaz/27.03.2019
 <td></td>
 <td colspan="2">003</td>
 <td colspan="5">Мұқтаж азаматтарға үйінде әлеуметтік көмек көрсету</td>
-<td>852</td>
+<td>870,6</td>
 </tr>
 <tr>
 <td>07</td>
