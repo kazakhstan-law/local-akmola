@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/128391/kaz/19.07.2019
+source: https://zan.gov.kz/client/#!/doc/128391/kaz/03.09.2019
 ---
 
 > *Зеренді аудандық мәслихатының*  
