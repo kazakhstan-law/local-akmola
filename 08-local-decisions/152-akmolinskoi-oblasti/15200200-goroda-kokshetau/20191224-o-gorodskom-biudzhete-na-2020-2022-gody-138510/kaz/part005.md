@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/138510/kaz/24.12.2019
+source: https://zan.gov.kz/client/#!/doc/138510/kaz/21.02.2020
 ---
 
 > *Көкшетау қалалық мәслихатының*  
