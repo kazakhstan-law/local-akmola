@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/138718/rus/25.12.2019
+source: https://zan.gov.kz/client/#!/doc/138718/rus/12.03.2020
 ---
 
 > *Приложение 1 к решению*  
@@ -9,6 +9,8 @@ source: https://zan.gov.kz/client/#!/doc/138718/rus/25.12.2019
 > *2019 года № 6С-50/1*
 
 ## Бюджет города Макинск на 2020 год
+
+> *Сноска. Приложение 1 в редакции решения Буландынского районного маслихата Акмолинской области от 12.03.2020 № 6С-54/3 (вводится в действие с 01.01.2020).*
 
 <table>
 <tr>
@@ -143,7 +145,7 @@ source: https://zan.gov.kz/client/#!/doc/138718/rus/25.12.2019
 <td colspan="2"></td>
 <td></td>
 <td>II. Затраты</td>
-<td colspan="2">91908,0</td>
+<td colspan="2">101403,3</td>
 </tr>
 <tr>
 <td colspan="2">01</td>
@@ -234,21 +236,21 @@ source: https://zan.gov.kz/client/#!/doc/138718/rus/25.12.2019
 <td colspan="2"></td>
 <td></td>
 <td>Транспорт и коммуникации</td>
-<td colspan="2">8270,0</td>
+<td colspan="2">17765,3</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2">124</td>
 <td></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td colspan="2">8270,0</td>
+<td colspan="2">17765,3</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td>013</td>
 <td>Обеспечение функционирования автомобильных дорог в городах районного значения, селах, поселках, сельских округах</td>
-<td colspan="2">8270,0</td>
+<td colspan="2">17765,3</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -262,14 +264,42 @@ source: https://zan.gov.kz/client/#!/doc/138718/rus/25.12.2019
 <td colspan="2"></td>
 <td></td>
 <td>IV. Дефицит (профицит) бюджета</td>
-<td colspan="2">0,0</td>
+<td colspan="2">-9495,3</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td></td>
 <td>V. Финансирование дефицита (использование профицита) бюджета</td>
-<td colspan="2">0,0</td>
+<td colspan="2">9495,3</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+<td>Используемые остатки бюджетных средств</td>
+<td colspan="2">9495,3</td>
+</tr>
+<tr>
+<td colspan="2">8</td>
+<td colspan="2"></td>
+<td></td>
+<td>Используемые остатки бюджетных средств</td>
+<td colspan="2">9495,3</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="2">01</td>
+<td></td>
+<td>Остатки бюджетных средств</td>
+<td colspan="2">9495,3</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td>1</td>
+<td>Свободные остатки бюджетных средств</td>
+<td colspan="2">9495,3</td>
 </tr>
 </table>
 
@@ -820,6 +850,8 @@ source: https://zan.gov.kz/client/#!/doc/138718/rus/25.12.2019
 
 ## Бюджет Вознесенского сельского округа на 2020 год
 
+> *Сноска. Приложение 4 в редакции решения Буландынского районного маслихата Акмолинской области от 12.03.2020 № 6С-54/3 (вводится в действие с 01.01.2020).*
+
 <table>
 <tr>
 <td colspan="5">Категория</td>
@@ -939,7 +971,7 @@ source: https://zan.gov.kz/client/#!/doc/138718/rus/25.12.2019
 <td colspan="2"></td>
 <td></td>
 <td>II. Затраты</td>
-<td colspan="2">17702,0</td>
+<td colspan="2">18504,3</td>
 </tr>
 <tr>
 <td colspan="2">01</td>
@@ -988,28 +1020,28 @@ source: https://zan.gov.kz/client/#!/doc/138718/rus/25.12.2019
 <td colspan="2"></td>
 <td></td>
 <td>Жилищно-коммунальное хозяйство</td>
-<td colspan="2">2675,0</td>
+<td colspan="2">3477,3</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2">124</td>
 <td></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td colspan="2">2675,0</td>
+<td colspan="2">3477,3</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td>008</td>
 <td>Освещение улиц в населенных пунктах</td>
-<td colspan="2">888,0</td>
+<td colspan="2">1590,3</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td>009</td>
 <td>Обеспечение санитарии населенных пунктов</td>
-<td colspan="2">50,0</td>
+<td colspan="2">150,0</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1037,14 +1069,42 @@ source: https://zan.gov.kz/client/#!/doc/138718/rus/25.12.2019
 <td colspan="2"></td>
 <td></td>
 <td>IV. Дефицит (профицит) бюджета</td>
-<td colspan="2">0,0</td>
+<td colspan="2">-802,3</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td></td>
 <td>V. Финансирование дефицита (использование профицита) бюджета</td>
-<td colspan="2">0,0</td>
+<td colspan="2">802,3</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+<td>Используемые остатки бюджетных средств</td>
+<td colspan="2">802,3</td>
+</tr>
+<tr>
+<td colspan="2">8</td>
+<td colspan="2"></td>
+<td></td>
+<td>Используемые остатки бюджетных средств</td>
+<td colspan="2">802,3</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="2">01</td>
+<td></td>
+<td>Остатки бюджетных средств</td>
+<td colspan="2">802,3</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td>1</td>
+<td>Свободные остатки бюджетных средств</td>
+<td colspan="2">802,3</td>
 </tr>
 </table>
 
@@ -1525,6 +1585,8 @@ source: https://zan.gov.kz/client/#!/doc/138718/rus/25.12.2019
 
 ## Бюджет Караозекского сельского округа на 2020 год
 
+> *Сноска. Приложение 7 в редакции решения Буландынского районного маслихата Акмолинской области от 12.03.2020 № 6С-54/3 (вводится в действие с 01.01.2020).*
+
 <table>
 <tr>
 <td colspan="5">Категория</td>
@@ -1644,28 +1706,28 @@ source: https://zan.gov.kz/client/#!/doc/138718/rus/25.12.2019
 <td colspan="2"></td>
 <td></td>
 <td>II. Затраты</td>
-<td colspan="2">13991,0</td>
+<td colspan="2">14303,6</td>
 </tr>
 <tr>
 <td colspan="2">01</td>
 <td colspan="2"></td>
 <td></td>
 <td>Государственные услуги общего характера</td>
-<td colspan="2">12477,0</td>
+<td colspan="2">12589,6</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2">124</td>
 <td></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td colspan="2">12477,0</td>
+<td colspan="2">12589,6</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td>001</td>
 <td>Услуги по обеспечению деятельности акима города районного значения, села, поселка, сельского округа</td>
-<td colspan="2">12477,0</td>
+<td colspan="2">12589,6</td>
 </tr>
 <tr>
 <td colspan="2">07</td>
@@ -1700,21 +1762,21 @@ source: https://zan.gov.kz/client/#!/doc/138718/rus/25.12.2019
 <td colspan="2"></td>
 <td></td>
 <td>Транспорт и коммуникации</td>
-<td colspan="2">518,0</td>
+<td colspan="2">718,0</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2">124</td>
 <td></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td colspan="2">518,0</td>
+<td colspan="2">718,0</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td>013</td>
 <td>Обеспечение функционирования автомобильных дорог в городах районного значения, селах, поселках, сельских округах</td>
-<td colspan="2">518,0</td>
+<td colspan="2">718,0</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1728,14 +1790,42 @@ source: https://zan.gov.kz/client/#!/doc/138718/rus/25.12.2019
 <td colspan="2"></td>
 <td></td>
 <td>IV. Дефицит (профицит) бюджета</td>
-<td colspan="2">0,0</td>
+<td colspan="2">-312,6</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td></td>
 <td>V. Финансирование дефицита (использование профицита) бюджета</td>
-<td colspan="2">0,0</td>
+<td colspan="2">312,6</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+<td>Используемые остатки бюджетных средств</td>
+<td colspan="2">312,6</td>
+</tr>
+<tr>
+<td colspan="2">8</td>
+<td colspan="2"></td>
+<td></td>
+<td>Используемые остатки бюджетных средств</td>
+<td colspan="2">312,6</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="2">01</td>
+<td></td>
+<td>Остатки бюджетных средств</td>
+<td colspan="2">312,6</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td>1</td>
+<td>Свободные остатки бюджетных средств</td>
+<td colspan="2">312,6</td>
 </tr>
 </table>
 
