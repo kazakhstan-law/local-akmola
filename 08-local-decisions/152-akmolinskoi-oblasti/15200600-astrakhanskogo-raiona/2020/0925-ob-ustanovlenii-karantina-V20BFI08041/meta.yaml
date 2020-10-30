@@ -23,3 +23,12 @@ version_date:
 source:
   kaz: https://zan.gov.kz/client/#!/doc/146910/kaz/25.09.2020
   rus: https://zan.gov.kz/client/#!/doc/146910/rus/25.09.2020
+repealed_on: 2020-11-02
+repealed_by:
+  code: '148189'
+  key: V20BFI08126
+  requisite: Решение акима Колутонского сельского округа Астраханского района Акмолинской области от 30 октября 2020 года № 6. Зарегистрировано Департаментом юстиции Акмолинской области 2 ноября 2020 года № 8126
+  title:
+    rus: О снятии карантина
+    kaz: Карантинді тоқтату туралы
+  link: https://zan.gov.kz/client/#!/doc/148189/rus
