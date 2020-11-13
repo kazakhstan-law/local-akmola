@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/138718/rus/01.09.2020
+source: https://zan.gov.kz/client/#!/doc/138718/rus/13.11.2020
 ---
 
 > *Приложение 1 к решению*  
@@ -10,13 +10,13 @@ source: https://zan.gov.kz/client/#!/doc/138718/rus/01.09.2020
 
 ## Бюджет города Макинск на 2020 год
 
-> *Сноска. Приложение 1 в редакции решения Буландынского районного маслихата Акмолинской области от 12.03.2020 № 6С-54/3 (вводится в действие с 01.01.2020); в редакции решения Буландынского районного маслихата Акмолинской области от 01.09.2020 № 6С-62/2 (вводится в действие с 01.01.2020).*
+> *Сноска. Приложение 1 в редакции решения Буландынского районного маслихата Акмолинской области от 12.03.2020 № 6С-54/3 (вводится в действие с 01.01.2020); в редакции решения Буландынского районного маслихата Акмолинской области от 01.09.2020 № 6С-62/2 (вводится в действие с 01.01.2020); в редакции решения Буландынского районного маслихата Акмолинской области от 13.11.2020 № 6С-64/2 (вводится в действие с 01.01.2020).*
 
 <table>
 <tr>
 <td colspan="5">Категория</td>
-<td colspan="2">Наименование</td>
-<td>Сумма тысяч тенге</td>
+<td colspan="2" rowspan="3">Наименование</td>
+<td rowspan="3">Сумма тысяч тенге</td>
 </tr>
 <tr>
 <td></td>
@@ -53,42 +53,56 @@ source: https://zan.gov.kz/client/#!/doc/138718/rus/01.09.2020
 <td colspan="2">01</td>
 <td colspan="2"></td>
 <td colspan="2">Подоходный налог</td>
-<td>14000,0</td>
+<td>29755,0</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2"></td>
 <td colspan="2">2</td>
 <td colspan="2">Индивидуальный подоходный налог</td>
-<td>14000,0</td>
+<td>29755,0</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2">04</td>
 <td colspan="2"></td>
 <td colspan="2">Hалоги на собственность</td>
-<td>71237,0</td>
+<td>53880,0</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2"></td>
 <td colspan="2">1</td>
 <td colspan="2">Hалоги на имущество</td>
-<td>1325,0</td>
+<td>995,0</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2"></td>
 <td colspan="2">3</td>
 <td colspan="2">Земельный налог</td>
-<td>21760,0</td>
+<td>11200,0</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2"></td>
 <td colspan="2">4</td>
 <td colspan="2">Hалог на транспортные средства</td>
-<td>48152,0</td>
+<td>41685,0</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2">05</td>
+<td colspan="2"></td>
+<td colspan="2">Внутренние налоги на товары, работы и услуги</td>
+<td>1602,0</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2">4</td>
+<td colspan="2">Сборы за ведение предпринимательской и профессиональной деятельности</td>
+<td>1602,0</td>
 </tr>
 <tr>
 <td>4</td>
@@ -152,21 +166,21 @@ source: https://zan.gov.kz/client/#!/doc/138718/rus/01.09.2020
 <td colspan="2"></td>
 <td></td>
 <td>Государственные услуги общего характера</td>
-<td colspan="2">35159,0</td>
+<td colspan="2">42343,5</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2">124</td>
 <td></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td colspan="2">35159,0</td>
+<td colspan="2">42343,5</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td>001</td>
 <td>Услуги по обеспечению деятельности акима города районного значения, села, поселка, сельского округа</td>
-<td colspan="2">35159,0</td>
+<td colspan="2">42343,5</td>
 </tr>
 <tr>
 <td colspan="2">06</td>
@@ -194,42 +208,42 @@ source: https://zan.gov.kz/client/#!/doc/138718/rus/01.09.2020
 <td colspan="2"></td>
 <td></td>
 <td>Жилищно-коммунальное хозяйство</td>
-<td colspan="2">33099,0</td>
+<td colspan="2">25914,5</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2">124</td>
 <td></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td colspan="2">33099,0</td>
+<td colspan="2">25914,5</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td>008</td>
 <td>Освещение улиц в населенных пунктах</td>
-<td colspan="2">10000,0</td>
+<td colspan="2">9000,0</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td>009</td>
 <td>Обеспечение санитарии населенных пунктов</td>
-<td colspan="2">9175,0</td>
+<td colspan="2">6500,1</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td>010</td>
 <td>Содержание мест захоронений и погребение безродных</td>
-<td colspan="2">483,0</td>
+<td colspan="2">180,0</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td>011</td>
 <td>Благоустройство и озеленение населенных пунктов</td>
-<td colspan="2">13441,0</td>
+<td colspan="2">10234,4</td>
 </tr>
 <tr>
 <td colspan="2">12</td>
@@ -850,13 +864,13 @@ source: https://zan.gov.kz/client/#!/doc/138718/rus/01.09.2020
 
 ## Бюджет Вознесенского сельского округа на 2020 год
 
-> *Сноска. Приложение 4 в редакции решения Буландынского районного маслихата Акмолинской области от 12.03.2020 № 6С-54/3 (вводится в действие с 01.01.2020); в редакции решения Буландынского районного маслихата Акмолинской области от 01.09.2020 № 6С-62/2 (вводится в действие с 01.01.2020).*
+> *Сноска. Приложение 4 в редакции решения Буландынского районного маслихата Акмолинской области от 12.03.2020 № 6С-54/3 (вводится в действие с 01.01.2020); в редакции решения Буландынского районного маслихата Акмолинской области от 01.09.2020 № 6С-62/2 (вводится в действие с 01.01.2020); в редакции решения Буландынского районного маслихата Акмолинской области от 13.11.2020 № 6С-64/2 (вводится в действие с 01.01.2020).*
 
 <table>
 <tr>
 <td colspan="5">Категория</td>
-<td colspan="2">Наименование</td>
-<td>Сумма тысяч тенге</td>
+<td colspan="2" rowspan="3">Наименование</td>
+<td rowspan="3">Сумма тысяч тенге</td>
 </tr>
 <tr>
 <td></td>
@@ -890,31 +904,45 @@ source: https://zan.gov.kz/client/#!/doc/138718/rus/01.09.2020
 </tr>
 <tr>
 <td></td>
+<td colspan="2">01</td>
+<td colspan="2"></td>
+<td colspan="2">Подоходный налог</td>
+<td>358,0</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2">2</td>
+<td colspan="2">Индивидуальный подоходный налог</td>
+<td>358,0</td>
+</tr>
+<tr>
+<td></td>
 <td colspan="2">04</td>
 <td colspan="2"></td>
 <td colspan="2">Hалоги на собственность</td>
-<td>2786,0</td>
+<td>2428,0</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2"></td>
 <td colspan="2">1</td>
 <td colspan="2">Hалоги на имущество</td>
-<td>198,0</td>
+<td>140,0</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2"></td>
 <td colspan="2">3</td>
 <td colspan="2">Земельный налог</td>
-<td>325,0</td>
+<td>140,0</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2"></td>
 <td colspan="2">4</td>
 <td colspan="2">Hалог на транспортные средства</td>
-<td>2263,0</td>
+<td>2148,0</td>
 </tr>
 <tr>
 <td>4</td>
@@ -978,21 +1006,21 @@ source: https://zan.gov.kz/client/#!/doc/138718/rus/01.09.2020
 <td colspan="2"></td>
 <td></td>
 <td>Государственные услуги общего характера</td>
-<td colspan="2">14429,1</td>
+<td colspan="2">14536,8</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2">124</td>
 <td></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td colspan="2">14429,1</td>
+<td colspan="2">14536,8</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td>001</td>
 <td>Услуги по обеспечению деятельности акима города районного значения, села, поселка, сельского округа</td>
-<td colspan="2">14429,1</td>
+<td colspan="2">14536,8</td>
 </tr>
 <tr>
 <td colspan="2">06</td>
@@ -1020,21 +1048,21 @@ source: https://zan.gov.kz/client/#!/doc/138718/rus/01.09.2020
 <td colspan="2"></td>
 <td></td>
 <td>Жилищно-коммунальное хозяйство</td>
-<td colspan="2">2510,9</td>
+<td colspan="2">2403,2</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2">124</td>
 <td></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td colspan="2">2510,9</td>
+<td colspan="2">2403,2</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td>008</td>
 <td>Освещение улиц в населенных пунктах</td>
-<td colspan="2">1590,3</td>
+<td colspan="2">1490,3</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1055,7 +1083,7 @@ source: https://zan.gov.kz/client/#!/doc/138718/rus/01.09.2020
 <td colspan="2"></td>
 <td>014</td>
 <td>Организация водоснабжения населенных пунктов</td>
-<td colspan="2">510,0</td>
+<td colspan="2">502,3</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1585,7 +1613,7 @@ source: https://zan.gov.kz/client/#!/doc/138718/rus/01.09.2020
 
 ## Бюджет Караозекского сельского округа на 2020 год
 
-> *Сноска. Приложение 7 в редакции решения Буландынского районного маслихата Акмолинской области от 12.03.2020 № 6С-54/3 (вводится в действие с 01.01.2020).*
+> *Сноска. Приложение 7 в редакции решения Буландынского районного маслихата Акмолинской области от 12.03.2020 № 6С-54/3 (вводится в действие с 01.01.2020); в редакции решения Буландынского районного маслихата Акмолинской области от 13.11.2020 № 6С-64/2 (вводится в действие с 01.01.2020).*
 
 <table>
 <tr>
@@ -1625,31 +1653,45 @@ source: https://zan.gov.kz/client/#!/doc/138718/rus/01.09.2020
 </tr>
 <tr>
 <td></td>
+<td colspan="2">01</td>
+<td colspan="2"></td>
+<td colspan="2">Подоходный налог</td>
+<td>80,0</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2">2</td>
+<td colspan="2">Индивидуальный подоходный налог</td>
+<td>80,0</td>
+</tr>
+<tr>
+<td></td>
 <td colspan="2">04</td>
 <td colspan="2"></td>
 <td colspan="2">Hалоги на собственность</td>
-<td>1768,0</td>
+<td>1688,0</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2"></td>
 <td colspan="2">1</td>
 <td colspan="2">Hалоги на имущество</td>
-<td>37,0</td>
+<td>88,0</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2"></td>
 <td colspan="2">3</td>
 <td colspan="2">Земельный налог</td>
-<td>171,0</td>
+<td>120,0</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2"></td>
 <td colspan="2">4</td>
 <td colspan="2">Hалог на транспортные средства</td>
-<td>1560,0</td>
+<td>1480,0</td>
 </tr>
 <tr>
 <td>4</td>
@@ -1713,42 +1755,42 @@ source: https://zan.gov.kz/client/#!/doc/138718/rus/01.09.2020
 <td colspan="2"></td>
 <td></td>
 <td>Государственные услуги общего характера</td>
-<td colspan="2">12589,6</td>
+<td colspan="2">11989,6</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2">124</td>
 <td></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td colspan="2">12589,6</td>
+<td colspan="2">11989,6</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td>001</td>
 <td>Услуги по обеспечению деятельности акима города районного значения, села, поселка, сельского округа</td>
-<td colspan="2">12589,6</td>
+<td colspan="2">11989,6</td>
 </tr>
 <tr>
 <td colspan="2">07</td>
 <td colspan="2"></td>
 <td></td>
 <td>Жилищно-коммунальное хозяйство</td>
-<td colspan="2">996,0</td>
+<td colspan="2">1296,0</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2">124</td>
 <td></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td colspan="2">996,0</td>
+<td colspan="2">1296,0</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td>008</td>
 <td>Освещение улиц в населенных пунктах</td>
-<td colspan="2">696,0</td>
+<td colspan="2">996,0</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1762,21 +1804,21 @@ source: https://zan.gov.kz/client/#!/doc/138718/rus/01.09.2020
 <td colspan="2"></td>
 <td></td>
 <td>Транспорт и коммуникации</td>
-<td colspan="2">718,0</td>
+<td colspan="2">1018,0</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2">124</td>
 <td></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td colspan="2">718,0</td>
+<td colspan="2">1018,0</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td>013</td>
 <td>Обеспечение функционирования автомобильных дорог в городах районного значения, селах, поселках, сельских округах</td>
-<td colspan="2">718,0</td>
+<td colspan="2">1018,0</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -2278,6 +2320,8 @@ source: https://zan.gov.kz/client/#!/doc/138718/rus/01.09.2020
 
 ## Бюджет Айнакольского сельского округа на 2020 год
 
+> *Сноска. Приложение 10 в редакции решения Буландынского районного маслихата Акмолинской области от 13.11.2020 № 6С-64/2 (вводится в действие с 01.01.2020).*
+
 <table>
 <tr>
 <td colspan="5">Категория</td>
@@ -2404,21 +2448,21 @@ source: https://zan.gov.kz/client/#!/doc/138718/rus/01.09.2020
 <td colspan="2"></td>
 <td></td>
 <td>Государственные услуги общего характера</td>
-<td colspan="2">10829,0</td>
+<td colspan="2">10029,0</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2">124</td>
 <td></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td colspan="2">10829,0</td>
+<td colspan="2">10029,0</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td>001</td>
 <td>Услуги по обеспечению деятельности акима города районного значения, села, поселка, сельского округа</td>
-<td colspan="2">10479,0</td>
+<td colspan="2">9679,0</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -2432,28 +2476,21 @@ source: https://zan.gov.kz/client/#!/doc/138718/rus/01.09.2020
 <td colspan="2"></td>
 <td></td>
 <td>Жилищно-коммунальное хозяйство</td>
-<td colspan="2">92,0</td>
+<td colspan="2">892,0</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2">124</td>
 <td></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td colspan="2">92,0</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td>008</td>
-<td>Освещение улиц в населенных пунктах</td>
-<td colspan="2">72,0</td>
+<td colspan="2">892,0</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td>011</td>
 <td>Благоустройство и озеленение населенных пунктов</td>
-<td colspan="2">20,0</td>
+<td colspan="2">892,0</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -2885,13 +2922,13 @@ source: https://zan.gov.kz/client/#!/doc/138718/rus/01.09.2020
 
 ## Бюджет Амангельдинского сельского округа на 2020 год
 
-> *Сноска. Приложение 13 в редакции решения Буландынского районного маслихата Акмолинской области от 01.09.2020 № 6С-62/2 (вводится в действие с 01.01.2020).*
+> *Сноска. Приложение 13 в редакции решения Буландынского районного маслихата Акмолинской области от 01.09.2020 № 6С-62/2 (вводится в действие с 01.01.2020); в редакции решения Буландынского районного маслихата Акмолинской области от 13.11.2020 № 6С-64/2 (вводится в действие с 01.01.2020).*
 
 <table>
 <tr>
 <td colspan="5">Категория</td>
-<td colspan="2">Наименование</td>
-<td>Сумма тысяч тенге</td>
+<td colspan="2" rowspan="3">Наименование</td>
+<td rowspan="3">Сумма тысяч тенге</td>
 </tr>
 <tr>
 <td></td>
@@ -3013,21 +3050,21 @@ source: https://zan.gov.kz/client/#!/doc/138718/rus/01.09.2020
 <td colspan="2"></td>
 <td></td>
 <td>Государственные услуги общего характера</td>
-<td colspan="2">12762,0</td>
+<td colspan="2">11677,0</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2">124</td>
 <td></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td colspan="2">12762,0</td>
+<td colspan="2">11677,0</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td>001</td>
 <td>Услуги по обеспечению деятельности акима города районного значения, села, поселка, сельского округа</td>
-<td colspan="2">12412,0</td>
+<td colspan="2">11327,0</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -3041,14 +3078,14 @@ source: https://zan.gov.kz/client/#!/doc/138718/rus/01.09.2020
 <td colspan="2"></td>
 <td></td>
 <td>Жилищно-коммунальное хозяйство</td>
-<td colspan="2">1200,0</td>
+<td colspan="2">1199,0</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2">124</td>
 <td></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td colspan="2">1200,0</td>
+<td colspan="2">1199,0</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -3062,7 +3099,28 @@ source: https://zan.gov.kz/client/#!/doc/138718/rus/01.09.2020
 <td colspan="2"></td>
 <td>014</td>
 <td>Организация водоснабжения населенных пунктов</td>
-<td colspan="2">733,0</td>
+<td colspan="2">732,0</td>
+</tr>
+<tr>
+<td colspan="2">12</td>
+<td colspan="2"></td>
+<td></td>
+<td>Транспорт и коммуникации</td>
+<td colspan="2">1086,0</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="2">124</td>
+<td></td>
+<td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
+<td colspan="2">1086,0</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td>013</td>
+<td>Обеспечение функционирования автомобильных дорог в городах районного значения, селах, поселках, сельских округах</td>
+<td colspan="2">1086,0</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -3494,6 +3552,8 @@ source: https://zan.gov.kz/client/#!/doc/138718/rus/01.09.2020
 
 ## Бюджет Капитоновского сельского округа на 2020 год
 
+> *Сноска. Приложение 16 в редакции решения Буландынского районного маслихата Акмолинской области от 13.11.2020 № 6С-64/2 (вводится в действие с 01.01.2020).*
+
 <table>
 <tr>
 <td colspan="5">Категория</td>
@@ -3532,10 +3592,24 @@ source: https://zan.gov.kz/client/#!/doc/138718/rus/01.09.2020
 </tr>
 <tr>
 <td></td>
+<td colspan="2">01</td>
+<td colspan="2"></td>
+<td colspan="2">Подоходный налог</td>
+<td>220,0</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2">2</td>
+<td colspan="2">Индивидуальный подоходный налог</td>
+<td>220,0</td>
+</tr>
+<tr>
+<td></td>
 <td colspan="2">04</td>
 <td colspan="2"></td>
 <td colspan="2">Hалоги на собственность</td>
-<td>3140,0</td>
+<td>2920,0</td>
 </tr>
 <tr>
 <td></td>
@@ -3549,14 +3623,14 @@ source: https://zan.gov.kz/client/#!/doc/138718/rus/01.09.2020
 <td colspan="2"></td>
 <td colspan="2">3</td>
 <td colspan="2">Земельный налог</td>
-<td>99,0</td>
+<td>299,0</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2"></td>
 <td colspan="2">4</td>
 <td colspan="2">Hалог на транспортные средства</td>
-<td>2969,0</td>
+<td>2549,0</td>
 </tr>
 <tr>
 <td>4</td>
@@ -3620,21 +3694,21 @@ source: https://zan.gov.kz/client/#!/doc/138718/rus/01.09.2020
 <td colspan="2"></td>
 <td></td>
 <td>Государственные услуги общего характера</td>
-<td colspan="2">12844,0</td>
+<td colspan="2">12913,0</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2">124</td>
 <td></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td colspan="2">12844,0</td>
+<td colspan="2">12913,0</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td>001</td>
 <td>Услуги по обеспечению деятельности акима города районного значения, села, поселка, сельского округа</td>
-<td colspan="2">12494,0</td>
+<td colspan="2">12563,0</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -3648,35 +3722,35 @@ source: https://zan.gov.kz/client/#!/doc/138718/rus/01.09.2020
 <td colspan="2"></td>
 <td></td>
 <td>Социальная помощь и социальное обеспечение</td>
-<td colspan="2">1201,0</td>
+<td colspan="2">1125,0</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2">124</td>
 <td></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td colspan="2">1201,0</td>
+<td colspan="2">1125,0</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td>003</td>
 <td>Оказание социальной помощи нуждающимся гражданам на дому</td>
-<td colspan="2">1201,0</td>
+<td colspan="2">1125,0</td>
 </tr>
 <tr>
 <td colspan="2">07</td>
 <td colspan="2"></td>
 <td></td>
 <td>Жилищно-коммунальное хозяйство</td>
-<td colspan="2">1478,0</td>
+<td colspan="2">1485,0</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2">124</td>
 <td></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td colspan="2">1478,0</td>
+<td colspan="2">1485,0</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -3690,7 +3764,7 @@ source: https://zan.gov.kz/client/#!/doc/138718/rus/01.09.2020
 <td colspan="2"></td>
 <td>011</td>
 <td>Благоустройство и озеленение населенных пунктов</td>
-<td colspan="2">358,0</td>
+<td colspan="2">365,0</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -4164,6 +4238,8 @@ source: https://zan.gov.kz/client/#!/doc/138718/rus/01.09.2020
 
 ## Бюджет Новобратского сельского округа на 2020 год
 
+> *Сноска. Приложение 19 в редакции решения Буландынского районного маслихата Акмолинской области от 13.11.2020 № 6С-64/2 (вводится в действие с 01.01.2020).*
+
 <table>
 <tr>
 <td colspan="5">Категория</td>
@@ -4202,10 +4278,24 @@ source: https://zan.gov.kz/client/#!/doc/138718/rus/01.09.2020
 </tr>
 <tr>
 <td></td>
+<td colspan="2">01</td>
+<td colspan="2"></td>
+<td colspan="2">Подоходный налог</td>
+<td>35,0</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2">2</td>
+<td colspan="2">Индивидуальный подоходный налог</td>
+<td>35,0</td>
+</tr>
+<tr>
+<td></td>
 <td colspan="2">04</td>
 <td colspan="2"></td>
 <td colspan="2">Hалоги на собственность</td>
-<td>2206,0</td>
+<td>2171,0</td>
 </tr>
 <tr>
 <td></td>
@@ -4219,14 +4309,14 @@ source: https://zan.gov.kz/client/#!/doc/138718/rus/01.09.2020
 <td colspan="2"></td>
 <td colspan="2">3</td>
 <td colspan="2">Земельный налог</td>
-<td>24,0</td>
+<td>124,0</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2"></td>
 <td colspan="2">4</td>
 <td colspan="2">Hалог на транспортные средства</td>
-<td>2171,0</td>
+<td>2036,0</td>
 </tr>
 <tr>
 <td>4</td>
@@ -4771,6 +4861,8 @@ source: https://zan.gov.kz/client/#!/doc/138718/rus/01.09.2020
 
 ## Бюджет Никольского сельского округа на 2020 год
 
+> *Сноска. Приложение 22 в редакции решения Буландынского районного маслихата Акмолинской области от 13.11.2020 № 6С-64/2 (вводится в действие с 01.01.2020).*
+
 <table>
 <tr>
 <td colspan="5">Категория</td>
@@ -4809,10 +4901,24 @@ source: https://zan.gov.kz/client/#!/doc/138718/rus/01.09.2020
 </tr>
 <tr>
 <td></td>
+<td colspan="2">01</td>
+<td colspan="2"></td>
+<td colspan="2">Подоходный налог</td>
+<td>55,0</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2">2</td>
+<td colspan="2">Индивидуальный подоходный налог</td>
+<td>55,0</td>
+</tr>
+<tr>
+<td></td>
 <td colspan="2">04</td>
 <td colspan="2"></td>
 <td colspan="2">Hалоги на собственность</td>
-<td>1947,0</td>
+<td>1892,0</td>
 </tr>
 <tr>
 <td></td>
@@ -4833,7 +4939,7 @@ source: https://zan.gov.kz/client/#!/doc/138718/rus/01.09.2020
 <td colspan="2"></td>
 <td colspan="2">4</td>
 <td colspan="2">Hалог на транспортные средства</td>
-<td>1698,0</td>
+<td>1643,0</td>
 </tr>
 <tr>
 <td>4</td>
@@ -4897,21 +5003,21 @@ source: https://zan.gov.kz/client/#!/doc/138718/rus/01.09.2020
 <td colspan="2"></td>
 <td></td>
 <td>Государственные услуги общего характера</td>
-<td colspan="2">13654,0</td>
+<td colspan="2">14014,0</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2">124</td>
 <td></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td colspan="2">13654,0</td>
+<td colspan="2">14014,0</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td>001</td>
 <td>Услуги по обеспечению деятельности акима города районного значения, села, поселка, сельского округа</td>
-<td colspan="2">13304,0</td>
+<td colspan="2">13664,0</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -4925,270 +5031,49 @@ source: https://zan.gov.kz/client/#!/doc/138718/rus/01.09.2020
 <td colspan="2"></td>
 <td></td>
 <td>Социальная помощь и социальное обеспечение</td>
-<td colspan="2">573,0</td>
+<td colspan="2">454,0</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2">124</td>
 <td></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td colspan="2">573,0</td>
+<td colspan="2">454,0</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td>003</td>
 <td>Оказание социальной помощи нуждающимся гражданам на дому</td>
-<td colspan="2">573,0</td>
+<td colspan="2">454,0</td>
 </tr>
 <tr>
 <td colspan="2">07</td>
 <td colspan="2"></td>
 <td></td>
 <td>Жилищно-коммунальное хозяйство</td>
-<td colspan="2">1090,0</td>
+<td colspan="2">849,0</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2">124</td>
 <td></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td colspan="2">1090,0</td>
+<td colspan="2">849,0</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td>008</td>
 <td>Освещение улиц в населенных пунктах</td>
-<td colspan="2">210,0</td>
+<td colspan="2">138,0</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td>014</td>
 <td>Организация водоснабжения населенных пунктов</td>
-<td colspan="2">880,0</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td>III. Сальдо по операциям с финансовыми активами</td>
-<td colspan="2">0,0</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td>IV. Дефицит (профицит) бюджета</td>
-<td colspan="2">0,0</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td>V. Финансирование дефицита (использование профицита) бюджета</td>
-<td colspan="2">0,0</td>
-</tr>
-</table>
-
-> *Приложение 23 к решению*  
-> *Буландынского районного*  
-> *маслихата от 25 декабря*  
-> *2019 года № 6С-50/1*
-
-## Бюджет Никольского сельского округа на 2021 год
-
-<table>
-<tr>
-<td colspan="5">Категория</td>
-<td colspan="2" rowspan="3">Наименование</td>
-<td rowspan="3">Сумма тысяч тенге</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="4">Класс</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2">Подкласс</td>
-</tr>
-<tr>
-<td>1</td>
-<td colspan="2">2</td>
-<td colspan="2">3</td>
-<td colspan="2">4</td>
-<td>5</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2">I. Доходы</td>
-<td>14967,0</td>
-</tr>
-<tr>
-<td>1</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2">Налоговые поступления</td>
-<td>1999,0</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="2">04</td>
-<td colspan="2"></td>
-<td colspan="2">Hалоги на собственность</td>
-<td>1999,0</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2">1</td>
-<td colspan="2">Hалоги на имущество</td>
-<td>126,0</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2">3</td>
-<td colspan="2">Земельный налог</td>
-<td>123,0</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2">4</td>
-<td colspan="2">Hалог на транспортные средства</td>
-<td>1750,0</td>
-</tr>
-<tr>
-<td>4</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2">Поступления трансфертов</td>
-<td>12968,0</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="2">02</td>
-<td colspan="2"></td>
-<td colspan="2">Трансферты из вышестоящих органов государственного управления</td>
-<td>12968,0</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2">3</td>
-<td colspan="2">Трансферты из районного (города областного значения) бюджета</td>
-<td>12968,0</td>
-</tr>
-<tr>
-<td colspan="6">Функциональная группа</td>
-<td colspan="2">Сумма</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="4">Администратор бюджетных программ</td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2">Программа</td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td>Наименование</td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="2">1</td>
-<td colspan="2">2</td>
-<td>3</td>
-<td>4</td>
-<td colspan="2">5</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td>II. Затраты</td>
-<td colspan="2">14967,0</td>
-</tr>
-<tr>
-<td colspan="2">01</td>
-<td colspan="2"></td>
-<td></td>
-<td>Государственные услуги общего характера</td>
-<td colspan="2">13304,0</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="2">124</td>
-<td></td>
-<td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td colspan="2">13304,0</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td>001</td>
-<td>Услуги по обеспечению деятельности акима города районного значения, села, поселка, сельского округа</td>
-<td colspan="2">13304,0</td>
-</tr>
-<tr>
-<td colspan="2">06</td>
-<td colspan="2"></td>
-<td></td>
-<td>Социальная помощь и социальное обеспечение</td>
-<td colspan="2">573,0</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="2">124</td>
-<td></td>
-<td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td colspan="2">573,0</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td>003</td>
-<td>Оказание социальной помощи нуждающимся гражданам на дому</td>
-<td colspan="2">573,0</td>
-</tr>
-<tr>
-<td colspan="2">07</td>
-<td colspan="2"></td>
-<td></td>
-<td>Жилищно-коммунальное хозяйство</td>
-<td colspan="2">1090,0</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="2">124</td>
-<td></td>
-<td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td colspan="2">1090,0</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td>008</td>
-<td>Освещение улиц в населенных пунктах</td>
-<td colspan="2">210,0</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td>014</td>
-<td>Организация водоснабжения населенных пунктов</td>
-<td colspan="2">880,0</td>
+<td colspan="2">711,0</td>
 </tr>
 <tr>
 <td colspan="2"></td>
