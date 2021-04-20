@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/152090/kaz/25.12.2020
+source: https://zan.gov.kz/client/#!/doc/152090/kaz/20.04.2021
 ---
 
 > *Қорғалжын аудандық мәслихатының*  
@@ -9,6 +9,8 @@ source: https://zan.gov.kz/client/#!/doc/152090/kaz/25.12.2020
 > *1-қосымша*
 
 ## 2021 жылға арналған Қорғалжын ауылдық округінің бюджеті
+
+> *Ескерту. 1-қосымша жаңа редакцияда - Ақмола облысы Қорғалжын аудандық мәслихатының 20.04.2021 № 1/4 (01.01.2021 бастап қолданысқа енгізіледі) шешімімен.*
 
 <table>
 <tr>
@@ -42,7 +44,7 @@ source: https://zan.gov.kz/client/#!/doc/152090/kaz/25.12.2020
 <td colspan="2"></td>
 <td colspan="4"></td>
 <td>I. КІРІСТЕР</td>
-<td>457 764,0</td>
+<td>444 535,0</td>
 </tr>
 <tr>
 <td>1</td>
@@ -56,21 +58,21 @@ source: https://zan.gov.kz/client/#!/doc/152090/kaz/25.12.2020
 <td colspan="2">01</td>
 <td colspan="4"></td>
 <td>Табыс салығы</td>
-<td>611,0</td>
+<td>3 611,0</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2"></td>
 <td colspan="4">2</td>
 <td>Жеке табыс салығы</td>
-<td>611,0</td>
+<td>3 611,0</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2">04</td>
 <td colspan="4"></td>
 <td>Меншікке салынатын салықтар</td>
-<td>10 930,0</td>
+<td>7 930,0</td>
 </tr>
 <tr>
 <td></td>
@@ -91,7 +93,7 @@ source: https://zan.gov.kz/client/#!/doc/152090/kaz/25.12.2020
 <td colspan="2"></td>
 <td colspan="4">4</td>
 <td>Көлік құралдарына салынатын салық</td>
-<td>9 964,0</td>
+<td>6 964,0</td>
 </tr>
 <tr>
 <td>2</td>
@@ -105,21 +107,21 @@ source: https://zan.gov.kz/client/#!/doc/152090/kaz/25.12.2020
 <td colspan="2"></td>
 <td colspan="4"></td>
 <td>ТРАНСФЕРТТЕРДІҢ ТҮСІМДЕРІ</td>
-<td>446 223,0</td>
+<td>432 994,0</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2">02</td>
 <td colspan="4"></td>
 <td>Мемлекеттік басқарудың жоғары тұрған органдарынан түсетін трансферттер</td>
-<td>446 223,0</td>
+<td>432 994,0</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2"></td>
 <td colspan="4">3</td>
 <td>Аудандардың (облыстық маңызы бар қаланың) бюджетінен трансферттер</td>
-<td>446 223,0</td>
+<td>432 994,0</td>
 </tr>
 </table>
 
@@ -155,28 +157,28 @@ source: https://zan.gov.kz/client/#!/doc/152090/kaz/25.12.2020
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td>II. ШЫҒЫНДАР</td>
-<td>457 764,0</td>
+<td>446 001,5</td>
 </tr>
 <tr>
 <td colspan="2">01</td>
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td>Жалпы сипаттағы мемлекеттiк қызметтер</td>
-<td>18 113,0</td>
+<td>19 425,0</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="3">124</td>
 <td colspan="2"></td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>18 113,0</td>
+<td>19 425,0</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td colspan="2">001</td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің қызметін қамтамасыз ету жөніндегі қызметтер</td>
-<td>18 113,0</td>
+<td>19 425,0</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -190,28 +192,28 @@ source: https://zan.gov.kz/client/#!/doc/152090/kaz/25.12.2020
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td>Тұрғын үй-коммуналдық шаруашылық</td>
-<td>32 980,0</td>
+<td>36 134,5</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="3">124</td>
 <td colspan="2"></td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>32 980,0</td>
+<td>36 134,5</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td colspan="2">008</td>
 <td>Елді мекендердегі көшелерді жарықтандыру</td>
-<td>11 204,0</td>
+<td>12 670,5</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td colspan="2">009</td>
 <td>Елдi мекендердiң санитариясын қамтамасыз ету</td>
-<td>5 500,0</td>
+<td>5 188,0</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -225,14 +227,14 @@ source: https://zan.gov.kz/client/#!/doc/152090/kaz/25.12.2020
 <td colspan="3"></td>
 <td colspan="2">011</td>
 <td>Елді мекендерді абаттандыру мен көгалдандыру</td>
-<td>15 706,0</td>
+<td>17 706,0</td>
 </tr>
 <tr>
 <td colspan="2">12</td>
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td>Көлiк және коммуникация</td>
-<td>204 000,0</td>
+<td>187 771,0</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -242,7 +244,7 @@ source: https://zan.gov.kz/client/#!/doc/152090/kaz/25.12.2020
 Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің
 аппараты
 </td>
-<td>204 000,0</td>
+<td>187 771,0</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -256,7 +258,7 @@ source: https://zan.gov.kz/client/#!/doc/152090/kaz/25.12.2020
 <td colspan="3"></td>
 <td colspan="2">045</td>
 <td>Аудандық маңызы бар қалаларда, ауылдарда, кенттерде, ауылдық округтерде автомобиль жолдарын күрделі және орташа жөндеу</td>
-<td>200 000,0</td>
+<td>183 771,0</td>
 </tr>
 <tr>
 <td colspan="2">13</td>
@@ -305,14 +307,35 @@ source: https://zan.gov.kz/client/#!/doc/152090/kaz/25.12.2020
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td>IV. Бюджет тапшылығы (профициті)</td>
-<td>0,0</td>
+<td>- 1 466,5</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td>V. Бюджет тапшылығын қаржыландыру (профицитін пайдалану)</td>
-<td>0,0</td>
+<td>1 466,5</td>
+</tr>
+<tr>
+<td colspan="2">8</td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td>Бюджет қаражатының пайдаланылатын қалдықтары</td>
+<td>1 466,5</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="3">01</td>
+<td colspan="2"></td>
+<td>Бюджет қаражаты қалдықтары</td>
+<td>1 466,5</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="2">1</td>
+<td>Бюджет қаражатының бос қалдықтары</td>
+<td>1 466,5</td>
 </tr>
 </table>
 
@@ -887,6 +910,8 @@ source: https://zan.gov.kz/client/#!/doc/152090/kaz/25.12.2020
 
 ## 2021 жылға арналған Арықты ауылдық округінің бюджеті
 
+> *Ескерту. 4-қосымша жаңа редакцияда - Ақмола облысы Қорғалжын аудандық мәслихатының 20.04.2021 № 1/4 (01.01.2021 бастап қолданысқа енгізіледі) шешімімен.*
+
 <table>
 <tr>
 <td colspan="9">Санаты</td>
@@ -1032,28 +1057,28 @@ source: https://zan.gov.kz/client/#!/doc/152090/kaz/25.12.2020
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td>II. ШЫҒЫНДАР</td>
-<td colspan="2">12 916,0</td>
+<td colspan="2">12 966,7</td>
 </tr>
 <tr>
 <td colspan="2">01</td>
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td>Жалпы сипаттағы мемлекеттiк қызметтер</td>
-<td colspan="2">10 606,0</td>
+<td colspan="2">10 656,7</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="3">124</td>
 <td colspan="2"></td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td colspan="2">10 606,0</td>
+<td colspan="2">10 656,7</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td colspan="2">001</td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің қызметін қамтамасыз ету жөніндегі қызметтер</td>
-<td colspan="2">10 606,0</td>
+<td colspan="2">10 656,7</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1151,14 +1176,35 @@ source: https://zan.gov.kz/client/#!/doc/152090/kaz/25.12.2020
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td>IV. Бюджет тапшылығы (профициті)</td>
-<td colspan="2">0,0</td>
+<td colspan="2">-50,7</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td>V. Бюджет тапшылығын қаржыландыру (профицитін пайдалану)</td>
-<td colspan="2">0,0</td>
+<td colspan="2">50,7</td>
+</tr>
+<tr>
+<td colspan="2">8</td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td>Бюджет қаражатының пайдаланылатын қалдықтары</td>
+<td colspan="2">50,7</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="3">01</td>
+<td colspan="2"></td>
+<td>Бюджет қаражаты қалдықтары</td>
+<td colspan="2">50,7</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="2">1</td>
+<td>Бюджет қаражатының бос қалдықтары</td>
+<td colspan="2">50,7</td>
 </tr>
 </table>
 
@@ -1733,6 +1779,8 @@ source: https://zan.gov.kz/client/#!/doc/152090/kaz/25.12.2020
 
 ## 2021 жылға арналған Майшұқыр ауылдық округінің бюджеті
 
+> *Ескерту. 7-қосымша жаңа редакцияда - Ақмола облысы Қорғалжын аудандық мәслихатының 20.04.2021 № 1/4 (01.01.2021 бастап қолданысқа енгізіледі) шешімімен.*
+
 <table>
 <tr>
 <td colspan="8">Санаты</td>
@@ -1878,28 +1926,28 @@ source: https://zan.gov.kz/client/#!/doc/152090/kaz/25.12.2020
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td>II. ШЫҒЫНДАР</td>
-<td>14 135,0</td>
+<td>14 284,0</td>
 </tr>
 <tr>
 <td colspan="2">01</td>
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td>Жалпы сипаттағы мемлекеттiк қызметтер</td>
-<td>11 626,0</td>
+<td>11 775,0</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="3">124</td>
 <td colspan="2"></td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>11 626,0</td>
+<td>11 775,0</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td colspan="2">001</td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің қызметін қамтамасыз ету жөніндегі қызметтер</td>
-<td>11 626,0</td>
+<td>11 775,0</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1934,7 +1982,7 @@ source: https://zan.gov.kz/client/#!/doc/152090/kaz/25.12.2020
 <td colspan="3"></td>
 <td colspan="2">009</td>
 <td>Елді мекендердің санитариясын қамтамасыз ету</td>
-<td>1 468,0</td>
+<td>1 438,0</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1997,14 +2045,35 @@ source: https://zan.gov.kz/client/#!/doc/152090/kaz/25.12.2020
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td>IV. Бюджет тапшылығы (профициті)</td>
-<td>0,0</td>
+<td>-149,0</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td>V. Бюджет тапшылығын қаржыландыру (профицитін пайдалану)</td>
-<td>0,0</td>
+<td>149,0</td>
+</tr>
+<tr>
+<td colspan="2">8</td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td>Бюджет қаражатының пайдаланылатын қалдықтары</td>
+<td>149,0</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="3">01</td>
+<td colspan="2"></td>
+<td>Бюджет қаражаты қалдықтары</td>
+<td>149,0</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="2">1</td>
+<td>Бюджет қаражатының бос қалдықтары</td>
+<td>149,0</td>
 </tr>
 </table>
 
@@ -2579,6 +2648,8 @@ source: https://zan.gov.kz/client/#!/doc/152090/kaz/25.12.2020
 
 ## 2021 жылға арналған Қарашалғын ауылдық округінің бюджеті
 
+> *Ескерту. 10-қосымша жаңа редакцияда - Ақмола облысы Қорғалжын аудандық мәслихатының 20.04.2021 № 1/4 (01.01.2021 бастап қолданысқа енгізіледі) шешімімен.*
+
 <table>
 <tr>
 <td colspan="8">Санаты</td>
@@ -2724,28 +2795,28 @@ source: https://zan.gov.kz/client/#!/doc/152090/kaz/25.12.2020
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td>II. ШЫҒЫНДАР</td>
-<td>16 089,0</td>
+<td>16 828,7</td>
 </tr>
 <tr>
 <td colspan="2">01</td>
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td>Жалпы сипаттағы мемлекеттiк қызметтер</td>
-<td>14 922,0</td>
+<td>15 661,7</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="3">124</td>
 <td colspan="2"></td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>14 922,0</td>
+<td>15 661,7</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td colspan="2">001</td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің қызметін қамтамасыз ету жөніндегі қызметтер</td>
-<td>14 922,0</td>
+<td>15 661,7</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -2843,14 +2914,35 @@ source: https://zan.gov.kz/client/#!/doc/152090/kaz/25.12.2020
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td>IV. Бюджет тапшылығы (профициті)</td>
-<td>0,0</td>
+<td>-739,7</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td>V. Бюджет тапшылығын қаржыландыру (профицитін пайдалану)</td>
-<td>0,0</td>
+<td>739,7</td>
+</tr>
+<tr>
+<td colspan="2">8</td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td>Бюджет қаражатының пайдаланылатын қалдықтары</td>
+<td>739,7</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="3">01</td>
+<td colspan="2"></td>
+<td>Бюджет қаражаты қалдықтары</td>
+<td>739,7</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="2">1</td>
+<td>Бюджет қаражатының бос қалдықтары</td>
+<td>739,7</td>
 </tr>
 </table>
 
@@ -3425,6 +3517,8 @@ source: https://zan.gov.kz/client/#!/doc/152090/kaz/25.12.2020
 
 ## 2021 жылға арналған Кеңбидайық ауылдық округінің бюджеті
 
+> *Ескерту. 13-қосымша жаңа редакцияда - Ақмола облысы Қорғалжын аудандық мәслихатының 20.04.2021 № 1/4 (01.01.2021 бастап қолданысқа енгізіледі) шешімімен.*
+
 <table>
 <tr>
 <td colspan="8">Санаты</td>
@@ -3570,28 +3664,28 @@ source: https://zan.gov.kz/client/#!/doc/152090/kaz/25.12.2020
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td>II. ШЫҒЫНДАР</td>
-<td>11 382,0</td>
+<td>11 784,2</td>
 </tr>
 <tr>
 <td colspan="2">01</td>
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td>Жалпы сипаттағы мемлекеттiк қызметтер</td>
-<td>9 232,0</td>
+<td>9 634,2</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="3">124</td>
 <td colspan="2"></td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>9 232,0</td>
+<td>9 634,2</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td colspan="2">001</td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің қызметін қамтамасыз ету жөніндегі қызметтер</td>
-<td>9 232,0</td>
+<td>9 634,2</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -3710,14 +3804,35 @@ source: https://zan.gov.kz/client/#!/doc/152090/kaz/25.12.2020
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td>IV. Бюджет тапшылығы (профициті)</td>
-<td>0,0</td>
+<td>-402,2</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td>V. Бюджет тапшылығын қаржыландыру (профицитін пайдалану)</td>
-<td>0,0</td>
+<td>402,2</td>
+</tr>
+<tr>
+<td colspan="2">8</td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td>Бюджет қаражатының пайдаланылатын қалдықтары</td>
+<td>402,2</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="3">01</td>
+<td colspan="2"></td>
+<td>Бюджет қаражаты қалдықтары</td>
+<td>402,2</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="2">1</td>
+<td>Бюджет қаражатының бос қалдықтары</td>
+<td>402,2</td>
 </tr>
 </table>
 
@@ -4334,6 +4449,8 @@ source: https://zan.gov.kz/client/#!/doc/152090/kaz/25.12.2020
 
 ## 2021 жылға арналған Қызылсай ауылдық округінің бюджеті
 
+> *Ескерту. 16-қосымша жаңа редакцияда - Ақмола облысы Қорғалжын аудандық мәслихатының 20.04.2021 № 1/4 (01.01.2021 бастап қолданысқа енгізіледі) шешімімен.*
+
 <table>
 <tr>
 <td colspan="8">Санаты</td>
@@ -4479,28 +4596,28 @@ source: https://zan.gov.kz/client/#!/doc/152090/kaz/25.12.2020
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td>II. ШЫҒЫНДАР</td>
-<td>13 511,0</td>
+<td>13 678,4</td>
 </tr>
 <tr>
 <td colspan="2">01</td>
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td>Жалпы сипаттағы мемлекеттiк қызметтер</td>
-<td>11 362,0</td>
+<td>11 529,4</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="3">124</td>
 <td colspan="2"></td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>11 362,0</td>
+<td>11 529,4</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td colspan="2">001</td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің қызметін қамтамасыз ету жөніндегі қызметтер</td>
-<td>11 362,0</td>
+<td>11 529,4</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -4619,14 +4736,35 @@ source: https://zan.gov.kz/client/#!/doc/152090/kaz/25.12.2020
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td>IV. Бюджет тапшылығы (профициті)</td>
-<td>0,0</td>
+<td>-167,4</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td>V. Бюджет тапшылығын қаржыландыру (профицитін пайдалану)</td>
-<td>0,0</td>
+<td>167,4</td>
+</tr>
+<tr>
+<td colspan="2">8</td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td>Бюджет қаражатының пайдаланылатын қалдықтары</td>
+<td>167,4</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="3">01</td>
+<td colspan="2"></td>
+<td>Бюджет қаражаты қалдықтары</td>
+<td>167,4</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="2">1</td>
+<td>Бюджет қаражатының бос қалдықтары</td>
+<td>167,4</td>
 </tr>
 </table>
 
@@ -4907,288 +5045,6 @@ source: https://zan.gov.kz/client/#!/doc/152090/kaz/25.12.2020
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td colspan="2"></td>
-<td>V. Бюджет тапшылығын қаржыландыру (профицитін пайдалану)</td>
-<td>0,0</td>
-</tr>
-</table>
-
-> *Қорғалжын аудандық мәслихатының*  
-> *2020 жылғы 25 желтоқсандағы*  
-> *№ 1/61 шешіміне*  
-> *18-қосымша*
-
-## 2023 жылға арналған Қызылсай ауылдық округінің бюджеті
-
-<table>
-<tr>
-<td colspan="6">Санаты</td>
-<td rowspan="4">мың теңге сомасы</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="5">Сыныбы</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="2"></td>
-<td colspan="3">Кіші сыныбы</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td>Атауы</td>
-</tr>
-<tr>
-<td>1</td>
-<td colspan="2">2</td>
-<td colspan="2">3</td>
-<td>4</td>
-<td>5</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td>I. КІРІСТЕР</td>
-<td>15 637,0</td>
-</tr>
-<tr>
-<td>1</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td>САЛЫҚТЫҚ ТҮСІМДЕР</td>
-<td>1 461,0</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="2">01</td>
-<td colspan="2"></td>
-<td>Табыс салығы</td>
-<td>75,0</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2">2</td>
-<td>Жеке табыс салығы</td>
-<td>75,0</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="2">04</td>
-<td colspan="2"></td>
-<td>Меншікке салынатын салықтар</td>
-<td>1 386,0</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2">1</td>
-<td>Мүлікке салынатын салықтар</td>
-<td>124,0</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2">3</td>
-<td>Жер салығы</td>
-<td>119,0</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2">4</td>
-<td>Көлік құралдарына салынатын салық</td>
-<td>1 143,0</td>
-</tr>
-<tr>
-<td>2</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td>САЛЫҚТЫҚ ЕМЕС ТҮСІМДЕР</td>
-<td>0,0</td>
-</tr>
-<tr>
-<td>4</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td>ТРАНСФЕРТТЕРДІҢ ТҮСІМДЕРІ</td>
-<td>14 176,0</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="2">02</td>
-<td colspan="2"></td>
-<td>Мемлекеттік басқарудың жоғары тұрған органдарынан түсетін трансферттер</td>
-<td>14 176,0</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2">3</td>
-<td>Аудандардың (облыстық маңызы бар қаланың) бюджетінен трансферттер</td>
-<td>14 176,0</td>
-</tr>
-</table>
-
-<table>
-<tr>
-<td colspan="6">Функционалдық топ</td>
-<td rowspan="4">мың теңге сомасы</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="4">Бюджеттік бағдарламалардың әкімшісі</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2">Бағдарлама</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td>Атауы</td>
-</tr>
-<tr>
-<td colspan="2">1</td>
-<td colspan="2">2</td>
-<td>3</td>
-<td>4</td>
-<td>5</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td>II. ШЫҒЫНДАР</td>
-<td>15 637,0</td>
-</tr>
-<tr>
-<td colspan="2">01</td>
-<td colspan="2"></td>
-<td></td>
-<td>Жалпы сипаттағы мемлекеттiк қызметтер</td>
-<td>12 329,0</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="2">124</td>
-<td></td>
-<td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>12 329,0</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td>001</td>
-<td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің қызметін қамтамасыз ету жөніндегі қызметтер</td>
-<td>12 329,0</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td>022</td>
-<td>Мемлекеттік органның күрделі шығыстары</td>
-<td>0,0</td>
-</tr>
-<tr>
-<td colspan="2">07</td>
-<td colspan="2"></td>
-<td></td>
-<td>Тұрғын үй-коммуналдық шаруашылық</td>
-<td>1 103,0</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="2">124</td>
-<td></td>
-<td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>1 103,0</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td>009</td>
-<td>Елді мекендердің санитариясын қамтамасыз ету</td>
-<td>1 103,0</td>
-</tr>
-<tr>
-<td colspan="2">12</td>
-<td colspan="2"></td>
-<td></td>
-<td>Көлiк және коммуникация</td>
-<td>2 205,0</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="2">124</td>
-<td></td>
-<td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>2 205,0</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td>013</td>
-<td>Аудандық маңызы бар қалаларда, ауылдарда, кенттерде, ауылдық округтерде автомобиль жолдарының жұмыс істеуін қамтамасыз ету</td>
-<td>2 205,0</td>
-</tr>
-<tr>
-<td colspan="2">13</td>
-<td colspan="2"></td>
-<td></td>
-<td>Басқалар</td>
-<td>0,0</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="2">124</td>
-<td></td>
-<td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>0,0</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td>040</td>
-<td>Өңірлерді дамытудың 2025 жылға дейінгі мемлекеттік бағдарламасы шеңберінде өңірлерді экономикалық дамытуға жәрдемдесу бойынша шараларды іске асыруға ауылдық елді мекендерді жайластыруды шешуге арналған іс-шараларды іске асыру</td>
-<td>0,0</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td>ІII. Қаржы активтерімен операциялар бойынша сальдо</td>
-<td>0,0</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td>Қаржы активтерін сатып алу</td>
-<td>0,0</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td>Мемлекеттің қаржы активтерін сатудан түсетін түсімдер</td>
-<td>0,0</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td>IV. Бюджет тапшылығы (профициті)</td>
-<td>0,0</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
 <td>V. Бюджет тапшылығын қаржыландыру (профицитін пайдалану)</td>
 <td>0,0</td>
 </tr>
