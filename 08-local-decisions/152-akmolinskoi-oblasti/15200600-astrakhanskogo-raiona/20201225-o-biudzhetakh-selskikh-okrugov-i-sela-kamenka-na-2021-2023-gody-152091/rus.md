@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/152091/rus/19.07.2021
+source: https://zan.gov.kz/client/#!/doc/152091/rus/01.10.2021
 ---
 
 # О бюджетах сельских округов и села Каменка на 2021-2023 годы
