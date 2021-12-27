@@ -1,0 +1,822 @@
+---
+version_id: '164788_561807'
+act_code: '164788'
+language: rus
+title: Об утверждении бюджета Лесного сельского округа Сандыктауского района на 2022-2024 годы
+requisite: Решение Сандыктауского районного маслихата Акмолинской области от 27 декабря 2021 года № 13/2/9
+form: РЕШ
+type_codes:
+- РЕШ
+approved_by:
+- '152017000002'
+approval_date: 2021-12-27
+version_date: 2021-12-27
+registry_number: '164788'
+source: https://zan.gov.kz/client/#!/doc/164788/rus/27.12.2021
+---
+
+# Об утверждении бюджета Лесного сельского округа Сандыктауского района на 2022-2024 годы
+
+> *Сноска. Вводится в действие с 01.01.2022 в соответствии с пунктом 3 настоящего решения.*
+
+В соответствии с пунктом 2 статьи 9-1 Бюджетного кодекса Республики Казахстан, подпунктом 1) пункта 1 статьи 6 Закона Республики Казахстан «О местном государственном управлении и самоуправлении в Республике Казахстан» Сандыктауский районный маслихат РЕШИЛ:
+
+1. Утвердить бюджет Лесного сельского округа на 2022-2024 годы, согласно приложениям 1, 2, 3 и 4 соответственно, в том числе на 2022 год в следующих объемах:
+
+   1) доходы – 22 376,0 тысяч тенге, в том числе:
+
+      налоговые поступления –13 608 ,0 тысяч тенге;
+
+      неналоговые поступления –0,0 тысяч тенге;
+
+      поступления от продажи основного капитала – 0,0 тысяч тенге;
+
+      поступления трансфертов –8 768,0 тысячи тенге;
+
+   2) затраты – 22 376,0 тысяч тенге;
+
+   3) сальдо по операциям с финансовыми активами – 0,0 тысяч тенге;
+
+   4) дефицит (профицит) бюджета – 0,0 тысяч тенге;
+
+   5) финансирование дефицита (использование профицита) бюджета – 0,0 тысяч тенге.
+
+2. Учесть, что в бюджете Лесного сельского округа на 2022 год предусмотрен объем субвенции, передаваемой из районного бюджета в сумме 7 769,0 тысячи тенге.
+
+3. Настоящее решение вступает в силу и вводится в действие с 1 января 2022 года.
+
+**Председатель сессии, секретарь районного маслихата**
+
+**Г. Кадырова**
+
+> *Приложение 1 к решению*  
+> *Сандыктауского районного*  
+> *маслихата от 27 декабря*  
+> *2021 года № 13/2/9*
+
+## Бюджет Лесного сельского округа на 2022 год
+
+<table>
+<tr>
+<td colspan="3">Категория</td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="4">Класс</td>
+<td colspan="2">Сумма</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3">Подкласс</td>
+<td colspan="2">тысяч тенге</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td colspan="2">Наименование</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2">1</td>
+<td>2</td>
+<td>3</td>
+<td colspan="2">4</td>
+<td colspan="2">5</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td colspan="2">I. Доходы</td>
+<td colspan="2">22 376,0</td>
+</tr>
+<tr>
+<td colspan="2">1</td>
+<td></td>
+<td></td>
+<td colspan="2">Налоговые поступления</td>
+<td colspan="2">13 608,0</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td>04</td>
+<td></td>
+<td colspan="2">Налоги на собственность</td>
+<td colspan="2">2 797,0</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td></td>
+<td>1</td>
+<td colspan="2">Налоги на имущество</td>
+<td colspan="2">145,0</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td></td>
+<td>3</td>
+<td colspan="2">Земельный налог</td>
+<td colspan="2">29,0</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td></td>
+<td>4</td>
+<td colspan="2">Налог на транспортные средства</td>
+<td colspan="2">2 623,0</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td>05</td>
+<td></td>
+<td colspan="2">Внутренние налоги на товары, работы и услуги</td>
+<td colspan="2">10 811,0</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td></td>
+<td>3</td>
+<td colspan="2">Поступления за использование природных и других ресурсов</td>
+<td colspan="2">10 811,0</td>
+</tr>
+<tr>
+<td colspan="2">2</td>
+<td></td>
+<td></td>
+<td colspan="2">Неналоговые поступления</td>
+<td colspan="2">0,0</td>
+</tr>
+<tr>
+<td colspan="2">3</td>
+<td></td>
+<td></td>
+<td colspan="2">Поступления от продажи основного капитала</td>
+<td colspan="2">0,0</td>
+</tr>
+<tr>
+<td colspan="2">4</td>
+<td></td>
+<td></td>
+<td colspan="2">Поступления трансфертов</td>
+<td colspan="2">8 768,0</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td>02</td>
+<td></td>
+<td colspan="2">Трансферты из вышестоящих органов государственного управления</td>
+<td colspan="2">8 768,0</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td></td>
+<td>3</td>
+<td colspan="2">Трансферты из районного бюджета (городов областного значения) бюджетов</td>
+<td colspan="2">8 768,0</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="6">Функциональная группа</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="4">Администратор бюджетных программ</td>
+<td colspan="2">Сумма</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3">Программа</td>
+<td colspan="2">тысяч тенге</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td colspan="2">Наименование</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2">1</td>
+<td>2</td>
+<td>3</td>
+<td colspan="2">4</td>
+<td colspan="2">5</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td colspan="2">II. Затраты</td>
+<td colspan="2">22 376,0</td>
+</tr>
+<tr>
+<td colspan="2">01</td>
+<td></td>
+<td></td>
+<td colspan="2">Государственные услуги общего характера</td>
+<td colspan="2">21 499,0</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td>124</td>
+<td></td>
+<td colspan="2">Аппарат акима города районного значения, села, поселка, сельского округа</td>
+<td colspan="2">21 499,0</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td></td>
+<td>001</td>
+<td colspan="2">Услуги по обеспечению деятельности акима города районного значения, села, поселка, сельского округа</td>
+<td colspan="2">21 499,0</td>
+</tr>
+<tr>
+<td colspan="2">07</td>
+<td></td>
+<td></td>
+<td colspan="2">Жилищно-коммунальное хозяйство</td>
+<td colspan="2">877,0</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td>124</td>
+<td></td>
+<td colspan="2">Аппарат акима города районного значения, села, поселка, сельского округа</td>
+<td colspan="2">877,0</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td></td>
+<td>008</td>
+<td colspan="2">Освещение улиц населенных пунктов</td>
+<td colspan="2">877,0</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td colspan="2">III. Сальдо по операциям с финансовыми активами</td>
+<td colspan="2">0,0</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td colspan="2">IV. Дефицит (профицит) бюджета</td>
+<td colspan="2">0,0</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td colspan="2">V. Финансирование дефицита (использование профицита) бюджета</td>
+<td colspan="2">0,0</td>
+</tr>
+</table>
+
+> *Приложение 2 к решению*  
+> *Сандыктауского районного*  
+> *маслихата от 27 декабря*  
+> *2021 года № 13/2/9*
+
+## Бюджет Лесного сельского округа на 2023 год
+
+<table>
+<tr>
+<td colspan="3">Категория</td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="4">Класс</td>
+<td colspan="2">Сумма</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3">Подкласс</td>
+<td colspan="2">тысяч тенге</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td colspan="2">Наименование</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2">1</td>
+<td>2</td>
+<td>3</td>
+<td colspan="2">4</td>
+<td colspan="2">5</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td colspan="2">I. Доходы</td>
+<td colspan="2">24 796,0</td>
+</tr>
+<tr>
+<td colspan="2">1</td>
+<td></td>
+<td></td>
+<td colspan="2">Налоговые поступления</td>
+<td colspan="2">14 937,0</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td>01</td>
+<td></td>
+<td colspan="2">Подоходный налог</td>
+<td colspan="2">1 250,0</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td></td>
+<td>2</td>
+<td colspan="2">Индивидуальный подоходный налог</td>
+<td colspan="2">1 250,0</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td>04</td>
+<td></td>
+<td colspan="2">Налоги на собственность</td>
+<td colspan="2">2 876,0</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td></td>
+<td>1</td>
+<td colspan="2">Налоги на имущество</td>
+<td colspan="2">145,0</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td></td>
+<td>3</td>
+<td colspan="2">Земельный налог</td>
+<td colspan="2">30,0</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td></td>
+<td>4</td>
+<td colspan="2">Налог на транспортные средства</td>
+<td colspan="2">2 701,0</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td>05</td>
+<td></td>
+<td colspan="2">Внутренние налоги на товары, работы и услуги</td>
+<td colspan="2">10 811,0</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td></td>
+<td>3</td>
+<td colspan="2">Поступления за использование природных и других ресурсов</td>
+<td colspan="2">10 811,0</td>
+</tr>
+<tr>
+<td colspan="2">2</td>
+<td></td>
+<td></td>
+<td colspan="2">Неналоговые поступления</td>
+<td colspan="2">0,0</td>
+</tr>
+<tr>
+<td colspan="2">3</td>
+<td></td>
+<td></td>
+<td colspan="2">Поступления от продажи основного капитала</td>
+<td colspan="2">0,0</td>
+</tr>
+<tr>
+<td colspan="2">4</td>
+<td></td>
+<td></td>
+<td colspan="2">Поступления трансфертов</td>
+<td colspan="2">9 859,0</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td>02</td>
+<td></td>
+<td colspan="2">Трансферты из вышестоящих органов государственного управления</td>
+<td colspan="2">9 859,0</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td></td>
+<td>3</td>
+<td colspan="2">Трансферты из районного бюджета (городов областного значения) бюджетов</td>
+<td colspan="2">9 859,0</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td colspan="6">Функциональная группа</td>
+<td colspan="2" rowspan="4">Сумма тысяч тенге</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="4">Администратор бюджетных программ</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3">Программа</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td colspan="2">Наименование</td>
+</tr>
+<tr>
+<td colspan="2">1</td>
+<td>2</td>
+<td>3</td>
+<td colspan="2">4</td>
+<td colspan="2">5</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td colspan="2">II. Затраты</td>
+<td colspan="2">24 796,0</td>
+</tr>
+<tr>
+<td colspan="2">01</td>
+<td></td>
+<td></td>
+<td colspan="2">Государственные услуги общего характера</td>
+<td colspan="2">23 919,0</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td>124</td>
+<td></td>
+<td colspan="2">Аппарат акима города районного значения, села, поселка, сельского округа</td>
+<td colspan="2">23 919,0</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td></td>
+<td>001</td>
+<td colspan="2">Услуги по обеспечению деятельности акима города районного значения, села, поселка, сельского округа</td>
+<td colspan="2">23 919,0</td>
+</tr>
+<tr>
+<td colspan="2">07</td>
+<td></td>
+<td></td>
+<td colspan="2">Жилищно-коммунальное хозяйство</td>
+<td colspan="2">877,0</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td>124</td>
+<td></td>
+<td colspan="2">Аппарат акима города районного значения, села, поселка, сельского округа</td>
+<td colspan="2">877,0</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td></td>
+<td>008</td>
+<td colspan="2">Освещение улиц населенных пунктов</td>
+<td colspan="2">877,0</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td colspan="2">III. Сальдо по операциям с финансовыми активами</td>
+<td colspan="2">0,0</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td colspan="2">IV. Дефицит (профицит) бюджета</td>
+<td colspan="2">0,0</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td colspan="2">V. Финансирование дефицита (использование профицита) бюджета</td>
+<td colspan="2">0,0</td>
+</tr>
+</table>
+
+> *Приложение 3 к решению*  
+> *Сандыктауского районного*  
+> *маслихата от 27 декабря*  
+> *2021 года № 13/2/9*
+
+## Бюджет Лесного сельского округа на 2024 год
+
+<table>
+<tr>
+<td colspan="3">Категория</td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="4">Класс</td>
+<td colspan="2">Сумма</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3">Подкласс</td>
+<td colspan="2">тысяч тенге</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td colspan="2">Наименование</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2">1</td>
+<td>2</td>
+<td>3</td>
+<td colspan="2">4</td>
+<td colspan="2">5</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td colspan="2">I. Доходы</td>
+<td colspan="2">24 796,0</td>
+</tr>
+<tr>
+<td colspan="2">1</td>
+<td></td>
+<td></td>
+<td colspan="2">Налоговые поступления</td>
+<td colspan="2">15 055,0</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td>01</td>
+<td></td>
+<td colspan="2">Подоходный налог</td>
+<td colspan="2">1 287,0</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td></td>
+<td>2</td>
+<td colspan="2">Индивидуальный подоходный налог</td>
+<td colspan="2">1 287,0</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td>04</td>
+<td></td>
+<td colspan="2">Налоги на собственность</td>
+<td colspan="2">2 957,0</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td></td>
+<td>1</td>
+<td colspan="2">Налоги на имущество</td>
+<td colspan="2">145,0</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td></td>
+<td>3</td>
+<td colspan="2">Земельный налог</td>
+<td colspan="2">31,0</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td></td>
+<td>4</td>
+<td colspan="2">Налог на транспортные средства</td>
+<td colspan="2">2 781,0</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td>05</td>
+<td></td>
+<td colspan="2">Внутренние налоги на товары, работы и услуги</td>
+<td colspan="2">10 811,0</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td></td>
+<td>3</td>
+<td colspan="2">Поступления за использование природных и других ресурсов</td>
+<td colspan="2">10 811,0</td>
+</tr>
+<tr>
+<td colspan="2">2</td>
+<td></td>
+<td></td>
+<td colspan="2">Неналоговые поступления</td>
+<td colspan="2">0,0</td>
+</tr>
+<tr>
+<td colspan="2">3</td>
+<td></td>
+<td></td>
+<td colspan="2">Поступления от продажи основного капитала</td>
+<td colspan="2">0,0</td>
+</tr>
+<tr>
+<td colspan="2">4</td>
+<td></td>
+<td></td>
+<td colspan="2">Поступления трансфертов</td>
+<td colspan="2">9 741,0</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td>02</td>
+<td></td>
+<td colspan="2">Трансферты из вышестоящих органов государственного управления</td>
+<td colspan="2">9 741,0</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td></td>
+<td>3</td>
+<td colspan="2">Трансферты из районного бюджета (городов областного значения) бюджетов</td>
+<td colspan="2">9 741,0</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="6">Функциональная группа</td>
+<td colspan="2" rowspan="4">Сумма тысяч тенге</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="4">Администратор бюджетных программ</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3">Программа</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td colspan="2">Наименование</td>
+</tr>
+<tr>
+<td colspan="2">1</td>
+<td>2</td>
+<td>3</td>
+<td colspan="2">4</td>
+<td colspan="2">5</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td colspan="2">II. Затраты</td>
+<td colspan="2">24 796,0</td>
+</tr>
+<tr>
+<td colspan="2">01</td>
+<td></td>
+<td></td>
+<td colspan="2">Государственные услуги общего характера</td>
+<td colspan="2">23 919,0</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td>124</td>
+<td></td>
+<td colspan="2">Аппарат акима города районного значения, села, поселка, сельского округа</td>
+<td colspan="2">23 919,0</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td></td>
+<td>001</td>
+<td colspan="2">Услуги по обеспечению деятельности акима города районного значения, села, поселка, сельского округа</td>
+<td colspan="2">23 919,0</td>
+</tr>
+<tr>
+<td colspan="2">07</td>
+<td></td>
+<td></td>
+<td colspan="2">Жилищно-коммунальное хозяйство</td>
+<td colspan="2">877,0</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td>124</td>
+<td></td>
+<td colspan="2">Аппарат акима города районного значения, села, поселка, сельского округа</td>
+<td colspan="2">877,0</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td></td>
+<td>008</td>
+<td colspan="2">Освещение улиц населенных пунктов</td>
+<td colspan="2">877,0</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td colspan="2">III. Сальдо по операциям с финансовыми активами</td>
+<td colspan="2">0,0</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td colspan="2">IV. Дефицит (профицит) бюджета</td>
+<td colspan="2">0,0</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td colspan="2">V. Финансирование дефицита (использование профицита) бюджета</td>
+<td colspan="2">0,0</td>
+</tr>
+</table>
+
+> *Приложение 4 к решению*  
+> *Сандыктауского районного*  
+> *маслихата от 27 декабря*  
+> *2021 года № 13/2/9*
+
+## Целевые трансферты из районного бюджета бюджету Лесного сельского округа на 2022 год
+
+<table>
+<tr>
+<td>Наименование</td>
+<td>Сумма тысяч тенге</td>
+</tr>
+<tr>
+<td>1</td>
+<td>2</td>
+</tr>
+<tr>
+<td>Всего</td>
+<td>999,0</td>
+</tr>
+<tr>
+<td>Целевые текущие трансферты</td>
+<td>999,0</td>
+</tr>
+<tr>
+<td>За счет средств республиканского бюджета, всего</td>
+<td></td>
+</tr>
+<tr>
+<td>в том числе:</td>
+<td></td>
+</tr>
+<tr>
+<td>Лесной сельский округ</td>
+<td></td>
+</tr>
+<tr>
+<td>Повышение заработной платы отдельных категорий гражданских служащих</td>
+<td>999,0</td>
+</tr>
+</table>
