@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/162467/kaz/27.12.2021
+source: https://zan.gov.kz/client/#!/doc/162467/kaz/24.03.2022
 ---
 
 > *Ақкөл аудандық мәслихаттың*  
