@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/160342/kaz/17.11.2021
+source: https://zan.gov.kz/client/#!/doc/160342/kaz/27.05.2022
 ---
 
 > *2021-2022 жылдарға арналған*  
@@ -186,7 +186,6 @@ source: https://zan.gov.kz/client/#!/doc/160342/kaz/17.11.2021
 <td>-</td>
 <td>-</td>
 <td>-</td>
-<td></td>
 </tr>
 <tr>
 <td>3</td>

@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/160342/rus/17.11.2021
+source: https://zan.gov.kz/client/#!/doc/160342/rus/27.05.2022
 ---
 
 > *Приложение 64*  
@@ -190,7 +190,6 @@ source: https://zan.gov.kz/client/#!/doc/160342/rus/17.11.2021
 <td>-</td>
 <td>-</td>
 <td>-</td>
-<td></td>
 </tr>
 <tr>
 <td>3</td>
