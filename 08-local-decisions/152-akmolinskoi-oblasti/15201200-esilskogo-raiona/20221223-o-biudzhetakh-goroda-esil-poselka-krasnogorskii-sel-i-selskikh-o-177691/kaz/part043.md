@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/177691/kaz/23.12.2022
+source: https://zan.gov.kz/client/#!/doc/177691/kaz/14.04.2023
 ---
 
 > *Есіл аудандық мәслихатының*  
@@ -9,6 +9,8 @@ source: https://zan.gov.kz/client/#!/doc/177691/kaz/23.12.2022
 > *43 қосымша*
 
 ## 2023 жылға арналған Юбилейный ауылдық округінің бюджеті
+
+> *Ескерту. 43-қосымша жаңа редакцияда - Ақмола облысы Есіл аудандық мәслихатының 14.04.2023 № 8С-2/3 (01.01.2023 бастап қолданысқа енгізіледі) шешімімен.*
 
 <table>
 <tr>
@@ -140,7 +142,7 @@ source: https://zan.gov.kz/client/#!/doc/177691/kaz/23.12.2022
 <table>
 <tr>
 <td colspan="5">Функционалдық топ</td>
-<td rowspan="4">
+<td rowspan="5">
 Сома
 мың теңге
 </td>
@@ -166,7 +168,6 @@ source: https://zan.gov.kz/client/#!/doc/177691/kaz/23.12.2022
 <td></td>
 <td></td>
 <td>Атауы</td>
-<td></td>
 </tr>
 <tr>
 <td>1</td>
@@ -182,7 +183,7 @@ source: https://zan.gov.kz/client/#!/doc/177691/kaz/23.12.2022
 <td></td>
 <td></td>
 <td>II. Шығындар</td>
-<td>23263</td>
+<td>23632,4</td>
 </tr>
 <tr>
 <td>01</td>
@@ -254,7 +255,7 @@ source: https://zan.gov.kz/client/#!/doc/177691/kaz/23.12.2022
 <td></td>
 <td></td>
 <td>Көлік және коммуникация</td>
-<td>1304</td>
+<td>1673,4</td>
 </tr>
 <tr>
 <td></td>
@@ -262,7 +263,7 @@ source: https://zan.gov.kz/client/#!/doc/177691/kaz/23.12.2022
 <td></td>
 <td></td>
 <td>Автомобиль көлiгi</td>
-<td>1304</td>
+<td>1673,4</td>
 </tr>
 <tr>
 <td></td>
@@ -270,7 +271,7 @@ source: https://zan.gov.kz/client/#!/doc/177691/kaz/23.12.2022
 <td>124</td>
 <td></td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>1304</td>
+<td>1673,4</td>
 </tr>
 <tr>
 <td></td>
@@ -278,7 +279,7 @@ source: https://zan.gov.kz/client/#!/doc/177691/kaz/23.12.2022
 <td></td>
 <td>013</td>
 <td>Аудандық маңызы бар қалаларда, ауылдарда, кенттерде, ауылдық округтерде автомобиль жолдарының жұмыс істеуін қамтамасыз ету</td>
-<td>1304</td>
+<td>1673,4</td>
 </tr>
 <tr>
 <td></td>
@@ -302,7 +303,7 @@ source: https://zan.gov.kz/client/#!/doc/177691/kaz/23.12.2022
 <td></td>
 <td></td>
 <td>V. Бюджет тапшылығы (профициті)</td>
-<td>0</td>
+<td>- 369,4</td>
 </tr>
 <tr>
 <td></td>
@@ -310,7 +311,7 @@ source: https://zan.gov.kz/client/#!/doc/177691/kaz/23.12.2022
 <td></td>
 <td></td>
 <td>VI. Бюджет тапшылығын қаржыландыру (профицитін пайдалану)</td>
-<td>0</td>
+<td>369,4</td>
 </tr>
 </table>
 
