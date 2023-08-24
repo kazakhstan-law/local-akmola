@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/180334/kaz/21.04.2023
+source: https://zan.gov.kz/client/#!/doc/180334/kaz/24.08.2023
 ---
 
 > *2023-2024 жылдарға арналған*  

@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/180334/rus/21.04.2023
+source: https://zan.gov.kz/client/#!/doc/180334/rus/24.08.2023
 ---
 
 > *Приложение 103*  
