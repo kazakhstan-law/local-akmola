@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/191726/kaz/07.06.2024
+source: https://zan.gov.kz/client/#!/doc/191726/kaz/15.07.2024
 ---
 
 > *Ерейментау аудандық мәслихатының*  
