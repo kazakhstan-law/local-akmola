@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/191565/kaz/14.06.2024
+source: https://zan.gov.kz/client/#!/doc/191565/kaz/18.07.2024
 ---
 
 > *Есіл аудандық мәслихатының*  
