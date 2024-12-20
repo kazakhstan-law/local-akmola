@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/192098/rus/18.11.2024
+source: https://zan.gov.kz/client/#!/doc/192098/rus/20.12.2024
 ---
 
 > *Приложение 1 к решению*  
@@ -10,7 +10,7 @@ source: https://zan.gov.kz/client/#!/doc/192098/rus/18.11.2024
 
 ## Районный бюджет на 2024 год
 
-> *Сноска. Приложение 1 в редакции решений Аршалынского районного маслихата Акмолинской области от 13.03.2024 № 15/2 (вводится в действие с 01.01.2024); от 10.05.2024 № 19/2 (вводится в действие с 01.01.2024); от 19.08.2024 № 21/2 (вводится в действие с 01.01.2024); от 18.11.2024 № 25/2 (вводится в действие с 01.01.2024).*
+> *Сноска. Приложение 1 в редакции решений Аршалынского районного маслихата Акмолинской области от 13.03.2024 № 15/2 (вводится в действие с 01.01.2024); от 10.05.2024 № 19/2 (вводится в действие с 01.01.2024); от 19.08.2024 № 21/2 (вводится в действие с 01.01.2024); от 18.11.2024 № 25/2 (вводится в действие с 01.01.2024); от 20.12.2024 № 28/2 (вводится в действие с 01.01.2024).*
 
 <table>
 <tr>
@@ -47,14 +47,14 @@ source: https://zan.gov.kz/client/#!/doc/192098/rus/18.11.2024
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="5">I. Доходы</td>
-<td colspan="2">10 903 633,4</td>
+<td colspan="2">10 903 631,2</td>
 </tr>
 <tr>
 <td>1</td>
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="5">Налоговые поступления</td>
-<td colspan="2">3 172 691,0</td>
+<td colspan="2">3 172 690,5</td>
 </tr>
 <tr>
 <td></td>
@@ -96,14 +96,14 @@ source: https://zan.gov.kz/client/#!/doc/192098/rus/18.11.2024
 <td colspan="3">04</td>
 <td colspan="2"></td>
 <td colspan="5">Hалоги на собственность</td>
-<td colspan="2">1 028 572,0</td>
+<td colspan="2">1 028 571,5</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="3"></td>
 <td colspan="2">1</td>
 <td colspan="5">Hалоги на имущество</td>
-<td colspan="2">1 017 060,0</td>
+<td colspan="2">1 017 059,5</td>
 </tr>
 <tr>
 <td></td>
@@ -166,14 +166,14 @@ source: https://zan.gov.kz/client/#!/doc/192098/rus/18.11.2024
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="5">Неналоговые поступления</td>
-<td colspan="2">17 847,5</td>
+<td colspan="2">17 845,8</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="3">01</td>
 <td colspan="2"></td>
 <td colspan="5">Доходы от государственной собственности</td>
-<td colspan="2">3 518,5</td>
+<td colspan="2">3 516,8</td>
 </tr>
 <tr>
 <td></td>
@@ -187,7 +187,7 @@ source: https://zan.gov.kz/client/#!/doc/192098/rus/18.11.2024
 <td colspan="3"></td>
 <td colspan="2">7</td>
 <td colspan="5">Вознаграждения по кредитам, выданным из государственного бюджета</td>
-<td colspan="2">100,5</td>
+<td colspan="2">98,8</td>
 </tr>
 <tr>
 <td></td>
@@ -319,7 +319,7 @@ source: https://zan.gov.kz/client/#!/doc/192098/rus/18.11.2024
 <td colspan="3"></td>
 <td></td>
 <td>II. Затраты</td>
-<td colspan="2">11 643 271,6</td>
+<td colspan="2">11 643 269,4</td>
 </tr>
 <tr>
 <td colspan="2">01</td>
@@ -770,7 +770,7 @@ source: https://zan.gov.kz/client/#!/doc/192098/rus/18.11.2024
 <td colspan="3"></td>
 <td></td>
 <td>Коммунальное хозяйство</td>
-<td colspan="2">1 905 390,1</td>
+<td colspan="2">1 909 212,8</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -778,7 +778,7 @@ source: https://zan.gov.kz/client/#!/doc/192098/rus/18.11.2024
 <td colspan="3">458</td>
 <td></td>
 <td>Отдел жилищно-коммунального хозяйства, пассажирского транспорта и автомобильных дорог района (города областного значения)</td>
-<td colspan="2">806 709,3</td>
+<td colspan="2">810 532,0</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -802,7 +802,7 @@ source: https://zan.gov.kz/client/#!/doc/192098/rus/18.11.2024
 <td colspan="3"></td>
 <td>027</td>
 <td>Организация эксплуатации сетей газификации, находящихся в коммунальной собственности районов (городов областного значения)</td>
-<td colspan="2">175 177,3</td>
+<td colspan="2">179 000,0</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -826,7 +826,7 @@ source: https://zan.gov.kz/client/#!/doc/192098/rus/18.11.2024
 <td colspan="3"></td>
 <td></td>
 <td>Благоустройство населенных пунктов</td>
-<td colspan="2">191 853,8</td>
+<td colspan="2">188 031,1</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -834,7 +834,7 @@ source: https://zan.gov.kz/client/#!/doc/192098/rus/18.11.2024
 <td colspan="3">458</td>
 <td></td>
 <td>Отдел жилищно-коммунального хозяйства, пассажирского транспорта и автомобильных дорог района (города областного значения)</td>
-<td colspan="2">191 853,8</td>
+<td colspan="2">188 031,1</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -842,7 +842,7 @@ source: https://zan.gov.kz/client/#!/doc/192098/rus/18.11.2024
 <td colspan="3"></td>
 <td>015</td>
 <td>Освещение улиц в населенных пунктах</td>
-<td colspan="2">164 406,1</td>
+<td colspan="2">160 583,4</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -890,7 +890,7 @@ source: https://zan.gov.kz/client/#!/doc/192098/rus/18.11.2024
 <td colspan="3"></td>
 <td></td>
 <td>Спорт</td>
-<td colspan="2">26 447,5</td>
+<td colspan="2">26 447,6</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -918,11 +918,27 @@ source: https://zan.gov.kz/client/#!/doc/192098/rus/18.11.2024
 </tr>
 <tr>
 <td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="3">466</td>
+<td></td>
+<td>Отдел архитектуры, градостроительства и строительства района (города областного значения)</td>
+<td colspan="2">0,1</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td>008</td>
+<td>Развитие объектов спорта</td>
+<td colspan="2">0,1</td>
+</tr>
+<tr>
+<td colspan="2"></td>
 <td colspan="3">3</td>
 <td colspan="3"></td>
 <td></td>
 <td>Информационное пространство</td>
-<td colspan="2">155 909,8</td>
+<td colspan="2">155 909,7</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -970,7 +986,7 @@ source: https://zan.gov.kz/client/#!/doc/192098/rus/18.11.2024
 <td colspan="3">466</td>
 <td></td>
 <td>Отдел архитектуры, градостроительства и строительства района (города областного значения)</td>
-<td colspan="2">21,5</td>
+<td colspan="2">21,4</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -978,7 +994,7 @@ source: https://zan.gov.kz/client/#!/doc/192098/rus/18.11.2024
 <td colspan="3"></td>
 <td>075</td>
 <td>Строительство сетей связи</td>
-<td colspan="2">21,5</td>
+<td colspan="2">21,4</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1298,7 +1314,7 @@ source: https://zan.gov.kz/client/#!/doc/192098/rus/18.11.2024
 <td colspan="3"></td>
 <td></td>
 <td>Обслуживание долга</td>
-<td colspan="2">5 182,5</td>
+<td colspan="2">5 180,3</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1306,7 +1322,7 @@ source: https://zan.gov.kz/client/#!/doc/192098/rus/18.11.2024
 <td colspan="3"></td>
 <td></td>
 <td>Обслуживание долга</td>
-<td colspan="2">5 182,5</td>
+<td colspan="2">5 180,3</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1314,7 +1330,7 @@ source: https://zan.gov.kz/client/#!/doc/192098/rus/18.11.2024
 <td colspan="3">459</td>
 <td></td>
 <td>Отдел экономики и финансов района (города областного значения)</td>
-<td colspan="2">5 182,5</td>
+<td colspan="2">5 180,3</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1322,7 +1338,7 @@ source: https://zan.gov.kz/client/#!/doc/192098/rus/18.11.2024
 <td colspan="3"></td>
 <td>021</td>
 <td>Обслуживание долга местных исполнительных органов по выплате вознаграждений и иных платежей по займам из областного бюджета</td>
-<td colspan="2">5 182,5</td>
+<td colspan="2">5 180,3</td>
 </tr>
 <tr>
 <td colspan="2">15</td>
