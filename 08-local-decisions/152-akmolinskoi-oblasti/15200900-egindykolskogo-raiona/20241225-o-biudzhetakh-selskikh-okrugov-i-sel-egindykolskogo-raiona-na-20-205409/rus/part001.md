@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/205409/rus/25.12.2024
+source: https://zan.gov.kz/client/#!/doc/205409/rus/31.03.2025
 ---
 
 > *Приложение 1 к решению*  
@@ -9,6 +9,8 @@ source: https://zan.gov.kz/client/#!/doc/205409/rus/25.12.2024
 > *№ 8С26-2*
 
 ## Бюджет села Абай на 2025 год
+
+> *Сноска. Приложение 1 в редакции решения Егиндыкольского городского маслихата Акмолинской области от 31.03.2025 № 8С28-5 (вводится в действие с 01.01.2025).*
 
 <table>
 <tr>
@@ -36,7 +38,7 @@ source: https://zan.gov.kz/client/#!/doc/205409/rus/25.12.2024
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">I. Доходы</td>
-<td colspan="2">17 382,0</td>
+<td colspan="2">16 031,1</td>
 </tr>
 <tr>
 <td>1</td>
@@ -113,21 +115,21 @@ source: https://zan.gov.kz/client/#!/doc/205409/rus/25.12.2024
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Поступления трансфертов</td>
-<td colspan="2">14 684,0</td>
+<td colspan="2">13 333,1</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2">02</td>
 <td colspan="2"></td>
 <td colspan="2">Трансферты из вышестоящих органов государственного управления</td>
-<td colspan="2">14 684,0</td>
+<td colspan="2">13 333,1</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2"></td>
 <td colspan="2">3</td>
 <td colspan="2">Трансферты из районного (города областного значения) бюджета</td>
-<td colspan="2">14 684,0</td>
+<td colspan="2">13 333,1</td>
 </tr>
 </table>
 
@@ -156,28 +158,28 @@ source: https://zan.gov.kz/client/#!/doc/205409/rus/25.12.2024
 <td></td>
 <td></td>
 <td>II. Затраты</td>
-<td>17 382,0</td>
+<td>16 031,1</td>
 </tr>
 <tr>
 <td>01</td>
 <td></td>
 <td></td>
 <td>Государственные услуги общего характера</td>
-<td>16 384,0</td>
+<td>15 033,1</td>
 </tr>
 <tr>
 <td></td>
 <td>124</td>
 <td></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>16 384,0</td>
+<td>15 033,1</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>001</td>
 <td>Услуги по обеспечению деятельности акима города районного значения, села, поселка, сельского округа</td>
-<td>16 384,0</td>
+<td>15 033,1</td>
 </tr>
 <tr>
 <td>07</td>
@@ -971,6 +973,8 @@ source: https://zan.gov.kz/client/#!/doc/205409/rus/25.12.2024
 
 ## Бюджет села Спиридоновка на 2025 год
 
+> *Сноска. Приложение 4 в редакции решения Егиндыкольского городского маслихата Акмолинской области от 31.03.2025 № 8С28-5 (вводится в действие с 01.01.2025).*
+
 <table>
 <tr>
 <td colspan="3">Категория</td>
@@ -1001,7 +1005,7 @@ source: https://zan.gov.kz/client/#!/doc/205409/rus/25.12.2024
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">I. Доходы</td>
-<td colspan="2">34 554,0</td>
+<td colspan="2">33 800,6</td>
 </tr>
 <tr>
 <td>1</td>
@@ -1078,21 +1082,21 @@ source: https://zan.gov.kz/client/#!/doc/205409/rus/25.12.2024
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Поступления трансфертов</td>
-<td colspan="2">29 528,0</td>
+<td colspan="2">28 774,6</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2">02</td>
 <td colspan="2"></td>
 <td colspan="2">Трансферты из вышестоящих органов государственного управления</td>
-<td colspan="2">29 528,0</td>
+<td colspan="2">28 774,6</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2"></td>
 <td colspan="2">3</td>
 <td colspan="2">Трансферты из районного (города областного значения) бюджета</td>
-<td colspan="2">29 528,0</td>
+<td colspan="2">28 774,6</td>
 </tr>
 </table>
 
@@ -1121,28 +1125,28 @@ source: https://zan.gov.kz/client/#!/doc/205409/rus/25.12.2024
 <td></td>
 <td></td>
 <td>II. Затраты</td>
-<td>34 554,0</td>
+<td>33 800,6</td>
 </tr>
 <tr>
 <td>01</td>
 <td></td>
 <td></td>
 <td>Государственные услуги общего характера</td>
-<td>31 760,0</td>
+<td>31 075,8</td>
 </tr>
 <tr>
 <td></td>
 <td>124</td>
 <td></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>31 760,0</td>
+<td>31 075,8</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>001</td>
 <td>Услуги по обеспечению деятельности акима города районного значения, села, поселка, сельского округа</td>
-<td>31 760,0</td>
+<td>31 075,8</td>
 </tr>
 <tr>
 <td>06</td>
@@ -1170,14 +1174,14 @@ source: https://zan.gov.kz/client/#!/doc/205409/rus/25.12.2024
 <td></td>
 <td></td>
 <td>Жилищно-коммунальное хозяйство</td>
-<td>2 227,0</td>
+<td>2 157,8</td>
 </tr>
 <tr>
 <td></td>
 <td>124</td>
 <td></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>2 227,0</td>
+<td>2 157,8</td>
 </tr>
 <tr>
 <td></td>
@@ -1191,7 +1195,7 @@ source: https://zan.gov.kz/client/#!/doc/205409/rus/25.12.2024
 <td></td>
 <td>008</td>
 <td>Освещение улиц населенных пунктов</td>
-<td>1 913,0</td>
+<td>1 843,8</td>
 </tr>
 <tr>
 <td></td>
@@ -1965,6 +1969,8 @@ source: https://zan.gov.kz/client/#!/doc/205409/rus/25.12.2024
 
 ## Бюджет села Коржинколь на 2025 год
 
+> *Сноска. Приложение 7 в редакции решения Егиндыкольского городского маслихата Акмолинской области от 31.03.2025 № 8С28-5 (вводится в действие с 01.01.2025).*
+
 <table>
 <tr>
 <td colspan="3">Категория</td>
@@ -1995,7 +2001,7 @@ source: https://zan.gov.kz/client/#!/doc/205409/rus/25.12.2024
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">I. Доходы</td>
-<td colspan="2">22 334,0</td>
+<td colspan="2">22 717,6</td>
 </tr>
 <tr>
 <td>1</td>
@@ -2072,21 +2078,21 @@ source: https://zan.gov.kz/client/#!/doc/205409/rus/25.12.2024
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Поступления трансфертов</td>
-<td colspan="2">15 809,0</td>
+<td colspan="2">16 192,6</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2">02</td>
 <td colspan="2"></td>
 <td colspan="2">Трансферты из вышестоящих органов государственного управления</td>
-<td colspan="2">15 809,0</td>
+<td colspan="2">16 192,6</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2"></td>
 <td colspan="2">3</td>
 <td colspan="2">Трансферты из районного (города областного значения) бюджета</td>
-<td colspan="2">15 809,0</td>
+<td colspan="2">16 192,6</td>
 </tr>
 </table>
 
@@ -2115,28 +2121,35 @@ source: https://zan.gov.kz/client/#!/doc/205409/rus/25.12.2024
 <td></td>
 <td></td>
 <td>II. Затраты</td>
-<td>22 334,0</td>
+<td>22 717,6</td>
 </tr>
 <tr>
 <td>01</td>
 <td></td>
 <td></td>
 <td>Государственные услуги общего характера</td>
-<td>19 118,0</td>
+<td>19 501,6</td>
 </tr>
 <tr>
 <td></td>
 <td>124</td>
 <td></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>19 118,0</td>
+<td>19 501,6</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>001</td>
 <td>Услуги по обеспечению деятельности акима города районного значения, села, поселка, сельского округа</td>
-<td>19 118,0</td>
+<td>18 821,6</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>022</td>
+<td>Капитальные расходы государственного органа</td>
+<td>680,0</td>
 </tr>
 <tr>
 <td>06</td>
@@ -2952,6 +2965,8 @@ source: https://zan.gov.kz/client/#!/doc/205409/rus/25.12.2024
 
 ## Бюджет села Бауманское на 2025 год
 
+> *Сноска. Приложение 10 в редакции решения Егиндыкольского городского маслихата Акмолинской области от 31.03.2025 № 8С28-5 (вводится в действие с 01.01.2025).*
+
 <table>
 <tr>
 <td colspan="3">Категория</td>
@@ -2982,7 +2997,7 @@ source: https://zan.gov.kz/client/#!/doc/205409/rus/25.12.2024
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">I. Доходы</td>
-<td colspan="2">25 087,0</td>
+<td colspan="2">24 751,2</td>
 </tr>
 <tr>
 <td>1</td>
@@ -3052,21 +3067,21 @@ source: https://zan.gov.kz/client/#!/doc/205409/rus/25.12.2024
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Поступления трансфертов</td>
-<td colspan="2">21 977,0</td>
+<td colspan="2">21 641,2</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2">02</td>
 <td colspan="2"></td>
 <td colspan="2">Трансферты из вышестоящих органов государственного управления</td>
-<td colspan="2">21 977,0</td>
+<td colspan="2">21 641,2</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2"></td>
 <td colspan="2">3</td>
 <td colspan="2">Трансферты из районного (города областного значения) бюджета</td>
-<td colspan="2">21 977,0</td>
+<td colspan="2">21 641,2</td>
 </tr>
 </table>
 
@@ -3095,70 +3110,70 @@ source: https://zan.gov.kz/client/#!/doc/205409/rus/25.12.2024
 <td></td>
 <td></td>
 <td>II. Затраты</td>
-<td>25 087,0</td>
+<td>24 751,2</td>
 </tr>
 <tr>
 <td>01</td>
 <td></td>
 <td></td>
 <td>Государственные услуги общего характера</td>
-<td>19 223,0</td>
+<td>19 260,4</td>
 </tr>
 <tr>
 <td></td>
 <td>124</td>
 <td></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>19 223,0</td>
+<td>19 260,4</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>001</td>
 <td>Услуги по обеспечению деятельности акима города районного значения, села, поселка, сельского округа</td>
-<td>19 223,0</td>
+<td>19 260,4</td>
 </tr>
 <tr>
 <td>06</td>
 <td></td>
 <td></td>
 <td>Социальная помощь и социальное обеспечение</td>
-<td>283,0</td>
+<td>281,9</td>
 </tr>
 <tr>
 <td></td>
 <td>124</td>
 <td></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>283,0</td>
+<td>281,9</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>003</td>
 <td>Оказание социальной помощи нуждающимся гражданам на дому</td>
-<td>6 293,0</td>
+<td>281,9</td>
 </tr>
 <tr>
 <td>07</td>
 <td></td>
 <td></td>
 <td>Жилищно-коммунальное хозяйство</td>
-<td>5 036,0</td>
+<td>4 663,9</td>
 </tr>
 <tr>
 <td></td>
 <td>124</td>
 <td></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>5 036,0</td>
+<td>4 663,9</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>008</td>
 <td>Освещение улиц населенных пунктов</td>
-<td>4 028,0</td>
+<td>3 655,9</td>
 </tr>
 <tr>
 <td></td>
@@ -3918,6 +3933,8 @@ source: https://zan.gov.kz/client/#!/doc/205409/rus/25.12.2024
 
 ## Бюджет села Егиндыколь на 2025 год
 
+> *Сноска. Приложение 13 в редакции решения Егиндыкольского городского маслихата Акмолинской области от 31.03.2025 № 8С28-5 (вводится в действие с 01.01.2025).*
+
 <table>
 <tr>
 <td colspan="3">Категория</td>
@@ -3948,28 +3965,28 @@ source: https://zan.gov.kz/client/#!/doc/205409/rus/25.12.2024
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">I. Доходы</td>
-<td colspan="2">104 293,0</td>
+<td colspan="2">119 637,4</td>
 </tr>
 <tr>
 <td>1</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Налоговые поступления</td>
-<td colspan="2">54 269,0</td>
+<td colspan="2">56 269,0</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2">01</td>
 <td colspan="2"></td>
 <td colspan="2">Подоходный налог</td>
-<td colspan="2">25 784,0</td>
+<td colspan="2">27 784,0</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2"></td>
 <td colspan="2">2</td>
 <td colspan="2">Индивидуальный подоходный налог</td>
-<td colspan="2">25 784,0</td>
+<td colspan="2">27 784,0</td>
 </tr>
 <tr>
 <td></td>
@@ -4025,21 +4042,21 @@ source: https://zan.gov.kz/client/#!/doc/205409/rus/25.12.2024
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Поступления трансфертов</td>
-<td colspan="2">50 024,0</td>
+<td colspan="2">63 368,4</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2">02</td>
 <td colspan="2"></td>
 <td colspan="2">Трансферты из вышестоящих органов государственного управления</td>
-<td colspan="2">50 024,0</td>
+<td colspan="2">63 368,4</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2"></td>
 <td colspan="2">3</td>
 <td colspan="2">Трансферты из районного (города областного значения) бюджета</td>
-<td colspan="2">50 024,0</td>
+<td colspan="2">63 368,4</td>
 </tr>
 </table>
 
@@ -4068,28 +4085,28 @@ source: https://zan.gov.kz/client/#!/doc/205409/rus/25.12.2024
 <td></td>
 <td></td>
 <td>II. Затраты</td>
-<td>104 293,0</td>
+<td>119 637,4</td>
 </tr>
 <tr>
 <td>01</td>
 <td></td>
 <td></td>
 <td>Государственные услуги общего характера</td>
-<td>36 779,0</td>
+<td>36 106,4</td>
 </tr>
 <tr>
 <td></td>
 <td>124</td>
 <td></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>36 779,0</td>
+<td>36 106,4</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>001</td>
 <td>Услуги по обеспечению деятельности акима города районного значения, села, поселка, сельского округа</td>
-<td>36 779,0</td>
+<td>36 106,4</td>
 </tr>
 <tr>
 <td>06</td>
@@ -4117,28 +4134,28 @@ source: https://zan.gov.kz/client/#!/doc/205409/rus/25.12.2024
 <td></td>
 <td></td>
 <td>Жилищно-коммунальное хозяйство</td>
-<td>58 957,0</td>
+<td>74 974,0</td>
 </tr>
 <tr>
 <td></td>
 <td>124</td>
 <td></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>58 957,0</td>
+<td>74 974,0</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>008</td>
 <td>Освещение улиц населенных пунктов</td>
-<td>9 118,0</td>
+<td>11 118,0</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>011</td>
 <td>Благоустройство и озеленение населенных пунктов</td>
-<td>49 839,0</td>
+<td>63 856,0</td>
 </tr>
 <tr>
 <td>12</td>
@@ -4912,6 +4929,8 @@ source: https://zan.gov.kz/client/#!/doc/205409/rus/25.12.2024
 
 ## Бюджет села Буревестник на 2025 год
 
+> *Сноска. Приложение 16 в редакции решения Егиндыкольского городского маслихата Акмолинской области от 31.03.2025 № 8С28-5 (вводится в действие с 01.01.2025).*
+
 <table>
 <tr>
 <td colspan="3">Категория</td>
@@ -4942,7 +4961,7 @@ source: https://zan.gov.kz/client/#!/doc/205409/rus/25.12.2024
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">I. Доходы</td>
-<td colspan="2">21 202,0</td>
+<td colspan="2">20 740,1</td>
 </tr>
 <tr>
 <td>1</td>
@@ -5019,21 +5038,21 @@ source: https://zan.gov.kz/client/#!/doc/205409/rus/25.12.2024
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Поступления трансфертов</td>
-<td colspan="2">15 569,0</td>
+<td colspan="2">15 107,1</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2">02</td>
 <td colspan="2"></td>
 <td colspan="2">Трансферты из вышестоящих органов государственного управления</td>
-<td colspan="2">15 569,0</td>
+<td colspan="2">15 107,1</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2"></td>
 <td colspan="2">3</td>
 <td colspan="2">Трансферты из районного (города областного значения) бюджета</td>
-<td colspan="2">15 569,0</td>
+<td colspan="2">15 107,1</td>
 </tr>
 </table>
 
@@ -5062,28 +5081,28 @@ source: https://zan.gov.kz/client/#!/doc/205409/rus/25.12.2024
 <td></td>
 <td></td>
 <td>II. Затраты</td>
-<td>21 202,0</td>
+<td>20 740,1</td>
 </tr>
 <tr>
 <td>01</td>
 <td></td>
 <td></td>
 <td>Государственные услуги общего характера</td>
-<td>20 404,0</td>
+<td>19 942,1</td>
 </tr>
 <tr>
 <td></td>
 <td>124</td>
 <td></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>20 404,0</td>
+<td>19 942,1</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>001</td>
 <td>Услуги по обеспечению деятельности акима города районного значения, села, поселка, сельского округа</td>
-<td>20 404,0</td>
+<td>19 942,1</td>
 </tr>
 <tr>
 <td>07</td>
@@ -5546,327 +5565,5 @@ source: https://zan.gov.kz/client/#!/doc/205409/rus/25.12.2024
 <td>1</td>
 <td>Свободные остатки бюджетных средств</td>
 <td>0,0</td>
-</tr>
-</table>
-
-> *Приложение 18 к решению*  
-> *Егиндыкольского районного маслихата*  
-> *от 25 декабря 2024 года*  
-> *№ 8С26-2*
-
-## Бюджет села Буревестник на 2027 год
-
-<table>
-<tr>
-<td colspan="5">Категория</td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="3" rowspan="5">тысяч тенге сумма</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="6">Класс</td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="2" rowspan="3"></td>
-<td colspan="3" rowspan="3"></td>
-<td colspan="5">Подкласс</td>
-</tr>
-<tr>
-<td colspan="3"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="3"></td>
-<td colspan="2">Наименование</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="2">I. Доходы</td>
-<td colspan="3">19 225,0</td>
-</tr>
-<tr>
-<td colspan="2">1</td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="2">Налоговые поступления</td>
-<td colspan="3">6 382,0</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="3">01</td>
-<td colspan="3"></td>
-<td colspan="2">Подоходный налог</td>
-<td colspan="3">90,0</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="3">2</td>
-<td colspan="2">Индивидуальный подоходный налог</td>
-<td colspan="3">90,0</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="3">04</td>
-<td colspan="3"></td>
-<td colspan="2">Hалоги на собственность</td>
-<td colspan="3">6 283,0</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="3">1</td>
-<td colspan="2">Hалоги на имущество</td>
-<td colspan="3">22,0</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="3">3</td>
-<td colspan="2">Земельный налог</td>
-<td colspan="3">30,0</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="3">4</td>
-<td colspan="2">Hалог на транспортные средства</td>
-<td colspan="3">2 202,0</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="3">5</td>
-<td colspan="2">Единый земельный налог</td>
-<td colspan="3">4 029,0</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="3">05</td>
-<td colspan="3"></td>
-<td colspan="2">Внутренние налоги на товары, работы и услуги</td>
-<td colspan="3">9,0</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="3">3</td>
-<td colspan="2">Поступления за использование природных и других ресурсов</td>
-<td colspan="3">9,0</td>
-</tr>
-<tr>
-<td colspan="2">4</td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="2">Поступления трансфертов</td>
-<td colspan="3">12 843,0</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="3">02</td>
-<td colspan="3"></td>
-<td colspan="2">Трансферты из вышестоящих органов государственного управления</td>
-<td colspan="3">12 843,0</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="3">3</td>
-<td colspan="2">Трансферты из районного (города областного значения) бюджета</td>
-<td colspan="3">12 843,0</td>
-</tr>
-</table>
-
-<table>
-<tr>
-<td colspan="10">Функциональная группа</td>
-<td colspan="2" rowspan="4">тысяч тенге сумма</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="9">Администратор бюджетных программ</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="2"></td>
-<td colspan="7">Бюджетная программа</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="4">Наименование</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="4">II. Затраты</td>
-<td colspan="2">19 225,0</td>
-</tr>
-<tr>
-<td>01</td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="4">Государственные услуги общего характера</td>
-<td colspan="2">18 836,0</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="2">124</td>
-<td colspan="3"></td>
-<td colspan="4">Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td colspan="2">18 836,0</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="2"></td>
-<td colspan="3">001</td>
-<td colspan="4">Услуги по обеспечению деятельности акима города районного значения, села, поселка, сельского округа</td>
-<td colspan="2">18 836,0</td>
-</tr>
-<tr>
-<td>07</td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="4">Жилищно-коммунальное хозяйство</td>
-<td colspan="2">173,0</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="2">124</td>
-<td colspan="3"></td>
-<td colspan="4">Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td colspan="2">173,0</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="2"></td>
-<td colspan="3">008</td>
-<td colspan="4">Освещение улиц населенных пунктов</td>
-<td colspan="2">98,0</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="2"></td>
-<td colspan="3">011</td>
-<td colspan="4">Благоустройство и озеленение населенных пунктов</td>
-<td colspan="2">75,0</td>
-</tr>
-<tr>
-<td>12</td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="4">Транспорт и коммуникации</td>
-<td colspan="2">216,0</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="2">124</td>
-<td colspan="3"></td>
-<td colspan="4">Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td colspan="2">216,0</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="2"></td>
-<td colspan="3">013</td>
-<td colspan="4">Обеспечение функционирования автомобильных дорог в городах районного значения, селах, поселках, сельских округах</td>
-<td colspan="2">216,0</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="4">III. Чистое бюджетное кредитование</td>
-<td colspan="2">0,0</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="4">Бюджетные кредиты</td>
-<td colspan="2">0,0</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="4">Погашение бюджетных кредитов</td>
-<td colspan="2">0,0</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="4">IV. Сальдо по операциям с финансовыми активами</td>
-<td colspan="2">0,0</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="4">Приобретение финансовых активов</td>
-<td colspan="2">0,0</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="4">Поступления от продажи финансовых активов государства</td>
-<td colspan="2">0,0</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="4">V. Дефицит (профицит) бюджета</td>
-<td colspan="2">0,0</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="4">VI. Финансирование дефицита (использование профицита) бюджета</td>
-<td colspan="2">0,0</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="4">Поступления займов</td>
-<td colspan="2">0,0</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="4">Погашение займов</td>
-<td colspan="2">0,0</td>
-</tr>
-<tr>
-<td>8</td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="4">Используемые остатки бюджетных средств</td>
-<td colspan="2">0,0</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="2">01</td>
-<td colspan="3"></td>
-<td colspan="4">Остатки бюджетных средств</td>
-<td colspan="2">0,0</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="2"></td>
-<td colspan="3">1</td>
-<td colspan="4">Свободные остатки бюджетных средств</td>
-<td colspan="2">0,0</td>
 </tr>
 </table>
