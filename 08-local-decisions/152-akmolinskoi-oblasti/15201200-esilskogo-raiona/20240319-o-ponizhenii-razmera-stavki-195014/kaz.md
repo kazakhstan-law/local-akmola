@@ -1,5 +1,10 @@
 ---
 source: https://zan.gov.kz/client/#!/doc/195014/kaz/19.03.2024
+repealed_on: 2026-01-01
+repealed_by:
+  code: '217628'
+  title: Мөлшерлеме мөлшерін төмендету туралы
+  link: https://zan.gov.kz/client/#!/doc/217628/kaz
 ---
 
 # Мөлшерлеме мөлшерін төмендету туралы
