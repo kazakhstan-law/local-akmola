@@ -13,6 +13,11 @@ approval_date: 2024-03-19
 version_date: 2024-03-19
 registry_number: '195014'
 source: https://zan.gov.kz/client/#!/doc/195014/rus/19.03.2024
+repealed_on: 2026-01-01
+repealed_by:
+  code: '217628'
+  title: О понижении размера ставки
+  link: https://zan.gov.kz/client/#!/doc/217628/rus
 ---
 
 # О понижении размера ставки
