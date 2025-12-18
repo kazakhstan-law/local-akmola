@@ -13,6 +13,11 @@ approval_date: 2024-03-29
 version_date: 2024-03-29
 registry_number: '195055'
 source: https://zan.gov.kz/client/#!/doc/195055/kaz/29.03.2024
+repealed_on: 2026-01-01
+repealed_by:
+  code: '219082'
+  title: Қосшы қаласы мәслихатының 2024 жылғы 29 наурыздағы № 111/24-8 «Мөлшерлеме мөлшерін төмендету туралы» шешімінің күші жойылды деп тану туралы
+  link: https://zan.gov.kz/client/#!/doc/219082/kaz
 ---
 
 # Мөлшерлеме мөлшерін төмендету туралы

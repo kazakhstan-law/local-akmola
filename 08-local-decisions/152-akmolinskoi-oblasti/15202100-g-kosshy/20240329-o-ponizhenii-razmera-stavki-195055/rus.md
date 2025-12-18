@@ -13,6 +13,11 @@ approval_date: 2024-03-29
 version_date: 2024-03-29
 registry_number: '195055'
 source: https://zan.gov.kz/client/#!/doc/195055/rus/29.03.2024
+repealed_on: 2026-01-01
+repealed_by:
+  code: '219082'
+  title: О признании утратившим силу решения маслихата города Косшы от 29 марта 2024 года № 111/24-8 «О понижении размера ставки»
+  link: https://zan.gov.kz/client/#!/doc/219082/rus
 ---
 
 # О понижении размера ставки
