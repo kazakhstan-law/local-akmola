@@ -13,6 +13,11 @@ approval_date: 2024-03-27
 version_date: 2024-03-27
 registry_number: '195050'
 source: https://zan.gov.kz/client/#!/doc/195050/kaz/27.03.2024
+repealed_on: 2026-01-01
+repealed_by:
+  code: '219215'
+  title: «Мөлшерлеме мөлшерін төмендету туралы» 2024 жылғы 27 наурыздағы № 8С-16/6 Шортанды аудандық мәслихатының шешімінің күші жойылды деп тану туралы
+  link: https://zan.gov.kz/client/#!/doc/219215/kaz
 ---
 
 # Мөлшерлеме мөлшерін төмендету туралы

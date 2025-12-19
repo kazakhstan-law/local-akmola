@@ -13,6 +13,11 @@ approval_date: 2024-03-27
 version_date: 2024-03-27
 registry_number: '195050'
 source: https://zan.gov.kz/client/#!/doc/195050/rus/27.03.2024
+repealed_on: 2026-01-01
+repealed_by:
+  code: '219215'
+  title: О признании утратившим силу решения Шортандинского районного маслихата от 27 марта 2024 года № 8С-16/6 «О понижении размера ставки»
+  link: https://zan.gov.kz/client/#!/doc/219215/rus
 ---
 
 # О понижении размера ставки
