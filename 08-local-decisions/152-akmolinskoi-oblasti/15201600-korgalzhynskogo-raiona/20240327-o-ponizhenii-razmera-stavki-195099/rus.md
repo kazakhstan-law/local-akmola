@@ -13,6 +13,11 @@ approval_date: 2024-03-27
 version_date: 2024-03-27
 registry_number: '195099'
 source: https://zan.gov.kz/client/#!/doc/195099/rus/27.03.2024
+repealed_on: 2026-01-01
+repealed_by:
+  code: '220030'
+  title: О признании утратившим силу решения Коргалжынского районного маслихата Акмолинской области от 27 марта 2024 года № 4/15 «О понижении размера ставки»
+  link: https://zan.gov.kz/client/#!/doc/220030/rus
 ---
 
 # О понижении размера ставки
