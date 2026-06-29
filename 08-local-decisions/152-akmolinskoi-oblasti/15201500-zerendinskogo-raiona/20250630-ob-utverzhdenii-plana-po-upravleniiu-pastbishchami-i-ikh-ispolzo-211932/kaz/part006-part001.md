@@ -1,19 +1,22 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
+source: https://zan.gov.kz/client/#!/doc/211932/kaz/29.06.2026
 ---
+
+## Ауыл шаруашылығы жануарларының саны туралы деректер, ауыл шаруашылығы жануарларын бірдейлендіру дерекқорынан алынған, Зеренді ауданы бойынша олардың иелерін көрсете отырып
+
+> *Ескерту. 4-қосымша жаңа редакцияда – Ақмола облысы Зеренді аудандық мәслихатының 29.06.2026 № 50-345 (алғашқы ресми жарияланған күнінен кейін күнтізбелік он күн өткен соң қолдаңысқа енгізіледі) шешімімен.*
+
+## Кесте 1. Ауыл шаруашылығы жануарлары басының саны, олардың иелерін көрсете отырып
 
 <table>
 <tr>
-<td rowspan="2">
-№
-р/с
-</td>
+<td rowspan="2">№ р/с</td>
 <td rowspan="2">Әкімшілік-аумақтық объектілер жіктеуіші бойынша кент, ауыл, ауылдық округ коды</td>
 <td rowspan="2">Кенттің, ауылдың, ауылдық округтің атауы</td>
 <td rowspan="2">Иесінің түрі</td>
 <td rowspan="2">Жеке тұлғалардың тегі, аты, әкесінің аты (бар болса) немесе заңды тұлғалардың атауы</td>
-<td colspan="4">Бас саны</td>
+<td colspan="5">Бас саны</td>
 </tr>
 <tr>
 <td>Ірі қара</td>
@@ -26,7 +29,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>117033100</td>
 <td>Ақкөл</td>
 <td>ЖТ</td>
-<td>«Namys Group» ЖСШ</td>
+<td>ЖШС «Namys Group»</td>
 <td>105</td>
 <td></td>
 <td>44</td>
@@ -37,7 +40,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>117033100</td>
 <td>Ақкөл</td>
 <td>ЖТ</td>
-<td>Каирбек Шайдуллинович Абдин</td>
+<td>Абдин К.Ш.</td>
 <td>4</td>
 <td>34</td>
 <td>2</td>
@@ -48,7 +51,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>117033100</td>
 <td>Ақкөл</td>
 <td>ЖТ</td>
-<td>Рустем Токешевич Абдин</td>
+<td>Абдин Р.Т.</td>
 <td></td>
 <td></td>
 <td>6</td>
@@ -59,7 +62,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>117033100</td>
 <td>Ақкөл</td>
 <td>ЖТ</td>
-<td>Елемес Абильденов</td>
+<td>Абильденов Е.</td>
 <td></td>
 <td></td>
 <td>1</td>
@@ -70,7 +73,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>117033100</td>
 <td>Ақкөл</td>
 <td>ЖТ</td>
-<td>Самат Кайрболатылы Абленов</td>
+<td>Абленов С.К.</td>
 <td>13</td>
 <td>53</td>
 <td>13</td>
@@ -81,7 +84,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>117033100</td>
 <td>Ақкөл</td>
 <td>ЖТ</td>
-<td>Аскар Амантаевич Абуов</td>
+<td>Абуов А.А.</td>
 <td></td>
 <td></td>
 <td>2</td>
@@ -92,10 +95,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>117033100</td>
 <td>Ақкөл</td>
 <td>ЖТ</td>
-<td>
-Асхат
-Абуов
-</td>
+<td>Абуов А.</td>
 <td></td>
 <td>12</td>
 <td></td>
@@ -106,10 +106,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>117033100</td>
 <td>Ақкөл</td>
 <td>ЖТ</td>
-<td>
-Қайсар
-Абуов
-</td>
+<td>Абуов К.</td>
 <td></td>
 <td></td>
 <td>1</td>
@@ -120,7 +117,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>117033100</td>
 <td>Ақкөл</td>
 <td>ЖТ</td>
-<td>Мурат Каматаевич Адентаев</td>
+<td>Адентаев М.К.</td>
 <td>3</td>
 <td>33</td>
 <td>2</td>
@@ -131,7 +128,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>117033100</td>
 <td>Ақкөл</td>
 <td>ЖТ</td>
-<td>Темирлан Азмагамбетов</td>
+<td>Азмагамбетов Т.</td>
 <td>3</td>
 <td>9</td>
 <td>2</td>
@@ -142,7 +139,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>117033100</td>
 <td>Ақкөл</td>
 <td>ЖТ</td>
-<td>Дулат Мухаметович Азмаганбетов</td>
+<td>Азмаганбетов Д.М.</td>
 <td>14</td>
 <td>16</td>
 <td>7</td>
@@ -153,7 +150,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>117033100</td>
 <td>Ақкөл</td>
 <td>ЖТ</td>
-<td>Шәріп Алдажанов</td>
+<td>Алдажанов Ш.</td>
 <td></td>
 <td>29</td>
 <td>1</td>
@@ -164,7 +161,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>117033100</td>
 <td>Ақкөл</td>
 <td>ЖТ</td>
-<td>Серікбай Куанышевич Алдыков</td>
+<td>Алдыков С.К.</td>
 <td></td>
 <td></td>
 <td>4</td>
@@ -175,7 +172,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>117033100</td>
 <td>Ақкөл</td>
 <td>ЖТ</td>
-<td>Канат Алимбетов</td>
+<td>Алимбетов К.</td>
 <td></td>
 <td></td>
 <td>3</td>
@@ -186,7 +183,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>117033100</td>
 <td>Ақкөл</td>
 <td>ЖТ</td>
-<td>Нұрбек Альжапаров</td>
+<td>Альжапаров Н.</td>
 <td></td>
 <td>64</td>
 <td>9</td>
@@ -197,10 +194,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>117033100</td>
 <td>Ақкөл</td>
 <td>ЖТ</td>
-<td>
-Ерболат Ахметкалиевич
-Аманжолов
-</td>
+<td>Аманжолов Е.А.</td>
 <td></td>
 <td>87</td>
 <td></td>
@@ -211,7 +205,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>117033100</td>
 <td>Ақкөл</td>
 <td>ЖТ</td>
-<td>Жаналык Толебаевич Аманжолов</td>
+<td>Аманжолов Ж.Т.</td>
 <td></td>
 <td></td>
 <td>2</td>
@@ -222,10 +216,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>117033100</td>
 <td>Ақкөл</td>
 <td>ЖТ</td>
-<td>
-Қанат
-Апенов
-</td>
+<td>Апенов К.</td>
 <td>1</td>
 <td></td>
 <td></td>
@@ -236,7 +227,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>117033100</td>
 <td>Ақкөл</td>
 <td>ЖТ</td>
-<td>Ризабек Аристанов</td>
+<td>Аристанов Р.</td>
 <td>2</td>
 <td>22</td>
 <td></td>
@@ -247,7 +238,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>117033100</td>
 <td>Ақкөл</td>
 <td>ЖТ</td>
-<td>Каиргельды Барлыбаевич Аубакиров</td>
+<td>Аубакиров К.Б.</td>
 <td></td>
 <td>17</td>
 <td>1</td>
@@ -258,10 +249,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>117033100</td>
 <td>Ақкөл</td>
 <td>ЖТ</td>
-<td>
-Марат
-Абдулович Ахметов
-</td>
+<td>Ахметов М.А.</td>
 <td></td>
 <td></td>
 <td>1</td>
@@ -272,7 +260,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>117033100</td>
 <td>Ақкөл</td>
 <td>ЖТ</td>
-<td>Марат Куантайгужинович Ахметов</td>
+<td>Ахметов М.К.</td>
 <td></td>
 <td></td>
 <td>2</td>
@@ -283,7 +271,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>117033100</td>
 <td>Ақкөл</td>
 <td>ЖТ</td>
-<td>Бейсенбай Аспентаевич Баймаганбетов</td>
+<td>Баймаганбетов Б.А.</td>
 <td></td>
 <td>6</td>
 <td></td>
@@ -294,7 +282,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>117033100</td>
 <td>Ақкөл</td>
 <td>ЖТ</td>
-<td>Зәуре Баймаганбетова</td>
+<td>Баймаганбетова З.</td>
 <td></td>
 <td></td>
 <td>3</td>
@@ -305,7 +293,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>117033100</td>
 <td>Ақкөл</td>
 <td>ЖТ</td>
-<td>Павлина Баймаганбетова</td>
+<td>Баймаганбетова А.</td>
 <td>4</td>
 <td></td>
 <td>5</td>
@@ -316,10 +304,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>117033100</td>
 <td>Ақкөл</td>
 <td>ЖТ</td>
-<td>
-Берік
-Амантаевич Башаров
-</td>
+<td>Башаров Б.А.</td>
 <td></td>
 <td>19</td>
 <td>2</td>
@@ -330,10 +315,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>117033100</td>
 <td>Ақкөл</td>
 <td>ЖТ</td>
-<td>
-Сәуле
-Башарова
-</td>
+<td>Башарова С.</td>
 <td>17</td>
 <td>12</td>
 <td>2</td>
@@ -344,10 +326,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>117033100</td>
 <td>Ақкөл</td>
 <td>ЖТ</td>
-<td>
-Еркін
-Бегалимов
-</td>
+<td>Бегалимов Е.</td>
 <td></td>
 <td></td>
 <td>2</td>
@@ -358,7 +337,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>117033100</td>
 <td>Ақкөл</td>
 <td>ЖТ</td>
-<td>Алтынбек Кайсарович Бекбулатов</td>
+<td>Бекбулатов А.К.</td>
 <td>21</td>
 <td>100</td>
 <td></td>
@@ -369,7 +348,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>117033100</td>
 <td>Ақкөл</td>
 <td>ЖТ</td>
-<td>Қонысбай Баймоллаевич Бекенов</td>
+<td>Бекенов Б.К.</td>
 <td>1</td>
 <td>7</td>
 <td>2</td>
@@ -380,7 +359,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>117033100</td>
 <td>Ақкөл</td>
 <td>ЖТ</td>
-<td>Карлыгаш Бекмаганбетова</td>
+<td>Бекмаганбетова К.</td>
 <td></td>
 <td>11</td>
 <td></td>
@@ -391,7 +370,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>117033100</td>
 <td>Ақкөл</td>
 <td>ЖТ</td>
-<td>Женис Боранбаев</td>
+<td>Боранбаев Ж.</td>
 <td>6</td>
 <td>30</td>
 <td>2</td>
@@ -402,10 +381,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>117033100</td>
 <td>Ақкөл</td>
 <td>ЖТ</td>
-<td>
-Аманко
-Ботанов
-</td>
+<td>Ботанов А.</td>
 <td></td>
 <td></td>
 <td>7</td>
@@ -416,10 +392,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>117033100</td>
 <td>Ақкөл</td>
 <td>ЖТ</td>
-<td>
-Мұратбай
-Ванов
-</td>
+<td>Ванов М.</td>
 <td></td>
 <td>11</td>
 <td></td>
@@ -430,10 +403,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>117033100</td>
 <td>Ақкөл</td>
 <td>ЖТ</td>
-<td>
-Серік
-Ванов
-</td>
+<td>Ванов С.</td>
 <td>2</td>
 <td>42</td>
 <td>10</td>
@@ -444,10 +414,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>117033100</td>
 <td>Ақкөл</td>
 <td>ЖТ</td>
-<td>
-Елена
-Виттих
-</td>
+<td>Виттих Е.</td>
 <td>2</td>
 <td></td>
 <td></td>
@@ -458,7 +425,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>117033100</td>
 <td>Ақкөл</td>
 <td>ЖТ</td>
-<td>Сайлыбай Тайканович Габдулин</td>
+<td>Габдулин С.Т.</td>
 <td>4</td>
 <td>24</td>
 <td></td>
@@ -469,7 +436,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>117033100</td>
 <td>Ақкөл</td>
 <td>ЖТ</td>
-<td>Айнагүл Дайрова</td>
+<td>Дайрова А.</td>
 <td></td>
 <td>9</td>
 <td></td>
@@ -480,7 +447,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>117033100</td>
 <td>Ақкөл</td>
 <td>ЖТ</td>
-<td>Акылбек Кайрденович Досмаганбетов</td>
+<td>Досмаганбетов А.К.</td>
 <td></td>
 <td></td>
 <td>4</td>
@@ -491,7 +458,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>117033100</td>
 <td>Ақкөл</td>
 <td>ЖТ</td>
-<td>Балкеш Кабдошевна Ельбергенова</td>
+<td>Ельбергенова Б.К.</td>
 <td></td>
 <td></td>
 <td>3</td>
@@ -502,7 +469,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>117033100</td>
 <td>Ақкөл</td>
 <td>ЖТ</td>
-<td>Гульмира Кыдырбековна Ерденова</td>
+<td>Ерденова Г.К.</td>
 <td>5</td>
 <td></td>
 <td></td>
@@ -513,7 +480,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>117033100</td>
 <td>Ақкөл</td>
 <td>ЖТ</td>
-<td>Михайл Ероховец</td>
+<td>Ероховец М.</td>
 <td></td>
 <td></td>
 <td>3</td>
@@ -524,7 +491,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>117033100</td>
 <td>Ақкөл</td>
 <td>ЖТ</td>
-<td>Есенгалиева Гулгуль</td>
+<td>Есенгалиева Г.</td>
 <td>1</td>
 <td></td>
 <td>3</td>
@@ -535,7 +502,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>117033100</td>
 <td>Ақкөл</td>
 <td>ЖТ</td>
-<td>Оралбек Орынбаевич Есимов</td>
+<td>Есимов О.О.</td>
 <td>2</td>
 <td>178</td>
 <td>1</td>
@@ -546,7 +513,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>117033100</td>
 <td>Ақкөл</td>
 <td>ЖТ</td>
-<td>Айтжан Ескендиров</td>
+<td>Ескендиров А.</td>
 <td></td>
 <td>12</td>
 <td>7</td>
@@ -557,7 +524,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>117033100</td>
 <td>Ақкөл</td>
 <td>ЖТ</td>
-<td>Евгений Ефременко</td>
+<td>Ефременко Е.</td>
 <td>2</td>
 <td></td>
 <td></td>
@@ -568,10 +535,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>117033100</td>
 <td>Ақкөл</td>
 <td>ЖТ</td>
-<td>
-Марат
-Жаваров
-</td>
+<td>Жаваров М.</td>
 <td></td>
 <td></td>
 <td>4</td>
@@ -582,7 +546,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>117033100</td>
 <td>Ақкөл</td>
 <td>ЖТ</td>
-<td>Асылбек Аманжолұлы Жаканов</td>
+<td>Жаканов А. А.</td>
 <td></td>
 <td>31</td>
 <td></td>
@@ -593,7 +557,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>117033100</td>
 <td>Ақкөл</td>
 <td>ЖТ</td>
-<td>Сеилбек Серикович Жакашев</td>
+<td>Жакашев С.С.</td>
 <td></td>
 <td>5</td>
 <td></td>
@@ -604,7 +568,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>117033100</td>
 <td>Ақкөл</td>
 <td>ЖТ</td>
-<td>Тамара Жейниковская</td>
+<td>Жейниковская Т.</td>
 <td>3</td>
 <td></td>
 <td></td>
@@ -615,10 +579,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>117033100</td>
 <td>Ақкөл</td>
 <td>ЖТ</td>
-<td>
-Серік
-Жузбаев
-</td>
+<td>Жузбаев С.</td>
 <td></td>
 <td>49</td>
 <td>10</td>
@@ -629,7 +590,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>117033100</td>
 <td>Ақкөл</td>
 <td>ЖТ</td>
-<td>Тұрлыбай Малгаждарұлы Жумажанов</td>
+<td>Жумажанов Т.М.</td>
 <td></td>
 <td>25</td>
 <td>3</td>
@@ -640,7 +601,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>117033100</td>
 <td>Ақкөл</td>
 <td>ЖТ</td>
-<td>Боранбай Жусупов</td>
+<td>Жусупов Б.</td>
 <td></td>
 <td>21</td>
 <td></td>
@@ -651,7 +612,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>117033100</td>
 <td>Ақкөл</td>
 <td>ЖТ</td>
-<td>Сұнғат Жусупов</td>
+<td>Жусупов С.</td>
 <td>3</td>
 <td>2</td>
 <td>2</td>
@@ -662,10 +623,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>117033100</td>
 <td>Ақкөл</td>
 <td>ЖТ</td>
-<td>
-Дамира
-Зайкина
-</td>
+<td>Зайкина Д.</td>
 <td></td>
 <td></td>
 <td></td>
@@ -676,7 +634,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>117033100</td>
 <td>Ақкөл</td>
 <td>ЖТ</td>
-<td>Халымтай Есимович Закирьянов</td>
+<td>Закирьянов Х.Е.</td>
 <td></td>
 <td>5</td>
 <td></td>
@@ -687,7 +645,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>117033100</td>
 <td>Ақкөл</td>
 <td>ЖТ</td>
-<td>Ботагөз Залиева</td>
+<td>Залиева Б.</td>
 <td></td>
 <td>4</td>
 <td>6</td>
@@ -698,7 +656,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>117033100</td>
 <td>Ақкөл</td>
 <td>ЖТ</td>
-<td>Азат Темиржанович Зикенов</td>
+<td>Зикенов А.Т.</td>
 <td></td>
 <td>38</td>
 <td>1</td>
@@ -709,7 +667,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>117033100</td>
 <td>Ақкөл</td>
 <td>ЖТ</td>
-<td>Наталья Леонидовна Ибраева</td>
+<td>Ибраева Н.Л.</td>
 <td>5</td>
 <td></td>
 <td></td>
@@ -720,10 +678,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>117033100</td>
 <td>Ақкөл</td>
 <td>ЖТ</td>
-<td>
-Бахыт
-Жантасович Искаков
-</td>
+<td>Искаков Б.Ж.</td>
 <td></td>
 <td>59</td>
 <td></td>
@@ -734,7 +689,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>117033100</td>
 <td>Ақкөл</td>
 <td>ЖТ</td>
-<td>Сайран Кабдулов</td>
+<td>Кабдулов С.</td>
 <td>3</td>
 <td></td>
 <td>2</td>
@@ -745,7 +700,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>117033100</td>
 <td>Ақкөл</td>
 <td>ЖТ</td>
-<td>Куандык Боранбаевич Кажамов</td>
+<td>Кажамов К.Б.</td>
 <td>6</td>
 <td>9</td>
 <td></td>
@@ -756,7 +711,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>117033100</td>
 <td>Ақкөл</td>
 <td>ЖТ</td>
-<td>Хайргелді Бакаивич Кажуев</td>
+<td>Кажуев Х.Б.</td>
 <td>6</td>
 <td>22</td>
 <td></td>
@@ -767,7 +722,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>117033100</td>
 <td>Ақкөл</td>
 <td>ЖТ</td>
-<td>Бейбітжан Казиденов</td>
+<td>Казиденов Б.</td>
 <td></td>
 <td>20</td>
 <td></td>
@@ -778,7 +733,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>117033100</td>
 <td>Ақкөл</td>
 <td>ЖТ</td>
-<td>Сатыбай Кайдаров</td>
+<td>Кайдаров С.</td>
 <td>5</td>
 <td>48</td>
 <td>4</td>
@@ -789,7 +744,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>117033100</td>
 <td>Ақкөл</td>
 <td>ЖТ</td>
-<td>Көкен Сатыбаевич Калабаев</td>
+<td>Калабаев К.С.</td>
 <td>4</td>
 <td>75</td>
 <td>5</td>
@@ -800,7 +755,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>117033100</td>
 <td>Ақкөл</td>
 <td>ЖТ</td>
-<td>Нурболат Кокенович Калабаев</td>
+<td>Калабаев Н.К.</td>
 <td>11</td>
 <td>50</td>
 <td>1</td>
@@ -811,7 +766,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>117033100</td>
 <td>Ақкөл</td>
 <td>ЖТ</td>
-<td>Кәмшат Канатовна Камалиева</td>
+<td>Камалиева К.К.</td>
 <td>2</td>
 <td></td>
 <td></td>
@@ -822,7 +777,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>117033100</td>
 <td>Ақкөл</td>
 <td>ЖТ</td>
-<td>Бакыт Камидоллин</td>
+<td>Камидоллин Б.</td>
 <td></td>
 <td>37</td>
 <td></td>
@@ -833,7 +788,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>117033100</td>
 <td>Ақкөл</td>
 <td>ЖТ</td>
-<td>Жәгіпар Камидоллин</td>
+<td>Камидоллин Ж.</td>
 <td>33</td>
 <td>39</td>
 <td>2</td>
@@ -844,7 +799,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>117033100</td>
 <td>Ақкөл</td>
 <td>ЖТ</td>
-<td>Виктор Карпенко</td>
+<td>Карпенко В.</td>
 <td>10</td>
 <td></td>
 <td></td>
@@ -855,7 +810,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>117033100</td>
 <td>Ақкөл</td>
 <td>ЖТ</td>
-<td>Айсұлу Кенбаева</td>
+<td>Кенбаева А.</td>
 <td>4</td>
 <td></td>
 <td></td>
@@ -866,10 +821,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>117033100</td>
 <td>Ақкөл</td>
 <td>ЖТ</td>
-<td>
-Нина
-Павловна Клименко
-</td>
+<td>Клименко Н.П.</td>
 <td>18</td>
 <td></td>
 <td></td>
@@ -880,7 +832,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>117033100</td>
 <td>Ақкөл</td>
 <td>ЖТ</td>
-<td>Елена Михайловна Ковалькова</td>
+<td>Ковалькова Е.М.</td>
 <td>4</td>
 <td></td>
 <td></td>
@@ -891,7 +843,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>117033100</td>
 <td>Ақкөл</td>
 <td>ЖТ</td>
-<td>Егінбай Кожахметов</td>
+<td>Кожахметов Е.</td>
 <td>2</td>
 <td>21</td>
 <td></td>
@@ -902,10 +854,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>117033100</td>
 <td>Ақкөл</td>
 <td>ЖТ</td>
-<td>
-Асылбек
-Кожин
-</td>
+<td>Кожин А.</td>
 <td></td>
 <td></td>
 <td>1</td>
@@ -916,7 +865,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>117033100</td>
 <td>Ақкөл</td>
 <td>ЖТ</td>
-<td>«Гулден» ШҚ</td>
+<td>Крестьянское Х.Г.</td>
 <td></td>
 <td></td>
 <td>50</td>
@@ -927,7 +876,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>117033100</td>
 <td>Ақкөл</td>
 <td>ЖТ</td>
-<td>Валентин Александрович Круглов</td>
+<td>Круглов В.А.</td>
 <td>4</td>
 <td></td>
 <td></td>
@@ -938,7 +887,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>117033100</td>
 <td>Ақкөл</td>
 <td>ЖТ</td>
-<td>Айдарбек Сагиндыкович Кудияров</td>
+<td>Кудияров А.С.</td>
 <td></td>
 <td></td>
 <td>2</td>
@@ -949,7 +898,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>117033100</td>
 <td>Ақкөл</td>
 <td>ЖТ</td>
-<td>Мария Васильевна Кулакова</td>
+<td>Кулакова М.В.</td>
 <td>5</td>
 <td></td>
 <td></td>
@@ -960,7 +909,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>117033100</td>
 <td>Ақкөл</td>
 <td>ЖТ</td>
-<td>Ақмарал Курманова</td>
+<td>Курманова А.</td>
 <td>1</td>
 <td></td>
 <td>2</td>
@@ -971,7 +920,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>117033100</td>
 <td>Ақкөл</td>
 <td>ЖТ</td>
-<td>«Акколь» ШҚ</td>
+<td>ШҚ «Акколь»</td>
 <td>418</td>
 <td></td>
 <td>53</td>
@@ -982,7 +931,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>117033100</td>
 <td>Ақкөл</td>
 <td>ЖТ</td>
-<td>Михаил Лактюшен</td>
+<td>Лактюшен М.</td>
 <td>2</td>
 <td></td>
 <td></td>
@@ -993,7 +942,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>117033100</td>
 <td>Ақкөл</td>
 <td>ЖТ</td>
-<td>Валентина Станеславна Ланецкая</td>
+<td>Ланецкая В.С.</td>
 <td>22</td>
 <td></td>
 <td></td>
@@ -1004,7 +953,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>117033100</td>
 <td>Ақкөл</td>
 <td>ЖТ</td>
-<td>Сергеи Лысенко</td>
+<td>Лысенко С.</td>
 <td>2</td>
 <td></td>
 <td></td>
@@ -1015,7 +964,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>117033100</td>
 <td>Ақкөл</td>
 <td>ЖТ</td>
-<td>Аманжол Мағзұмов</td>
+<td>Магзумов А.</td>
 <td></td>
 <td>7</td>
 <td>3</td>
@@ -1026,7 +975,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>117033100</td>
 <td>Ақкөл</td>
 <td>ЖТ</td>
-<td>Канат Тасыбаевич Мәженов</td>
+<td>Маженов К.Т.</td>
 <td></td>
 <td></td>
 <td>4</td>
@@ -1037,7 +986,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>117033100</td>
 <td>Ақкөл</td>
 <td>ЖТ</td>
-<td>Айгүль Айтпаевна Мәкенова</td>
+<td>Макенова А.А.</td>
 <td>11</td>
 <td></td>
 <td>3</td>
@@ -1048,10 +997,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>117033100</td>
 <td>Ақкөл</td>
 <td>ЖТ</td>
-<td>
-Жомарт
-Макин
-</td>
+<td>Макин Ж.</td>
 <td>8</td>
 <td>36</td>
 <td></td>
@@ -1062,10 +1008,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>117033100</td>
 <td>Ақкөл</td>
 <td>ЖТ</td>
-<td>
-Олег
-Матуско
-</td>
+<td>Матуско О.</td>
 <td>2</td>
 <td></td>
 <td></td>
@@ -1076,7 +1019,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>117055100</td>
 <td>Айдабол ауылы</td>
 <td>ЖТ</td>
-<td>Айдархан Аргынович Абитаев</td>
+<td>Абитаев А.А.</td>
 <td>53</td>
 <td>28</td>
 <td></td>
@@ -1087,7 +1030,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>117055100</td>
 <td>Айдабол ауылы</td>
 <td>ЖТ</td>
-<td>Михаил Степанович Авсяников</td>
+<td>Авсяников М.С.</td>
 <td>5</td>
 <td></td>
 <td></td>
@@ -1098,7 +1041,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>117055100</td>
 <td>Айдабол ауылы</td>
 <td>ЖТ</td>
-<td>Қоныспай Нуркенович Акмолдин</td>
+<td>Акмолдин К.Н.</td>
 <td></td>
 <td></td>
 <td>3</td>
@@ -1109,7 +1052,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>117055100</td>
 <td>Айдабол ауылы</td>
 <td>ЖТ</td>
-<td>Аманжол Акпаев</td>
+<td>Акпаев А.</td>
 <td>12</td>
 <td></td>
 <td>6</td>
@@ -1120,7 +1063,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>117055100</td>
 <td>Айдабол ауылы</td>
 <td>ЖТ</td>
-<td>Ертарғын Нургалиевич Акпаев</td>
+<td>Акпаев Е.Н.</td>
 <td>9</td>
 <td>10</td>
 <td></td>
@@ -1131,7 +1074,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>117055100</td>
 <td>Айдабол ауылы</td>
 <td>ЖТ</td>
-<td>Жасұлан Нургалиевич Акпаев</td>
+<td>Акпаев Ж.Н.</td>
 <td>9</td>
 <td>4</td>
 <td></td>
@@ -1142,7 +1085,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>117055100</td>
 <td>Айдабол ауылы</td>
 <td>ЖТ</td>
-<td>Қайрбек Аманжолов</td>
+<td>Аманжолов К.</td>
 <td></td>
 <td></td>
 <td>5</td>
@@ -1153,7 +1096,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>117055100</td>
 <td>Айдабол ауылы</td>
 <td>ЖТ</td>
-<td>Алмагүл Байгазиновна Амренова</td>
+<td>Амренова А.Б.</td>
 <td>11</td>
 <td>45</td>
 <td></td>
@@ -1164,10 +1107,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>117055100</td>
 <td>Айдабол ауылы</td>
 <td>ЖТ</td>
-<td>
-Борис
-Анищенко
-</td>
+<td>Анищенко Б.</td>
 <td></td>
 <td></td>
 <td></td>
@@ -1178,10 +1118,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>117055100</td>
 <td>Айдабол ауылы</td>
 <td>ЖТ</td>
-<td>
-Ерік
-Маратович Асылтасов
-</td>
+<td>Асылтасов Е.М.</td>
 <td>3</td>
 <td>1</td>
 <td>4</td>
@@ -1192,7 +1129,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>117055100</td>
 <td>Айдабол ауылы</td>
 <td>ЖТ</td>
-<td>Райымбек Байканов</td>
+<td>Байканов Р.</td>
 <td>2</td>
 <td>18</td>
 <td>2</td>
@@ -1203,10 +1140,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>117055100</td>
 <td>Айдабол ауылы</td>
 <td>ЖТ</td>
-<td>
-Қайрат
-Исаевич Байконуров
-</td>
+<td>Байконуров К.И.</td>
 <td></td>
 <td>36</td>
 <td></td>
@@ -1217,7 +1151,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>117055100</td>
 <td>Айдабол ауылы</td>
 <td>ЖТ</td>
-<td>Рашит Абдуллаевич Бакиров</td>
+<td>Бакиров Р.А.</td>
 <td>10</td>
 <td></td>
 <td>1</td>
@@ -1228,7 +1162,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>117055100</td>
 <td>Айдабол ауылы</td>
 <td>ЖТ</td>
-<td>Ринат Абдуллаевич Бакиров</td>
+<td>Бакиров Р.А.</td>
 <td>2</td>
 <td>16</td>
 <td></td>
@@ -1239,7 +1173,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>117055100</td>
 <td>Айдабол ауылы</td>
 <td>ЖТ</td>
-<td>Ануарбек Касымуратович Бейсембаев</td>
+<td>Бейсембаев А.К.</td>
 <td></td>
 <td>19</td>
 <td></td>
@@ -1250,7 +1184,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>117055100</td>
 <td>Айдабол ауылы</td>
 <td>ЖТ</td>
-<td>Бауржан Касенжанович Бейсентаев</td>
+<td>Бейсентаев Б.К.</td>
 <td>8</td>
 <td>30</td>
 <td></td>
@@ -1261,7 +1195,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>117055100</td>
 <td>Айдабол ауылы</td>
 <td>ЖТ</td>
-<td>Нурымжан Салимович Бекмурзин</td>
+<td>Бекмурзин Н.С.</td>
 <td>26</td>
 <td>92</td>
 <td></td>
@@ -1272,10 +1206,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>117055100</td>
 <td>Айдабол ауылы</td>
 <td>ЖТ</td>
-<td>
-Анарбек Кабдымаликович
-Биболдин
-</td>
+<td>Биболдин А.К.</td>
 <td>4</td>
 <td>4</td>
 <td></td>
@@ -1286,7 +1217,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>117055100</td>
 <td>Айдабол ауылы</td>
 <td>ЖТ</td>
-<td>Сергей Владимирович Бобко</td>
+<td>Бобко С.В.</td>
 <td>3</td>
 <td></td>
 <td></td>
@@ -1297,7 +1228,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>117055100</td>
 <td>Айдабол ауылы</td>
 <td>ЖТ</td>
-<td>Арыстанбек Айдарханович Боканов</td>
+<td>Боканов А.А.</td>
 <td></td>
 <td></td>
 <td>28</td>
@@ -1308,7 +1239,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>117055100</td>
 <td>Айдабол ауылы</td>
 <td>ЖТ</td>
-<td>Сайлаубек Айдарханович Боканов</td>
+<td>Боканов С.А.</td>
 <td>4</td>
 <td>33</td>
 <td>4</td>
@@ -1319,7 +1250,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>117055100</td>
 <td>Айдабол ауылы</td>
 <td>ЖТ</td>
-<td>Пазылбек Ботпаев</td>
+<td>Ботпаев П.</td>
 <td></td>
 <td></td>
 <td>3</td>
@@ -1330,7 +1261,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>117055100</td>
 <td>Айдабол ауылы</td>
 <td>ЖТ</td>
-<td>Вадим Викторович Бугаев</td>
+<td>Бугаев В.В.</td>
 <td>5</td>
 <td></td>
 <td></td>
@@ -1341,10 +1272,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>117055100</td>
 <td>Айдабол ауылы</td>
 <td>ЖТ</td>
-<td>
-Иван
-Сергеевич Бугаев
-</td>
+<td>Бугаев И.С.</td>
 <td>13</td>
 <td></td>
 <td></td>
@@ -1355,10 +1283,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>117055100</td>
 <td>Айдабол ауылы</td>
 <td>ЖТ</td>
-<td>
-Павел
-Сергеевич Бугаев
-</td>
+<td>Бугаев П.С.</td>
 <td>3</td>
 <td></td>
 <td></td>
@@ -1369,7 +1294,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>117055100</td>
 <td>Айдабол ауылы</td>
 <td>ЖТ</td>
-<td>Любовь Тимофеевна Бугаева</td>
+<td>Бугаева Л.Т.</td>
 <td>4</td>
 <td></td>
 <td></td>
@@ -1380,7 +1305,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>117055100</td>
 <td>Айдабол ауылы</td>
 <td>ЖТ</td>
-<td>Лариса Михайловна Винокурова</td>
+<td>Винокурова Л.М.</td>
 <td>14</td>
 <td></td>
 <td></td>
@@ -1391,7 +1316,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>117055100</td>
 <td>Айдабол ауылы</td>
 <td>ЖТ</td>
-<td>Александр Иванович Гладышко</td>
+<td>Гладышко А.И.</td>
 <td>2</td>
 <td></td>
 <td></td>
@@ -1402,7 +1327,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>117055100</td>
 <td>Айдабол ауылы</td>
 <td>ЖТ</td>
-<td>Анна Гладышко</td>
+<td>Гладышко А.</td>
 <td>4</td>
 <td></td>
 <td></td>
@@ -1413,7 +1338,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>117055100</td>
 <td>Айдабол ауылы</td>
 <td>ЖТ</td>
-<td>Светлана Николаевна Голуб</td>
+<td>Голуб С.Н.</td>
 <td>1</td>
 <td></td>
 <td></td>
@@ -1424,7 +1349,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>117055100</td>
 <td>Айдабол ауылы</td>
 <td>ЖТ</td>
-<td>Василий Александрович Гулаженко</td>
+<td>Гулаженко В.А.</td>
 <td>5</td>
 <td></td>
 <td></td>
@@ -1435,10 +1360,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>117055100</td>
 <td>Айдабол ауылы</td>
 <td>ЖТ</td>
-<td>
-Елена
-Валерьвна Дакова
-</td>
+<td>Дакова Е.В.</td>
 <td>3</td>
 <td></td>
 <td></td>
@@ -1449,7 +1371,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>117055100</td>
 <td>Айдабол ауылы</td>
 <td>ЖТ</td>
-<td>Наталья Анатольевна Дедикова</td>
+<td>Дедикова Н.А.</td>
 <td>13</td>
 <td></td>
 <td></td>
@@ -1460,7 +1382,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>117055100</td>
 <td>Айдабол ауылы</td>
 <td>ЖТ</td>
-<td>Елена Викторовна Демченко</td>
+<td>Демченко Е.В.</td>
 <td>2</td>
 <td></td>
 <td></td>
@@ -1471,7 +1393,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>117055100</td>
 <td>Айдабол ауылы</td>
 <td>ЖТ</td>
-<td>Владимир Борисович Добрынин</td>
+<td>Добрынин В.Б.</td>
 <td>22</td>
 <td></td>
 <td></td>
@@ -1482,10 +1404,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>117055100</td>
 <td>Айдабол ауылы</td>
 <td>ЖТ</td>
-<td>
-Канат
-Уланович Достанбеков
-</td>
+<td>Достанбеков К.У.</td>
 <td>11</td>
 <td></td>
 <td>4</td>
@@ -1496,7 +1415,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>117055100</td>
 <td>Айдабол ауылы</td>
 <td>ЖТ</td>
-<td>Юрий Михайлович Дрогонюк</td>
+<td>Дрогонюк Ю.М.</td>
 <td></td>
 <td></td>
 <td></td>
@@ -1507,7 +1426,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>117055100</td>
 <td>Айдабол ауылы</td>
 <td>ЖТ</td>
-<td>Богдан Владимирович Дятлов</td>
+<td>Дятлов Б. В.</td>
 <td>2</td>
 <td></td>
 <td></td>
@@ -1518,7 +1437,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>117055100</td>
 <td>Айдабол ауылы</td>
 <td>ЖТ</td>
-<td>Айна Тулегеновна Екибасова</td>
+<td>Екибасова А.Т.</td>
 <td>4</td>
 <td></td>
 <td></td>
@@ -1529,7 +1448,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>117055100</td>
 <td>Айдабол ауылы</td>
 <td>ЖТ</td>
-<td>Анатолий Анатольевич Ерзаков</td>
+<td>Ерзаков А.А.</td>
 <td>6</td>
 <td></td>
 <td></td>
@@ -1540,7 +1459,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>117055100</td>
 <td>Айдабол ауылы</td>
 <td>ЖТ</td>
-<td>Болат Есмуханович Жансериков</td>
+<td>Жансериков Б.Е.</td>
 <td></td>
 <td>25</td>
 <td></td>
@@ -1551,7 +1470,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>117055100</td>
 <td>Айдабол ауылы</td>
 <td>ЖТ</td>
-<td>Серік Сатыбаевич Жолдыбаев</td>
+<td>Жолдыбаев С.С.</td>
 <td>3</td>
 <td>14</td>
 <td>7</td>
@@ -1562,10 +1481,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>117055100</td>
 <td>Айдабол ауылы</td>
 <td>ЖТ</td>
-<td>
-Канат
-Журунов
-</td>
+<td>Журунов К.</td>
 <td>3</td>
 <td>21</td>
 <td></td>
@@ -1576,7 +1492,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>117055100</td>
 <td>Айдабол ауылы</td>
 <td>ЖТ</td>
-<td>Райгуль Аягановна Жусупова</td>
+<td>Жусупова Р.А.</td>
 <td></td>
 <td></td>
 <td>3</td>
@@ -1587,7 +1503,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>117055100</td>
 <td>Айдабол ауылы</td>
 <td>ЖТ</td>
-<td>Радион Михайлович Земляной</td>
+<td>Земляной Р.М.</td>
 <td>5</td>
 <td></td>
 <td></td>
@@ -1598,7 +1514,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>117055100</td>
 <td>Айдабол ауылы</td>
 <td>ЖТ</td>
-<td>Сергей Иванович Зимин</td>
+<td>Зимин С.И.</td>
 <td></td>
 <td>5</td>
 <td></td>
@@ -1609,7 +1525,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>117055100</td>
 <td>Айдабол ауылы</td>
 <td>ЖТ</td>
-<td>Агбай Туреханович Ивахин</td>
+<td>Ивахин А.Т.</td>
 <td>5</td>
 <td></td>
 <td></td>
@@ -1620,7 +1536,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>117055100</td>
 <td>Айдабол ауылы</td>
 <td>ЖТ</td>
-<td>Елена Васильевна Ильющенко</td>
+<td>Ильющенко Е.В.</td>
 <td>7</td>
 <td></td>
 <td></td>
@@ -1631,7 +1547,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>117055100</td>
 <td>Айдабол ауылы</td>
 <td>ЖТ</td>
-<td>«Букенова Г.К.»</td>
+<td>ЖК «Букенова Г.К.»</td>
 <td></td>
 <td></td>
 <td>20</td>
@@ -1642,7 +1558,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>117055100</td>
 <td>Айдабол ауылы</td>
 <td>ЖТ</td>
-<td>Құлан Маратович Исин</td>
+<td>Исин К.М.</td>
 <td>17</td>
 <td></td>
 <td>2</td>
@@ -1653,7 +1569,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>117055100</td>
 <td>Айдабол ауылы</td>
 <td>ЖТ</td>
-<td>Ирина Александровна Истомина</td>
+<td>Истомина И.А.</td>
 <td></td>
 <td></td>
 <td></td>
@@ -1664,10 +1580,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>117055100</td>
 <td>Айдабол ауылы</td>
 <td>ЖТ</td>
-<td>
-Раиса
-Егоровна Ишкова
-</td>
+<td>Ишкова Р.Е.</td>
 <td></td>
 <td>7</td>
 <td></td>
@@ -1678,7 +1591,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>117055100</td>
 <td>Айдабол ауылы</td>
 <td>ЖТ</td>
-<td>Надежда Владимировна Ищенко</td>
+<td>Ищенко Н.В.</td>
 <td>1</td>
 <td></td>
 <td></td>
@@ -1689,7 +1602,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>117055100</td>
 <td>Айдабол ауылы</td>
 <td>ЖТ</td>
-<td>Әсет Кенжегарович Калиев</td>
+<td>Калиев А.К.</td>
 <td>1</td>
 <td></td>
 <td>4</td>
@@ -1700,7 +1613,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>117055100</td>
 <td>Айдабол ауылы</td>
 <td>ЖТ</td>
-<td>Доскар Нурмуханович Калиев</td>
+<td>Калиев Д.Н.</td>
 <td>9</td>
 <td></td>
 <td>4</td>
@@ -1711,10 +1624,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>117055100</td>
 <td>Айдабол ауылы</td>
 <td>ЖТ</td>
-<td>
-Ескара
-Калиев
-</td>
+<td>Калиев Е.</td>
 <td></td>
 <td>12</td>
 <td>3</td>
@@ -1725,7 +1635,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>117055100</td>
 <td>Айдабол ауылы</td>
 <td>ЖТ</td>
-<td>Азамат Нурланбекович Камзинов</td>
+<td>Камзинов А.Н.</td>
 <td>2</td>
 <td>7</td>
 <td></td>
@@ -1736,7 +1646,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>117055100</td>
 <td>Айдабол ауылы</td>
 <td>ЖТ</td>
-<td>Амангелді Елеусизович Карипов</td>
+<td>Карипов А.Е.</td>
 <td>12</td>
 <td></td>
 <td>2</td>
@@ -1747,7 +1657,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>117055100</td>
 <td>Айдабол ауылы</td>
 <td>ЖТ</td>
-<td>Нурлан Касымов</td>
+<td>Касымов Н.</td>
 <td>7</td>
 <td></td>
 <td></td>
@@ -1758,7 +1668,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>117055100</td>
 <td>Айдабол ауылы</td>
 <td>ЖТ</td>
-<td>Анатолий Кириловский</td>
+<td>Кириловский А.</td>
 <td></td>
 <td></td>
 <td>1</td>
@@ -1769,7 +1679,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>117055100</td>
 <td>Айдабол ауылы</td>
 <td>ЖТ</td>
-<td>Досымбек Алпысович Кодаров</td>
+<td>Кодаров Д.А.</td>
 <td></td>
 <td>32</td>
 <td>1</td>
@@ -1780,7 +1690,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>117055100</td>
 <td>Айдабол ауылы</td>
 <td>ЖТ</td>
-<td>Өміржан Негметжанович Кожахметов</td>
+<td>Кожахметов У.Н.</td>
 <td>6</td>
 <td></td>
 <td></td>
@@ -1791,7 +1701,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>117055100</td>
 <td>Айдабол ауылы</td>
 <td>ЖТ</td>
-<td>Сергей Владимирович Кожевников</td>
+<td>Кожевников С.В.</td>
 <td>3</td>
 <td></td>
 <td>5</td>
@@ -1802,7 +1712,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>117055100</td>
 <td>Айдабол ауылы</td>
 <td>ЖТ</td>
-<td>Максим Костенко</td>
+<td>Костенко М.</td>
 <td></td>
 <td></td>
 <td></td>
@@ -1813,7 +1723,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>117055100</td>
 <td>Айдабол ауылы</td>
 <td>ЖТ</td>
-<td>Жанбулат Жанабергенович Кулахметов</td>
+<td>Кулахметов Ж.Ж.</td>
 <td></td>
 <td></td>
 <td>1</td>
@@ -1824,7 +1734,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>117055100</td>
 <td>Айдабол ауылы</td>
 <td>ЖТ</td>
-<td>Владимир Владимирович Курофеев</td>
+<td>Курофеев В.В.</td>
 <td>10</td>
 <td></td>
 <td></td>
@@ -1835,7 +1745,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>117055100</td>
 <td>Айдабол ауылы</td>
 <td>ЖТ</td>
-<td>Сайранбек Елеусизович Кусаинов</td>
+<td>Кусаинов С.Е.</td>
 <td></td>
 <td></td>
 <td>3</td>
@@ -1846,10 +1756,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>117055100</td>
 <td>Айдабол ауылы</td>
 <td>ЖТ</td>
-<td>
-Отто
-Оттович Ландыс
-</td>
+<td>Ландыс О.О.</td>
 <td>75</td>
 <td></td>
 <td></td>
@@ -1860,7 +1767,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>117055100</td>
 <td>Айдабол ауылы</td>
 <td>ЖТ</td>
-<td>Сергей Николаевич Лекарев</td>
+<td>Лекарев С.Н.</td>
 <td></td>
 <td></td>
 <td>1</td>
@@ -1871,7 +1778,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>117055100</td>
 <td>Айдабол ауылы</td>
 <td>ЖТ</td>
-<td>Владимир Владимирович Литау</td>
+<td>Литау В.В.</td>
 <td>20</td>
 <td></td>
 <td></td>
@@ -1882,7 +1789,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>117055100</td>
 <td>Айдабол ауылы</td>
 <td>ЖТ</td>
-<td>Леонид Валериевич Лопатин</td>
+<td>Лопатин Л.В.</td>
 <td>1</td>
 <td></td>
 <td></td>
@@ -1893,7 +1800,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>117055100</td>
 <td>Айдабол ауылы</td>
 <td>ЖТ</td>
-<td>Василий Николаевич Лукьянчук</td>
+<td>Лукьянчук В.Н.</td>
 <td>5</td>
 <td></td>
 <td></td>
@@ -1904,7 +1811,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>117055100</td>
 <td>Айдабол ауылы</td>
 <td>ЖТ</td>
-<td>Анжелика Андреевна Маковей</td>
+<td>Маковей А.А.</td>
 <td>9</td>
 <td></td>
 <td></td>
@@ -1915,7 +1822,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>117055100</td>
 <td>Айдабол ауылы</td>
 <td>ЖТ</td>
-<td>Денис Матасов</td>
+<td>Матасов Д.</td>
 <td>8</td>
 <td></td>
 <td></td>
@@ -1926,10 +1833,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>117055100</td>
 <td>Айдабол ауылы</td>
 <td>ЖТ</td>
-<td>
-Серік
-Тұякович Махамбетов
-</td>
+<td>Махамбетов С.Т.</td>
 <td>15</td>
 <td>25</td>
 <td>7</td>
@@ -1940,7 +1844,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>117055100</td>
 <td>Айдабол ауылы</td>
 <td>ЖТ</td>
-<td>Валерий Николаевич Михайлов</td>
+<td>Михайлов В.Н.</td>
 <td>18</td>
 <td></td>
 <td></td>
@@ -1951,7 +1855,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>117055100</td>
 <td>Айдабол ауылы</td>
 <td>ЖТ</td>
-<td>Владимир Васильевич Мищерин</td>
+<td>Мищерин В.В.</td>
 <td>6</td>
 <td></td>
 <td></td>
@@ -1962,7 +1866,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>117055100</td>
 <td>Айдабол ауылы</td>
 <td>ЖТ</td>
-<td>Александр Анатольевич Мосоров</td>
+<td>Мосоров А.А.</td>
 <td>4</td>
 <td></td>
 <td></td>
@@ -1973,7 +1877,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>117055100</td>
 <td>Айдабол ауылы</td>
 <td>ЖТ</td>
-<td>Темирболат Жанапиевич Муканов</td>
+<td>Муканов Т.Ж.</td>
 <td>3</td>
 <td>19</td>
 <td></td>
@@ -1984,7 +1888,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>117055100</td>
 <td>Айдабол ауылы</td>
 <td>ЖТ</td>
-<td>Тоқтар Пшенбаевич Муканов</td>
+<td>Муканов Т.П.</td>
 <td>6</td>
 <td>13</td>
 <td></td>
@@ -1995,7 +1899,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>117055100</td>
 <td>Айдабол ауылы</td>
 <td>ЖТ</td>
-<td>Бекболат Ускунбаевич Мукужанов</td>
+<td>Мукужанов Б.У.</td>
 <td>6</td>
 <td>32</td>
 <td>2</td>
@@ -2006,7 +1910,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>117055100</td>
 <td>Айдабол ауылы</td>
 <td>ЖТ</td>
-<td>Жанат Шамуханович Мукушев</td>
+<td>Мукушев Ж.Ш.</td>
 <td>9</td>
 <td></td>
 <td></td>
@@ -2017,7 +1921,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>117055100</td>
 <td>Айдабол ауылы</td>
 <td>ЖТ</td>
-<td>Баян Сейтмагамбетовна Мукушева</td>
+<td>Мукушева Б.С.</td>
 <td>2</td>
 <td>23</td>
 <td></td>
@@ -2028,7 +1932,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>117055100</td>
 <td>Айдабол ауылы</td>
 <td>ЖТ</td>
-<td>Бахтияр Мухамеджанов</td>
+<td>Мухамеджанов Б.</td>
 <td></td>
 <td>35</td>
 <td>4</td>
@@ -2039,7 +1943,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>117055100</td>
 <td>Айдабол ауылы</td>
 <td>ЖТ</td>
-<td>Анатолий Егорович Нартов</td>
+<td>Нартов А.Е.</td>
 <td>5</td>
 <td></td>
 <td></td>
@@ -2050,7 +1954,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>117055100</td>
 <td>Айдабол ауылы</td>
 <td>ЖТ</td>
-<td>Василий Егорович Нартов</td>
+<td>Нартов В.Е.</td>
 <td>5</td>
 <td></td>
 <td></td>
@@ -2061,7 +1965,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>117055100</td>
 <td>Айдабол ауылы</td>
 <td>ЖТ</td>
-<td>Жумагелді Дубаевич Омаров</td>
+<td>Омаров Ж.Д.</td>
 <td>7</td>
 <td>8</td>
 <td></td>
@@ -2072,7 +1976,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>117055100</td>
 <td>Айдабол ауылы</td>
 <td>ЖТ</td>
-<td>Ольга Михайловна Орлова</td>
+<td>Орлова О.М.</td>
 <td>14</td>
 <td></td>
 <td></td>
@@ -2083,10 +1987,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>117055100</td>
 <td>Айдабол ауылы</td>
 <td>ЖТ</td>
-<td>
-Денис
-Сергеевич Пазыч
-</td>
+<td>Пазыч Д.С.</td>
 <td></td>
 <td></td>
 <td>1</td>
@@ -2097,7 +1998,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115669000</td>
 <td>Бәйтерек</td>
 <td>ЖТ</td>
-<td>Өмірзақ Абдильманов</td>
+<td>Абдильманов У.</td>
 <td></td>
 <td></td>
 <td>7</td>
@@ -2108,7 +2009,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115669000</td>
 <td>Бәйтерек</td>
 <td>ЖТ</td>
-<td>Талғат Агбаев</td>
+<td>Агбаев Т.</td>
 <td>12</td>
 <td>62</td>
 <td></td>
@@ -2119,7 +2020,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115669000</td>
 <td>Бәйтерек</td>
 <td>ЖТ</td>
-<td>Курман Аккошкаров</td>
+<td>Аккошкаров К.</td>
 <td>6</td>
 <td>29</td>
 <td>3</td>
@@ -2130,7 +2031,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115669000</td>
 <td>Бәйтерек</td>
 <td>ЖТ</td>
-<td>Болат Акылбаев</td>
+<td>Акылбаев Б.</td>
 <td>9</td>
 <td>6</td>
 <td>2</td>
@@ -2141,7 +2042,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115669000</td>
 <td>Бәйтерек</td>
 <td>ЖТ</td>
-<td>Өмірзақ Умирбаевич Ахметов</td>
+<td>Ахметов У.У.</td>
 <td>4</td>
 <td></td>
 <td></td>
@@ -2152,7 +2053,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115669000</td>
 <td>Бәйтерек</td>
 <td>ЖТ</td>
-<td>Раушан Ахметова</td>
+<td>Ахметова Р.</td>
 <td>8</td>
 <td></td>
 <td></td>
@@ -2163,7 +2064,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115669000</td>
 <td>Бәйтерек</td>
 <td>ЖТ</td>
-<td>Татьяна Викторовна Блоха</td>
+<td>Блоха Т.В.</td>
 <td></td>
 <td></td>
 <td>4</td>
@@ -2174,7 +2075,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115669000</td>
 <td>Бәйтерек</td>
 <td>ЖТ</td>
-<td>Балтыхан Бөгенбаев</td>
+<td>Богенбаев Б.</td>
 <td></td>
 <td>7</td>
 <td>4</td>
@@ -2185,7 +2086,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115669000</td>
 <td>Бәйтерек</td>
 <td>ЖТ</td>
-<td>Ерболат Бөгенбаев</td>
+<td>Богенбаев Е.</td>
 <td></td>
 <td></td>
 <td>2</td>
@@ -2196,7 +2097,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115669000</td>
 <td>Бәйтерек</td>
 <td>ЖТ</td>
-<td>Владимир Глушак</td>
+<td>Глушак В.</td>
 <td>2</td>
 <td></td>
 <td></td>
@@ -2207,7 +2108,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115669000</td>
 <td>Бәйтерек</td>
 <td>ЖТ</td>
-<td>Амир Дюсембеков</td>
+<td>Дюсембеков А.</td>
 <td></td>
 <td></td>
 <td>8</td>
@@ -2218,7 +2119,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115669000</td>
 <td>Бәйтерек</td>
 <td>ЖТ</td>
-<td>Абдыхалик Елибаев</td>
+<td>Елибаев А.</td>
 <td>8</td>
 <td>35</td>
 <td>1</td>
@@ -2229,10 +2130,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115669000</td>
 <td>Бәйтерек</td>
 <td>ЖТ</td>
-<td>
-Саят
-Жанатович Ергазиев
-</td>
+<td>Ергазиев С.Ж.</td>
 <td></td>
 <td></td>
 <td>2</td>
@@ -2243,7 +2141,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115669000</td>
 <td>Бәйтерек</td>
 <td>ЖТ</td>
-<td>Қадырбек Ескаков</td>
+<td>Ескаков К.</td>
 <td></td>
 <td></td>
 <td>7</td>
@@ -2254,7 +2152,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115669000</td>
 <td>Бәйтерек</td>
 <td>ЖТ</td>
-<td>Мергенбек Ескаков</td>
+<td>Ескаков М.</td>
 <td></td>
 <td>14</td>
 <td>1</td>
@@ -2265,7 +2163,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115669000</td>
 <td>Бәйтерек</td>
 <td>ЖТ</td>
-<td>Бекзат Жаканов</td>
+<td>Жаканов Б.</td>
 <td>7</td>
 <td></td>
 <td>3</td>
@@ -2276,7 +2174,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115669000</td>
 <td>Бәйтерек</td>
 <td>ЖТ</td>
-<td>Бекболат Жакенов</td>
+<td>Жакенов Б.</td>
 <td></td>
 <td></td>
 <td>2</td>
@@ -2287,7 +2185,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115669000</td>
 <td>Бәйтерек</td>
 <td>ЖТ</td>
-<td>Саратай Майкенкызы Жакенова</td>
+<td>Жакенова С.М.</td>
 <td>5</td>
 <td>21</td>
 <td></td>
@@ -2298,7 +2196,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115669000</td>
 <td>Бәйтерек</td>
 <td>ЖТ</td>
-<td>Жалғасбек Жанатаев</td>
+<td>Жанатаев Ж.</td>
 <td>5</td>
 <td></td>
 <td></td>
@@ -2309,7 +2207,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115669000</td>
 <td>Бәйтерек</td>
 <td>ЖТ</td>
-<td>Айдарбек Жумангалиев</td>
+<td>Жумангалиев А.</td>
 <td>12</td>
 <td>6</td>
 <td>5</td>
@@ -2320,7 +2218,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115669000</td>
 <td>Бәйтерек</td>
 <td>ЖТ</td>
-<td>Кұрманғали Жумангалиев</td>
+<td>Жумангалиев К.</td>
 <td></td>
 <td>24</td>
 <td>3</td>
@@ -2331,7 +2229,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115669000</td>
 <td>Бәйтерек</td>
 <td>ЖТ</td>
-<td>Нурлан Сабитович Кабдуллин</td>
+<td>Кабдуллин Н.С.</td>
 <td>5</td>
 <td>5</td>
 <td></td>
@@ -2342,7 +2240,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115669000</td>
 <td>Бәйтерек</td>
 <td>ЖТ</td>
-<td>Алтын Кабдуллина</td>
+<td>Кабдуллина А.</td>
 <td>4</td>
 <td></td>
 <td></td>
@@ -2353,7 +2251,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115669000</td>
 <td>Бәйтерек</td>
 <td>ЖТ</td>
-<td>Қаракөз Александр</td>
+<td>Каракоз А.</td>
 <td></td>
 <td></td>
 <td>4</td>
@@ -2364,7 +2262,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115669000</td>
 <td>Бәйтерек</td>
 <td>ЖТ</td>
-<td>Валентина Борисована Кравченко</td>
+<td>Кравченко В.Б.</td>
 <td>2</td>
 <td></td>
 <td></td>
@@ -2375,7 +2273,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115669000</td>
 <td>Бәйтерек</td>
 <td>ЖТ</td>
-<td>Юрий Кузьминых</td>
+<td>Кузьминых Ю.</td>
 <td>5</td>
 <td></td>
 <td>4</td>
@@ -2386,7 +2284,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115669000</td>
 <td>Бәйтерек</td>
 <td>ЖТ</td>
-<td>Күлжабай Кушманов</td>
+<td>Кушманов К.</td>
 <td>4</td>
 <td>40</td>
 <td>2</td>
@@ -2397,10 +2295,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115669000</td>
 <td>Бәйтерек</td>
 <td>ЖТ</td>
-<td>
-Алтай
-Махатов
-</td>
+<td>Махатов А.</td>
 <td>4</td>
 <td>24</td>
 <td></td>
@@ -2411,7 +2306,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115669000</td>
 <td>Бәйтерек</td>
 <td>ЖТ</td>
-<td>Еркін Қайыржанович Махатов</td>
+<td>Махатов Е.К.</td>
 <td></td>
 <td>49</td>
 <td></td>
@@ -2422,10 +2317,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115669000</td>
 <td>Бәйтерек</td>
 <td>ЖТ</td>
-<td>
-Орал
-Махатов
-</td>
+<td>Махатов У.</td>
 <td></td>
 <td>6</td>
 <td></td>
@@ -2436,7 +2328,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115669000</td>
 <td>Бәйтерек</td>
 <td>ЖТ</td>
-<td>Оралбек Махметов</td>
+<td>Махметов О.</td>
 <td></td>
 <td>5</td>
 <td></td>
@@ -2447,7 +2339,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115669000</td>
 <td>Бәйтерек</td>
 <td>ЖТ</td>
-<td>Оразалы Махметов</td>
+<td>Махметов О.</td>
 <td></td>
 <td>8</td>
 <td>3</td>
@@ -2458,10 +2350,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115669000</td>
 <td>Бәйтерек</td>
 <td>ЖТ</td>
-<td>
-Иван
-Сергеевич Медведев
-</td>
+<td>Медведев И.С.</td>
 <td></td>
 <td>89</td>
 <td>1</td>
@@ -2472,7 +2361,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115669000</td>
 <td>Бәйтерек</td>
 <td>ЖТ</td>
-<td>Сагындык Мухамеджаров</td>
+<td>Мухамеджаров С.</td>
 <td>4</td>
 <td>29</td>
 <td></td>
@@ -2483,7 +2372,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115669000</td>
 <td>Бәйтерек</td>
 <td>ЖТ</td>
-<td>Сайранбек Негметуллин</td>
+<td>Негметуллин С.</td>
 <td>6</td>
 <td>37</td>
 <td></td>
@@ -2494,7 +2383,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115669000</td>
 <td>Бәйтерек</td>
 <td>ЖТ</td>
-<td>Еңбек Акылбаевич Нугуманов</td>
+<td>Нугуманов Е.А.</td>
 <td></td>
 <td>56</td>
 <td>5</td>
@@ -2505,7 +2394,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115669000</td>
 <td>Бәйтерек</td>
 <td>ЖТ</td>
-<td>Бахтияр Ескенеевич Ольжагулов</td>
+<td>Ольжагулов Б.Е.</td>
 <td>16</td>
 <td></td>
 <td></td>
@@ -2516,7 +2405,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115669000</td>
 <td>Бәйтерек</td>
 <td>ЖТ</td>
-<td>Жаслан Ордабаев</td>
+<td>Ордабаев Ж.</td>
 <td>1</td>
 <td></td>
 <td></td>
@@ -2527,7 +2416,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115669000</td>
 <td>Бәйтерек</td>
 <td>ЖТ</td>
-<td>Анатолий Пархоменко</td>
+<td>Пархоменко А.</td>
 <td>11</td>
 <td></td>
 <td>8</td>
@@ -2538,7 +2427,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115669000</td>
 <td>Бәйтерек</td>
 <td>ЖТ</td>
-<td>Роман Пфайфер</td>
+<td>Пфайфер Р.</td>
 <td></td>
 <td></td>
 <td>1</td>
@@ -2549,7 +2438,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115669000</td>
 <td>Бәйтерек</td>
 <td>ЖТ</td>
-<td>Бейбіт Рамазанов</td>
+<td>Рамазанов Б.</td>
 <td>6</td>
 <td></td>
 <td>6</td>
@@ -2560,7 +2449,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115669000</td>
 <td>Бәйтерек</td>
 <td>ЖТ</td>
-<td>Назымбек Рамазанов</td>
+<td>Рамазанов Н.</td>
 <td>1</td>
 <td></td>
 <td>3</td>
@@ -2571,7 +2460,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115669000</td>
 <td>Бәйтерек</td>
 <td>ЖТ</td>
-<td>Алмагүл Саменова</td>
+<td>Саменова А.</td>
 <td></td>
 <td></td>
 <td>7</td>
@@ -2582,7 +2471,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115669000</td>
 <td>Бәйтерек</td>
 <td>ЖТ</td>
-<td>Валерий Светличный</td>
+<td>Светличный В.</td>
 <td></td>
 <td></td>
 <td>1</td>
@@ -2593,7 +2482,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115669000</td>
 <td>Бәйтерек</td>
 <td>ЖТ</td>
-<td>Рүстем Секенова</td>
+<td>Секенова Р.</td>
 <td>8</td>
 <td></td>
 <td></td>
@@ -2604,7 +2493,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115669000</td>
 <td>Бәйтерек</td>
 <td>ЖТ</td>
-<td>Қанат Темиржанович Серикбаев</td>
+<td>Серикбаев К.Т.</td>
 <td>7</td>
 <td></td>
 <td></td>
@@ -2615,7 +2504,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115669000</td>
 <td>Бәйтерек</td>
 <td>ЖТ</td>
-<td>Дауренбек Айдарбекович Ташенов</td>
+<td>Ташенов Д.А.</td>
 <td>3</td>
 <td></td>
 <td></td>
@@ -2626,7 +2515,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115669000</td>
 <td>Бәйтерек</td>
 <td>ЖТ</td>
-<td>Ғаділбек Токтаров</td>
+<td>Токтаров Г.</td>
 <td></td>
 <td>12</td>
 <td>2</td>
@@ -2637,7 +2526,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115669000</td>
 <td>Бәйтерек</td>
 <td>ЖТ</td>
-<td>«Байтерек Нп» ЖСШ</td>
+<td>ЖШС «Байтерек НП»</td>
 <td>3</td>
 <td></td>
 <td></td>
@@ -2648,7 +2537,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115669000</td>
 <td>Бәйтерек</td>
 <td>ЖТ</td>
-<td>Александра Алексеевна Тыртышная</td>
+<td>Тыртышная А.А.</td>
 <td>2</td>
 <td></td>
 <td></td>
@@ -2659,10 +2548,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115669000</td>
 <td>Бәйтерек</td>
 <td>ЖТ</td>
-<td>
-Петр
-Тыщенко
-</td>
+<td>Тыщенко П.</td>
 <td>3</td>
 <td></td>
 <td>1</td>
@@ -2673,7 +2559,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115669000</td>
 <td>Бәйтерек</td>
 <td>ЖТ</td>
-<td>Владимир Фролов</td>
+<td>Фролов В.</td>
 <td></td>
 <td></td>
 <td>2</td>
@@ -2684,7 +2570,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115669000</td>
 <td>Бәйтерек</td>
 <td>ЖТ</td>
-<td>Райхан Тулегеновна Шабанова</td>
+<td>Шабанова Р.Т.</td>
 <td></td>
 <td></td>
 <td>2</td>
@@ -2695,7 +2581,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115669000</td>
 <td>Бәйтерек</td>
 <td>ЖТ</td>
-<td>Қайрат Шайкенов</td>
+<td>Шайкенов К.</td>
 <td></td>
 <td></td>
 <td>2</td>
@@ -2706,7 +2592,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115669000</td>
 <td>Бәйтерек</td>
 <td>ЖТ</td>
-<td>Марияш Шакенова</td>
+<td>Шакенова М.</td>
 <td></td>
 <td></td>
 <td>4</td>
@@ -2717,7 +2603,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115669000</td>
 <td>Бәйтерек</td>
 <td>ЖТ</td>
-<td>Нуржан Шакиржанов</td>
+<td>Шакиржанов Н.</td>
 <td></td>
 <td>72</td>
 <td>3</td>
@@ -2728,7 +2614,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115669000</td>
 <td>Бәйтерек</td>
 <td>ЖТ</td>
-<td>Валера Шальнев</td>
+<td>Шальнев В.</td>
 <td>5</td>
 <td></td>
 <td>1</td>
@@ -2739,7 +2625,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115669000</td>
 <td>Бәйтерек</td>
 <td>ЖТ</td>
-<td>Бакыт Шарипбаев</td>
+<td>Шарипбаев Б.</td>
 <td>5</td>
 <td></td>
 <td>1</td>
@@ -2750,7 +2636,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115669000</td>
 <td>Бәйтерек</td>
 <td>ЖТ</td>
-<td>Василий Шрамко</td>
+<td>Шрамко В.</td>
 <td></td>
 <td></td>
 <td>3</td>
@@ -2761,7 +2647,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115633000</td>
 <td>Алексеевка кенті</td>
 <td>ЖТ</td>
-<td>Алтын Кизатовна Айтжанова</td>
+<td>Айтжанова А.К.</td>
 <td>3</td>
 <td>9</td>
 <td></td>
@@ -2772,7 +2658,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115633000</td>
 <td>Алексеевка кенті</td>
 <td>ЖТ</td>
-<td>Жанғабыл Толегенович Акимбаев</td>
+<td>Акимбаев Ж.Т.</td>
 <td></td>
 <td></td>
 <td>2</td>
@@ -2783,7 +2669,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115633000</td>
 <td>Алексеевка кенті</td>
 <td>ЖТ</td>
-<td>Алмажан Каиржановна Акупова</td>
+<td>Акупова А.К.</td>
 <td></td>
 <td>15</td>
 <td></td>
@@ -2794,10 +2680,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115633000</td>
 <td>Алексеевка кенті</td>
 <td>ЖТ</td>
-<td>
-Асан
-Карабаевич Амиржанов
-</td>
+<td>Амиржанов А.К.</td>
 <td>2</td>
 <td>11</td>
 <td></td>
@@ -2808,7 +2691,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115633000</td>
 <td>Алексеевка кенті</td>
 <td>ЖТ</td>
-<td>Денис Валентинович Антипов</td>
+<td>Антипов Д.В.</td>
 <td></td>
 <td>12</td>
 <td>1</td>
@@ -2819,7 +2702,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115633000</td>
 <td>Алексеевка кенті</td>
 <td>ЖТ</td>
-<td>Арлан Арстанбекович Аубакиров</td>
+<td>Аубакиров А.А.</td>
 <td>26</td>
 <td></td>
 <td></td>
@@ -2830,7 +2713,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115633000</td>
 <td>Алексеевка кенті</td>
 <td>ЖТ</td>
-<td>Қайргелді Аубакиров</td>
+<td>Аубакиров К.</td>
 <td></td>
 <td>7</td>
 <td>3</td>
@@ -2841,7 +2724,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115633000</td>
 <td>Алексеевка кенті</td>
 <td>ЖТ</td>
-<td>Айман Нуртазовна Аубакирова</td>
+<td>Аубакирова А.Н.</td>
 <td></td>
 <td>10</td>
 <td></td>
@@ -2852,7 +2735,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115633000</td>
 <td>Алексеевка кенті</td>
 <td>ЖТ</td>
-<td>Алма Тулеубаевна Ахмеджанова</td>
+<td>Ахмеджанова А.Т.</td>
 <td>10</td>
 <td>10</td>
 <td>3</td>
@@ -2863,7 +2746,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115633000</td>
 <td>Алексеевка кенті</td>
 <td>ЖТ</td>
-<td>Қадиша Кокижановна Аяпбергенова</td>
+<td>Аяпбергенова К.К.</td>
 <td>2</td>
 <td>15</td>
 <td></td>
@@ -2874,7 +2757,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115633000</td>
 <td>Алексеевка кенті</td>
 <td>ЖТ</td>
-<td>Баглан Еслямбековна Баймагамбетова</td>
+<td>Баймагамбетова Б.Е.</td>
 <td>7</td>
 <td>22</td>
 <td></td>
@@ -2885,7 +2768,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115633000</td>
 <td>Алексеевка кенті</td>
 <td>ЖТ</td>
-<td>Тұрсын Казгожиновна Баймуканова</td>
+<td>Баймуканова Т.К.</td>
 <td>2</td>
 <td>6</td>
 <td></td>
@@ -2896,7 +2779,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115633000</td>
 <td>Алексеевка кенті</td>
 <td>ЖТ</td>
-<td>Арман Маликович Балабаев</td>
+<td>Балабаев А.М.</td>
 <td></td>
 <td></td>
 <td>2</td>
@@ -2907,7 +2790,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115633000</td>
 <td>Алексеевка кенті</td>
 <td>ЖТ</td>
-<td>Ерік Майлыбаевич Бейсенбаев</td>
+<td>Бейсенбаев Е.М.</td>
 <td>4</td>
 <td>5</td>
 <td>2</td>
@@ -2918,7 +2801,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115633000</td>
 <td>Алексеевка кенті</td>
 <td>ЖТ</td>
-<td>Өтеген Бельгибаев</td>
+<td>Бельгибаев У.</td>
 <td></td>
 <td></td>
 <td>9</td>
@@ -2929,7 +2812,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115633000</td>
 <td>Алексеевка кенті</td>
 <td>ЖТ</td>
-<td>Еркін Маралбаевич Боймуканов</td>
+<td>Боймуканов Е.М.</td>
 <td></td>
 <td>6</td>
 <td>3</td>
@@ -2940,10 +2823,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115633000</td>
 <td>Алексеевка кенті</td>
 <td>ЖТ</td>
-<td>
-Михаил
-Вебер
-</td>
+<td>Вебер М.</td>
 <td>5</td>
 <td></td>
 <td>2</td>
@@ -2954,7 +2834,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115633000</td>
 <td>Алексеевка кенті</td>
 <td>ЖТ</td>
-<td>Арман Жаксылыкович Дукембаев</td>
+<td>Дукембаев А.Ж.</td>
 <td>4</td>
 <td>12</td>
 <td>8</td>
@@ -2965,7 +2845,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115633000</td>
 <td>Алексеевка кенті</td>
 <td>ЖТ</td>
-<td>Серік Таныбергенович Жумабаев</td>
+<td>Жумабаев С.Т.</td>
 <td></td>
 <td></td>
 <td>17</td>
@@ -2976,7 +2856,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115633000</td>
 <td>Алексеевка кенті</td>
 <td>ЖТ</td>
-<td>Карифулла Исламбекович Зейнуллин</td>
+<td>Зейнуллин К.И.</td>
 <td>1</td>
 <td>18</td>
 <td></td>
@@ -2987,7 +2867,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115633000</td>
 <td>Алексеевка кенті</td>
 <td>ЖТ</td>
-<td>Ерік Иманжанов</td>
+<td>Иманжанов Е.</td>
 <td></td>
 <td></td>
 <td>20</td>
@@ -2998,7 +2878,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115633000</td>
 <td>Алексеевка кенті</td>
 <td>ЖТ</td>
-<td>Майра Бейсенбаевна Исмаилова</td>
+<td>Исмаилова М.Б.</td>
 <td>2</td>
 <td></td>
 <td>1</td>
@@ -3009,7 +2889,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115633000</td>
 <td>Алексеевка кенті</td>
 <td>ЖТ</td>
-<td>Әдiл Махметович Кабышкенов</td>
+<td>Кабышкенов Ә.М.</td>
 <td></td>
 <td></td>
 <td>15</td>
@@ -3020,7 +2900,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115633000</td>
 <td>Алексеевка кенті</td>
 <td>ЖТ</td>
-<td>Жумабеке Рамазановна Казбекова</td>
+<td>Казбекова Ж.Р.</td>
 <td></td>
 <td>4</td>
 <td>4</td>
@@ -3031,10 +2911,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115633000</td>
 <td>Алексеевка кенті</td>
 <td>ЖТ</td>
-<td>
-Юрий
-Петрович Карпенко
-</td>
+<td>Карпенко Ю.П.</td>
 <td></td>
 <td></td>
 <td>8</td>
@@ -3045,7 +2922,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115633000</td>
 <td>Алексеевка кенті</td>
 <td>ЖТ</td>
-<td>Арыстанбек Аубокирович Касенов</td>
+<td>Касенов А.А.</td>
 <td>8</td>
 <td>13</td>
 <td>1</td>
@@ -3056,7 +2933,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115633000</td>
 <td>Алексеевка кенті</td>
 <td>ЖТ</td>
-<td>Дулат Каппасович Касенов</td>
+<td>Касенов Д.К.</td>
 <td>5</td>
 <td></td>
 <td>3</td>
@@ -3067,7 +2944,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115633000</td>
 <td>Алексеевка кенті</td>
 <td>ЖТ</td>
-<td>Еркін Коппасович Касенов</td>
+<td>Касенов Е.К.</td>
 <td></td>
 <td></td>
 <td>2</td>
@@ -3078,7 +2955,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115633000</td>
 <td>Алексеевка кенті</td>
 <td>ЖТ</td>
-<td>Артем Григорьевич Кашин</td>
+<td>Кашин А.Г.</td>
 <td>2</td>
 <td></td>
 <td></td>
@@ -3089,7 +2966,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115633000</td>
 <td>Алексеевка кенті</td>
 <td>ЖТ</td>
-<td>Ерлан Курмангалиев</td>
+<td>Курмангалиев Е.</td>
 <td></td>
 <td></td>
 <td>2</td>
@@ -3100,7 +2977,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115633000</td>
 <td>Алексеевка кенті</td>
 <td>ЖТ</td>
-<td>Бахыт Курманкулова</td>
+<td>Курманкулова Б.</td>
 <td>4</td>
 <td></td>
 <td></td>
@@ -3111,7 +2988,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115633000</td>
 <td>Алексеевка кенті</td>
 <td>ЖТ</td>
-<td>Рахат Сабыржанович Кусаинов</td>
+<td>Кусаинов Р.С.</td>
 <td></td>
 <td>20</td>
 <td></td>
@@ -3122,7 +2999,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115633000</td>
 <td>Алексеевка кенті</td>
 <td>ЖТ</td>
-<td>Бахытбек Дауренбекович Мазбаев</td>
+<td>Мазбаев Б.Д.</td>
 <td></td>
 <td>63</td>
 <td>6</td>
@@ -3133,7 +3010,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115633000</td>
 <td>Алексеевка кенті</td>
 <td>ЖТ</td>
-<td>Ербол Каиртаевич Маймаков</td>
+<td>Маймаков Е.К.</td>
 <td></td>
 <td>4</td>
 <td>1</td>
@@ -3144,7 +3021,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115633000</td>
 <td>Алексеевка кенті</td>
 <td>ЖТ</td>
-<td>Таласбай Мамбетов</td>
+<td>Мамбетов Т.</td>
 <td>4</td>
 <td></td>
 <td></td>
@@ -3155,7 +3032,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115633000</td>
 <td>Алексеевка кенті</td>
 <td>ЖТ</td>
-<td>Балтабек Муканов</td>
+<td>Муканов Б.</td>
 <td></td>
 <td>12</td>
 <td></td>
@@ -3166,7 +3043,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115633000</td>
 <td>Алексеевка кенті</td>
 <td>ЖТ</td>
-<td>Менке Кармановна Мухамеджанова</td>
+<td>Мухамеджанова М.К.</td>
 <td></td>
 <td></td>
 <td>5</td>
@@ -3177,7 +3054,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115633000</td>
 <td>Алексеевка кенті</td>
 <td>ЖТ</td>
-<td>Балтабай Кенжеболатович Мырзагельдинов</td>
+<td>Мырзагельдинов Б.К.</td>
 <td></td>
 <td>31</td>
 <td>3</td>
@@ -3188,7 +3065,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115633000</td>
 <td>Алексеевка кенті</td>
 <td>ЖТ</td>
-<td>Серік Усербаевич Негметжанов</td>
+<td>Негметжанов С.У.</td>
 <td></td>
 <td></td>
 <td>1</td>
@@ -3199,7 +3076,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115633000</td>
 <td>Алексеевка кенті</td>
 <td>ЖТ</td>
-<td>Руслан Нуртазинович Нурташев</td>
+<td>Нурташев Р.Н.</td>
 <td></td>
 <td>4</td>
 <td></td>
@@ -3210,7 +3087,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115633000</td>
 <td>Алексеевка кенті</td>
 <td>ЖТ</td>
-<td>Сайран Биттугуловна Омарова</td>
+<td>Омарова С.Б.</td>
 <td>1</td>
 <td>8</td>
 <td>2</td>
@@ -3221,10 +3098,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115633000</td>
 <td>Алексеевка кенті</td>
 <td>ЖТ</td>
-<td>
-Вера
-Ивановна Острянина
-</td>
+<td>Острянина В.И.</td>
 <td></td>
 <td></td>
 <td>1</td>
@@ -3235,7 +3109,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115633000</td>
 <td>Алексеевка кенті</td>
 <td>ЖТ</td>
-<td>Болат Курмангалиевич Отыншеев</td>
+<td>Отыншеев Б.К.</td>
 <td>3</td>
 <td>44</td>
 <td></td>
@@ -3246,7 +3120,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115633000</td>
 <td>Алексеевка кенті</td>
 <td>ЖТ</td>
-<td>Татьяна Андреевна Плотникова</td>
+<td>Плотникова Т.А.</td>
 <td>6</td>
 <td></td>
 <td></td>
@@ -3257,7 +3131,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115633000</td>
 <td>Алексеевка кенті</td>
 <td>ЖТ</td>
-<td>Марат Егинбекулы Рахметов</td>
+<td>Рахметов М.Е.</td>
 <td>2</td>
 <td>15</td>
 <td>1</td>
@@ -3268,7 +3142,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115633000</td>
 <td>Алексеевка кенті</td>
 <td>ЖТ</td>
-<td>Копей Кадыровна Сагандыкова</td>
+<td>Сагандыкова К.К.</td>
 <td>3</td>
 <td></td>
 <td></td>
@@ -3279,10 +3153,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115633000</td>
 <td>Алексеевка кенті</td>
 <td>ЖТ</td>
-<td>
-Расим
-Римович Сайфутдинов
-</td>
+<td>Сайфутдинов Р.Р.</td>
 <td></td>
 <td>7</td>
 <td>1</td>
@@ -3293,7 +3164,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115633000</td>
 <td>Алексеевка кенті</td>
 <td>ЖТ</td>
-<td>Вячеслав Владимирович Самойленко</td>
+<td>Самойленко В.В.</td>
 <td>4</td>
 <td></td>
 <td></td>
@@ -3304,7 +3175,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115633000</td>
 <td>Алексеевка кенті</td>
 <td>ЖТ</td>
-<td>Майра Сатымгалиева</td>
+<td>Сатымгалиева М.</td>
 <td>31</td>
 <td>160</td>
 <td>39</td>
@@ -3315,7 +3186,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115633000</td>
 <td>Алексеевка кенті</td>
 <td>ЖТ</td>
-<td>Шолпан Сатымгалиева</td>
+<td>Сатымгалиева Ш.</td>
 <td>2</td>
 <td>1</td>
 <td>17</td>
@@ -3326,7 +3197,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115633000</td>
 <td>Алексеевка кенті</td>
 <td>ЖТ</td>
-<td>Аскар Кайрлыбаевич Сексембаев</td>
+<td>Сексембаев А.К.</td>
 <td></td>
 <td></td>
 <td>11</td>
@@ -3337,7 +3208,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115633000</td>
 <td>Алексеевка кенті</td>
 <td>ЖТ</td>
-<td>Гүлжиан Сулейманова</td>
+<td>Сулейманова Г.</td>
 <td></td>
 <td>6</td>
 <td></td>
@@ -3348,7 +3219,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115633000</td>
 <td>Алексеевка кенті</td>
 <td>ЖТ</td>
-<td>Бәтимә Макибаевна Танебергенова</td>
+<td>Танебергенова Б.М.</td>
 <td>4</td>
 <td>10</td>
 <td></td>
@@ -3359,7 +3230,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115633000</td>
 <td>Алексеевка кенті</td>
 <td>ЖТ</td>
-<td>Мереке Танкаев</td>
+<td>Танкаев М.</td>
 <td>4</td>
 <td>10</td>
 <td>5</td>
@@ -3370,7 +3241,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115633000</td>
 <td>Алексеевка кенті</td>
 <td>ЖТ</td>
-<td>Ануар Дулатович Тасбулатов</td>
+<td>Тасбулатов А.Д.</td>
 <td>2</td>
 <td></td>
 <td>2</td>
@@ -3381,7 +3252,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115633000</td>
 <td>Алексеевка кенті</td>
 <td>ЖТ</td>
-<td>«Куміс-Кокше» ЖСШ</td>
+<td>ЖШС «Куміс-Кокше»</td>
 <td></td>
 <td>10</td>
 <td>18</td>
@@ -3392,7 +3263,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115633000</td>
 <td>Алексеевка кенті</td>
 <td>ЖТ</td>
-<td>Жақсылық Мотаевич Увалиев</td>
+<td>Увалиев Ж.М.</td>
 <td></td>
 <td></td>
 <td>2</td>
@@ -3403,7 +3274,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115633000</td>
 <td>Алексеевка кенті</td>
 <td>ЖТ</td>
-<td>Орынбай Шарапиевич Шайжанов</td>
+<td>Шайжанов О.Ш.</td>
 <td></td>
 <td>8</td>
 <td></td>
@@ -3414,7 +3285,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>117059100</td>
 <td>Бұлақ</td>
 <td>ЖТ</td>
-<td>Танат Абденбай</td>
+<td>Абденбай Т.</td>
 <td>4</td>
 <td></td>
 <td></td>
@@ -3425,7 +3296,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>117059100</td>
 <td>Бұлақ</td>
 <td>ЖТ</td>
-<td>Алтынай Кенжибековна Абжанова</td>
+<td>Абжанова А.К.</td>
 <td>3</td>
 <td></td>
 <td></td>
@@ -3436,10 +3307,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>117059100</td>
 <td>Бұлақ</td>
 <td>ЖТ</td>
-<td>
-Аймен
-Абзал
-</td>
+<td>Абзал А.</td>
 <td>3</td>
 <td></td>
 <td></td>
@@ -3450,10 +3318,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>117059100</td>
 <td>Бұлақ</td>
 <td>ЖТ</td>
-<td>
-Ерік
-Абил
-</td>
+<td>Абил Е.</td>
 <td>7</td>
 <td></td>
 <td>1</td>
@@ -3464,10 +3329,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>117059100</td>
 <td>Бұлақ</td>
 <td>ЖТ</td>
-<td>
-Мардан
-Абил
-</td>
+<td>Абил М.</td>
 <td>4</td>
 <td></td>
 <td></td>
@@ -3478,7 +3340,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>117059100</td>
 <td>Бұлақ</td>
 <td>ЖТ</td>
-<td>Егінбай Кенжебаевич Абилгазин</td>
+<td>Абилгазин Е.К.</td>
 <td></td>
 <td>38</td>
 <td></td>
@@ -3489,7 +3351,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>117059100</td>
 <td>Бұлақ</td>
 <td>ЖТ</td>
-<td>Берік Абиль</td>
+<td>Абиль Б.</td>
 <td>6</td>
 <td></td>
 <td></td>
@@ -3500,7 +3362,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>117059100</td>
 <td>Бұлақ</td>
 <td>ЖТ</td>
-<td>Ерлан Алибекович Абуталипов</td>
+<td>Абуталипов Е.А.</td>
 <td>3</td>
 <td>22</td>
 <td>3</td>
@@ -3511,7 +3373,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>117059100</td>
 <td>Бұлақ</td>
 <td>ЖТ</td>
-<td>Абай Кенжебаевич Абылгазин</td>
+<td>Абылгазин А.К.</td>
 <td>18</td>
 <td>41</td>
 <td></td>
@@ -3522,7 +3384,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>117059100</td>
 <td>Бұлақ</td>
 <td>ЖТ</td>
-<td>Жыргаубек Авил</td>
+<td>Авил Ж.</td>
 <td>6</td>
 <td>13</td>
 <td></td>
@@ -3533,7 +3395,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>117059100</td>
 <td>Бұлақ</td>
 <td>ЖТ</td>
-<td>Онай Авилхан</td>
+<td>Авилхан О.</td>
 <td></td>
 <td>19</td>
 <td></td>
@@ -3544,7 +3406,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>117059100</td>
 <td>Бұлақ</td>
 <td>ЖТ</td>
-<td>Арман Жексенбаевич Айсин</td>
+<td>Айсин А.Ж.</td>
 <td></td>
 <td></td>
 <td>1</td>
@@ -3555,7 +3417,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>117059100</td>
 <td>Бұлақ</td>
 <td>ЖТ</td>
-<td>Жанаталап Актаев</td>
+<td>Актаев Ж.</td>
 <td></td>
 <td>43</td>
 <td></td>
@@ -3566,7 +3428,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>117059100</td>
 <td>Бұлақ</td>
 <td>ЖТ</td>
-<td>Сүлтанбек Тулебаевич Акубаев</td>
+<td>Акубаев С.Т.</td>
 <td></td>
 <td>42</td>
 <td>1</td>
@@ -3577,10 +3439,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>117059100</td>
 <td>Бұлақ</td>
 <td>ЖТ</td>
-<td>
-Серік
-Алиев
-</td>
+<td>Алиев С.</td>
 <td>4</td>
 <td>17</td>
 <td></td>
@@ -3591,7 +3450,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>117059100</td>
 <td>Бұлақ</td>
 <td>ЖТ</td>
-<td>Фарида Кахаровна Алимова</td>
+<td>Алимова Ф.К.</td>
 <td>6</td>
 <td></td>
 <td></td>
@@ -3602,10 +3461,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>117059100</td>
 <td>Бұлақ</td>
 <td>ЖТ</td>
-<td>
-Самат
-Алкей
-</td>
+<td>Алкей С.</td>
 <td>3</td>
 <td>12</td>
 <td></td>
@@ -3616,10 +3472,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>117059100</td>
 <td>Бұлақ</td>
 <td>ЖТ</td>
-<td>
-Болат
-Алькей
-</td>
+<td>Алькей Б.</td>
 <td>4</td>
 <td></td>
 <td></td>
@@ -3630,7 +3483,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>117059100</td>
 <td>Бұлақ</td>
 <td>ЖТ</td>
-<td>Кылышпай Исламбекович Альмаганбетов</td>
+<td>Альмаганбетов К.И.</td>
 <td>3</td>
 <td>20</td>
 <td>1</td>
@@ -3641,7 +3494,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>117059100</td>
 <td>Бұлақ</td>
 <td>ЖТ</td>
-<td>Каират Амиржанов</td>
+<td>Амиржанов К.</td>
 <td>10</td>
 <td>36</td>
 <td>4</td>
@@ -3652,7 +3505,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>117059100</td>
 <td>Бұлақ</td>
 <td>ЖТ</td>
-<td>Каирбек Самкенович Амрин</td>
+<td>Амрин К.С.</td>
 <td></td>
 <td>9</td>
 <td></td>
@@ -3663,7 +3516,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>117059100</td>
 <td>Бұлақ</td>
 <td>ЖТ</td>
-<td>Серік Аубакиров</td>
+<td>Аубакиров С.</td>
 <td>6</td>
 <td>25</td>
 <td></td>
@@ -3674,7 +3527,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>117059100</td>
 <td>Бұлақ</td>
 <td>ЖТ</td>
-<td>Кульпан Дюсенбаевна Ашербекова</td>
+<td>Ашербекова К.Д.</td>
 <td></td>
 <td>26</td>
 <td></td>
@@ -3685,10 +3538,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>117059100</td>
 <td>Бұлақ</td>
 <td>ЖТ</td>
-<td>
-Болат
-Аюпов
-</td>
+<td>Аюпов Б.</td>
 <td>4</td>
 <td>36</td>
 <td>1</td>
@@ -3699,10 +3549,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>117059100</td>
 <td>Бұлақ</td>
 <td>ЖТ</td>
-<td>
-Естай
-Балкей
-</td>
+<td>Балкей Е.</td>
 <td>3</td>
 <td>13</td>
 <td>1</td>
@@ -3713,7 +3560,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>117059100</td>
 <td>Бұлақ</td>
 <td>ЖТ</td>
-<td>Муханбетгалым Актаевич Балтабаев</td>
+<td>Балтабаев М.А.</td>
 <td></td>
 <td>31</td>
 <td>1</td>
@@ -3724,10 +3571,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>117059100</td>
 <td>Бұлақ</td>
 <td>ЖТ</td>
-<td>
-Ерболат
-Балькей
-</td>
+<td>Балькей Е.</td>
 <td></td>
 <td></td>
 <td>1</td>
@@ -3738,7 +3582,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>117059100</td>
 <td>Бұлақ</td>
 <td>ЖТ</td>
-<td>Дархан Батырхан</td>
+<td>Батырхан Д.</td>
 <td>4</td>
 <td>15</td>
 <td>3</td>
@@ -3749,10 +3593,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>117059100</td>
 <td>Бұлақ</td>
 <td>ЖТ</td>
-<td>
-Тары
-Батырхан
-</td>
+<td>Батырхан Т.</td>
 <td>6</td>
 <td>23</td>
 <td></td>
@@ -3763,7 +3604,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>117059100</td>
 <td>Бұлақ</td>
 <td>ЖТ</td>
-<td>Марат Кудайбергенович Бекбулатов</td>
+<td>Бекбулатов М.К.</td>
 <td>2</td>
 <td>5</td>
 <td></td>
@@ -3774,7 +3615,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>117059100</td>
 <td>Бұлақ</td>
 <td>ЖТ</td>
-<td>Оралбек Кожабекович Бекишев</td>
+<td>Бекишев О.К.</td>
 <td></td>
 <td></td>
 <td>11</td>
@@ -3785,7 +3626,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>117059100</td>
 <td>Бұлақ</td>
 <td>ЖТ</td>
-<td>Ербол Ермекбаевич Бекмуратов</td>
+<td>Бекмуратов Е.Е.</td>
 <td>3</td>
 <td>12</td>
 <td></td>
@@ -3796,7 +3637,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>117059100</td>
 <td>Бұлақ</td>
 <td>ЖТ</td>
-<td>Жанимхан Болдах</td>
+<td>Болдах Ж.</td>
 <td>4</td>
 <td>27</td>
 <td>2</td>
@@ -3807,7 +3648,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>117059100</td>
 <td>Бұлақ</td>
 <td>ЖТ</td>
-<td>Валодя Дмитривич Вишняков</td>
+<td>Вишняков В.Д.</td>
 <td></td>
 <td></td>
 <td></td>
@@ -3818,7 +3659,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>117059100</td>
 <td>Бұлақ</td>
 <td>ЖТ</td>
-<td>Виктор Вишняков</td>
+<td>Вишняков В.</td>
 <td></td>
 <td></td>
 <td></td>
@@ -3829,7 +3670,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>117059100</td>
 <td>Бұлақ</td>
 <td>ЖТ</td>
-<td>Татьяна Николаевна Гайдай</td>
+<td>Гайдай Т.Н.</td>
 <td>3</td>
 <td></td>
 <td></td>
@@ -3840,7 +3681,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>117059100</td>
 <td>Бұлақ</td>
 <td>ЖТ</td>
-<td>Сергей Филимонович Гамбург</td>
+<td>Гамбург С.Ф.</td>
 <td>4</td>
 <td></td>
 <td></td>
@@ -3851,7 +3692,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>117059100</td>
 <td>Бұлақ</td>
 <td>ЖТ</td>
-<td>Валерий Горбатюк</td>
+<td>Горбатюк В.</td>
 <td>5</td>
 <td></td>
 <td></td>
@@ -3862,7 +3703,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>117059100</td>
 <td>Бұлақ</td>
 <td>ЖТ</td>
-<td>Татьяна Александровна Гришкова</td>
+<td>Гришкова Т.А.</td>
 <td>4</td>
 <td></td>
 <td></td>
@@ -3873,7 +3714,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>117059100</td>
 <td>Бұлақ</td>
 <td>ЖТ</td>
-<td>Аскарбек Кабитович Дайыров</td>
+<td>Дайыров А.К.</td>
 <td>2</td>
 <td>8</td>
 <td>5</td>
@@ -3884,7 +3725,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>117059100</td>
 <td>Бұлақ</td>
 <td>ЖТ</td>
-<td>Абдыкадыр Даштанов</td>
+<td>Даштанов А.</td>
 <td>2</td>
 <td></td>
 <td></td>
@@ -3895,10 +3736,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>117059100</td>
 <td>Бұлақ</td>
 <td>ЖТ</td>
-<td>
-Жабай
-Абуович Джаулибаев
-</td>
+<td>Джаулибаев Ж.А.</td>
 <td></td>
 <td>21</td>
 <td></td>
@@ -3909,10 +3747,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>117059100</td>
 <td>Бұлақ</td>
 <td>ЖТ</td>
-<td>
-Атайхан
-Долай
-</td>
+<td>Долай А.</td>
 <td>4</td>
 <td>16</td>
 <td></td>
@@ -3923,7 +3758,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>117059100</td>
 <td>Бұлақ</td>
 <td>ЖТ</td>
-<td>Галина Николаевна Домбровская</td>
+<td>Домбровская Г.Н.</td>
 <td>6</td>
 <td></td>
 <td></td>
@@ -3934,7 +3769,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>117059100</td>
 <td>Бұлақ</td>
 <td>ЖТ</td>
-<td>Анатоли Михайлович Домбровский</td>
+<td>Домбровский А.М.</td>
 <td>8</td>
 <td></td>
 <td></td>
@@ -3945,7 +3780,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>117059100</td>
 <td>Бұлақ</td>
 <td>ЖТ</td>
-<td>Михайл Домбровский</td>
+<td>Домбровский М.</td>
 <td>6</td>
 <td></td>
 <td></td>
@@ -3956,7 +3791,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>117059100</td>
 <td>Бұлақ</td>
 <td>ЖТ</td>
-<td>Виталий Ежов</td>
+<td>Ежов В.</td>
 <td>5</td>
 <td></td>
 <td></td>
@@ -3967,7 +3802,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>117059100</td>
 <td>Бұлақ</td>
 <td>ЖТ</td>
-<td>Ярослав Владимирович Ежов</td>
+<td>Ежов Я.В.</td>
 <td>4</td>
 <td></td>
 <td></td>
@@ -3978,7 +3813,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>117059100</td>
 <td>Бұлақ</td>
 <td>ЖТ</td>
-<td>Кудайберген Ержанов</td>
+<td>Ержанов К.</td>
 <td></td>
 <td>46</td>
 <td></td>
@@ -3989,7 +3824,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>117059100</td>
 <td>Бұлақ</td>
 <td>ЖТ</td>
-<td>Манат Ерсаинович Ескендиров</td>
+<td>Ескендиров М.Е.</td>
 <td></td>
 <td>31</td>
 <td>5</td>
@@ -4000,7 +3835,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>117059100</td>
 <td>Бұлақ</td>
 <td>ЖТ</td>
-<td>Ерлан Жанузаков</td>
+<td>Жанузаков Е.</td>
 <td></td>
 <td>30</td>
 <td></td>
@@ -4011,7 +3846,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>117059100</td>
 <td>Бұлақ</td>
 <td>ЖТ</td>
-<td>Муратбек Каирлович Жетенов</td>
+<td>Жетенов М.К.</td>
 <td>4</td>
 <td>31</td>
 <td></td>
@@ -4022,10 +3857,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>117059100</td>
 <td>Бұлақ</td>
 <td>ЖТ</td>
-<td>
-Дана
-Жетписова
-</td>
+<td>Жетписова Д.</td>
 <td>11</td>
 <td></td>
 <td></td>
@@ -4036,10 +3868,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>117059100</td>
 <td>Бұлақ</td>
 <td>ЖТ</td>
-<td>
-Өтеш
-Жиеналин
-</td>
+<td>Жиеналин У.</td>
 <td></td>
 <td>41</td>
 <td>1</td>
@@ -4050,7 +3879,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>117059100</td>
 <td>Бұлақ</td>
 <td>ЖТ</td>
-<td>Владимир Николаевич Жикунов</td>
+<td>Жикунов В.Н.</td>
 <td>1</td>
 <td></td>
 <td></td>
@@ -4061,7 +3890,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>117059100</td>
 <td>Бұлақ</td>
 <td>ЖТ</td>
-<td>Тайлақ Сартаевич Жумагалиев</td>
+<td>Жумагалиев Т.С.</td>
 <td></td>
 <td>34</td>
 <td></td>
@@ -4072,7 +3901,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>117059100</td>
 <td>Бұлақ</td>
 <td>ЖТ</td>
-<td>Думан Амангельдыевич Жумукаев</td>
+<td>Жумукаев Д.А.</td>
 <td></td>
 <td>17</td>
 <td></td>
@@ -4083,7 +3912,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>117059100</td>
 <td>Бұлақ</td>
 <td>ЖТ</td>
-<td>Тимур Жаныбекович Жунусов</td>
+<td>Жунусов Т.Ж.</td>
 <td>2</td>
 <td></td>
 <td></td>
@@ -4094,7 +3923,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>117059100</td>
 <td>Бұлақ</td>
 <td>ЖТ</td>
-<td>Қымбат Жунусова</td>
+<td>Жунусова К.</td>
 <td>9</td>
 <td>39</td>
 <td></td>
@@ -4105,7 +3934,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>117059100</td>
 <td>Бұлақ</td>
 <td>ЖТ</td>
-<td>Майра Жунусова</td>
+<td>Жунусова М.</td>
 <td>26</td>
 <td>24</td>
 <td></td>
@@ -4116,7 +3945,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>117059100</td>
 <td>Бұлақ</td>
 <td>ЖТ</td>
-<td>Генадий Николаевич Закомирный</td>
+<td>Закомирный Г.Н.</td>
 <td>2</td>
 <td></td>
 <td></td>
@@ -4127,7 +3956,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>117059100</td>
 <td>Бұлақ</td>
 <td>ЖТ</td>
-<td>Анатолий Зиновик</td>
+<td>Зиновик А.</td>
 <td>2</td>
 <td></td>
 <td></td>
@@ -4138,10 +3967,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>117059100</td>
 <td>Бұлақ</td>
 <td>ЖТ</td>
-<td>
-Самат
-Ибраев
-</td>
+<td>Ибраев С.</td>
 <td></td>
 <td>12</td>
 <td>3</td>
@@ -4152,7 +3978,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>117059100</td>
 <td>Бұлақ</td>
 <td>ЖТ</td>
-<td>«Запорожец Ю.Н.»</td>
+<td>ЖК «Запорожец Ю.Н.»</td>
 <td>13</td>
 <td></td>
 <td>94</td>
@@ -4163,7 +3989,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>117059100</td>
 <td>Бұлақ</td>
 <td>ЖТ</td>
-<td>Анар Жолдангаровна Искакова</td>
+<td>Искакова А.Ж.</td>
 <td>15</td>
 <td></td>
 <td></td>
@@ -4174,7 +4000,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>117059100</td>
 <td>Бұлақ</td>
 <td>ЖТ</td>
-<td>Мадиар Кылышбаевич Исламбеков</td>
+<td>Исламбеков М.К.</td>
 <td></td>
 <td></td>
 <td>6</td>
@@ -4185,7 +4011,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>117059100</td>
 <td>Бұлақ</td>
 <td>ЖТ</td>
-<td>Қуаныш Исмагзамов</td>
+<td>Исмагзамов К.</td>
 <td></td>
 <td>36</td>
 <td>17</td>
@@ -4196,7 +4022,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>117059100</td>
 <td>Бұлақ</td>
 <td>ЖТ</td>
-<td>«Казжанова Ескендировна» ШҚ</td>
+<td>ЖК «Казжанова Ескендировна»</td>
 <td>6</td>
 <td>30</td>
 <td>6</td>
@@ -4207,7 +4033,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>117059100</td>
 <td>Бұлақ</td>
 <td>ЖТ</td>
-<td>Алтай Карипханов</td>
+<td>Карипханов А.</td>
 <td></td>
 <td></td>
 <td>5</td>
@@ -4218,10 +4044,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>117059100</td>
 <td>Бұлақ</td>
 <td>ЖТ</td>
-<td>
-Шакей
-Карл
-</td>
+<td>Карл Ш.</td>
 <td>1</td>
 <td>18</td>
 <td></td>
@@ -4232,10 +4055,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>117059100</td>
 <td>Бұлақ</td>
 <td>ЖТ</td>
-<td>
-Ербол
-Касенов
-</td>
+<td>Касенов Е.</td>
 <td>4</td>
 <td>53</td>
 <td></td>
@@ -4246,7 +4066,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>117059100</td>
 <td>Бұлақ</td>
 <td>ЖТ</td>
-<td>Мурат Бекмаханбетович Кенпейлов</td>
+<td>Кенпейлов М.Б.</td>
 <td>8</td>
 <td>14</td>
 <td></td>
@@ -4257,7 +4077,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>117059100</td>
 <td>Бұлақ</td>
 <td>ЖТ</td>
-<td>Валера Котяхов</td>
+<td>Котяхов В.</td>
 <td>5</td>
 <td>0</td>
 <td>0</td>
@@ -4268,7 +4088,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>117059100</td>
 <td>Бұлақ</td>
 <td>ЖТ</td>
-<td>Светлана Александровна Крец</td>
+<td>Крец С.А.</td>
 <td>5</td>
 <td>0</td>
 <td>0</td>
@@ -4279,7 +4099,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>117059100</td>
 <td>Бұлақ</td>
 <td>ЖТ</td>
-<td>Батырхан Кунтугано</td>
+<td>Кунтугано Б.</td>
 <td>0</td>
 <td>9</td>
 <td>0</td>
@@ -4290,7 +4110,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>117059100</td>
 <td>Бұлақ</td>
 <td>ЖТ</td>
-<td>Жаксыбала Усенович Куракбаев</td>
+<td>Куракбаев Ж.У.</td>
 <td>0</td>
 <td>25</td>
 <td>0</td>
@@ -4301,7 +4121,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>117059100</td>
 <td>Бұлақ</td>
 <td>ЖТ</td>
-<td>Мырзагали Кусаинов</td>
+<td>Кусаинов М.</td>
 <td>0</td>
 <td>46</td>
 <td>5</td>
@@ -4312,7 +4132,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>117059100</td>
 <td>Бұлақ</td>
 <td>ЖТ</td>
-<td>«Виал» ШҚ</td>
+<td>ШҚ «Виал»</td>
 <td>0</td>
 <td>0</td>
 <td>9</td>
@@ -4323,10 +4143,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>117059100</td>
 <td>Бұлақ</td>
 <td>ЖТ</td>
-<td>
-Андрей
-Ланер
-</td>
+<td>Ланер А.</td>
 <td>2</td>
 <td>0</td>
 <td>0</td>
@@ -4337,7 +4154,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>117059100</td>
 <td>Бұлақ</td>
 <td>ЖТ</td>
-<td>Айбек Маджитов</td>
+<td>Маджитов А.</td>
 <td>0</td>
 <td>0</td>
 <td>1</td>
@@ -4348,7 +4165,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>117059100</td>
 <td>Бұлақ</td>
 <td>ЖТ</td>
-<td>Жанибек Уразбаевич Маджитов</td>
+<td>Маджитов Ж.У.</td>
 <td>0</td>
 <td>0</td>
 <td>3</td>
@@ -4359,7 +4176,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>117059100</td>
 <td>Бұлақ</td>
 <td>ЖТ</td>
-<td>Уразбай Икрамович Маджитов</td>
+<td>Маджитов У.И.</td>
 <td>0</td>
 <td>46</td>
 <td>1</td>
@@ -4370,7 +4187,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>117059100</td>
 <td>Бұлақ</td>
 <td>ЖТ</td>
-<td>Пердебай Аскарович Маекеев</td>
+<td>Маекеев П.А.</td>
 <td>4</td>
 <td>0</td>
 <td>1</td>
@@ -4381,10 +4198,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>117059100</td>
 <td>Бұлақ</td>
 <td>ЖТ</td>
-<td>
-Серікхан
-Маке
-</td>
+<td>Маке С.</td>
 <td>10</td>
 <td>0</td>
 <td>1</td>
@@ -4395,7 +4209,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>117059100</td>
 <td>Бұлақ</td>
 <td>ЖТ</td>
-<td>Мұрат Макрамов</td>
+<td>Макрамов М.</td>
 <td>3</td>
 <td>0</td>
 <td>0</td>
@@ -4406,7 +4220,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>117059100</td>
 <td>Бұлақ</td>
 <td>ЖТ</td>
-<td>Василий Максимишин</td>
+<td>Максимишин В.</td>
 <td>5</td>
 <td>0</td>
 <td>0</td>
@@ -4417,7 +4231,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>117059100</td>
 <td>Бұлақ</td>
 <td>ЖТ</td>
-<td>Тұрсынбек Марбеков</td>
+<td>Марбеков Т.</td>
 <td>18</td>
 <td>0</td>
 <td>0</td>
@@ -4428,7 +4242,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>117059100</td>
 <td>Бұлақ</td>
 <td>ЖТ</td>
-<td>Валерий Соломонович Матерн</td>
+<td>Матерн В.С.</td>
 <td>9</td>
 <td>0</td>
 <td>0</td>
@@ -4439,7 +4253,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>117059100</td>
 <td>Бұлақ</td>
 <td>ЖТ</td>
-<td>Мұрат Газизович Махметов</td>
+<td>Махметов М.Г.</td>
 <td>9</td>
 <td>0</td>
 <td>0</td>
@@ -4450,7 +4264,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>117059100</td>
 <td>Бұлақ</td>
 <td>ЖТ</td>
-<td>Еслямбек Мешелович Михин</td>
+<td>Михин Е.М.</td>
 <td>8</td>
 <td>12</td>
 <td>2</td>
@@ -4461,10 +4275,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>117059100</td>
 <td>Бұлақ</td>
 <td>ЖТ</td>
-<td>
-Ербол
-Мустафин
-</td>
+<td>Мустафин Е.</td>
 <td>6</td>
 <td>63</td>
 <td>0</td>
@@ -4475,7 +4286,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>117059100</td>
 <td>Бұлақ</td>
 <td>ЖТ</td>
-<td>Толеутай Мустахимов</td>
+<td>Мустахимов Т.</td>
 <td>7</td>
 <td>43</td>
 <td>0</td>
@@ -4486,7 +4297,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>117059100</td>
 <td>Бұлақ</td>
 <td>ЖТ</td>
-<td>Алексей Николаевич Найста</td>
+<td>Найста А.Н.</td>
 <td>0</td>
 <td>0</td>
 <td>2</td>
@@ -4497,7 +4308,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>117059100</td>
 <td>Бұлақ</td>
 <td>ЖТ</td>
-<td>Елемес Акпаевич Нургожин</td>
+<td>Нургожин Е.А.</td>
 <td>4</td>
 <td>0</td>
 <td>2</td>
@@ -4508,7 +4319,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>117059100</td>
 <td>Бұлақ</td>
 <td>ЖТ</td>
-<td>Гульжаухар Утегеновна Нурмухаметова</td>
+<td>Нурмухаметова Г.У.</td>
 <td>5</td>
 <td>8</td>
 <td>2</td>
@@ -4519,10 +4330,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>117059100</td>
 <td>Бұлақ</td>
 <td>ЖТ</td>
-<td>
-Жарас
-Нуртазин
-</td>
+<td>Нуртазин Ж.</td>
 <td>0</td>
 <td>0</td>
 <td>6</td>
@@ -4533,7 +4341,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>117059100</td>
 <td>Бұлақ</td>
 <td>ЖТ</td>
-<td>Серик Асылбекович Нуртазин</td>
+<td>Нуртазин С.А.</td>
 <td>4</td>
 <td>33</td>
 <td>0</td>
@@ -4544,7 +4352,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>117059100</td>
 <td>Бұлақ</td>
 <td>ЖТ</td>
-<td>Шынболат Оразалин</td>
+<td>Оразалин Ш.</td>
 <td>1</td>
 <td>23</td>
 <td>1</td>
@@ -4555,7 +4363,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>117059100</td>
 <td>Бұлақ</td>
 <td>ЖТ</td>
-<td>Теміржан Айтасович Оразбаев</td>
+<td>Оразбаев Т.А.</td>
 <td>6</td>
 <td>22</td>
 <td>2</td>
@@ -4566,10 +4374,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>117059100</td>
 <td>Бұлақ</td>
 <td>ЖТ</td>
-<td>
-Диас
-Оралбай
-</td>
+<td>Оралбай Д.</td>
 <td>4</td>
 <td>14</td>
 <td></td>
@@ -4580,7 +4385,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115643000</td>
 <td>Викторовка</td>
 <td>ЖТ</td>
-<td>Ерлан Шаймуратович Абельпеисов</td>
+<td>Абельпеисов Е.Ш.</td>
 <td>3</td>
 <td>39</td>
 <td></td>
@@ -4591,10 +4396,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115643000</td>
 <td>Викторовка</td>
 <td>ЖТ</td>
-<td>
-Дулат
-Абжанов
-</td>
+<td>Абжанов Д.</td>
 <td></td>
 <td></td>
 <td>1</td>
@@ -4605,7 +4407,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115643000</td>
 <td>Викторовка</td>
 <td>ЖТ</td>
-<td>Тохтарбай Авраим</td>
+<td>Авраим Т.</td>
 <td>6</td>
 <td>50</td>
 <td>2</td>
@@ -4616,7 +4418,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115643000</td>
 <td>Викторовка</td>
 <td>ЖТ</td>
-<td>Михаил Сепекович Айсин</td>
+<td>Айсин М.С.</td>
 <td></td>
 <td>1</td>
 <td></td>
@@ -4627,7 +4429,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115643000</td>
 <td>Викторовка</td>
 <td>ЖТ</td>
-<td>Азамат Жабагинович Акпаев</td>
+<td>Акпаев А.Ж.</td>
 <td>2</td>
 <td></td>
 <td>4</td>
@@ -4638,7 +4440,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115643000</td>
 <td>Викторовка</td>
 <td>ЖТ</td>
-<td>Еркен Жабагатович Акпаев</td>
+<td>Акпаев Е.Ж.</td>
 <td></td>
 <td></td>
 <td>2</td>
@@ -4649,10 +4451,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115643000</td>
 <td>Викторовка</td>
 <td>ЖТ</td>
-<td>
-Қаират
-Акпаев
-</td>
+<td>Акпаев К.</td>
 <td></td>
 <td>37</td>
 <td>2</td>
@@ -4663,7 +4462,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115643000</td>
 <td>Викторовка</td>
 <td>ЖТ</td>
-<td>Зураш Оспановна Акпаева</td>
+<td>Акпаева З.О.</td>
 <td></td>
 <td>29</td>
 <td>9</td>
@@ -4674,7 +4473,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115643000</td>
 <td>Викторовка</td>
 <td>ЖТ</td>
-<td>Валерий Егорович Амелин</td>
+<td>Амелин В.Е.</td>
 <td></td>
 <td></td>
 <td></td>
@@ -4685,7 +4484,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115643000</td>
 <td>Викторовка</td>
 <td>ЖТ</td>
-<td>Гульнаш Кенжебековна Аубакирова</td>
+<td>Аубакирова Г.К.</td>
 <td>1</td>
 <td></td>
 <td></td>
@@ -4696,7 +4495,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115643000</td>
 <td>Викторовка</td>
 <td>ЖТ</td>
-<td>Виктор Афанасьев</td>
+<td>Афанасьев В.</td>
 <td>2</td>
 <td>16</td>
 <td></td>
@@ -4707,7 +4506,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115643000</td>
 <td>Викторовка</td>
 <td>ЖТ</td>
-<td>Дина Конуспаевна Аюпова</td>
+<td>Аюпова Д.К.</td>
 <td></td>
 <td></td>
 <td>3</td>
@@ -4718,7 +4517,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115643000</td>
 <td>Викторовка</td>
 <td>ЖТ</td>
-<td>Темірхан Амангельдинович Аяпбергенов</td>
+<td>Аяпбергенов Т.А.</td>
 <td>2</td>
 <td>20</td>
 <td>2</td>
@@ -4729,7 +4528,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115643000</td>
 <td>Викторовка</td>
 <td>ЖТ</td>
-<td>Күльсан Байгабулова</td>
+<td>Байгабулова К.</td>
 <td>1</td>
 <td></td>
 <td></td>
@@ -4740,7 +4539,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115643000</td>
 <td>Викторовка</td>
 <td>ЖТ</td>
-<td>Карашаш Изатовна Баймагамбетова</td>
+<td>Баймагамбетова К.И.</td>
 <td></td>
 <td>13</td>
 <td></td>
@@ -4751,7 +4550,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115643000</td>
 <td>Викторовка</td>
 <td>ЖТ</td>
-<td>Сұраған Байсолтан</td>
+<td>Байсолтан С.</td>
 <td>4</td>
 <td>19</td>
 <td>1</td>
@@ -4762,7 +4561,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115643000</td>
 <td>Викторовка</td>
 <td>ЖТ</td>
-<td>Жұмабек Бегаидаров</td>
+<td>Бегаидаров Ж.</td>
 <td></td>
 <td>7</td>
 <td>2</td>
@@ -4773,7 +4572,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115643000</td>
 <td>Викторовка</td>
 <td>ЖТ</td>
-<td>Рсалды Жансериковна Бегайдарова</td>
+<td>Бегайдарова Р.Ж.</td>
 <td></td>
 <td></td>
 <td>2</td>
@@ -4784,7 +4583,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115643000</td>
 <td>Викторовка</td>
 <td>ЖТ</td>
-<td>Умитай Жолымтаевна Бегайдарова</td>
+<td>Бегайдарова У.Ж.</td>
 <td>1</td>
 <td></td>
 <td></td>
@@ -4795,7 +4594,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115643000</td>
 <td>Викторовка</td>
 <td>ЖТ</td>
-<td>Жанібек Мусайулы Беркаримов</td>
+<td>Беркаримов Ж.М.</td>
 <td></td>
 <td>6</td>
 <td></td>
@@ -4806,7 +4605,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115643000</td>
 <td>Викторовка</td>
 <td>ЖТ</td>
-<td>Сергей Николаевич Бирюков</td>
+<td>Бирюков С.Н.</td>
 <td>1</td>
 <td></td>
 <td></td>
@@ -4817,10 +4616,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115643000</td>
 <td>Викторовка</td>
 <td>ЖТ</td>
-<td>
-Даулет
-Бисарин
-</td>
+<td>Бисарин Д.</td>
 <td></td>
 <td></td>
 <td>1</td>
@@ -4831,7 +4627,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115643000</td>
 <td>Викторовка</td>
 <td>ЖТ</td>
-<td>Кекболат Бисарин</td>
+<td>Бисарин К.</td>
 <td></td>
 <td></td>
 <td>1</td>
@@ -4842,7 +4638,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115643000</td>
 <td>Викторовка</td>
 <td>ЖТ</td>
-<td>Мурат Курманович Бисарин</td>
+<td>Бисарин М.К.</td>
 <td>1</td>
 <td>20</td>
 <td>1</td>
@@ -4853,10 +4649,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115643000</td>
 <td>Викторовка</td>
 <td>ЖТ</td>
-<td>
-Павел
-Вдовин
-</td>
+<td>Вдовин П.</td>
 <td>1</td>
 <td></td>
 <td></td>
@@ -4867,7 +4660,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115643000</td>
 <td>Викторовка</td>
 <td>ЖТ</td>
-<td>Александр Михайлович Великов</td>
+<td>Великов А.М.</td>
 <td>2</td>
 <td>1</td>
 <td>1</td>
@@ -4878,7 +4671,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115643000</td>
 <td>Викторовка</td>
 <td>ЖТ</td>
-<td>Анаталий Александрович Гисс</td>
+<td>Гисс А.А.</td>
 <td></td>
 <td></td>
 <td></td>
@@ -4889,7 +4682,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115643000</td>
 <td>Викторовка</td>
 <td>ЖТ</td>
-<td>Александр Сергеевич Горбунов</td>
+<td>Горбунов А.С.</td>
 <td></td>
 <td></td>
 <td>1</td>
@@ -4900,10 +4693,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115643000</td>
 <td>Викторовка</td>
 <td>ЖТ</td>
-<td>
-Иван
-Николаевич Гусев
-</td>
+<td>Гусев И.Н.</td>
 <td></td>
 <td></td>
 <td></td>
@@ -4914,7 +4704,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115643000</td>
 <td>Викторовка</td>
 <td>ЖТ</td>
-<td>Виктор Михайлович Данилов</td>
+<td>Данилов В.М.</td>
 <td>1</td>
 <td></td>
 <td></td>
@@ -4925,7 +4715,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115643000</td>
 <td>Викторовка</td>
 <td>ЖТ</td>
-<td>Василий Иванович Демченко</td>
+<td>Демченко В.И.</td>
 <td>1</td>
 <td></td>
 <td></td>
@@ -4936,7 +4726,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115643000</td>
 <td>Викторовка</td>
 <td>ЖТ</td>
-<td>Асылбек Кураканович Дусумбеков</td>
+<td>Дусумбеков А.К.</td>
 <td>12</td>
 <td>10</td>
 <td>1</td>
@@ -4947,10 +4737,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115643000</td>
 <td>Викторовка</td>
 <td>ЖТ</td>
-<td>
-Сәуле
-Токтаровна Дусумбекова
-</td>
+<td>Дусумбекова С.Т.</td>
 <td>5</td>
 <td></td>
 <td></td>
@@ -4961,7 +4748,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115643000</td>
 <td>Викторовка</td>
 <td>ЖТ</td>
-<td>Оралбек Кибратович Ерден</td>
+<td>Ерден У.К.</td>
 <td></td>
 <td>7</td>
 <td>0</td>
@@ -4972,10 +4759,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115643000</td>
 <td>Викторовка</td>
 <td>ЖТ</td>
-<td>
-Азила
-Ережев
-</td>
+<td>Ережев А.</td>
 <td>16</td>
 <td>53</td>
 <td>9</td>
@@ -4986,7 +4770,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115643000</td>
 <td>Викторовка</td>
 <td>ЖТ</td>
-<td>Қаиргелды Жакабаев</td>
+<td>Жакабаев К.</td>
 <td></td>
 <td></td>
 <td>3</td>
@@ -4997,7 +4781,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115643000</td>
 <td>Викторовка</td>
 <td>ЖТ</td>
-<td>Қаиржан Башаевич Жанабергенов</td>
+<td>Жанабергенов К.Б.</td>
 <td>3</td>
 <td></td>
 <td>1</td>
@@ -5008,7 +4792,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115643000</td>
 <td>Викторовка</td>
 <td>ЖТ</td>
-<td>Темирбек Нургалиевич Жанабергенов</td>
+<td>Жанабергенов Т.Н.</td>
 <td></td>
 <td>3</td>
 <td></td>
@@ -5019,7 +4803,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115643000</td>
 <td>Викторовка</td>
 <td>ЖТ</td>
-<td>Бакыт Байгабулович Жангабулов</td>
+<td>Жангабулов Б.Б.</td>
 <td></td>
 <td></td>
 <td>1</td>
@@ -5030,7 +4814,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115643000</td>
 <td>Викторовка</td>
 <td>ЖТ</td>
-<td>Куанышбек Аждарович Жилкайдаров</td>
+<td>Жилкайдаров К.А.</td>
 <td></td>
 <td>49</td>
 <td></td>
@@ -5041,7 +4825,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115643000</td>
 <td>Викторовка</td>
 <td>ЖТ</td>
-<td>Халымурат Закарьянов</td>
+<td>Закарьянов Х.</td>
 <td>1</td>
 <td>40</td>
 <td>12</td>
@@ -5052,7 +4836,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115643000</td>
 <td>Викторовка</td>
 <td>ЖТ</td>
-<td>Наталья Запорощенко</td>
+<td>Запорощенко Н.</td>
 <td></td>
 <td></td>
 <td>1</td>
@@ -5063,7 +4847,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115643000</td>
 <td>Викторовка</td>
 <td>ЖТ</td>
-<td>«Олжа» ЖК</td>
+<td>ЖК «Олжа»</td>
 <td>10</td>
 <td></td>
 <td>2</td>
@@ -5074,7 +4858,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115643000</td>
 <td>Викторовка</td>
 <td>ЖТ</td>
-<td>«Серікқалиев Нұрбек Серікқалиұлы» ЖК</td>
+<td>ЖК «Серікқалиев Нұрбек Серікқалиұлы»</td>
 <td>11</td>
 <td></td>
 <td></td>
@@ -5085,7 +4869,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115643000</td>
 <td>Викторовка</td>
 <td>ЖТ</td>
-<td>Есенгали Исмаилов</td>
+<td>Исмаилов Е.</td>
 <td>9</td>
 <td>26</td>
 <td>5</td>
@@ -5096,7 +4880,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115643000</td>
 <td>Викторовка</td>
 <td>ЖТ</td>
-<td>Гадыл Кулембетович Кабдрахманов</td>
+<td>Кабдрахманов Г.К.</td>
 <td></td>
 <td></td>
 <td>2</td>
@@ -5107,7 +4891,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115643000</td>
 <td>Викторовка</td>
 <td>ЖТ</td>
-<td>Михаил Николаевич Казаков</td>
+<td>Казаков М.Н.</td>
 <td></td>
 <td></td>
 <td>3</td>
@@ -5118,7 +4902,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115643000</td>
 <td>Викторовка</td>
 <td>ЖТ</td>
-<td>Наталья Михайловна Казакова</td>
+<td>Казакова Н.М.</td>
 <td>1</td>
 <td></td>
 <td></td>
@@ -5129,7 +4913,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115643000</td>
 <td>Викторовка</td>
 <td>ЖТ</td>
-<td>Берік Каирбеков</td>
+<td>Каирбеков Б.</td>
 <td></td>
 <td></td>
 <td>2</td>
@@ -5140,7 +4924,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115643000</td>
 <td>Викторовка</td>
 <td>ЖТ</td>
-<td>Марат Хамидуллинович Каирбеков</td>
+<td>Каирбеков М.Х.</td>
 <td></td>
 <td>10</td>
 <td>1</td>
@@ -5151,7 +4935,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115643000</td>
 <td>Викторовка</td>
 <td>ЖТ</td>
-<td>Қанатбек Канзелхан</td>
+<td>Канзелхан К.</td>
 <td>8</td>
 <td></td>
 <td>4</td>
@@ -5162,7 +4946,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115643000</td>
 <td>Викторовка</td>
 <td>ЖТ</td>
-<td>Нұрбек Канзелхан</td>
+<td>Канзелхан Н.</td>
 <td>7</td>
 <td></td>
 <td></td>
@@ -5173,7 +4957,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115643000</td>
 <td>Викторовка</td>
 <td>ЖТ</td>
-<td>Мереке Каппасов</td>
+<td>Каппасов М.</td>
 <td>3</td>
 <td>20</td>
 <td>1</td>
@@ -5184,7 +4968,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115643000</td>
 <td>Викторовка</td>
 <td>ЖТ</td>
-<td>Бауржан Сарсенбаевич Касенов</td>
+<td>Касенов Б.С.</td>
 <td></td>
 <td>16</td>
 <td></td>
@@ -5195,7 +4979,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115643000</td>
 <td>Викторовка</td>
 <td>ЖТ</td>
-<td>Дулат Сарсенбаевич Касенов</td>
+<td>Касенов Д.С.</td>
 <td>1</td>
 <td></td>
 <td></td>
@@ -5206,7 +4990,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115643000</td>
 <td>Викторовка</td>
 <td>ЖТ</td>
-<td>Қанат Сарсенбаевич Касенов</td>
+<td>Касенов К.С.</td>
 <td>2</td>
 <td>16</td>
 <td>2</td>
@@ -5217,10 +5001,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115643000</td>
 <td>Викторовка</td>
 <td>ЖТ</td>
-<td>
-Асқар
-Канатович Катаев
-</td>
+<td>Катаев А.К.</td>
 <td>4</td>
 <td></td>
 <td></td>
@@ -5231,7 +5012,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115643000</td>
 <td>Викторовка</td>
 <td>ЖТ</td>
-<td>Николай Викторович Кириллловский</td>
+<td>Кириллловский Н. В.</td>
 <td></td>
 <td></td>
 <td>1</td>
@@ -5242,7 +5023,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115643000</td>
 <td>Викторовка</td>
 <td>ЖТ</td>
-<td>Сансызбай Шопбаевич Койшубеков</td>
+<td>Койшубеков С.Ш.</td>
 <td></td>
 <td></td>
 <td>2</td>
@@ -5253,7 +5034,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115643000</td>
 <td>Викторовка</td>
 <td>ЖТ</td>
-<td>Қайрат Косеров</td>
+<td>Косеров К.</td>
 <td></td>
 <td></td>
 <td></td>
@@ -5264,7 +5045,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115643000</td>
 <td>Викторовка</td>
 <td>ЖТ</td>
-<td>Айгүл Маратовна Кулданова</td>
+<td>Кулданова А.М.</td>
 <td></td>
 <td>27</td>
 <td>10</td>
@@ -5275,7 +5056,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115643000</td>
 <td>Викторовка</td>
 <td>ЖТ</td>
-<td>Армия Кумар</td>
+<td>Кумар А.</td>
 <td></td>
 <td>31</td>
 <td>8</td>
@@ -5286,7 +5067,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115643000</td>
 <td>Викторовка</td>
 <td>ЖТ</td>
-<td>Кайрбай Курмангалиев</td>
+<td>Курмангалиев К.</td>
 <td></td>
 <td>2</td>
 <td></td>
@@ -5297,7 +5078,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115643000</td>
 <td>Викторовка</td>
 <td>ЖТ</td>
-<td>Сәуле Ширакбаевна Курмангалиева</td>
+<td>Курмангалиева С. Ш.</td>
 <td>1</td>
 <td></td>
 <td>2</td>
@@ -5308,7 +5089,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115643000</td>
 <td>Викторовка</td>
 <td>ЖТ</td>
-<td>Жангельды Ануарович Курсарин</td>
+<td>Курсарин Ж.А.</td>
 <td>1</td>
 <td>19</td>
 <td>3</td>
@@ -5319,7 +5100,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115643000</td>
 <td>Викторовка</td>
 <td>ЖТ</td>
-<td>Амержан Амирханович Кусаинов</td>
+<td>Кусаинов А.А.</td>
 <td></td>
 <td></td>
 <td>1</td>
@@ -5330,7 +5111,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115643000</td>
 <td>Викторовка</td>
 <td>ЖТ</td>
-<td>Сайранбек Елеусизович Кусаинов</td>
+<td>Кусаинов С.Е.</td>
 <td></td>
 <td></td>
 <td>2</td>
@@ -5341,7 +5122,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115643000</td>
 <td>Викторовка</td>
 <td>ЖТ</td>
-<td>Талгатбек Жакенович Кусаинов</td>
+<td>Кусаинов Т.Ж.</td>
 <td></td>
 <td>4</td>
 <td></td>
@@ -5352,7 +5133,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115643000</td>
 <td>Викторовка</td>
 <td>ЖТ</td>
-<td>Виктор Михайлович Лазутин</td>
+<td>Лазутин В.М.</td>
 <td>1</td>
 <td></td>
 <td></td>
@@ -5363,7 +5144,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115643000</td>
 <td>Викторовка</td>
 <td>ЖТ</td>
-<td>Виктор Геннадьевич Лобанов</td>
+<td>Лобанов В.Г.</td>
 <td>5</td>
 <td></td>
 <td></td>
@@ -5374,10 +5155,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115643000</td>
 <td>Викторовка</td>
 <td>ЖТ</td>
-<td>
-Ирина
-Ляжко
-</td>
+<td>Ляжко И.</td>
 <td>5</td>
 <td></td>
 <td></td>
@@ -5388,10 +5166,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115643000</td>
 <td>Викторовка</td>
 <td>ЖТ</td>
-<td>
-Бұлбұл
-Медет
-</td>
+<td>Медет Б.</td>
 <td>5</td>
 <td></td>
 <td></td>
@@ -5402,7 +5177,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115643000</td>
 <td>Викторовка</td>
 <td>ЖТ</td>
-<td>Елена Новомировна Михалева</td>
+<td>Михалева Е.Н.</td>
 <td>1</td>
 <td>13</td>
 <td></td>
@@ -5413,7 +5188,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115643000</td>
 <td>Викторовка</td>
 <td>ЖТ</td>
-<td>Мұразбек Жатаевич Мукажанов</td>
+<td>Мукажанов М.Ж.</td>
 <td>2</td>
 <td></td>
 <td>5</td>
@@ -5424,7 +5199,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115643000</td>
 <td>Викторовка</td>
 <td>ЖТ</td>
-<td>Асқар Ускембаевич Мукужанов</td>
+<td>Мукужанов А.У.</td>
 <td></td>
 <td></td>
 <td>1</td>
@@ -5435,7 +5210,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115643000</td>
 <td>Викторовка</td>
 <td>ЖТ</td>
-<td>Марат Галымжанович Нагуманов</td>
+<td>Нагуманов М.Г.</td>
 <td></td>
 <td></td>
 <td>1</td>
@@ -5446,10 +5221,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115643000</td>
 <td>Викторовка</td>
 <td>ЖТ</td>
-<td>
-Бердіхан
-Нәкен
-</td>
+<td>Нәкен Б.</td>
 <td>8</td>
 <td></td>
 <td></td>
@@ -5460,7 +5232,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115643000</td>
 <td>Викторовка</td>
 <td>ЖТ</td>
-<td>Кульпараш Нургалиева</td>
+<td>Нургалиева К.</td>
 <td></td>
 <td></td>
 <td>1</td>
@@ -5471,7 +5243,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115643000</td>
 <td>Викторовка</td>
 <td>ЖТ</td>
-<td>Казбек Толегенович Нуржанов</td>
+<td>Нуржанов К.Т.</td>
 <td>4</td>
 <td>31</td>
 <td>3</td>
@@ -5482,7 +5254,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115643000</td>
 <td>Викторовка</td>
 <td>ЖТ</td>
-<td>Омирбек Тулегенович Нуржанов</td>
+<td>Нуржанов О.Т.</td>
 <td>3</td>
 <td>18</td>
 <td>2</td>
@@ -5493,7 +5265,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115643000</td>
 <td>Викторовка</td>
 <td>ЖТ</td>
-<td>Ағеділ Нұрлыбекұлы Нұрлыбек</td>
+<td>Нұрлыбек А.Н.</td>
 <td>5</td>
 <td></td>
 <td>10</td>
@@ -5504,7 +5276,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115643000</td>
 <td>Викторовка</td>
 <td>ЖТ</td>
-<td>Аманжол Кабдрахманович Омаров</td>
+<td>Омаров А.К.</td>
 <td></td>
 <td></td>
 <td>1</td>
@@ -5515,7 +5287,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115643000</td>
 <td>Викторовка</td>
 <td>ЖТ</td>
-<td>Жанат Омаров</td>
+<td>Омаров Ж.</td>
 <td></td>
 <td></td>
 <td>1</td>
@@ -5526,7 +5298,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115643000</td>
 <td>Викторовка</td>
 <td>ЖТ</td>
-<td>Аденбай Орек</td>
+<td>Орек А.</td>
 <td></td>
 <td></td>
 <td>2</td>
@@ -5537,7 +5309,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115643000</td>
 <td>Викторовка</td>
 <td>ЖТ</td>
-<td>Серикбай Жаркамбаевич Орумбаев</td>
+<td>Орумбаев С.Ж.</td>
 <td>1</td>
 <td></td>
 <td>3</td>
@@ -5548,7 +5320,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115643000</td>
 <td>Викторовка</td>
 <td>ЖТ</td>
-<td>Зада Орумбаева</td>
+<td>Орумбаева З.</td>
 <td></td>
 <td></td>
 <td>1</td>
@@ -5559,7 +5331,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115643000</td>
 <td>Викторовка</td>
 <td>ЖТ</td>
-<td>Болтабек Казизович Оспанов</td>
+<td>Оспанов Б.К.</td>
 <td>2</td>
 <td>10</td>
 <td>1</td>
@@ -5570,7 +5342,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115643000</td>
 <td>Викторовка</td>
 <td>ЖТ</td>
-<td>Кенжебек Казизович Оспанов</td>
+<td>Оспанов К.К.</td>
 <td></td>
 <td></td>
 <td>6</td>
@@ -5581,7 +5353,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115643000</td>
 <td>Викторовка</td>
 <td>ЖТ</td>
-<td>Мейрамбек Казизович Оспанов</td>
+<td>Оспанов М.К.</td>
 <td></td>
 <td>107</td>
 <td>10</td>
@@ -5592,7 +5364,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115643000</td>
 <td>Викторовка</td>
 <td>ЖТ</td>
-<td>Анатолий Иванович Певнев</td>
+<td>Певнев А.И.</td>
 <td>1</td>
 <td></td>
 <td></td>
@@ -5603,7 +5375,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115663000</td>
 <td>Исаковка</td>
 <td>ЖТ</td>
-<td>Дастан Сагынбаевич Абдрахманов</td>
+<td>Абдрахманов Д.С.</td>
 <td>16</td>
 <td>79</td>
 <td>15</td>
@@ -5614,7 +5386,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115663000</td>
 <td>Исаковка</td>
 <td>ЖТ</td>
-<td>Бибигүл Амиржанова</td>
+<td>Амиржанова Б.</td>
 <td>1</td>
 <td>31</td>
 <td>12</td>
@@ -5625,7 +5397,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115663000</td>
 <td>Исаковка</td>
 <td>ЖТ</td>
-<td>Евгения Владимировна Андреева</td>
+<td>Андреева Е.В.</td>
 <td>20</td>
 <td></td>
 <td></td>
@@ -5636,7 +5408,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115663000</td>
 <td>Исаковка</td>
 <td>ЖТ</td>
-<td>Жамбыл Ергожинович Ахметов</td>
+<td>Ахметов Ж.Е.</td>
 <td></td>
 <td></td>
 <td>1</td>
@@ -5647,10 +5419,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115663000</td>
 <td>Исаковка</td>
 <td>ЖТ</td>
-<td>
-Саян
-Шингизович Байсеитов
-</td>
+<td>Байсеитов С.Ш.</td>
 <td>1</td>
 <td></td>
 <td></td>
@@ -5661,10 +5430,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115663000</td>
 <td>Исаковка</td>
 <td>ЖТ</td>
-<td>
-Қанат
-Серикович Байтлеуов
-</td>
+<td>Байтлеуов К.С.</td>
 <td></td>
 <td></td>
 <td>2</td>
@@ -5675,7 +5441,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115663000</td>
 <td>Исаковка</td>
 <td>ЖТ</td>
-<td>Андрей Белогуров</td>
+<td>Белогуров А.</td>
 <td>3</td>
 <td></td>
 <td></td>
@@ -5686,7 +5452,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115663000</td>
 <td>Исаковка</td>
 <td>ЖТ</td>
-<td>Константин Николаевич Белогуров</td>
+<td>Белогуров К.Н.</td>
 <td>1</td>
 <td></td>
 <td></td>
@@ -5697,7 +5463,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115663000</td>
 <td>Исаковка</td>
 <td>ЖТ</td>
-<td>Евгения Белогурова</td>
+<td>Белогурова Е.</td>
 <td>3</td>
 <td></td>
 <td></td>
@@ -5708,10 +5474,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115663000</td>
 <td>Исаковка</td>
 <td>ЖТ</td>
-<td>
-Вадим
-Боженок
-</td>
+<td>Боженок В.</td>
 <td>2</td>
 <td></td>
 <td></td>
@@ -5722,10 +5485,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115663000</td>
 <td>Исаковка</td>
 <td>ЖТ</td>
-<td>
-Иван
-Иванович Бучарский
-</td>
+<td>Бучарский И.И.</td>
 <td>1</td>
 <td></td>
 <td></td>
@@ -5736,10 +5496,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115663000</td>
 <td>Исаковка</td>
 <td>ЖТ</td>
-<td>
-Андрей
-Губарев
-</td>
+<td>Губарев А.</td>
 <td>3</td>
 <td></td>
 <td></td>
@@ -5750,7 +5507,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115663000</td>
 <td>Исаковка</td>
 <td>ЖТ</td>
-<td>Константин Епишин</td>
+<td>Епишин К.</td>
 <td></td>
 <td></td>
 <td></td>
@@ -5761,10 +5518,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115663000</td>
 <td>Исаковка</td>
 <td>ЖТ</td>
-<td>
-Максим
-Епишин
-</td>
+<td>Епишин М.</td>
 <td></td>
 <td></td>
 <td></td>
@@ -5775,10 +5529,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115663000</td>
 <td>Исаковка</td>
 <td>ЖТ</td>
-<td>
-Юрий
-Валерьевич Епишин
-</td>
+<td>Епишин Ю.В.</td>
 <td>18</td>
 <td></td>
 <td>1</td>
@@ -5789,7 +5540,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115663000</td>
 <td>Исаковка</td>
 <td>ЖТ</td>
-<td>Владимир Еремин</td>
+<td>Еремин В.</td>
 <td>1</td>
 <td></td>
 <td>2</td>
@@ -5800,7 +5551,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115663000</td>
 <td>Исаковка</td>
 <td>ЖТ</td>
-<td>Алтынбек Сунгатович Жазин</td>
+<td>Жазин А.С.</td>
 <td>5</td>
 <td></td>
 <td>1</td>
@@ -5811,7 +5562,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115663000</td>
 <td>Исаковка</td>
 <td>ЖТ</td>
-<td>Виктор Александрович Игнатенко</td>
+<td>Игнатенко В.А.</td>
 <td>0</td>
 <td></td>
 <td>2</td>
@@ -5822,7 +5573,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115663000</td>
 <td>Исаковка</td>
 <td>ЖТ</td>
-<td>Рудольф Александрович Игнатенко</td>
+<td>Игнатенко Р.А.</td>
 <td>4</td>
 <td></td>
 <td></td>
@@ -5833,7 +5584,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115663000</td>
 <td>Исаковка</td>
 <td>ЖТ</td>
-<td>«Кулумбетова» ЖК</td>
+<td>ЖК «Кулумбетова»</td>
 <td></td>
 <td></td>
 <td>9</td>
@@ -5844,7 +5595,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115663000</td>
 <td>Исаковка</td>
 <td>ЖТ</td>
-<td>«Нурмуханбет» ШҚ</td>
+<td>ШҚ «Нурмуханбет»</td>
 <td></td>
 <td></td>
 <td>62</td>
@@ -5855,7 +5606,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115663000</td>
 <td>Исаковка</td>
 <td>ЖТ</td>
-<td>Александр Ключников</td>
+<td>Ключников А.</td>
 <td>3</td>
 <td></td>
 <td></td>
@@ -5866,11 +5617,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115663000</td>
 <td>Исаковка</td>
 <td>ЖТ</td>
-<td>
-Кокшетау
-«Астык
-Инвест Ltd» ЖСШ
-</td>
+<td>ЖШС «Кокшетау Астык Инвест Ltd»</td>
 <td>172</td>
 <td></td>
 <td></td>
@@ -5881,10 +5628,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115663000</td>
 <td>Исаковка</td>
 <td>ЖТ</td>
-<td>
-Сергей
-Юрьевич Конкин
-</td>
+<td>Конкин С.Ю.</td>
 <td>2</td>
 <td></td>
 <td></td>
@@ -5895,10 +5639,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115663000</td>
 <td>Исаковка</td>
 <td>ЖТ</td>
-<td>
-Юрий
-Вахидович Конкин
-</td>
+<td>Конкин Ю.В.</td>
 <td>3</td>
 <td></td>
 <td></td>
@@ -5909,7 +5650,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115663000</td>
 <td>Исаковка</td>
 <td>ЖТ</td>
-<td>Гүлнара Котельникова</td>
+<td>Котельникова Г.</td>
 <td></td>
 <td></td>
 <td>2</td>
@@ -5920,7 +5661,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115663000</td>
 <td>Исаковка</td>
 <td>ЖТ</td>
-<td>Василий Кузьмин</td>
+<td>Кузьмин В.</td>
 <td>3</td>
 <td></td>
 <td></td>
@@ -5931,7 +5672,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115663000</td>
 <td>Исаковка</td>
 <td>ЖТ</td>
-<td>Асыгат Кунуспаев</td>
+<td>Кунуспаев А.</td>
 <td></td>
 <td></td>
 <td>3</td>
@@ -5942,7 +5683,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115663000</td>
 <td>Исаковка</td>
 <td>ЖТ</td>
-<td>Дулат Максутович Курмангожин</td>
+<td>Курмангожин Д.М.</td>
 <td>3</td>
 <td>108</td>
 <td>4</td>
@@ -5953,7 +5694,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115663000</td>
 <td>Исаковка</td>
 <td>ЖТ</td>
-<td>Валентина Александровна Кучеровская</td>
+<td>Кучеровская В.А.</td>
 <td>14</td>
 <td></td>
 <td>4</td>
@@ -5964,7 +5705,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115663000</td>
 <td>Исаковка</td>
 <td>ЖТ</td>
-<td>Василий Васильевич Лукащук</td>
+<td>Лукащук В.В.</td>
 <td>3</td>
 <td></td>
 <td></td>
@@ -5975,10 +5716,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115663000</td>
 <td>Исаковка</td>
 <td>ЖТ</td>
-<td>
-Денис
-Мельник
-</td>
+<td>Мельник Д.</td>
 <td>1</td>
 <td></td>
 <td></td>
@@ -5989,7 +5727,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115663000</td>
 <td>Исаковка</td>
 <td>ЖТ</td>
-<td>Константин Викторович Микшта</td>
+<td>Микшта К.В.</td>
 <td>2</td>
 <td></td>
 <td></td>
@@ -6000,7 +5738,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115663000</td>
 <td>Исаковка</td>
 <td>ЖТ</td>
-<td>Ринат Миноров</td>
+<td>Миноров Р.</td>
 <td>6</td>
 <td></td>
 <td>3</td>
@@ -6011,7 +5749,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115663000</td>
 <td>Исаковка</td>
 <td>ЖТ</td>
-<td>Роман Валерьянович Михальцов</td>
+<td>Михальцов Р.В.</td>
 <td>17</td>
 <td></td>
 <td></td>
@@ -6022,7 +5760,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115663000</td>
 <td>Исаковка</td>
 <td>ЖТ</td>
-<td>Анатолий Музурантов</td>
+<td>Музурантов А.</td>
 <td>4</td>
 <td></td>
 <td>2</td>
@@ -6033,7 +5771,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115663000</td>
 <td>Исаковка</td>
 <td>ЖТ</td>
-<td>Александр Вячеславович Петров</td>
+<td>Петров А.В.</td>
 <td>3</td>
 <td></td>
 <td></td>
@@ -6044,7 +5782,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115663000</td>
 <td>Исаковка</td>
 <td>ЖТ</td>
-<td>Анатолий Петров</td>
+<td>Петров А.</td>
 <td>2</td>
 <td></td>
 <td></td>
@@ -6055,7 +5793,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115663000</td>
 <td>Исаковка</td>
 <td>ЖТ</td>
-<td>Вячеслав Валерьевич Петров</td>
+<td>Петров В.В.</td>
 <td>3</td>
 <td></td>
 <td></td>
@@ -6066,10 +5804,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115663000</td>
 <td>Исаковка</td>
 <td>ЖТ</td>
-<td>
-Павел
-Валерьевич Петров
-</td>
+<td>Петров П.В.</td>
 <td>7</td>
 <td></td>
 <td></td>
@@ -6080,7 +5815,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115663000</td>
 <td>Исаковка</td>
 <td>ЖТ</td>
-<td>Евгения Петрова</td>
+<td>Петрова Е.</td>
 <td>13</td>
 <td></td>
 <td></td>
@@ -6091,7 +5826,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115663000</td>
 <td>Исаковка</td>
 <td>ЖТ</td>
-<td>Владимир Алексеевич Поляков</td>
+<td>Поляков В.А.</td>
 <td>21</td>
 <td>40</td>
 <td></td>
@@ -6102,7 +5837,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115663000</td>
 <td>Исаковка</td>
 <td>ЖТ</td>
-<td>Юрий Поляков</td>
+<td>Поляков Ю.</td>
 <td>2</td>
 <td></td>
 <td>1</td>
@@ -6113,7 +5848,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115663000</td>
 <td>Исаковка</td>
 <td>ЖТ</td>
-<td>Даулен Даулетович Рамазанов</td>
+<td>Рамазанов Д.Д.</td>
 <td>5</td>
 <td>46</td>
 <td>3</td>
@@ -6124,7 +5859,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115663000</td>
 <td>Исаковка</td>
 <td>ЖТ</td>
-<td>Жанатлек Молдабаевич Рамазанов</td>
+<td>Рамазанов Ж.М.</td>
 <td>3</td>
 <td>29</td>
 <td></td>
@@ -6135,7 +5870,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115663000</td>
 <td>Исаковка</td>
 <td>ЖТ</td>
-<td>Вячеслав Владимирович Родионов</td>
+<td>Родионов В.В.</td>
 <td>10</td>
 <td></td>
 <td></td>
@@ -6146,7 +5881,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115663000</td>
 <td>Исаковка</td>
 <td>ЖТ</td>
-<td>Боранбай Султанович Саргазин</td>
+<td>Саргазин Б.С.</td>
 <td>9</td>
 <td>32</td>
 <td>5</td>
@@ -6157,7 +5892,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115663000</td>
 <td>Исаковка</td>
 <td>ЖТ</td>
-<td>Қасымхан Сейтенов</td>
+<td>Сейтенов К.</td>
 <td></td>
 <td>13</td>
 <td>3</td>
@@ -6168,7 +5903,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115663000</td>
 <td>Исаковка</td>
 <td>ЖТ</td>
-<td>Сәкен Сердалин</td>
+<td>Сердалин С.</td>
 <td></td>
 <td></td>
 <td>16</td>
@@ -6179,10 +5914,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115663000</td>
 <td>Исаковка</td>
 <td>ЖТ</td>
-<td>
-Вера
-Ивановна Скопцова
-</td>
+<td>Скопцова В.И.</td>
 <td>5</td>
 <td></td>
 <td></td>
@@ -6193,7 +5925,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115665100</td>
 <td>Канай би атындағы</td>
 <td>ЖТ</td>
-<td>«Kanai Qarabulaq» ЖСШ</td>
+<td>ЖШС «Kanai Qarabulaq»</td>
 <td>55</td>
 <td></td>
 <td></td>
@@ -6204,7 +5936,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115665100</td>
 <td>Канай би атындағы</td>
 <td>ЖТ</td>
-<td>Сайранбек Казизович Акмаганбетов</td>
+<td>Акмаганбетов С.К.</td>
 <td>8</td>
 <td>25</td>
 <td>1</td>
@@ -6215,7 +5947,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115665100</td>
 <td>Канай би атындағы</td>
 <td>ЖТ</td>
-<td>Талғат Акмаганбетов</td>
+<td>Акмаганбетов Т.</td>
 <td>9</td>
 <td>48</td>
 <td>2</td>
@@ -6226,7 +5958,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115665100</td>
 <td>Канай би атындағы</td>
 <td>ЖТ</td>
-<td>Қайрат Мукатаевич Амиржанов</td>
+<td>Амиржанов К.М.</td>
 <td>4</td>
 <td>12</td>
 <td>1</td>
@@ -6237,10 +5969,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115665100</td>
 <td>Канай би атындағы</td>
 <td>ЖТ</td>
-<td>
-Бақатай
-Аутай
-</td>
+<td>Аутай Б.</td>
 <td>18</td>
 <td>10</td>
 <td>2</td>
@@ -6251,7 +5980,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115665100</td>
 <td>Канай би атындағы</td>
 <td>ЖТ</td>
-<td>Жанбатыр Шарипович Баймендин</td>
+<td>Баймендин Ж.Ш.</td>
 <td></td>
 <td>41</td>
 <td>1</td>
@@ -6262,7 +5991,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115665100</td>
 <td>Канай би атындағы</td>
 <td>ЖТ</td>
-<td>Еслямбек Бектасович Баядилов</td>
+<td>Баядилов Е.Б.</td>
 <td></td>
 <td></td>
 <td>6</td>
@@ -6273,10 +6002,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115665100</td>
 <td>Канай би атындағы</td>
 <td>ЖТ</td>
-<td>
-Айгул
-Баядилова
-</td>
+<td>Баядилова А.</td>
 <td>4</td>
 <td>44</td>
 <td></td>
@@ -6287,7 +6013,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115665100</td>
 <td>Канай би атындағы</td>
 <td>ЖТ</td>
-<td>Батыр Бегайдарович Баядилова</td>
+<td>Баядилов Б.Б.</td>
 <td>12</td>
 <td>120</td>
 <td>24</td>
@@ -6298,10 +6024,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115665100</td>
 <td>Канай би атындағы</td>
 <td>ЖТ</td>
-<td>
-Марат
-Бейсекеев
-</td>
+<td>Бейсекеев М.</td>
 <td></td>
 <td></td>
 <td>1</td>
@@ -6312,10 +6035,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115665100</td>
 <td>Канай би атындағы</td>
 <td>ЖТ</td>
-<td>
-Жәнібек
-Бигатов
-</td>
+<td>Бигатов Ж.</td>
 <td>9</td>
 <td>55</td>
 <td>5</td>
@@ -6326,7 +6046,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115665100</td>
 <td>Канай би атындағы</td>
 <td>ЖТ</td>
-<td>Сайлау Кажатаевич Бигатов</td>
+<td>Бигатов С.К.</td>
 <td></td>
 <td></td>
 <td>3</td>
@@ -6337,10 +6057,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115665100</td>
 <td>Канай би атындағы</td>
 <td>ЖТ</td>
-<td>
-Женис
-Букенович Букенов.
-</td>
+<td>Букенов Ж.Б.</td>
 <td>2</td>
 <td></td>
 <td>1</td>
@@ -6351,10 +6068,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115665100</td>
 <td>Канай би атындағы</td>
 <td>ЖТ</td>
-<td>
-Берік
-Габдуллин
-</td>
+<td>Габдуллин Б.</td>
 <td></td>
 <td></td>
 <td>2</td>
@@ -6365,7 +6079,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115665100</td>
 <td>Канай би атындағы</td>
 <td>ЖТ</td>
-<td>Жанайдар Калымтаевич Джусупов</td>
+<td>Джусупов Ж.К.</td>
 <td></td>
 <td>21</td>
 <td></td>
@@ -6376,7 +6090,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115665100</td>
 <td>Канай би атындағы</td>
 <td>ЖТ</td>
-<td>Аққужа Жанапьянович Досанов</td>
+<td>Досанов А.Ж.</td>
 <td>5</td>
 <td>59</td>
 <td>1</td>
@@ -6387,10 +6101,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115665100</td>
 <td>Канай би атындағы</td>
 <td>ЖТ</td>
-<td>
-Сәкен
-Досанов
-</td>
+<td>Досанов С.</td>
 <td>2</td>
 <td>12</td>
 <td></td>
@@ -6401,7 +6112,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115665100</td>
 <td>Канай би атындағы</td>
 <td>ЖТ</td>
-<td>Брімжан Темиржанович Досмаганбетов</td>
+<td>Досмаганбетов Б. Т.</td>
 <td>6</td>
 <td>17</td>
 <td>6</td>
@@ -6412,7 +6123,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115665100</td>
 <td>Канай би атындағы</td>
 <td>ЖТ</td>
-<td>Карімджан Темирджанович Досмаганбетов</td>
+<td>Досмаганбетов К. Т.</td>
 <td>4</td>
 <td>37</td>
 <td>2</td>
@@ -6423,7 +6134,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115665100</td>
 <td>Канай би атындағы</td>
 <td>ЖТ</td>
-<td>Күлшәй Ержанова</td>
+<td>Ержанова К.</td>
 <td>4</td>
 <td>10</td>
 <td>2</td>
@@ -6434,7 +6145,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115665100</td>
 <td>Канай би атындағы</td>
 <td>ЖТ</td>
-<td>Амангельды Касымович Жарылгасов</td>
+<td>Жарылгасов А.К.</td>
 <td></td>
 <td>59</td>
 <td>3</td>
@@ -6445,7 +6156,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115665100</td>
 <td>Канай би атындағы</td>
 <td>ЖТ</td>
-<td>Аидархан Жетенов</td>
+<td>Жетенов А.</td>
 <td></td>
 <td>18</td>
 <td>2</td>
@@ -6456,7 +6167,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115665100</td>
 <td>Канай би атындағы</td>
 <td>ЖТ</td>
-<td>Асылбек Кажибаевич Жетенов</td>
+<td>Жетенов А.К.</td>
 <td></td>
 <td>40</td>
 <td>3</td>
@@ -6467,7 +6178,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115665100</td>
 <td>Канай би атындағы</td>
 <td>ЖТ</td>
-<td>Дауренбек Кажибаевич Жетенов</td>
+<td>Жетенов Д.К.</td>
 <td></td>
 <td></td>
 <td>2</td>
@@ -6478,7 +6189,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115665100</td>
 <td>Канай би атындағы</td>
 <td>ЖТ</td>
-<td>Ерлік Асылбекович Жетенов</td>
+<td>Жетенов Е.А.</td>
 <td>16</td>
 <td></td>
 <td></td>
@@ -6489,7 +6200,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115665100</td>
 <td>Канай би атындағы</td>
 <td>ЖТ</td>
-<td>Жаксылык Жетенов</td>
+<td>Жетенов Ж.</td>
 <td>4</td>
 <td>14</td>
 <td></td>
@@ -6500,7 +6211,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115665100</td>
 <td>Канай би атындағы</td>
 <td>ЖТ</td>
-<td>Нұржан Муратбекович Жетенов</td>
+<td>Жетенов Н.М.</td>
 <td></td>
 <td>23</td>
 <td></td>
@@ -6511,10 +6222,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115665100</td>
 <td>Канай би атындағы</td>
 <td>ЖТ</td>
-<td>
-Канат
-Кокашевич Жетеров
-</td>
+<td>Жетеров К.К.</td>
 <td></td>
 <td></td>
 <td>4</td>
@@ -6525,7 +6233,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115665100</td>
 <td>Канай би атындағы</td>
 <td>ЖТ</td>
-<td>Султанбек Каирбекович Жетписов</td>
+<td>Жетписов С.К.</td>
 <td>6</td>
 <td>24</td>
 <td>1</td>
@@ -6536,7 +6244,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115665100</td>
 <td>Канай би атындағы</td>
 <td>ЖТ</td>
-<td>Ержан Жолымтаевич Жолымтаев</td>
+<td>Жолымтаев Е.Ж.</td>
 <td></td>
 <td></td>
 <td>1</td>
@@ -6547,7 +6255,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115665100</td>
 <td>Канай би атындағы</td>
 <td>ЖТ</td>
-<td>Айтым Даулетбекович Жусупов</td>
+<td>Жусупов А.Д.</td>
 <td></td>
 <td></td>
 <td>2</td>
@@ -6558,7 +6266,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115665100</td>
 <td>Канай би атындағы</td>
 <td>ЖТ</td>
-<td>Аманжол Жусупов</td>
+<td>Жусупов А.</td>
 <td></td>
 <td></td>
 <td>10</td>
@@ -6569,7 +6277,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115665100</td>
 <td>Канай би атындағы</td>
 <td>ЖТ</td>
-<td>Кенжебек Даулетбекович Жусупов</td>
+<td>Жусупов К.Д.</td>
 <td></td>
 <td></td>
 <td>2</td>
@@ -6580,7 +6288,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115665100</td>
 <td>Канай би атындағы</td>
 <td>ЖТ</td>
-<td>Кумисжан Балтабековна Жусупова</td>
+<td>Жусупова К.Б.</td>
 <td>5</td>
 <td>22</td>
 <td>2</td>
@@ -6591,7 +6299,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115665100</td>
 <td>Канай би атындағы</td>
 <td>ЖТ</td>
-<td>Курган Айдарбекович Иманбаев</td>
+<td>Иманбаев К.А.</td>
 <td>8</td>
 <td>54</td>
 <td>2</td>
@@ -6602,7 +6310,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115665100</td>
 <td>Канай би атындағы</td>
 <td>ЖТ</td>
-<td>«Мурсалимова Ж.С.» ЖК</td>
+<td>ЖК «Мурсалимова Ж.С.»</td>
 <td>5</td>
 <td>102</td>
 <td>4</td>
@@ -6613,7 +6321,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115665100</td>
 <td>Канай би атындағы</td>
 <td>ЖТ</td>
-<td>«Умаров Ж.Е.» ЖК</td>
+<td>ЖК «Умаров Ж.Е.»</td>
 <td>13</td>
 <td></td>
 <td></td>
@@ -6624,10 +6332,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115665100</td>
 <td>Канай би атындағы</td>
 <td>ЖТ</td>
-<td>
-Бакыт
-Искаков
-</td>
+<td>Искаков Б.</td>
 <td></td>
 <td></td>
 <td>3</td>
@@ -6638,7 +6343,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115665100</td>
 <td>Канай би атындағы</td>
 <td>ЖТ</td>
-<td>Жанайдар Кабдрахманов</td>
+<td>Кабдрахманов Ж.</td>
 <td></td>
 <td></td>
 <td>1</td>
@@ -6649,7 +6354,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115665100</td>
 <td>Канай би атындағы</td>
 <td>ЖТ</td>
-<td>Ботагоз Жанатовна Кабылова</td>
+<td>Кабылова Б.Ж.</td>
 <td>6</td>
 <td></td>
 <td></td>
@@ -6660,7 +6365,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115665100</td>
 <td>Канай би атындағы</td>
 <td>ЖТ</td>
-<td>Оралбек Науканбаевич Касымбеков</td>
+<td>Касымбеков О.Н.</td>
 <td>4</td>
 <td>59</td>
 <td>1</td>
@@ -6671,7 +6376,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115665100</td>
 <td>Канай би атындағы</td>
 <td>ЖТ</td>
-<td>Түлкібай Науканбаевич Касымбеков</td>
+<td>Касымбеков Т.Н.</td>
 <td></td>
 <td></td>
 <td>1</td>
@@ -6682,7 +6387,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115665100</td>
 <td>Канай би атындағы</td>
 <td>ЖТ</td>
-<td>Даулет Науканбаевич Касымов</td>
+<td>Касымов Д.Н.</td>
 <td>3</td>
 <td>31</td>
 <td>2</td>
@@ -6693,7 +6398,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115665100</td>
 <td>Канай би атындағы</td>
 <td>ЖТ</td>
-<td>Кайрат Жолдасович Касымов</td>
+<td>Касымов К.Ж.</td>
 <td>1</td>
 <td>7</td>
 <td></td>
@@ -6704,7 +6409,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115665100</td>
 <td>Канай би атындағы</td>
 <td>ЖТ</td>
-<td>Турка Курмашевич Касымов</td>
+<td>Касымов Т.К.</td>
 <td>6</td>
 <td>43</td>
 <td>2</td>
@@ -6715,7 +6420,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115665100</td>
 <td>Канай би атындағы</td>
 <td>ЖТ</td>
-<td>Күлмаш Шайкеновна Касымова</td>
+<td>Касымова К.Ш.</td>
 <td>12</td>
 <td>24</td>
 <td></td>
@@ -6726,7 +6431,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115665100</td>
 <td>Канай би атындағы</td>
 <td>ЖТ</td>
-<td>Каират Космаганбетов</td>
+<td>Космаганбетов К.</td>
 <td></td>
 <td></td>
 <td>2</td>
@@ -6737,10 +6442,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115665100</td>
 <td>Канай би атындағы</td>
 <td>ЖТ</td>
-<td>
-Ренат
-Рустамович Космаганбетов
-</td>
+<td>Космаганбетов Р.Р.</td>
 <td></td>
 <td></td>
 <td>1</td>
@@ -6751,7 +6453,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115665100</td>
 <td>Канай би атындағы</td>
 <td>ЖТ</td>
-<td>Айман Шалабаевна Космаганбетова</td>
+<td>Космаганбетова А. Ш.</td>
 <td></td>
 <td>13</td>
 <td></td>
@@ -6762,7 +6464,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115665100</td>
 <td>Канай би атындағы</td>
 <td>ЖТ</td>
-<td>«Айдарлы» ШҚ</td>
+<td>ШҚ «Айдарлы»</td>
 <td>97</td>
 <td>64</td>
 <td>3</td>
@@ -6773,7 +6475,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115665100</td>
 <td>Канай би атындағы</td>
 <td>ЖТ</td>
-<td>«Иманбаев» ШҚ</td>
+<td>ШҚ «Иманбаев»</td>
 <td>12</td>
 <td>37</td>
 <td>4</td>
@@ -6784,7 +6486,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115665100</td>
 <td>Канай би атындағы</td>
 <td>ЖТ</td>
-<td>Совет Майгузов</td>
+<td>Майгузов С.</td>
 <td>10</td>
 <td>69</td>
 <td>4</td>
@@ -6795,7 +6497,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115665100</td>
 <td>Канай би атындағы</td>
 <td>ЖТ</td>
-<td>Марат Манас</td>
+<td>Манас М.</td>
 <td></td>
 <td></td>
 <td>19</td>
@@ -6806,7 +6508,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115665100</td>
 <td>Канай би атындағы</td>
 <td>ЖТ</td>
-<td>Галина Маханбетова</td>
+<td>Маханбетова Г.</td>
 <td>3</td>
 <td></td>
 <td></td>
@@ -6817,7 +6519,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115665100</td>
 <td>Канай би атындағы</td>
 <td>ЖТ</td>
-<td>Жанабек Жолдасевич Молдахметов</td>
+<td>Молдахметов Ж. Ж.</td>
 <td>2</td>
 <td>17</td>
 <td></td>
@@ -6828,7 +6530,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115665100</td>
 <td>Канай би атындағы</td>
 <td>ЖТ</td>
-<td>Муратбек Жолдасбекович Молдахметов</td>
+<td>Молдахметов М. Ж.</td>
 <td>5</td>
 <td>10</td>
 <td></td>
@@ -6839,10 +6541,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115665100</td>
 <td>Канай би атындағы</td>
 <td>ЖТ</td>
-<td>
-Нұрлан
-Мукан
-</td>
+<td>Мукан Н.</td>
 <td>8</td>
 <td></td>
 <td></td>
@@ -6853,7 +6552,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115665100</td>
 <td>Канай би атындағы</td>
 <td>ЖТ</td>
-<td>Азамат Сандыбаевич Мукушев</td>
+<td>Мукушев А.С.</td>
 <td>13</td>
 <td>9</td>
 <td></td>
@@ -6864,7 +6563,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115665100</td>
 <td>Канай би атындағы</td>
 <td>ЖТ</td>
-<td>Алпыс Мурсалимов</td>
+<td>Мурсалимов А.</td>
 <td>2</td>
 <td></td>
 <td>1</td>
@@ -6875,10 +6574,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115665100</td>
 <td>Канай би атындағы</td>
 <td>ЖТ</td>
-<td>
-Елюбай
-Бекович Нурмухамбетов
-</td>
+<td>Нурмухамбетов Е. Б.</td>
 <td>7</td>
 <td>40</td>
 <td>1</td>
@@ -6889,7 +6585,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115665100</td>
 <td>Канай би атындағы</td>
 <td>ЖТ</td>
-<td>Болат Орынбасарович Рахимжанов</td>
+<td>Рахимжанов Б.О.</td>
 <td>5</td>
 <td>29</td>
 <td>1</td>
@@ -6900,11 +6596,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115665100</td>
 <td>Канай би атындағы</td>
 <td>ЖТ</td>
-<td>
-Ануар
-Естаевич
-Рымов
-</td>
+<td>Рымов А.Е.</td>
 <td>4</td>
 <td>22</td>
 <td></td>
@@ -6915,7 +6607,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115665100</td>
 <td>Канай би атындағы</td>
 <td>ЖТ</td>
-<td>Жанат Касенович Сеитхожин</td>
+<td>Сеитхожин Ж.К.</td>
 <td></td>
 <td></td>
 <td>3</td>
@@ -6926,7 +6618,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115665100</td>
 <td>Канай би атындағы</td>
 <td>ЖТ</td>
-<td>Тураш Сеитхожин</td>
+<td>Сеитхожин Т.</td>
 <td>4</td>
 <td>8</td>
 <td>1</td>
@@ -6937,10 +6629,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115665100</td>
 <td>Канай би атындағы</td>
 <td>ЖТ</td>
-<td>
-Асылбек
-Тасаев
-</td>
+<td>Тасаев А.</td>
 <td></td>
 <td>6</td>
 <td></td>
@@ -6951,7 +6640,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115665100</td>
 <td>Канай би атындағы</td>
 <td>ЖТ</td>
-<td>Елубай Тасымбеков</td>
+<td>Тасымбеков Е.</td>
 <td></td>
 <td>9</td>
 <td>2</td>
@@ -6962,7 +6651,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115665100</td>
 <td>Канай би атындағы</td>
 <td>ЖТ</td>
-<td>«Жас-Қанат» ЖСШ</td>
+<td>ЖШС «Жас-Қанат»</td>
 <td>7</td>
 <td></td>
 <td></td>
@@ -6973,7 +6662,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115665100</td>
 <td>Канай би атындағы</td>
 <td>ЖТ</td>
-<td>«Канай Би-1» ЖСШ</td>
+<td>ЖШС «Канай Би-1»</td>
 <td></td>
 <td></td>
 <td>30</td>
@@ -6984,7 +6673,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115665100</td>
 <td>Канай би атындағы</td>
 <td>ЖТ</td>
-<td>Ескак Шаймерденов</td>
+<td>Шаймерденов Е.</td>
 <td></td>
 <td></td>
 <td>10</td>
@@ -6995,7 +6684,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115665100</td>
 <td>Канай би атындағы</td>
 <td>ЖТ</td>
-<td>Мереке Кантекович Шаймерденов</td>
+<td>Шаймерденов М. К.</td>
 <td></td>
 <td>51</td>
 <td></td>
@@ -7006,7 +6695,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115665100</td>
 <td>Канай би атындағы</td>
 <td>ЖТ</td>
-<td>Тулеу Жумабекович Шитимов</td>
+<td>Шитимов Т.Ж.</td>
 <td></td>
 <td>48</td>
 <td>1</td>
@@ -7017,7 +6706,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115665100</td>
 <td>Канай би атындағы</td>
 <td>ЖТ</td>
-<td>Даметкен Шокаева</td>
+<td>Шокаева Д.</td>
 <td>4</td>
 <td>33</td>
 <td></td>
@@ -7028,7 +6717,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115647000</td>
 <td>Күсеп</td>
 <td>ЖТ</td>
-<td>Виктор Вильгельмович</td>
+<td>Виктор В.</td>
 <td></td>
 <td></td>
 <td>1</td>
@@ -7039,7 +6728,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115647000</td>
 <td>Күсеп</td>
 <td>ЖТ</td>
-<td>Бауржан Ергалиевич Абенов</td>
+<td>Абенов Б.Е.</td>
 <td></td>
 <td>9</td>
 <td></td>
@@ -7050,7 +6739,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115647000</td>
 <td>Күсеп</td>
 <td>ЖТ</td>
-<td>Сағымбай Ангалович Абилхалыков</td>
+<td>Абилхалыков С.А.</td>
 <td>2</td>
 <td>5</td>
 <td>6</td>
@@ -7061,7 +6750,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115647000</td>
 <td>Күсеп</td>
 <td>ЖТ</td>
-<td>Женис Баяхметович Абуталипов</td>
+<td>Абуталипов Ж.Б.</td>
 <td>2</td>
 <td></td>
 <td>1</td>
@@ -7072,7 +6761,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115647000</td>
 <td>Күсеп</td>
 <td>ЖТ</td>
-<td>Зулкия Мантаевна Абуталипова</td>
+<td>Абуталипова З.М.</td>
 <td></td>
 <td>5</td>
 <td></td>
@@ -7083,10 +6772,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115647000</td>
 <td>Күсеп</td>
 <td>ЖТ</td>
-<td>
-Гулим
-Кенесовна Акпанова
-</td>
+<td>Акпанова Г.К.</td>
 <td>5</td>
 <td>22</td>
 <td></td>
@@ -7097,7 +6783,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115647000</td>
 <td>Күсеп</td>
 <td>ЖТ</td>
-<td>Махаббат Хайруловна Альжанова</td>
+<td>Альжанова М.Х.</td>
 <td>5</td>
 <td>8</td>
 <td></td>
@@ -7108,7 +6794,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115647000</td>
 <td>Күсеп</td>
 <td>ЖТ</td>
-<td>Сапар Амержанов</td>
+<td>Амержанов С.</td>
 <td></td>
 <td></td>
 <td>10</td>
@@ -7119,7 +6805,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115647000</td>
 <td>Күсеп</td>
 <td>ЖТ</td>
-<td>Амангельды Ахмеджанович Ахмеджанов</td>
+<td>Ахмеджанов А.А.</td>
 <td></td>
 <td>16</td>
 <td></td>
@@ -7130,7 +6816,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115647000</td>
 <td>Күсеп</td>
 <td>ЖТ</td>
-<td>Ергала Темиргалиевич Ахметжаров</td>
+<td>Ахметжаров Е.Т.</td>
 <td>5</td>
 <td>4</td>
 <td></td>
@@ -7141,7 +6827,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115647000</td>
 <td>Күсеп</td>
 <td>ЖТ</td>
-<td>Жумабике Юрьевна Ахметова</td>
+<td>Ахметова Ж.Ю.</td>
 <td></td>
 <td></td>
 <td>4</td>
@@ -7152,7 +6838,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115647000</td>
 <td>Күсеп</td>
 <td>ЖТ</td>
-<td>Темирхан Турарович Аязбаев</td>
+<td>Аязбаев Т.Т.</td>
 <td></td>
 <td>17</td>
 <td></td>
@@ -7163,7 +6849,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115647000</td>
 <td>Күсеп</td>
 <td>ЖТ</td>
-<td>Қайрбай Ахметханович Байзаков</td>
+<td>Байзаков К.А.</td>
 <td></td>
 <td>15</td>
 <td>2</td>
@@ -7174,7 +6860,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115647000</td>
 <td>Күсеп</td>
 <td>ЖТ</td>
-<td>Токтар Нургасымович Бекбулатов</td>
+<td>Бекбулатов Т.Н.</td>
 <td>1</td>
 <td></td>
 <td></td>
@@ -7185,7 +6871,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115647000</td>
 <td>Күсеп</td>
 <td>ЖТ</td>
-<td>Фарида Советбековна Бекбулатова</td>
+<td>Бекбулатова Ф.С.</td>
 <td></td>
 <td>3</td>
 <td></td>
@@ -7196,7 +6882,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115647000</td>
 <td>Күсеп</td>
 <td>ЖТ</td>
-<td>Даурен Беккожин</td>
+<td>Беккожин Д.</td>
 <td></td>
 <td></td>
 <td>3</td>
@@ -7207,7 +6893,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115647000</td>
 <td>Күсеп</td>
 <td>ЖТ</td>
-<td>Елизавета Николаевна Белясникова</td>
+<td>Белясникова Е.Н.</td>
 <td>2</td>
 <td></td>
 <td></td>
@@ -7218,10 +6904,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115647000</td>
 <td>Күсеп</td>
 <td>ЖТ</td>
-<td>
-Сергей
-Боков
-</td>
+<td>Боков С.</td>
 <td>4</td>
 <td></td>
 <td></td>
@@ -7232,7 +6915,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115647000</td>
 <td>Күсеп</td>
 <td>ЖТ</td>
-<td>Беркинбай Молдашевич Ботаев</td>
+<td>Ботаев Б.М.</td>
 <td></td>
 <td>10</td>
 <td>2</td>
@@ -7243,10 +6926,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115647000</td>
 <td>Күсеп</td>
 <td>ЖТ</td>
-<td>
-Зинайда
-Вебер
-</td>
+<td>Вебер З.</td>
 <td>31</td>
 <td></td>
 <td></td>
@@ -7257,7 +6937,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115647000</td>
 <td>Күсеп</td>
 <td>ЖТ</td>
-<td>Владимир Владимирович Гаас</td>
+<td>Гаас В.В.</td>
 <td>1</td>
 <td></td>
 <td></td>
@@ -7268,7 +6948,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115647000</td>
 <td>Күсеп</td>
 <td>ЖТ</td>
-<td>Светлана Александровна Гаас</td>
+<td>Гаас С.А.</td>
 <td>2</td>
 <td></td>
 <td></td>
@@ -7279,7 +6959,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115647000</td>
 <td>Күсеп</td>
 <td>ЖТ</td>
-<td>Сергей Гаврелюк</td>
+<td>Гаврелюк С.</td>
 <td>2</td>
 <td></td>
 <td></td>
@@ -7290,10 +6970,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115647000</td>
 <td>Күсеп</td>
 <td>ЖТ</td>
-<td>
-Игорь
-Васильевич Ганжа
-</td>
+<td>Ганжа И.В.</td>
 <td>2</td>
 <td></td>
 <td></td>
@@ -7304,7 +6981,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115647000</td>
 <td>Күсеп</td>
 <td>ЖТ</td>
-<td>Алмат Тулегенович Доголаков</td>
+<td>Доголаков А.Т.</td>
 <td></td>
 <td>21</td>
 <td>5</td>
@@ -7315,7 +6992,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115647000</td>
 <td>Күсеп</td>
 <td>ЖТ</td>
-<td>Светлана Евгеньевна Донова</td>
+<td>Донова С.Е.</td>
 <td>2</td>
 <td></td>
 <td></td>
@@ -7326,7 +7003,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115647000</td>
 <td>Күсеп</td>
 <td>ЖТ</td>
-<td>Бахдаулет Дорбетхан</td>
+<td>Дорбетхан Б.</td>
 <td>2</td>
 <td></td>
 <td></td>
@@ -7337,7 +7014,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115647000</td>
 <td>Күсеп</td>
 <td>ЖТ</td>
-<td>Даулет Дорбетхан</td>
+<td>Дорбетхан Д.</td>
 <td>5</td>
 <td>7</td>
 <td></td>
@@ -7348,7 +7025,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115647000</td>
 <td>Күсеп</td>
 <td>ЖТ</td>
-<td>Сандугаш Кажакаевна Дошамакова</td>
+<td>Дошамакова С.К.</td>
 <td></td>
 <td>5</td>
 <td></td>
@@ -7359,7 +7036,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115647000</td>
 <td>Күсеп</td>
 <td>ЖТ</td>
-<td>Надежда Ивановна Дремова</td>
+<td>Дремова Н.И.</td>
 <td>4</td>
 <td></td>
 <td></td>
@@ -7370,10 +7047,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115647000</td>
 <td>Күсеп</td>
 <td>ЖТ</td>
-<td>
-Ақслу
-Есекеева
-</td>
+<td>Есекеева А.Ж.</td>
 <td>1</td>
 <td>14</td>
 <td></td>
@@ -7384,7 +7058,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115647000</td>
 <td>Күсеп</td>
 <td>ЖТ</td>
-<td>Майра Боранбаевна Есмуканова</td>
+<td>Есмуканова М.Б.</td>
 <td></td>
 <td>1</td>
 <td></td>
@@ -7395,10 +7069,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115647000</td>
 <td>Күсеп</td>
 <td>ЖТ</td>
-<td>
-Күміс
-Танкеевна Есмуханова
-</td>
+<td>Есмуханова К.Т.</td>
 <td></td>
 <td>8</td>
 <td></td>
@@ -7409,7 +7080,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115647000</td>
 <td>Күсеп</td>
 <td>ЖТ</td>
-<td>Владимир Михайлович Ефименко</td>
+<td>Ефименко В.М.</td>
 <td>4</td>
 <td>9</td>
 <td></td>
@@ -7420,10 +7091,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115647000</td>
 <td>Күсеп</td>
 <td>ЖТ</td>
-<td>
-Хавдия
-Жалел
-</td>
+<td>Жалел Х.</td>
 <td>1</td>
 <td>3</td>
 <td></td>
@@ -7434,7 +7102,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115647000</td>
 <td>Күсеп</td>
 <td>ЖТ</td>
-<td>Сейтжан Мухмадиевич Жамухамбетов</td>
+<td>Жамухамбетов С. М.</td>
 <td>2</td>
 <td>3</td>
 <td>3</td>
@@ -7445,10 +7113,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115647000</td>
 <td>Күсеп</td>
 <td>ЖТ</td>
-<td>
-Ботан
-Бекенович Жамышев
-</td>
+<td>Жамышев Б.Б.</td>
 <td>1</td>
 <td></td>
 <td>3</td>
@@ -7459,10 +7124,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115647000</td>
 <td>Күсеп</td>
 <td>ЖТ</td>
-<td>
-Зауре
-Бекеновна Жамышева
-</td>
+<td>Жамышева З.Б.</td>
 <td></td>
 <td>13</td>
 <td></td>
@@ -7473,7 +7135,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115647000</td>
 <td>Күсеп</td>
 <td>ЖТ</td>
-<td>Қойшыбай Утешевич Жасугын</td>
+<td>Жасугын К.У.</td>
 <td></td>
 <td>23</td>
 <td></td>
@@ -7484,10 +7146,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115647000</td>
 <td>Күсеп</td>
 <td>ЖТ</td>
-<td>
-Жанат
-Жасұғын
-</td>
+<td>Жасұғын Ж.</td>
 <td>2</td>
 <td>16</td>
 <td></td>
@@ -7498,10 +7157,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115647000</td>
 <td>Күсеп</td>
 <td>ЖТ</td>
-<td>
-Гайша
-Жуматова
-</td>
+<td>Жуматова Г.</td>
 <td>1</td>
 <td></td>
 <td></td>
@@ -7512,10 +7168,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115647000</td>
 <td>Күсеп</td>
 <td>ЖТ</td>
-<td>
-Булан
-Бейсенович Жусугунов
-</td>
+<td>Жусугунов Б.Б.</td>
 <td>1</td>
 <td></td>
 <td></td>
@@ -7526,10 +7179,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115647000</td>
 <td>Күсеп</td>
 <td>ЖТ</td>
-<td>
-Айнаш
-Хасеновна Ибраева
-</td>
+<td>Ибраева А.Х.</td>
 <td></td>
 <td>36</td>
 <td></td>
@@ -7540,11 +7190,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115647000</td>
 <td>Күсеп</td>
 <td>ЖТ</td>
-<td>
-Думан
-Бекович
-Идеатов
-</td>
+<td>Идеатов Д.Б.</td>
 <td>3</td>
 <td>185</td>
 <td>24</td>
@@ -7555,7 +7201,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115647000</td>
 <td>Күсеп</td>
 <td>ЖТ</td>
-<td>Баглан Орынбасарович Искаков</td>
+<td>Искаков Б.О.</td>
 <td></td>
 <td>40</td>
 <td>9</td>
@@ -7566,7 +7212,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115647000</td>
 <td>Күсеп</td>
 <td>ЖТ</td>
-<td>Ерлан Айтмуханович Искаков</td>
+<td>Искаков Е.А.</td>
 <td>3</td>
 <td></td>
 <td></td>
@@ -7577,7 +7223,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115647000</td>
 <td>Күсеп</td>
 <td>ЖТ</td>
-<td>Ермухан Искаков</td>
+<td>Искаков Е.</td>
 <td></td>
 <td>9</td>
 <td>6</td>
@@ -7588,7 +7234,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115647000</td>
 <td>Күсеп</td>
 <td>ЖТ</td>
-<td>Орынбасар Искаков</td>
+<td>Искаков О.</td>
 <td>6</td>
 <td>13</td>
 <td></td>
@@ -7599,7 +7245,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115647000</td>
 <td>Күсеп</td>
 <td>ЖТ</td>
-<td>Нургали Темирхановичу Исламов</td>
+<td>Исламов Н.Т.</td>
 <td>2</td>
 <td></td>
 <td>5</td>
@@ -7610,7 +7256,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115647000</td>
 <td>Күсеп</td>
 <td>ЖТ</td>
-<td>Мухамедия Искакович Кабдушев</td>
+<td>Кабдушев М.И.</td>
 <td></td>
 <td>4</td>
 <td>2</td>
@@ -7621,10 +7267,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115647000</td>
 <td>Күсеп</td>
 <td>ЖТ</td>
-<td>
-Азиз
-Казизов
-</td>
+<td>Казизов А.</td>
 <td></td>
 <td></td>
 <td>3</td>
@@ -7635,10 +7278,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115647000</td>
 <td>Күсеп</td>
 <td>ЖТ</td>
-<td>
-Нурвэг
-Какеш
-</td>
+<td>Какеш Н.</td>
 <td>2</td>
 <td>30</td>
 <td></td>
@@ -7649,10 +7289,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115647000</td>
 <td>Күсеп</td>
 <td>ЖТ</td>
-<td>
-Ермек
-Серикович Какманов
-</td>
+<td>Какманов Е.С.</td>
 <td></td>
 <td></td>
 <td>4</td>
@@ -7663,10 +7300,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115647000</td>
 <td>Күсеп</td>
 <td>ЖТ</td>
-<td>
-Төлеген
-Каленов
-</td>
+<td>Каленов Т.</td>
 <td></td>
 <td>19</td>
 <td></td>
@@ -7677,7 +7311,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115647000</td>
 <td>Күсеп</td>
 <td>ЖТ</td>
-<td>Вера Александровна Калинина</td>
+<td>Калинина В.А.</td>
 <td>5</td>
 <td></td>
 <td></td>
@@ -7688,7 +7322,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115647000</td>
 <td>Күсеп</td>
 <td>ЖТ</td>
-<td>Александр Станиславович Каминский</td>
+<td>Каминский А.С.</td>
 <td>6</td>
 <td>7</td>
 <td></td>
@@ -7699,7 +7333,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115647000</td>
 <td>Күсеп</td>
 <td>ЖТ</td>
-<td>Азамат Тургумбаевич Кенжебеков</td>
+<td>Кенжебеков А.Т.</td>
 <td>2</td>
 <td></td>
 <td></td>
@@ -7710,7 +7344,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115647000</td>
 <td>Күсеп</td>
 <td>ЖТ</td>
-<td>Дулат Кенжебеков</td>
+<td>Кенжебеков Д.</td>
 <td>2</td>
 <td></td>
 <td></td>
@@ -7721,7 +7355,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115647000</td>
 <td>Күсеп</td>
 <td>ЖТ</td>
-<td>Есельтай Салимжанович Кенжегозин</td>
+<td>Кенжегозин Е.С.</td>
 <td></td>
 <td>20</td>
 <td></td>
@@ -7732,7 +7366,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115647000</td>
 <td>Күсеп</td>
 <td>ЖТ</td>
-<td>Мадина Серикбаевна Кенжегозина</td>
+<td>Кенжегозина М.С.</td>
 <td></td>
 <td>12</td>
 <td>3</td>
@@ -7743,7 +7377,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115647000</td>
 <td>Күсеп</td>
 <td>ЖТ</td>
-<td>Евгений Генрихович Клипперт</td>
+<td>Клипперт Е.Г.</td>
 <td>2</td>
 <td></td>
 <td></td>
@@ -7754,7 +7388,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115647000</td>
 <td>Күсеп</td>
 <td>ЖТ</td>
-<td>Даниярбек Кожахметов</td>
+<td>Кожахметов Д.</td>
 <td>2</td>
 <td></td>
 <td></td>
@@ -7765,10 +7399,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115647000</td>
 <td>Күсеп</td>
 <td>ЖТ</td>
-<td>
-Муратбек
-Кокен
-</td>
+<td>Кокен М.</td>
 <td>5</td>
 <td>8</td>
 <td></td>
@@ -7779,10 +7410,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115647000</td>
 <td>Күсеп</td>
 <td>ЖТ</td>
-<td>
-Нұрбек
-Кокен
-</td>
+<td>Кокен Н.</td>
 <td>2</td>
 <td>44</td>
 <td></td>
@@ -7793,7 +7421,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115647000</td>
 <td>Күсеп</td>
 <td>ЖТ</td>
-<td>Валерий Корпухно</td>
+<td>Корпухно В.</td>
 <td>6</td>
 <td></td>
 <td>5</td>
@@ -7804,7 +7432,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115647000</td>
 <td>Күсеп</td>
 <td>ЖТ</td>
-<td>Надежда Ивановна Куковинец</td>
+<td>Куковинец Н.И.</td>
 <td>60</td>
 <td></td>
 <td></td>
@@ -7815,7 +7443,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115647000</td>
 <td>Күсеп</td>
 <td>ЖТ</td>
-<td>Виталий Владимирович Лисоченко</td>
+<td>Лисоченко В.В.</td>
 <td>4</td>
 <td></td>
 <td></td>
@@ -7826,10 +7454,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115647000</td>
 <td>Күсеп</td>
 <td>ЖТ</td>
-<td>
-Иван
-Николаевич Луценко
-</td>
+<td>Луценко И.Н.</td>
 <td></td>
 <td>64</td>
 <td>5</td>
@@ -7840,7 +7465,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115647000</td>
 <td>Күсеп</td>
 <td>ЖТ</td>
-<td>Мурат Уалиханович Мадиев</td>
+<td>Мадиев М.У.</td>
 <td></td>
 <td></td>
 <td>5</td>
@@ -7851,7 +7476,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115647000</td>
 <td>Күсеп</td>
 <td>ЖТ</td>
-<td>Уалихан Тулешиевич Мадиев</td>
+<td>Мадиев У.Т.</td>
 <td>4</td>
 <td>107</td>
 <td></td>
@@ -7862,7 +7487,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115649000</td>
 <td>Қонысбай</td>
 <td>ЖТ</td>
-<td>Билял Кабильдинович Абенов</td>
+<td>Абенов Б.К.</td>
 <td>8</td>
 <td>50</td>
 <td></td>
@@ -7873,7 +7498,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115649000</td>
 <td>Қонысбай</td>
 <td>ЖТ</td>
-<td>Гульнара Елемесовна Абилова</td>
+<td>Абилова Г.Е.</td>
 <td></td>
 <td>17</td>
 <td></td>
@@ -7884,7 +7509,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115649000</td>
 <td>Қонысбай</td>
 <td>ЖТ</td>
-<td>Маржан Кабыкеновна Абуова</td>
+<td>Абуова М.К.</td>
 <td>6</td>
 <td>24</td>
 <td></td>
@@ -7895,10 +7520,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115649000</td>
 <td>Қонысбай</td>
 <td>ЖТ</td>
-<td>
-Ерлан
-Авдаш
-</td>
+<td>Авдаш Е.</td>
 <td>5</td>
 <td></td>
 <td></td>
@@ -7909,10 +7531,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115649000</td>
 <td>Қонысбай</td>
 <td>ЖТ</td>
-<td>
-Иват
-Адильхан
-</td>
+<td>Адильхан И.</td>
 <td>1</td>
 <td>10</td>
 <td></td>
@@ -7923,7 +7542,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115649000</td>
 <td>Қонысбай</td>
 <td>ЖТ</td>
-<td>Аклбек Берлыбекович Алимжанов</td>
+<td>Алимжанов А.Б.</td>
 <td></td>
 <td>11</td>
 <td></td>
@@ -7934,10 +7553,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115649000</td>
 <td>Қонысбай</td>
 <td>ЖТ</td>
-<td>
-Толеу
-Андрей
-</td>
+<td>Андрей Т.</td>
 <td>2</td>
 <td></td>
 <td></td>
@@ -7948,10 +7564,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115649000</td>
 <td>Қонысбай</td>
 <td>ЖТ</td>
-<td>
-Серік
-Аубакиров
-</td>
+<td>Аубакиров С.</td>
 <td></td>
 <td>25</td>
 <td></td>
@@ -7962,10 +7575,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115649000</td>
 <td>Қонысбай</td>
 <td>ЖТ</td>
-<td>
-Айдос
-Ахмадия
-</td>
+<td>Ахмадия А.</td>
 <td>3</td>
 <td>26</td>
 <td>2</td>
@@ -7976,10 +7586,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115649000</td>
 <td>Қонысбай</td>
 <td>ЖТ</td>
-<td>
-Біржан
-Ахмадия
-</td>
+<td>Ахмадия Б.</td>
 <td></td>
 <td></td>
 <td>7</td>
@@ -7990,7 +7597,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115649000</td>
 <td>Қонысбай</td>
 <td>ЖТ</td>
-<td>Салкен Мадинович Бабаев</td>
+<td>Бабаев С.М.</td>
 <td></td>
 <td>15</td>
 <td></td>
@@ -8001,10 +7608,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115649000</td>
 <td>Қонысбай</td>
 <td>ЖТ</td>
-<td>
-Тауба
-Мадинович Бабаев
-</td>
+<td>Бабаев Т.М.</td>
 <td></td>
 <td>19</td>
 <td>4</td>
@@ -8015,7 +7619,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115649000</td>
 <td>Қонысбай</td>
 <td>ЖТ</td>
-<td>Амантай Байдалин</td>
+<td>Байдалин А.</td>
 <td></td>
 <td>21</td>
 <td>10</td>
@@ -8026,7 +7630,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115649000</td>
 <td>Қонысбай</td>
 <td>ЖТ</td>
-<td>Ерсаин Утегенович Байдалин</td>
+<td>Байдалин Е.У.</td>
 <td></td>
 <td></td>
 <td>1</td>
@@ -8037,7 +7641,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115649000</td>
 <td>Қонысбай</td>
 <td>ЖТ</td>
-<td>Нагима Баймуканова</td>
+<td>Баймуканова Н.</td>
 <td>2</td>
 <td>12</td>
 <td>2</td>
@@ -8048,10 +7652,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115649000</td>
 <td>Қонысбай</td>
 <td>ЖТ</td>
-<td>
-Абай
-Оразович Бакубаев
-</td>
+<td>Бакубаев А.О.</td>
 <td></td>
 <td></td>
 <td>3</td>
@@ -8062,7 +7663,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115649000</td>
 <td>Қонысбай</td>
 <td>ЖТ</td>
-<td>Жанат Кенжебаевич Басжанов</td>
+<td>Басжанов Ж.К.</td>
 <td></td>
 <td></td>
 <td>2</td>
@@ -8073,7 +7674,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115649000</td>
 <td>Қонысбай</td>
 <td>ЖТ</td>
-<td>Бекайдар Рашитович Бекенов</td>
+<td>Бекенов Б.Р.</td>
 <td>2</td>
 <td>9</td>
 <td>3</td>
@@ -8084,7 +7685,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115649000</td>
 <td>Қонысбай</td>
 <td>ЖТ</td>
-<td>Еркебулан Баубекович Бекенов</td>
+<td>Бекенов Е.Б.</td>
 <td></td>
 <td>42</td>
 <td></td>
@@ -8095,7 +7696,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115649000</td>
 <td>Қонысбай</td>
 <td>ЖТ</td>
-<td>Кайдар Каппасович Бекенов</td>
+<td>Бекенов К.К.</td>
 <td></td>
 <td>19</td>
 <td>4</td>
@@ -8106,10 +7707,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115649000</td>
 <td>Қонысбай</td>
 <td>ЖТ</td>
-<td>
-Берик
-Серикович Бектурганов
-</td>
+<td>Бектурганов Б.С.</td>
 <td></td>
 <td></td>
 <td>1</td>
@@ -8120,10 +7718,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115649000</td>
 <td>Қонысбай</td>
 <td>ЖТ</td>
-<td>
-Ақерке
-Идаятовна Бектурғанова
-</td>
+<td>Бектурғанова А.И.</td>
 <td></td>
 <td></td>
 <td>2</td>
@@ -8134,7 +7729,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115649000</td>
 <td>Қонысбай</td>
 <td>ЖТ</td>
-<td>Кымбат Конкаувна Ботаева</td>
+<td>Ботаева К.К.</td>
 <td>5</td>
 <td></td>
 <td></td>
@@ -8145,7 +7740,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115649000</td>
 <td>Қонысбай</td>
 <td>ЖТ</td>
-<td>Жанаргуль Куантаевна Вентлянд</td>
+<td>Вентлянд Ж.К.</td>
 <td>1</td>
 <td></td>
 <td></td>
@@ -8156,7 +7751,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115649000</td>
 <td>Қонысбай</td>
 <td>ЖТ</td>
-<td>Рустем Данияров</td>
+<td>Данияров Р.</td>
 <td>2</td>
 <td>26</td>
 <td></td>
@@ -8167,7 +7762,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115649000</td>
 <td>Қонысбай</td>
 <td>ЖТ</td>
-<td>Серикбай Дюсенов</td>
+<td>Дюсенов С.</td>
 <td></td>
 <td>20</td>
 <td>5</td>
@@ -8178,7 +7773,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115649000</td>
 <td>Қонысбай</td>
 <td>ЖТ</td>
-<td>Шынғыс Қабдығалиұлы Ерғали</td>
+<td>Ерғали Ш.Қ.</td>
 <td></td>
 <td>6</td>
 <td></td>
@@ -8189,10 +7784,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115649000</td>
 <td>Қонысбай</td>
 <td>ЖТ</td>
-<td>
-Марат
-Болатович Ермагулов
-</td>
+<td>Ермагулов М.Б.</td>
 <td></td>
 <td>22</td>
 <td>3</td>
@@ -8203,7 +7795,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115649000</td>
 <td>Қонысбай</td>
 <td>ЖТ</td>
-<td>Сайран Есмаганбетов</td>
+<td>Есмаганбетов С.</td>
 <td></td>
 <td></td>
 <td>2</td>
@@ -8214,7 +7806,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115649000</td>
 <td>Қонысбай</td>
 <td>ЖТ</td>
-<td>Сүлтанбек Жангарашев</td>
+<td>Жангарашев С.</td>
 <td></td>
 <td>11</td>
 <td></td>
@@ -8225,7 +7817,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115649000</td>
 <td>Қонысбай</td>
 <td>ЖТ</td>
-<td>Қанат Тулебекович Жансеитов</td>
+<td>Жансеитов К.Т.</td>
 <td>6</td>
 <td></td>
 <td></td>
@@ -8236,7 +7828,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115649000</td>
 <td>Қонысбай</td>
 <td>ЖТ</td>
-<td>Марат Жансеитов</td>
+<td>Жансеитов М.</td>
 <td>3</td>
 <td>23</td>
 <td></td>
@@ -8247,7 +7839,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115649000</td>
 <td>Қонысбай</td>
 <td>ЖТ</td>
-<td>Айнаш Дауренбековна Жолдина</td>
+<td>Жолдина А.Д.</td>
 <td></td>
 <td></td>
 <td>5</td>
@@ -8258,7 +7850,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115649000</td>
 <td>Қонысбай</td>
 <td>ЖТ</td>
-<td>Азамат Айтмуханович Жусупов</td>
+<td>Жусупов А.А.</td>
 <td></td>
 <td></td>
 <td>1</td>
@@ -8269,7 +7861,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115649000</td>
 <td>Қонысбай</td>
 <td>ЖТ</td>
-<td>Марат Калымжанович Зейнелов</td>
+<td>Зейнелов М.К.</td>
 <td>2</td>
 <td>11</td>
 <td>5</td>
@@ -8280,7 +7872,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115649000</td>
 <td>Қонысбай</td>
 <td>ЖТ</td>
-<td>Оралтай Кайроллинович Ибрагимов</td>
+<td>Ибрагимов О.К.</td>
 <td>4</td>
 <td>19</td>
 <td></td>
@@ -8291,7 +7883,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115649000</td>
 <td>Қонысбай</td>
 <td>ЖТ</td>
-<td>«Сәтті Корпорация» ЖК</td>
+<td>ЖК «Сәтті Корпорация»</td>
 <td></td>
 <td></td>
 <td>9</td>
@@ -8302,7 +7894,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115649000</td>
 <td>Қонысбай</td>
 <td>ЖТ</td>
-<td>Серикпай Карибаевич Исмагулов</td>
+<td>Исмагулов С.К.</td>
 <td>2</td>
 <td>21</td>
 <td>6</td>
@@ -8313,10 +7905,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115649000</td>
 <td>Қонысбай</td>
 <td>ЖТ</td>
-<td>
-Мұрат
-Дулатович Казкеев
-</td>
+<td>Казкеев М.Д.</td>
 <td></td>
 <td></td>
 <td>4</td>
@@ -8327,7 +7916,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115649000</td>
 <td>Қонысбай</td>
 <td>ЖТ</td>
-<td>Анаргуль Сериковна Каирбекова</td>
+<td>Каирбекова А.С.</td>
 <td>2</td>
 <td>36</td>
 <td></td>
@@ -8338,10 +7927,7 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115649000</td>
 <td>Қонысбай</td>
 <td>ЖТ</td>
-<td>
-Марат
-Калымович Калымов
-</td>
+<td>Калымов М.К.</td>
 <td>6</td>
 <td></td>
 <td>4</td>
@@ -8352,10 +7938,1022 @@ source: https://zan.gov.kz/client/#!/doc/211932/kaz/30.06.2025
 <td>115649000</td>
 <td>Қонысбай</td>
 <td>ЖТ</td>
-<td>Булат Махметович Канаев</td>
+<td>Канаев Б.М.</td>
 <td>4</td>
 <td>31</td>
 <td></td>
+<td></td>
+</tr>
+<tr>
+<td>717</td>
+<td>115649000</td>
+<td>Қонысбай</td>
+<td>ЖТ</td>
+<td>Карипуллин А.А.</td>
+<td></td>
+<td>16</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>718</td>
+<td>115649000</td>
+<td>Қонысбай</td>
+<td>ЖТ</td>
+<td>Касымов Р.Ж.</td>
+<td>2</td>
+<td>22</td>
+<td>4</td>
+<td></td>
+</tr>
+<tr>
+<td>719</td>
+<td>115649000</td>
+<td>Қонысбай</td>
+<td>ЖТ</td>
+<td>Кожабай М.</td>
+<td>4</td>
+<td>15</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>720</td>
+<td>115649000</td>
+<td>Қонысбай</td>
+<td>ЖТ</td>
+<td>Кожахметов С.Б.</td>
+<td></td>
+<td>26</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>721</td>
+<td>115649000</td>
+<td>Қонысбай</td>
+<td>ЖТ</td>
+<td>Кожахметов С.</td>
+<td></td>
+<td></td>
+<td>5</td>
+<td></td>
+</tr>
+<tr>
+<td>722</td>
+<td>115649000</td>
+<td>Қонысбай</td>
+<td>ЖТ</td>
+<td>Койшибаев Н.К.</td>
+<td></td>
+<td></td>
+<td>4</td>
+<td></td>
+</tr>
+<tr>
+<td>723</td>
+<td>115649000</td>
+<td>Қонысбай</td>
+<td>ЖТ</td>
+<td>ШҚ «Олжас»</td>
+<td></td>
+<td>55</td>
+<td>5</td>
+<td></td>
+</tr>
+<tr>
+<td>724</td>
+<td>115649000</td>
+<td>Қонысбай</td>
+<td>ЖТ</td>
+<td>Куанган Д.</td>
+<td>2</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>725</td>
+<td>115649000</td>
+<td>Қонысбай</td>
+<td>ЖТ</td>
+<td>Курмангожа К.</td>
+<td></td>
+<td></td>
+<td>3</td>
+<td></td>
+</tr>
+<tr>
+<td>726</td>
+<td>115649000</td>
+<td>Қонысбай</td>
+<td>ЖТ</td>
+<td>Курсанов А.М.</td>
+<td>7</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>727</td>
+<td>115649000</td>
+<td>Қонысбай</td>
+<td>ЖТ</td>
+<td>Кыдырбаев А.</td>
+<td></td>
+<td></td>
+<td>1</td>
+<td></td>
+</tr>
+<tr>
+<td>728</td>
+<td>115649000</td>
+<td>Қонысбай</td>
+<td>ЖТ</td>
+<td>Магзамов М.</td>
+<td>4</td>
+<td>16</td>
+<td>9</td>
+<td></td>
+</tr>
+<tr>
+<td>729</td>
+<td>115649000</td>
+<td>Қонысбай</td>
+<td>ЖТ</td>
+<td>Меирманов Е.</td>
+<td></td>
+<td></td>
+<td>2</td>
+<td></td>
+</tr>
+<tr>
+<td>730</td>
+<td>115649000</td>
+<td>Қонысбай</td>
+<td>ЖТ</td>
+<td>Мейрамов Е.К.</td>
+<td></td>
+<td></td>
+<td>2</td>
+<td></td>
+</tr>
+<tr>
+<td>731</td>
+<td>115649000</td>
+<td>Қонысбай</td>
+<td>ЖТ</td>
+<td>Мерекеев К.М.</td>
+<td>3</td>
+<td>24</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>732</td>
+<td>115649000</td>
+<td>Қонысбай</td>
+<td>ЖТ</td>
+<td>Мукажанов К.А.</td>
+<td>1</td>
+<td>12</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>733</td>
+<td>115649000</td>
+<td>Қонысбай</td>
+<td>ЖТ</td>
+<td>Мустафина Ж.Ж.</td>
+<td></td>
+<td>9</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>734</td>
+<td>115649000</td>
+<td>Қонысбай</td>
+<td>ЖТ</td>
+<td>Наушек С.</td>
+<td></td>
+<td></td>
+<td>1</td>
+<td></td>
+</tr>
+<tr>
+<td>735</td>
+<td>115651000</td>
+<td>Қызылсая</td>
+<td>ЖТ</td>
+<td>Жанатаева Т.В.</td>
+<td></td>
+<td></td>
+<td>3</td>
+<td></td>
+</tr>
+<tr>
+<td>736</td>
+<td>115651000</td>
+<td>Қызылсая</td>
+<td>ЖТ</td>
+<td>Шайкенов Е.Ж.</td>
+<td>14</td>
+<td>61</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>737</td>
+<td>115651000</td>
+<td>Қызылсая</td>
+<td>ЖТ</td>
+<td>Абенов А.С.</td>
+<td>11</td>
+<td>52</td>
+<td>3</td>
+<td></td>
+</tr>
+<tr>
+<td>738</td>
+<td>115651000</td>
+<td>Қызылсая</td>
+<td>ЖТ</td>
+<td>Абуталипова А.С.</td>
+<td>9</td>
+<td>15</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>739</td>
+<td>115651000</td>
+<td>Қызылсая</td>
+<td>ЖТ</td>
+<td>Акишев Ж.А.</td>
+<td>20</td>
+<td>71</td>
+<td>48</td>
+<td></td>
+</tr>
+<tr>
+<td>740</td>
+<td>115651000</td>
+<td>Қызылсая</td>
+<td>ЖТ</td>
+<td>Акишева Ы.К.</td>
+<td>8</td>
+<td></td>
+<td>10</td>
+<td></td>
+</tr>
+<tr>
+<td>741</td>
+<td>115651000</td>
+<td>Қызылсая</td>
+<td>ЖТ</td>
+<td>Аккушкаров Б.Е.</td>
+<td>32</td>
+<td>17</td>
+<td>15</td>
+<td></td>
+</tr>
+<tr>
+<td>742</td>
+<td>115651000</td>
+<td>Қызылсая</td>
+<td>ЖТ</td>
+<td>Аккушкаров К.Е.</td>
+<td>25</td>
+<td>55</td>
+<td>1</td>
+<td></td>
+</tr>
+<tr>
+<td>743</td>
+<td>115651000</td>
+<td>Қызылсая</td>
+<td>ЖТ</td>
+<td>Акмагамбетов М.З.</td>
+<td>40</td>
+<td>36</td>
+<td>1</td>
+<td></td>
+</tr>
+<tr>
+<td>744</td>
+<td>115651000</td>
+<td>Қызылсая</td>
+<td>ЖТ</td>
+<td>Алиев Е.Б.</td>
+<td></td>
+<td></td>
+<td>2</td>
+<td></td>
+</tr>
+<tr>
+<td>745</td>
+<td>115651000</td>
+<td>Қызылсая</td>
+<td>ЖТ</td>
+<td>Алиев Ж.Е.</td>
+<td>4</td>
+<td>32</td>
+<td>9</td>
+<td></td>
+</tr>
+<tr>
+<td>746</td>
+<td>115651000</td>
+<td>Қызылсая</td>
+<td>ЖТ</td>
+<td>Алин К.</td>
+<td>4</td>
+<td>22</td>
+<td>2</td>
+<td></td>
+</tr>
+<tr>
+<td>747</td>
+<td>115651000</td>
+<td>Қызылсая</td>
+<td>ЖТ</td>
+<td>Альсеитов А.С.</td>
+<td>5</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>748</td>
+<td>115651000</td>
+<td>Қызылсая</td>
+<td>ЖТ</td>
+<td>Альсеитов Б.С.</td>
+<td>1</td>
+<td>6</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>749</td>
+<td>115651000</td>
+<td>Қызылсая</td>
+<td>ЖТ</td>
+<td>Аманжолов Ж.К.</td>
+<td>10</td>
+<td>16</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>750</td>
+<td>115651000</td>
+<td>Қызылсая</td>
+<td>ЖТ</td>
+<td>Аубакиров Е.А.</td>
+<td>4</td>
+<td></td>
+<td>6</td>
+<td></td>
+</tr>
+<tr>
+<td>751</td>
+<td>115651000</td>
+<td>Қызылсая</td>
+<td>ЖТ</td>
+<td>Аубакиров К.Д.</td>
+<td>23</td>
+<td>43</td>
+<td>4</td>
+<td></td>
+</tr>
+<tr>
+<td>752</td>
+<td>115651000</td>
+<td>Қызылсая</td>
+<td>ЖТ</td>
+<td>Аукаров А.А.</td>
+<td></td>
+<td></td>
+<td>3</td>
+<td></td>
+</tr>
+<tr>
+<td>753</td>
+<td>115651000</td>
+<td>Қызылсая</td>
+<td>ЖТ</td>
+<td>Ахмаганбетов Е.К.</td>
+<td>14</td>
+<td>62</td>
+<td>2</td>
+<td></td>
+</tr>
+<tr>
+<td>754</td>
+<td>115651000</td>
+<td>Қызылсая</td>
+<td>ЖТ</td>
+<td>Бегалин М.К.</td>
+<td>18</td>
+<td>43</td>
+<td>6</td>
+<td></td>
+</tr>
+<tr>
+<td>755</td>
+<td>115651000</td>
+<td>Қызылсая</td>
+<td>ЖТ</td>
+<td>Бексултанов Е.С.</td>
+<td>8</td>
+<td>57</td>
+<td>2</td>
+<td></td>
+</tr>
+<tr>
+<td>756</td>
+<td>115651000</td>
+<td>Қызылсая</td>
+<td>ЖТ</td>
+<td>Бексултанов Ж.</td>
+<td>6</td>
+<td>14</td>
+<td>1</td>
+<td></td>
+</tr>
+<tr>
+<td>757</td>
+<td>115651000</td>
+<td>Қызылсая</td>
+<td>ЖТ</td>
+<td>Бексултанова Г.С.</td>
+<td></td>
+<td></td>
+<td>5</td>
+<td></td>
+</tr>
+<tr>
+<td>758</td>
+<td>115651000</td>
+<td>Қызылсая</td>
+<td>ЖТ</td>
+<td>Беркимбаев Т.К.</td>
+<td></td>
+<td>37</td>
+<td>4</td>
+<td></td>
+</tr>
+<tr>
+<td>759</td>
+<td>115651000</td>
+<td>Қызылсая</td>
+<td>ЖТ</td>
+<td>Едрисов К.К.</td>
+<td></td>
+<td></td>
+<td>1</td>
+<td></td>
+</tr>
+<tr>
+<td>760</td>
+<td>115651000</td>
+<td>Қызылсая</td>
+<td>ЖТ</td>
+<td>Ержанов Б.Т.</td>
+<td>10</td>
+<td>12</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>761</td>
+<td>115651000</td>
+<td>Қызылсая</td>
+<td>ЖТ</td>
+<td>Ержанов К.К.</td>
+<td>24</td>
+<td>34</td>
+<td>1</td>
+<td></td>
+</tr>
+<tr>
+<td>762</td>
+<td>115651000</td>
+<td>Қызылсая</td>
+<td>ЖТ</td>
+<td>Есимсеитов Б.К.</td>
+<td>14</td>
+<td></td>
+<td>1</td>
+<td></td>
+</tr>
+<tr>
+<td>763</td>
+<td>115651000</td>
+<td>Қызылсая</td>
+<td>ЖТ</td>
+<td>Есимсеитов Б.К.</td>
+<td>16</td>
+<td>44</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>764</td>
+<td>115651000</td>
+<td>Қызылсая</td>
+<td>ЖТ</td>
+<td>Есмаганбетов А.К.</td>
+<td></td>
+<td></td>
+<td>7</td>
+<td></td>
+</tr>
+<tr>
+<td>765</td>
+<td>115651000</td>
+<td>Қызылсая</td>
+<td>ЖТ</td>
+<td>Есмагулов Н.Ш.</td>
+<td>1</td>
+<td>31</td>
+<td>3</td>
+<td></td>
+</tr>
+<tr>
+<td>766</td>
+<td>115651000</td>
+<td>Қызылсая</td>
+<td>ЖТ</td>
+<td>Есмагулов С.Б.</td>
+<td>2</td>
+<td>26</td>
+<td>2</td>
+<td></td>
+</tr>
+<tr>
+<td>767</td>
+<td>115651000</td>
+<td>Қызылсая</td>
+<td>ЖТ</td>
+<td>Есмагулова Н.К.</td>
+<td>5</td>
+<td>25</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>768</td>
+<td>115651000</td>
+<td>Қызылсая</td>
+<td>ЖТ</td>
+<td>Жамуханов С.У.</td>
+<td>6</td>
+<td>20</td>
+<td>2</td>
+<td></td>
+</tr>
+<tr>
+<td>769</td>
+<td>115651000</td>
+<td>Қызылсая</td>
+<td>ЖТ</td>
+<td>Жамуханов У.</td>
+<td>2</td>
+<td>49</td>
+<td>2</td>
+<td></td>
+</tr>
+<tr>
+<td>770</td>
+<td>115651000</td>
+<td>Қызылсая</td>
+<td>ЖТ</td>
+<td>Жумагулов Ж.Ж.</td>
+<td>11</td>
+<td>21</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>771</td>
+<td>115651000</td>
+<td>Қызылсая</td>
+<td>ЖТ</td>
+<td>Жумагулов Ж.О.</td>
+<td>8</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>772</td>
+<td>115651000</td>
+<td>Қызылсая</td>
+<td>ЖТ</td>
+<td>Жумагулов М.</td>
+<td>18</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>773</td>
+<td>115651000</td>
+<td>Қызылсая</td>
+<td>ЖТ</td>
+<td>Закирин М.Ш.</td>
+<td>7</td>
+<td>39</td>
+<td>1</td>
+<td></td>
+</tr>
+<tr>
+<td>774</td>
+<td>115651000</td>
+<td>Қызылсая</td>
+<td>ЖТ</td>
+<td>Зиядденов Д.Д.</td>
+<td>16</td>
+<td>17</td>
+<td>3</td>
+<td></td>
+</tr>
+<tr>
+<td>775</td>
+<td>115651000</td>
+<td>Қызылсая</td>
+<td>ЖТ</td>
+<td>Ибрагимов А.Г.</td>
+<td></td>
+<td>2</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>776</td>
+<td>115651000</td>
+<td>Қызылсая</td>
+<td>ЖТ</td>
+<td>Ибрагимов Е.Ж.</td>
+<td>2</td>
+<td>16</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>777</td>
+<td>115651000</td>
+<td>Қызылсая</td>
+<td>ЖТ</td>
+<td>Ибрагимов О.К.</td>
+<td></td>
+<td></td>
+<td>1</td>
+<td></td>
+</tr>
+<tr>
+<td>778</td>
+<td>115651000</td>
+<td>Қызылсая</td>
+<td>ЖТ</td>
+<td>ЖК «Амир»</td>
+<td>2</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>779</td>
+<td>115651000</td>
+<td>Қызылсая</td>
+<td>ЖТ</td>
+<td>ЖК «Ажар»</td>
+<td></td>
+<td>13</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>780</td>
+<td>115651000</td>
+<td>Қызылсая</td>
+<td>ЖТ</td>
+<td>Кадиржанов Ж.Ж.</td>
+<td>13</td>
+<td>18</td>
+<td>1</td>
+<td></td>
+</tr>
+<tr>
+<td>781</td>
+<td>115651000</td>
+<td>Қызылсая</td>
+<td>ЖТ</td>
+<td>Кадыржанов Ж.</td>
+<td>19</td>
+<td>31</td>
+<td>1</td>
+<td></td>
+</tr>
+<tr>
+<td>782</td>
+<td>115651000</td>
+<td>Қызылсая</td>
+<td>ЖТ</td>
+<td>Каербеков Ж.Д.</td>
+<td>5</td>
+<td>42</td>
+<td>2</td>
+<td></td>
+</tr>
+<tr>
+<td>783</td>
+<td>115651000</td>
+<td>Қызылсая</td>
+<td>ЖТ</td>
+<td>Казиев Б.М.</td>
+<td>16</td>
+<td>41</td>
+<td>13</td>
+<td></td>
+</tr>
+<tr>
+<td>784</td>
+<td>115651000</td>
+<td>Қызылсая</td>
+<td>ЖТ</td>
+<td>Казиев М.М.</td>
+<td>12</td>
+<td>55</td>
+<td>5</td>
+<td></td>
+</tr>
+<tr>
+<td>785</td>
+<td>115651000</td>
+<td>Қызылсая</td>
+<td>ЖТ</td>
+<td>Казыкенова М.</td>
+<td>42</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>786</td>
+<td>115651000</td>
+<td>Қызылсая</td>
+<td>ЖТ</td>
+<td>Какенов Е.М.</td>
+<td>22</td>
+<td>49</td>
+<td>4</td>
+<td></td>
+</tr>
+<tr>
+<td>787</td>
+<td>115651000</td>
+<td>Қызылсая</td>
+<td>ЖТ</td>
+<td>Какимов А.Б.</td>
+<td></td>
+<td></td>
+<td>15</td>
+<td></td>
+</tr>
+<tr>
+<td>788</td>
+<td>115651000</td>
+<td>Қызылсая</td>
+<td>ЖТ</td>
+<td>Какимов Б.</td>
+<td>11</td>
+<td>47</td>
+<td>5</td>
+<td></td>
+</tr>
+<tr>
+<td>789</td>
+<td>115651000</td>
+<td>Қызылсая</td>
+<td>ЖТ</td>
+<td>Каппасов А.Ж.</td>
+<td>7</td>
+<td>24</td>
+<td>1</td>
+<td></td>
+</tr>
+<tr>
+<td>790</td>
+<td>115651000</td>
+<td>Қызылсая</td>
+<td>ЖТ</td>
+<td>Кареров Д.С.</td>
+<td></td>
+<td></td>
+<td>3</td>
+<td></td>
+</tr>
+<tr>
+<td>791</td>
+<td>115651000</td>
+<td>Қызылсая</td>
+<td>ЖТ</td>
+<td>Кареров Ж.Е.</td>
+<td>1</td>
+<td>11</td>
+<td>0</td>
+<td></td>
+</tr>
+<tr>
+<td>792</td>
+<td>115651000</td>
+<td>Қызылсая</td>
+<td>ЖТ</td>
+<td>Кареров М.С.</td>
+<td>4</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>793</td>
+<td>115651000</td>
+<td>Қызылсая</td>
+<td>ЖТ</td>
+<td>Кареров С.И.</td>
+<td></td>
+<td></td>
+<td>9</td>
+<td></td>
+</tr>
+<tr>
+<td>794</td>
+<td>115651000</td>
+<td>Қызылсая</td>
+<td>ЖТ</td>
+<td>Каркенов Ш.М.</td>
+<td>13</td>
+<td>32</td>
+<td>2</td>
+<td></td>
+</tr>
+<tr>
+<td>795</td>
+<td>115651000</td>
+<td>Қызылсая</td>
+<td>ЖТ</td>
+<td>Карменов Е.К.</td>
+<td>33</td>
+<td>69</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>796</td>
+<td>115651000</td>
+<td>Қызылсая</td>
+<td>ЖТ</td>
+<td>Катренов С.Т.</td>
+<td>14</td>
+<td>31</td>
+<td>2</td>
+<td></td>
+</tr>
+<tr>
+<td>797</td>
+<td>115651000</td>
+<td>Қызылсая</td>
+<td>ЖТ</td>
+<td>Каюпов А.К.</td>
+<td>11</td>
+<td>21</td>
+<td>2</td>
+<td></td>
+</tr>
+<tr>
+<td>798</td>
+<td>115651000</td>
+<td>Қызылсая</td>
+<td>ЖТ</td>
+<td>Каюпов Д.К.</td>
+<td>30</td>
+<td>48</td>
+<td>5</td>
+<td></td>
+</tr>
+<tr>
+<td>799</td>
+<td>115651000</td>
+<td>Қызылсая</td>
+<td>ЖТ</td>
+<td>Каюпов Е.К.</td>
+<td>13</td>
+<td>9</td>
+<td>2</td>
+<td></td>
+</tr>
+<tr>
+<td>800</td>
+<td>115667000</td>
+<td>Қызылегіс</td>
+<td>ЖТ</td>
+<td>Абдильманов Ш.</td>
+<td></td>
+<td></td>
+<td>1</td>
+<td></td>
+</tr>
+<tr>
+<td>801</td>
+<td>115667000</td>
+<td>Қызылегіс</td>
+<td>ЖТ</td>
+<td>Абдулин Т.</td>
+<td></td>
+<td></td>
+<td>2</td>
+<td></td>
+</tr>
+<tr>
+<td>802</td>
+<td>115667000</td>
+<td>Қызылегіс</td>
+<td>ЖТ</td>
+<td>Абдуллин Д.А.</td>
+<td>8</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>803</td>
+<td>115667000</td>
+<td>Қызылегіс</td>
+<td>ЖТ</td>
+<td>Абилов К.</td>
+<td></td>
+<td></td>
+<td>2</td>
+<td></td>
+</tr>
+<tr>
+<td>804</td>
+<td>115667000</td>
+<td>Қызылегіс</td>
+<td>ЖТ</td>
+<td>Абилов К. К.</td>
+<td></td>
+<td>21</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>805</td>
+<td>115667000</td>
+<td>Қызылегіс</td>
+<td>ЖТ</td>
+<td>Акыткан Д.</td>
+<td>48</td>
+<td>21</td>
+<td>1</td>
+<td></td>
+</tr>
+<tr>
+<td>806</td>
+<td>115667000</td>
+<td>Қызылегіс</td>
+<td>ЖТ</td>
+<td>Аскаров А.</td>
+<td></td>
+<td>1</td>
+<td>5</td>
+<td></td>
+</tr>
+<tr>
+<td>807</td>
+<td>115667000</td>
+<td>Қызылегіс</td>
+<td>ЖТ</td>
+<td>Аскаров А.</td>
+<td>15</td>
+<td></td>
+<td>16</td>
+<td></td>
+</tr>
+<tr>
+<td>808</td>
+<td>115667000</td>
+<td>Қызылегіс</td>
+<td>ЖТ</td>
+<td>Ахметбеков Т.</td>
+<td></td>
+<td>31</td>
+<td>1</td>
 <td></td>
 </tr>
 </table>
